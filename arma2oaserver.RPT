@@ -339,3 +339,10 @@ g from [15186,11857,300] to [12870.7,14702.2] NOW!(TIME:1442||LT:HeliCrash_No50s
 20:46:17 "CLEANUP: Deleted 1 Loot Piles out of 21"
 20:46:32 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by ID: 4191"
 20:46:32 "PUBLISH: B 1-1-C:1 (Cripto) REMOTE upgraded CinderWallDoor_DZ with ID "1391791176970122""
+20:49:16 "TIME SYNC: Local Time set to [2013,8,3,17,49]"
+20:50:17 "CLEANUP: Deleted 1 Loot Piles out of 20"
+20:51:17 "CLEANUP: Deleted 2 Loot Piles out of 20"
+20:53:17 "CLEANUP: Deleted 1 Loot Piles out of 20"
+20:54:16 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
+20:57:31 Client: Object 3:359 (type Type_70) not found.
+20:57:31 Client: Object 3:358 (type Type_70) not found.
