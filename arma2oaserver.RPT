@@ -309,3 +309,33 @@ g from [15186,11857,300] to [12870.7,14702.2] NOW!(TIME:1442||LT:HeliCrash_No50s
 20:35:17 "CLEANUP: Deleted 3 Loot Piles out of 37"
 20:36:17 "CLEANUP: Deleted 5 Loot Piles out of 34"
 20:37:17 "CLEANUP: Deleted 1 Loot Piles out of 29"
+20:39:16 "TIME SYNC: Local Time set to [2013,8,3,17,39]"
+20:39:17 "CLEANUP: Deleted 1 Loot Piles out of 28"
+20:39:50 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+20:40:15 "CRASHSPAWNER: UH-1H just exploded at [12851.3,14677.7,2.6236]!, "
+20:40:15 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+20:40:15 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+20:40:15 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12849.4,14681.2,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12852.8,14683.7,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12847.6,14684.1,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12848.6,14680.7,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12845.6,14681.5,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12844.4,14682.8,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12854.9,14682.6,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12860.1,14675.1,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Loot spawn at '[12844.7,14666.4,0]' with loot table 'HeliCrash_No50s'"
+20:40:15 "CRASHSPAWNER: Crash completed! Wreck at: [12851.3,14677.6,-0.0204163] - Runtime: 615 Seconds || Distance from calculated POC: 33 meters"
+20:40:17 "CLEANUP: Deleted 1 Loot Piles out of 37"
+20:41:17 "CLEANUP: Deleted 1 Loot Piles out of 36"
+20:41:19 NAT Negotiation completed
+20:41:23 No player found for channel 711868544 - message ignored
+20:41:23 NetServer::SendMsg: cannot find channel #724449032, users.card=1
+20:41:23 NetServer: users.get failed when sending to 724449032
+20:41:23 Message not sent - error 0, message ID = ffffffff, to 724449032 (blakeraney)
+20:42:17 "CLEANUP: Deleted 2 Loot Piles out of 35"
+20:43:18 "CLEANUP: Deleted 13 Loot Piles out of 33"
+20:44:16 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
+20:46:17 "CLEANUP: Deleted 1 Loot Piles out of 21"
+20:46:32 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by ID: 4191"
+20:46:32 "PUBLISH: B 1-1-C:1 (Cripto) REMOTE upgraded CinderWallDoor_DZ with ID "1391791176970122""
