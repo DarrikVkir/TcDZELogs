@@ -357,3 +357,32 @@ g from [6993.7,173.053,300] to [1858.91,8842.69] NOW!(TIME:3244||LT:HeliCrash_No
 21:04:17 "CLEANUP: Deleted 1 Loot Piles out of 20"
 21:07:28 "[DZMS]: Major SM11 Broken HMWV Mission has Ended."
 21:08:08 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:09:04 "[DZMS]: Running Major Mission SM3."
+21:09:16 "TIME SYNC: Local Time set to [2013,8,3,18,9]"
+21:11:18 "CLEANUP: Deleted 1 Loot Piles out of 23"
+21:14:16 "TIME SYNC: Local Time set to [2013,8,3,18,14]"
+21:15:05 "RUNNING EVENT: supply_drop on [2014,6,25,18,15]"
+21:15:07 "DELETE: <null> Deleted by ID: 3098"
+21:15:07 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:15:07   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:15:07   Error Undefined variable in expression: _activatingplayer
+21:15:07 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:15:09 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:15:09 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:15:09 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:15:09 "PDEATH: Player Died 234483142"
+21:15:17 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [361]. Position in debug! [-7239.92,19539.1,0.282501]"
+21:15:17 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [361]. Position in debug! [-7239.89,19539.1,0.278778]"
+21:15:51 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [361]. Position in debug! [-7239.67,19539.3,0.245514]"
+21:15:52 "get: STRING (234483142), sent: STRING (234483142)"
+21:15:52 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-A:1 ([BOOTY] 4ASST) REMOTE, _characterID: 361 at loc [-7239.67,19539.3,0.245514]"
+21:15:52 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [361]. Position in debug! [-7239.67,19539.3,0.245514]"
+21:15:52 Client: Remote object 5:2 not found
+21:15:52 Client: Remote object 2:7020 not found
+21:15:52 Client: Remote object 2:7021 not found
