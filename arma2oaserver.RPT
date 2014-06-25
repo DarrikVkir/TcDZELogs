@@ -386,3 +386,137 @@ _key >
 21:15:52 Client: Remote object 5:2 not found
 21:15:52 Client: Remote object 2:7020 not found
 21:15:52 Client: Remote object 2:7021 not found
+21:19:16 "TIME SYNC: Local Time set to [2013,8,3,18,19]"
+21:21:19 "CLEANUP: Deleted 1 Loot Piles out of 37"
+21:22:11 "ERROR: Cannot Sync Character Cripto as no characterID"
+21:22:49 "DELETE: <null> Deleted by ID: 3326"
+21:22:49 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:22:49   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:22:49   Error Undefined variable in expression: _activatingplayer
+21:22:49 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:23:07 "DELETE: <null> Deleted by ID: 3324"
+21:23:07 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:07   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:07   Error Undefined variable in expression: _activatingplayer
+21:23:07 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:23:15 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:23:22 "DELETE: <null> Deleted by ID: 3325"
+21:23:22 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:22   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:22   Error Undefined variable in expression: _activatingplayer
+21:23:22 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:23:36 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:23:39 "DELETE: <null> Deleted by ID: 3323"
+21:23:39 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:39   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:39   Error Undefined variable in expression: _activatingplayer
+21:23:39 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:23:54 "DELETE: <null> Deleted by ID: 3322"
+21:23:54 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:54   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:23:54   Error Undefined variable in expression: _activatingplayer
+21:23:54 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:24:06 "DELETE: <null> Deleted by ID: 3321"
+21:24:06 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:24:06   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:24:06   Error Undefined variable in expression: _activatingplayer
+21:24:06 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:24:16 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:24:16 "TIME SYNC: Local Time set to [2013,8,3,18,24]"
+21:24:16 "CLEANUP: Deleted 3 Animals out of 16"
+21:24:32 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:24:33 "DELETE: <null> Deleted by ID: 3256"
+21:24:33 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:24:33   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:24:33   Error Undefined variable in expression: _activatingplayer
+21:24:33 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:24:47 "DELETE: <null> Deleted by ID: 3255"
+21:24:47 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:24:47   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:24:47   Error Undefined variable in expression: _activatingplayer
+21:24:47 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:25:05 "DELETE: <null> Deleted by ID: 3253"
+21:25:05 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:25:05   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:25:05   Error Undefined variable in expression: _activatingplayer
+21:25:05 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:25:22 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:25:25 "DELETE: <null> Deleted by ID: 3252"
+21:25:25 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:25:25   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:25:25   Error Undefined variable in expression: _activatingplayer
+21:25:25 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:25:39 "DELETE: <null> Deleted by ID: 3250"
+21:25:39 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+21:25:39   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+21:25:39   Error Undefined variable in expression: _activatingplayer
+21:25:39 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+21:27:19 "CLEANUP: Deleted 1 Loot Piles out of 39"
+21:28:05 Server: Object 3:490 not found (message 91)
+21:28:05 Server: Object 3:489 not found (message 99)
