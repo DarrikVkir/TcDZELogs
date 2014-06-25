@@ -673,3 +673,36 @@ g from [6993.7,173.053,300] to [1003.06,2715.74] NOW!(TIME:8641||LT:HeliCrash_No
 22:36:20 "CLEANUP: Deleted 1 Loot Piles out of 40"
 22:37:21 "CLEANUP: Deleted 2 Loot Piles out of 39"
 22:38:21 "CLEANUP: Deleted 1 Loot Piles out of 37"
+22:39:17 "TIME SYNC: Local Time set to [2013,8,3,19,39]"
+22:39:18 "CLEANUP: Deleted 18 Animals out of 27"
+22:40:19 "CRASHSPAWNER: UH-60M just exploded at [7002.79,5717.63,0.360657]!, "
+22:40:19 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+22:40:19 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+22:40:19 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7002.35,5713.65,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7005.75,5712.92,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7010.16,5715.79,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7002.88,5727.39,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7009.44,5729.01,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[6997.52,5708.51,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7007.67,5709.09,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7013.57,5712.31,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[6993.49,5716.87,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[6997.48,5716.83,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[7006.73,5721.48,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[6995.63,5716.93,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Loot spawn at '[6999.41,5710.79,0]' with loot table 'HeliCrash_No50s'"
+22:40:19 "CRASHSPAWNER: Crash completed! Wreck at: [7002.79,5717.63,-0.0715942] - Runtime: 6010 Seconds || Distance from calculated POC: 6018 meters"
+22:42:28 "get: STRING (234483142), sent: STRING (234483142)"
+22:42:28 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-E:1 ([BOOTY] 4ASST) REMOTE, _characterID: 366 at loc [13863.2,11727.2,18.5735]"
+22:42:28 Client: Remote object 5:135 not found
+22:42:29 "get: STRING (9375302), sent: STRING (9375302)"
+22:42:29 "DISCONNECT: Cripto (9375302) Object: B 1-1-C:1 (Cripto) REMOTE, _characterID: 265 at loc [13868,11708.2,0.00170255]"
+22:42:30 Client: Remote object 9:2 not found
+22:42:30 Client: Remote object 9:8 not found
+22:42:31 "get: STRING (4486214), sent: STRING (4486214)"
+22:42:31 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-H:1 (BluntScopes) REMOTE, _characterID: 362 at loc [13867.7,11726.4,18.9692]"
+22:42:32 Client: Remote object 8:0 not found
+22:42:32 Client: Remote object 8:8 not found
+22:44:17 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
+22:47:11 NAT Negotiation completed
