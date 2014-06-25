@@ -706,3 +706,48 @@ g from [6993.7,173.053,300] to [1003.06,2715.74] NOW!(TIME:8641||LT:HeliCrash_No
 22:42:32 Client: Remote object 8:8 not found
 22:44:17 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
 22:47:11 NAT Negotiation completed
+22:49:17 "TIME SYNC: Local Time set to [2013,8,3,19,49]"
+22:51:43 "get: STRING (234483142), sent: STRING (234483142)"
+22:51:43 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-C:1 ([BOOTY] 4ASST) REMOTE, _characterID: 366 at loc [13865.2,11723,18.7307]"
+22:51:43 Client: Remote object 15:0 not found
+22:51:43 Client: Remote object 15:8 not found
+22:51:44 "get: STRING (4486214), sent: STRING (4486214)"
+22:51:44 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 362 at loc [13868.4,11723,19.0111]"
+22:51:44 Client: Remote object 14:0 not found
+22:51:44 Client: Remote object 14:8 not found
+22:54:17 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
+22:54:17 "CLEANUP: Deleted 12 Animals out of 12"
+22:59:17 "TIME SYNC: Local Time set to [2013,8,3,19,59]"
+23:00:00 "RUNNING EVENT: crash_spawner on [2014,6,25,20,0]"
+23:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+23:00:00 "CRASHSPAWNER: UH-1H started
+
+g from [1623.71,218.188,300] to [5833.5,15160.6] NOW!(TIME:10434||LT:HeliCrash_No50s)"
+23:04:17 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
+23:06:29 "CRASHSPAWNER: UH-1H just exploded at [1123.46,2730.83,6.1281]!, "
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1124.07,2726.88,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1118.05,2734.69,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1120.23,2733.72,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1118.36,2734.37,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1121.39,2736.83,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1125.35,2721.84,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1119.13,2730.79,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1117.74,2736.7,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1125.29,2726.26,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1118.44,2727.95,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Loot spawn at '[1120.06,2727.7,0]' with loot table 'HeliCrash_No50s'"
+23:06:30 "CRASHSPAWNER: Crash completed! Wreck at: [1123.46,2730.83,0.000667572] - Runtime: 2182 Seconds || Distance from calculated POC: 123 meters"
+23:08:24 "CRASHSPAWNER: UH-1H just exploded at [5854.27,15057.7,5.48889]!, "
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5858.12,15056.6,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5858.73,15059.4,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5852.68,15053.7,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5861.98,15057.8,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5847.35,15056.8,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5846.52,15057.8,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5856.39,15064.7,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5849.64,15057.2,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5861.74,15059,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5859.1,15051.4,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Loot spawn at '[5854.46,15048.3,0]' with loot table 'HeliCrash_No50s'"
+23:08:24 "CRASHSPAWNER: Crash completed! Wreck at: [5854.27,15057.7,0.0310974] - Runtime: 504 Seconds || Distance from calculated POC: 108 meters"
+23:09:17 "TIME SYNC: Local Time set to [2013,8,3,20,9]"
