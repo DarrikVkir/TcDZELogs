@@ -346,3 +346,14 @@ g from [15186,11857,300] to [12870.7,14702.2] NOW!(TIME:1442||LT:HeliCrash_No50s
 20:54:16 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
 20:57:31 Client: Object 3:359 (type Type_70) not found.
 20:57:31 Client: Object 3:358 (type Type_70) not found.
+20:59:16 "TIME SYNC: Local Time set to [2013,8,3,17,59]"
+21:00:04 "RUNNING EVENT: crash_spawner on [2014,6,25,18,0]"
+21:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+21:00:04 "CRASHSPAWNER: UH-60M started
+
+g from [6993.7,173.053,300] to [1858.91,8842.69] NOW!(TIME:3244||LT:HeliCrash_No50s)"
+21:00:17 "CLEANUP: Deleted 1 Loot Piles out of 20"
+21:04:16 "TIME SYNC: Local Time set to [2013,8,3,18,4]"
+21:04:17 "CLEANUP: Deleted 1 Loot Piles out of 20"
+21:07:28 "[DZMS]: Major SM11 Broken HMWV Mission has Ended."
+21:08:08 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
