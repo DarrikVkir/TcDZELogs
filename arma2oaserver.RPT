@@ -520,3 +520,29 @@ _key >
 21:27:19 "CLEANUP: Deleted 1 Loot Piles out of 39"
 21:28:05 Server: Object 3:490 not found (message 91)
 21:28:05 Server: Object 3:489 not found (message 99)
+21:29:12 "EPOCH SERVERTRADE: Player: Cripto (9375302) bought a BAF_Merlin_DZE in/at Any for 2x ItemBriefcase100oz"
+21:29:12 "PUBLISH: Attempt 30356b00# 1064428: arrow_down_large_ep1.p3d REMOTE"
+21:29:12 "HIVE: WRITE: "CHILD:308:3195:BAF_Merlin_DZE:0:7764:[150,[12072.7,12667.3,0]]:[]:[]:1:12072712667305141:""
+21:29:13 "HIVE: WRITE: "CHILD:388:12072712667305141:""
+21:29:13 "CUSTOM: Selected "4290""
+21:29:14 "PUBLISH: B 1-1-G:1 (Cripto) REMOTE Bought BAF_Merlin_DZE with ID "12072712667305141""
+21:29:16 "TIME SYNC: Local Time set to [2013,8,3,18,29]"
+21:29:19 "CLEANUP: Deleted 3 Loot Piles out of 63"
+21:30:08 "RUNNING EVENT: crash_spawner on [2014,6,25,18,30]"
+21:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+21:30:08 "CRASHSPAWNER: UH-1H started
+
+g from [1623.71,218.188,300] to [10554.8,14679.9] NOW!(TIME:5046||LT:HeliCrash_No50s)"
+21:30:20 "CLEANUP: Deleted 1 Loot Piles out of 90"
+21:32:21 "CLEANUP: Deleted 1 Loot Piles out of 104"
+21:33:21 "CLEANUP: Deleted 2 Loot Piles out of 118"
+21:34:16 "TIME SYNC: Local Time set to [2013,8,3,18,34]"
+21:35:55 Server: Object 5:287 not found (message 94)
+21:35:55 Server: Object 5:286 not found (message 70)
+21:35:55 Server: Object 5:289 not found (message 70)
+21:35:55 Server: Object 5:285 not found (message 70)
+21:35:55 Server: Object 5:284 not found (message 70)
+21:35:55 Server: Object 5:283 not found (message 94)
+21:35:55 Server: Object 5:288 not found (message 70)
+21:35:55 Server: Object 5:290 not found (message 70)
+21:37:22 "CLEANUP: Deleted 4 Loot Piles out of 153"
