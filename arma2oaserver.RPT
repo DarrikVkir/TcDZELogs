@@ -230,3 +230,56 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 20:06:55 "[DZMS]: Mission Marker Loop for JIPs Starting!"
 20:07:22 "[DZMS]: Running Minor Mission SM2."
 20:08:43 "[DZMS]: Running Major Mission SM11."
+20:09:15 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:09:59 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:12:48 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+20:12:48   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:12:48 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+20:12:48   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+20:12:48 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+20:12:48   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+20:12:48 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+20:12:48   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+20:12:48 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+20:12:48   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:12:48   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:12:49 Server: Object 3:92 not found (message 91)
+20:12:49 Server: Object 3:91 not found (message 98)
+20:13:38 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+20:14:16 "TIME SYNC: Local Time set to [2013,8,3,17,14]"
+20:15:09 "RUNNING EVENT: supply_drop on [2014,6,25,17,15]"
+20:15:59 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+20:16:19 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+20:16:42 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+20:18:38 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
