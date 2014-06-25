@@ -293,3 +293,19 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 20:22:54 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
 20:24:16 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
 20:24:16 "CLEANUP: Deleted 1 Animals out of 13"
+20:29:16 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+20:29:18 "CLEANUP: Deleted 15 Loot Piles out of 65"
+20:30:00 "RUNNING EVENT: crash_spawner on [2014,6,25,17,30]"
+20:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+20:30:00 "CRASHSPAWNER: UH-1H started
+
+g from [15186,11857,300] to [12870.7,14702.2] NOW!(TIME:1442||LT:HeliCrash_No50s)"
+20:31:43 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a FN_FAL_ANPVS4 in/at Hero Trader for 1x ItemGoldBar10oz"
+20:32:05 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a FN_FAL_ANPVS4 in/at Hero Trader for 1x ItemGoldBar10oz"
+20:33:35 Server: Object 3:298 not found (message 91)
+20:33:35 Server: Object 3:297 not found (message 98)
+20:34:16 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
+20:34:18 "CLEANUP: Deleted 17 Loot Piles out of 54"
+20:35:17 "CLEANUP: Deleted 3 Loot Piles out of 37"
+20:36:17 "CLEANUP: Deleted 5 Loot Piles out of 34"
+20:37:17 "CLEANUP: Deleted 1 Loot Piles out of 29"
