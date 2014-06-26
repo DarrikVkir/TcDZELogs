@@ -930,3 +930,27 @@ _key >
  1:04:17 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
  1:04:37 "CLEANUP: Deleted 1 Loot Piles out of 264"
  1:05:36 "CLEANUP: Deleted 1 Loot Piles out of 266"
+ 1:09:17 "TIME SYNC: Local Time set to [2013,8,3,22,9]"
+ 1:11:38 "CLEANUP: Deleted 4 Loot Piles out of 287"
+ 1:12:15 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+ 1:12:21 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+ 1:12:21 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+ 1:12:21 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+ 1:12:21 "PDEATH: Player Died 234483142"
+ 1:12:40 "CLEANUP: Deleted 2 Loot Piles out of 291"
+ 1:13:03 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+ 1:13:18 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+ 1:13:28 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [366]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 1:13:31 "get: STRING (234483142), sent: STRING (234483142)"
+ 1:13:31 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-E:1 ([BOOTY] 4ASST) REMOTE, _characterID: 366 at loc [-7239.67,19539.3,0.245972]"
+ 1:13:31 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [366]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 1:13:31 Client: Remote object 26:2 not found
+ 1:13:31 Client: Remote object 26:8 not found
+ 1:13:31 Client: Remote object 26:70 not found
+ 1:13:31 Client: Remote object 26:69 not found
+ 1:14:02 Unit 25:89 not found, cannot update
+ 1:14:17 "TIME SYNC: Local Time set to [2013,8,3,22,14]"
+ 1:15:05 "RUNNING EVENT: supply_drop on [2014,6,25,22,15]"
+ 1:15:53 Server: Object 26:95 not found (message 70)
+ 1:15:54 Server: Object 26:100 not found (message 70)
+ 1:18:39 "CLEANUP: Deleted 13 Loot Piles out of 317"
