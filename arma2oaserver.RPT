@@ -329,3 +329,17 @@ g from [15186,11857,300] to [5686.76,7424.81] NOW!(TIME:2533||LT:HeliCrash_No50s
 19:23:59 "SAFE LOCKED: ID:111 UID:0 BY Cripto(9375302)"
 19:25:10 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
 19:26:11 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
+19:29:51 "nil player object attempting PV, :["9375302","Cripto"]"
+19:29:51 "get: STRING (), sent: STRING (9375302)"
+19:29:51 "DISCONNECT: Cripto (9375302) Object: B 1-1-C:1 REMOTE, _characterID: 265 at loc [13861.9,11718.7,18.3794]"
+19:29:51 Client: Remote object 3:8 not found
+19:29:53 Warning: Cleanup player - person 3:7 not found
+19:30:05 "RUNNING EVENT: crash_spawner on [2014,6,26,17,30]"
+19:30:05 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+19:30:05 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [2760.63,3196.35] NOW!(TIME:4335||LT:MilitarySpecial)"
+19:31:11 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+19:35:13 "CLEANUP: Deleted 7 Loot Piles out of 27"
+19:36:11 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+19:36:11 "CLEANUP: Deleted 8 Animals out of 8"
