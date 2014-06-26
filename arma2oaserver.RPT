@@ -278,3 +278,30 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:06:19 Server: Object 3:53 not found (message 91)
  8:07:09 "[DZMS]: Major SM10 UH1H Mission has Ended."
  8:08:00 "[DZMS]: Running Major Mission SM6."
+ 8:09:22 "TIME SYNC: Local Time set to [2013,8,3,17,9]"
+ 8:14:22 "TIME SYNC: Local Time set to [2013,8,3,17,14]"
+ 8:15:05 "RUNNING EVENT: supply_drop on [2014,6,26,17,15]"
+ 8:16:13 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+ 8:16:13 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 8:16:13   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 8:16:13   Error Undefined variable in expression: _vehicle1
+ 8:16:13 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+ 8:16:13 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 8:16:13   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 8:16:13   Error Undefined variable in expression: _object
+ 8:16:13 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 8:16:33 "[DZMS]: Running Major Mission SM5."
