@@ -807,3 +807,108 @@ _pos = g>
 23:25:59 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
 23:26:12 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
 23:28:26 "CLEANUP: Deleted 3 Loot Piles out of 234"
+23:29:30 "CLEANUP: Deleted 1 Loot Piles out of 307"
+23:29:44 Client: Object 8:397 (type Type_70) not found.
+23:29:44 Client: Object 8:399 (type Type_70) not found.
+23:29:44 Client: Object 8:400 (type Type_70) not found.
+23:29:45 Client: Object 8:402 (type Type_70) not found.
+23:29:45 Client: Object 8:401 (type Type_70) not found.
+23:29:45 Client: Object 8:404 (type Type_70) not found.
+23:29:45 Client: Object 8:405 (type Type_70) not found.
+23:29:45 Client: Object 8:406 (type Type_70) not found.
+23:29:46 Client: Object 8:408 (type Type_70) not found.
+23:29:46 Client: Object 8:407 (type Type_70) not found.
+23:29:46 Client: Object 8:410 (type Type_70) not found.
+23:29:46 Client: Object 8:411 (type Type_70) not found.
+23:29:46 Client: Object 8:412 (type Type_70) not found.
+23:29:46 Client: Object 8:414 (type Type_70) not found.
+23:29:46 Client: Object 8:413 (type Type_70) not found.
+23:29:48 Client: Object 8:423 (type Type_70) not found.
+23:29:48 Client: Object 8:425 (type Type_70) not found.
+23:29:48 Client: Object 8:426 (type Type_70) not found.
+23:30:01 "RUNNING EVENT: crash_spawner on [2014,6,26,21,30]"
+23:30:01 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+23:30:01 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [5390.54,7983.65] NOW!(TIME:18722||LT:HeliCrash_No50s)"
+23:30:04 Client: Object 8:453 (type Type_70) not found.
+23:30:04 Client: Object 8:454 (type Type_70) not found.
+23:30:30 "CLEANUP: Deleted 16 Loot Piles out of 310"
+23:31:09 Client: Object 8:464 (type Type_70) not found.
+23:31:09 Client: Object 8:463 (type Type_70) not found.
+23:31:09 Client: Object 8:463 (type Type_70) not found.
+23:31:09 Client: Object 8:464 (type Type_70) not found.
+23:31:09 Client: Object 8:465 (type Type_70) not found.
+23:31:09 Client: Object 8:466 (type Type_70) not found.
+23:31:09 Client: Object 8:465 (type Type_70) not found.
+23:31:09 Client: Object 8:466 (type Type_70) not found.
+23:31:09 Client: Object 8:467 (type Type_70) not found.
+23:31:09 Client: Object 8:468 (type Type_70) not found.
+23:31:10 Client: Object 8:469 (type Type_70) not found.
+23:31:10 Client: Object 8:470 (type Type_70) not found.
+23:31:10 Client: Object 8:471 (type Type_70) not found.
+23:31:10 Client: Object 8:472 (type Type_70) not found.
+23:31:11 Client: Object 8:473 (type Type_70) not found.
+23:31:11 Client: Object 8:474 (type Type_70) not found.
+23:31:11 Client: Object 8:475 (type Type_70) not found.
+23:31:11 Client: Object 8:476 (type Type_70) not found.
+23:31:11 Client: Object 8:477 (type Type_70) not found.
+23:31:11 Client: Object 8:478 (type Type_70) not found.
+23:31:12 Client: Object 8:479 (type Type_70) not found.
+23:31:12 Client: Object 8:480 (type Type_70) not found.
+23:31:12 "TIME SYNC: Local Time set to [2013,8,3,21,31]"
+23:31:12 Client: Object 8:481 (type Type_70) not found.
+23:31:12 Client: Object 8:482 (type Type_70) not found.
+23:31:13 Client: Object 8:483 (type Type_70) not found.
+23:31:13 Client: Object 8:484 (type Type_70) not found.
+23:31:13 Client: Object 8:487 (type Type_70) not found.
+23:31:13 Client: Object 8:488 (type Type_70) not found.
+23:31:31 "CLEANUP: Deleted 5 Loot Piles out of 294"
+23:32:14 Cannot load sound 'sow_sounds\guns\r_m249.wss'
+23:32:29 "CLEANUP: Deleted 7 Loot Piles out of 293"
+23:34:47 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:34:50 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:35:29 "CLEANUP: Deleted 21 Loot Piles out of 287"
+23:35:58 "[DZMS]: Major SM7 IKEA has Ended."
+23:35:58 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+23:35:58   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+23:35:58   Error Undefined variable in expression: _vehicle1
+23:35:58 File z\addons\dayz_server\EMS\Missions\Major\SM7.sqf, line 46
+23:35:58 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+23:35:58   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+23:35:58   Error Undefined variable in expression: _object
+23:35:58 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+23:36:12 "TIME SYNC: Local Time set to [2013,8,3,21,36]"
+23:36:16 "[DZMS]: Running Major Mission SM11."
+23:37:03 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:37:07 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:38:26 "CRASHSPAWNER: UH-60M just exploded at [5507.1,8071.18,0.611877]!, "
+23:38:26 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+23:38:26 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+23:38:26 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5503.7,8069.08,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5502.45,8070.38,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5514.32,8074.49,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5507.85,8067.17,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5501.13,8071.55,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5507.32,8079.18,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5502.8,8078.94,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5514.02,8066.44,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5512.11,8059.9,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Loot spawn at '[5500,8071.36,0]' with loot table 'HeliCrash_No50s'"
+23:38:26 "CRASHSPAWNER: Crash completed! Wreck at: [5507.1,8071.18,-0.0588379] - Runtime: 505 Seconds || Distance from calculated POC: 147 meters"
+23:38:29 "CLEANUP: Deleted 2 Loot Piles out of 277"
