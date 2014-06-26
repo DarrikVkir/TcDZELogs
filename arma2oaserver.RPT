@@ -836,3 +836,39 @@ g from [15098,8144,300] to [3690.25,7024.16] NOW!(TIME:14090||LT:HeliCrash_No50s
  5:48:07 "get: STRING (234483142), sent: STRING (234483142)"
  5:48:07 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-D:1 ([BOOTY] 4ASST) REMOTE, _characterID: 367 at loc [-7239.67,19539.3,0.245514]"
  5:48:07 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [367]. Position in debug! [-7239.67,19539.3,0.245514]"
+ 5:49:07 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+ 5:50:17 "CLEANUP: Deleted 2 Loot Piles out of 145"
+ 5:52:36 Server: Object 3:721 not found (message 91)
+ 5:52:36 Server: Object 3:720 not found (message 99)
+ 5:52:36 Server: Object 3:721 not found (message 91)
+ 5:52:36 Server: Object 3:720 not found (message 99)
+ 5:52:56 "[DZMS]: Minor SM10 Heli Crash Mission has Ended."
+ 5:52:56 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 5:52:56   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 5:52:56   Error Undefined variable in expression: _vehicle1
+ 5:52:56 File z\addons\dayz_server\EMS\Missions\Minor\SM10.sqf, line 36
+ 5:52:56 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 5:52:56   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 5:52:56   Error Undefined variable in expression: _object
+ 5:52:56 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 5:53:21 "[DZMS]: Running Minor Mission SM12."
+ 5:53:27 Server: Object 3:753 not found (message 70)
+ 5:54:07 "CLEANUP: Deleted 5 Animals out of 20"
+ 5:54:07 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+ 5:56:18 "CLEANUP: Deleted 40 Loot Piles out of 162"
