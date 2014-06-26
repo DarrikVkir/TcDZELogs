@@ -311,3 +311,31 @@ _pos = g>
  8:27:33 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a UH1H_DZE in/at Bandit Trader for 1x ItemBriefcase100oz"
  8:27:34 "DELETE: B 1-1-C:1 (Kmhuey) REMOTE Deleted by ID: 626966"
  8:28:45 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 8:29:22 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+ 8:29:24 "CLEANUP: Deleted 1 Loot Piles out of 35"
+ 8:30:02 "get: STRING (15791622), sent: STRING (15791622)"
+ 8:30:02 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-C:1 (Kmhuey) REMOTE, _characterID: 348 at loc [1695.85,7954.22,3.25397]"
+ 8:30:02 Client: Remote object 3:8 not found
+ 8:30:04 Warning: Cleanup player - person 3:7 not found
+ 8:30:06 "RUNNING EVENT: crash_spawner on [2014,6,26,17,30]"
+ 8:30:06 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 8:30:06 "CRASHSPAWNER: MV-22 started
+
+g from [1623.71,218.188,300] to [3743.46,6825.81] NOW!(TIME:1758||LT:MilitarySpecial)"
+ 8:33:24 "CLEANUP: Deleted 9 Loot Piles out of 28"
+ 8:33:49 "CRASHSPAWNER: MV-22 just exploded at [3744.51,7113.98,8.13376]!, "
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3745.73,7110.17,0]' with loot table 'MilitarySpecial'"
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3740.62,7117.77,0]' with loot table 'MilitarySpecial'"
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3748.64,7111.12,0]' with loot table 'MilitarySpecial'"
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3747.03,7121.88,0]' with loot table 'MilitarySpecial'"
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3751.4,7109.18,0]' with loot table 'MilitarySpecial'"
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3741.02,7125.3,0]' with loot table 'MilitarySpecial'"
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3739.02,7107.91,0]' with loot table 'MilitarySpecial'"
+ 8:33:49 "CRASHSPAWNER: Loot spawn at '[3750.67,7108.74,0]' with loot table 'MilitarySpecial'"
+ 8:33:50 "CRASHSPAWNER: Loot spawn at '[3748.19,7115.92,0]' with loot table 'MilitarySpecial'"
+ 8:33:50 "CRASHSPAWNER: Loot spawn at '[3742.82,7107.22,0]' with loot table 'MilitarySpecial'"
+ 8:33:50 "CRASHSPAWNER: Loot spawn at '[3744.67,7121.76,0]' with loot table 'MilitarySpecial'"
+ 8:33:50 "CRASHSPAWNER: Crash completed! Wreck at: [3744.46,7113.97,-0.00527954] - Runtime: 223 Seconds || Distance from calculated POC: 288 meters"
+ 8:34:22 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
+ 8:34:24 "CLEANUP: Deleted 23 Animals out of 23"
+ 8:36:24 "CLEANUP: Deleted 2 Loot Piles out of 30"
