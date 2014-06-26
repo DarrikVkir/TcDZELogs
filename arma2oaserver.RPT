@@ -1016,3 +1016,17 @@ g from [6993.7,173.053,300] to [12228.7,8857.62] NOW!(TIME:17686||LT:Hospital)"
  6:57:14 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-D:1 REMOTE, _characterID: 368 at loc [13873.5,11750,0.00190496]"
  6:57:14 Client: Remote object 3:752 not found
  6:57:16 Warning: Cleanup player - person 3:751 not found
+ 6:59:07 "TIME SYNC: Local Time set to [2013,8,3,21,59]"
+ 7:00:08 "RUNNING EVENT: crash_spawner on [2014,6,26,22,0]"
+ 7:00:08 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 7:00:08 "CRASHSPAWNER: Mi-17 started
+
+g from [10450,-630,1000] to [6303.96,8624.44] NOW!(TIME:19488||LT:HeliCrash_No50s)"
+ 7:04:07 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
+ 7:05:07 "SAFE LOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 7:05:27 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 7:05:39 "SAFE LOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 7:06:17 "CLEANUP: Deleted 1 Loot Piles out of 132"
+ 7:06:43 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 7:07:00 "SAFE LOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 7:08:17 "CLEANUP: Deleted 1 Loot Piles out of 133"
