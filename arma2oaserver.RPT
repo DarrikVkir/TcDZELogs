@@ -817,3 +817,16 @@ g from [6993.7,173.053,300] to [4859.05,8628.52] NOW!(TIME:15839||LT:Hospital)"
  0:34:17 "TIME SYNC: Local Time set to [2013,8,3,21,34]"
  0:36:35 "CLEANUP: Deleted 6 Loot Piles out of 386"
  0:37:40 "CLEANUP: Deleted 11 Loot Piles out of 389"
+ 0:39:17 "TIME SYNC: Local Time set to [2013,8,3,21,39]"
+ 0:40:41 "get: STRING (234483142), sent: STRING (234483142)"
+ 0:40:41 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-C:1 ([BOOTY] 4ASST) REMOTE, _characterID: 366 at loc [13873.1,11715.3,19.297]"
+ 0:40:41 Client: Remote object 24:2 not found
+ 0:40:41 Client: Remote object 24:8 not found
+ 0:40:45 Warning: Cleanup player - person 24:7 not found
+ 0:41:34 "CLEANUP: Deleted 57 Loot Piles out of 381"
+ 0:42:37 "CLEANUP: Deleted 108 Loot Piles out of 347"
+ 0:43:28 "CLEANUP: Deleted 9 Loot Piles out of 239"
+ 0:44:17 "TIME SYNC: Local Time set to [2013,8,3,21,44]"
+ 0:44:30 "CLEANUP: Deleted 1 Loot Piles out of 231"
+ 0:46:34 "CLEANUP: Deleted 70 Loot Piles out of 233"
+ 0:47:30 "CLEANUP: Deleted 13 Loot Piles out of 164"
