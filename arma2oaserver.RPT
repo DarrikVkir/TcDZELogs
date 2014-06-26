@@ -1030,3 +1030,15 @@ g from [10450,-630,1000] to [6303.96,8624.44] NOW!(TIME:19488||LT:HeliCrash_No50
  7:06:43 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
  7:07:00 "SAFE LOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
  7:08:17 "CLEANUP: Deleted 1 Loot Piles out of 133"
+ 7:09:07 "CLEANUP: Deleted 6 Animals out of 23"
+ 7:09:07 "TIME SYNC: Local Time set to [2013,8,3,22,9]"
+ 7:09:17 "CLEANUP: Deleted 1 Loot Piles out of 132"
+ 7:09:37 "SAFE LOCKED: ID:111 UID:0 BY BluntScopes(4486214)"
+ 7:10:27 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 7:10:27 "get: STRING (), sent: STRING (4486214)"
+ 7:10:27 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 REMOTE, _characterID: 362 at loc [13853.6,11749.3,0.00129223]"
+ 7:10:27 Client: Remote object 9:2 not found
+ 7:10:27 Client: Remote object 9:8 not found
+ 7:10:29 Warning: Cleanup player - person 9:7 not found
+ 7:14:07 "TIME SYNC: Local Time set to [2013,8,3,22,14]"
+ 7:15:08 "RUNNING EVENT: supply_drop on [2014,6,26,22,15]"
