@@ -954,3 +954,104 @@ _key >
  1:15:53 Server: Object 26:95 not found (message 70)
  1:15:54 Server: Object 26:100 not found (message 70)
  1:18:39 "CLEANUP: Deleted 13 Loot Piles out of 317"
+ 1:19:17 "TIME SYNC: Local Time set to [2013,8,3,22,19]"
+ 1:20:39 "CLEANUP: Deleted 3 Loot Piles out of 304"
+ 1:21:38 "CLEANUP: Deleted 3 Loot Piles out of 301"
+ 1:22:42 "CLEANUP: Deleted 109 Loot Piles out of 298"
+ 1:23:01 Client: Object 25:131 (type Type_70) not found.
+ 1:23:02 Client: Object 25:132 (type Type_70) not found.
+ 1:23:02 Client: Object 25:133 (type Type_70) not found.
+ 1:23:02 Client: Object 25:135 (type Type_70) not found.
+ 1:23:02 Client: Object 25:137 (type Type_70) not found.
+ 1:23:02 Client: Object 25:139 (type Type_70) not found.
+ 1:23:03 Client: Object 25:140 (type Type_70) not found.
+ 1:23:03 Client: Object 25:141 (type Type_70) not found.
+ 1:23:03 Client: Object 25:140 (type Type_70) not found.
+ 1:23:03 Client: Object 25:145 (type Type_70) not found.
+ 1:23:03 Client: Object 25:147 (type Type_70) not found.
+ 1:23:04 Client: Object 25:150 (type Type_70) not found.
+ 1:23:04 Client: Object 25:155 (type Type_70) not found.
+ 1:23:04 Client: Object 25:154 (type Type_70) not found.
+ 1:23:05 Client: Object 25:157 (type Type_70) not found.
+ 1:23:05 Client: Object 25:156 (type Type_70) not found.
+ 1:23:05 Client: Object 25:158 (type Type_70) not found.
+ 1:23:06 Client: Object 25:167 (type Type_70) not found.
+ 1:23:06 Client: Object 25:166 (type Type_70) not found.
+ 1:23:06 Client: Object 25:168 (type Type_70) not found.
+ 1:23:07 Client: Object 25:176 (type Type_70) not found.
+ 1:23:07 Client: Object 25:178 (type Type_70) not found.
+ 1:23:09 Client: Object 25:188 (type Type_70) not found.
+ 1:23:09 Client: Object 25:189 (type Type_70) not found.
+ 1:23:09 Client: Object 25:190 (type Type_70) not found.
+ 1:23:09 Client: Object 25:191 (type Type_70) not found.
+ 1:23:10 Client: Object 25:198 (type Type_70) not found.
+ 1:23:10 Client: Object 25:199 (type Type_70) not found.
+ 1:23:11 Client: Object 25:202 (type Type_70) not found.
+ 1:23:11 Client: Object 25:203 (type Type_70) not found.
+ 1:23:12 Client: Object 25:208 (type Type_70) not found.
+ 1:23:12 Client: Object 25:209 (type Type_70) not found.
+ 1:23:16 Client: Object 25:236 (type Type_70) not found.
+ 1:23:16 Client: Object 25:237 (type Type_70) not found.
+ 1:23:19 Client: Object 25:256 (type Type_70) not found.
+ 1:23:19 Client: Object 25:257 (type Type_70) not found.
+ 1:23:20 Client: Object 25:262 (type Type_70) not found.
+ 1:23:20 Client: Object 25:263 (type Type_70) not found.
+ 1:23:20 Client: Object 25:266 (type Type_70) not found.
+ 1:23:20 Client: Object 25:267 (type Type_70) not found.
+ 1:23:20 Client: Object 25:268 (type Type_70) not found.
+ 1:23:20 Client: Object 25:269 (type Type_70) not found.
+ 1:23:22 Client: Object 25:275 (type Type_70) not found.
+ 1:23:22 Client: Object 25:274 (type Type_70) not found.
+ 1:23:22 Client: Object 25:279 (type Type_70) not found.
+ 1:23:22 Client: Object 25:278 (type Type_70) not found.
+ 1:23:23 Client: Object 25:287 (type Type_70) not found.
+ 1:23:23 Client: Object 25:286 (type Type_70) not found.
+ 1:23:24 Client: Object 25:291 (type Type_70) not found.
+ 1:23:24 Client: Object 25:290 (type Type_70) not found.
+ 1:23:29 Client: Object 25:321 (type Type_70) not found.
+ 1:23:29 Client: Object 25:320 (type Type_70) not found.
+ 1:23:29 Client: Object 25:325 (type Type_70) not found.
+ 1:23:29 Client: Object 25:324 (type Type_70) not found.
+ 1:23:30 Client: Object 25:331 (type Type_70) not found.
+ 1:23:30 Client: Object 25:330 (type Type_70) not found.
+ 1:23:31 Client: Object 25:337 (type Type_70) not found.
+ 1:23:31 Client: Object 25:336 (type Type_70) not found.
+ 1:23:33 Client: Object 25:351 (type Type_70) not found.
+ 1:23:33 Client: Object 25:350 (type Type_70) not found.
+ 1:23:34 Client: Object 25:357 (type Type_70) not found.
+ 1:23:34 Client: Object 25:356 (type Type_70) not found.
+ 1:23:34 Client: Object 25:359 (type Type_70) not found.
+ 1:23:34 Client: Object 25:358 (type Type_70) not found.
+ 1:23:34 Client: Object 25:363 (type Type_70) not found.
+ 1:23:34 Client: Object 25:362 (type Type_70) not found.
+ 1:23:35 "CLEANUP: Deleted 35 Loot Piles out of 189"
+ 1:23:35 Client: Object 25:371 (type Type_70) not found.
+ 1:23:35 Client: Object 25:370 (type Type_70) not found.
+ 1:23:36 Client: Object 25:373 (type Type_70) not found.
+ 1:23:36 Client: Object 25:372 (type Type_70) not found.
+ 1:23:36 Client: Object 25:375 (type Type_70) not found.
+ 1:23:36 Client: Object 25:374 (type Type_70) not found.
+ 1:23:36 Client: Object 25:377 (type Type_70) not found.
+ 1:23:36 Client: Object 25:376 (type Type_70) not found.
+ 1:23:37 Client: Object 25:379 (type Type_70) not found.
+ 1:23:37 Client: Object 25:378 (type Type_70) not found.
+ 1:23:38 Client: Object 25:387 (type Type_70) not found.
+ 1:23:38 Client: Object 25:386 (type Type_70) not found.
+ 1:23:39 Client: Object 25:395 (type Type_70) not found.
+ 1:23:39 Client: Object 25:394 (type Type_70) not found.
+ 1:24:17 "TIME SYNC: Local Time set to [2013,8,3,22,24]"
+ 1:24:18 "CLEANUP: Deleted 3 Animals out of 30"
+ 1:24:31 "CLEANUP: Deleted 2 Loot Piles out of 154"
+ 1:25:32 "CLEANUP: Deleted 2 Loot Piles out of 152"
+ 1:26:31 "get: STRING (9375302), sent: STRING (9375302)"
+ 1:26:31 "DISCONNECT: Cripto (9375302) Object: B 1-1-D:1 (Cripto) REMOTE, _characterID: 265 at loc [13865.6,11761.7,0.00223947]"
+ 1:26:31 Client: Remote object 25:2 not found
+ 1:26:31 Client: Remote object 25:8 not found
+ 1:26:31 "get: STRING (234483142), sent: STRING (234483142)"
+ 1:26:31 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-E:1 ([BOOTY] 4ASST) REMOTE, _characterID: 367 at loc [13883.5,11733.8,0.00106764]"
+ 1:26:32 Client: Remote object 26:99 not found
+ 1:26:32 "CLEANUP: Deleted 2 Loot Piles out of 150"
+ 1:26:32 Warning: Cleanup player - person 25:7 not found
+ 1:26:33 Warning: Cleanup player - person 26:98 not found
+ 1:27:29 "CLEANUP: Deleted 1 Loot Piles out of 139"
+ 1:28:13 "SAFE UNLOCKED: ID:1390 UID:0 BY sokol(112666374)"
