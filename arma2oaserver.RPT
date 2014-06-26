@@ -716,3 +716,40 @@ g from [15098,8144,300] to [9732.41,11294.3] NOW!(TIME:10487||LT:HeliCrash_No50s
  4:49:06 "TIME SYNC: Local Time set to [2013,8,3,19,49]"
  4:54:06 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
  4:58:12 "CLEANUP: Deleted 1 Loot Piles out of 86"
+ 4:59:06 "TIME SYNC: Local Time set to [2013,8,3,19,59]"
+ 4:59:12 "CLEANUP: Deleted 1 Loot Piles out of 85"
+ 4:59:25 "[DZMS]: Major SM2 Crash Site Mission has Ended."
+ 4:59:25 Error in expression <veVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+[_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 4:59:25   Error position: <_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 4:59:25   Error Undefined variable in expression: _vehicle2
+ 4:59:25 File z\addons\dayz_server\EMS\Missions\Major\SM2.sqf, line 60
+ 4:59:25 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 4:59:25   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 4:59:25   Error Undefined variable in expression: _object
+ 4:59:25 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 4:59:33 "[DZMS]: Running Major Mission SM2."
+ 5:00:05 "RUNNING EVENT: crash_spawner on [2014,6,26,20,0]"
+ 5:00:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 5:00:05 "CRASHSPAWNER: UH-60M started
+
+g from [15098,8144,300] to [3547.37,8141.69] NOW!(TIME:12289||LT:HeliCrash_No50s)"
+ 5:01:12 "CLEANUP: Deleted 1 Loot Piles out of 88"
+ 5:02:12 "CLEANUP: Deleted 1 Loot Piles out of 88"
+ 5:02:43 Server: Object 3:544 not found (message 69)
+ 5:02:43 Server: Object 3:543 not found (message 70)
+ 5:02:44 Client: Object 3:544 (type Type_70) not found.
+ 5:03:12 "CLEANUP: Deleted 1 Loot Piles out of 88"
+ 5:04:06 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
