@@ -787,3 +787,42 @@ _pos = g>
  5:23:13 "CLEANUP: Deleted 1 Loot Piles out of 96"
  5:24:07 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
  5:24:13 "CLEANUP: Deleted 1 Loot Piles out of 95"
+ 5:29:07 "TIME SYNC: Local Time set to [2013,8,3,20,29]"
+ 5:29:42 "[DZMS]: Minor SM9 renegades Mission has Ended."
+ 5:30:07 "RUNNING EVENT: crash_spawner on [2014,6,26,20,30]"
+ 5:30:07 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 5:30:07 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [3690.25,7024.16] NOW!(TIME:14090||LT:HeliCrash_No50s)"
+ 5:30:11 "[DZMS]: Running Minor Mission SM12."
+ 5:34:07 "TIME SYNC: Local Time set to [2013,8,3,20,34]"
+ 5:34:42 Server: Object 9:140 not found (message 91)
+ 5:34:42 Server: Object 9:143 not found (message 98)
+ 5:34:42 Server: Object 9:144 not found (message 91)
+ 5:34:42 Server: Object 9:146 not found (message 91)
+ 5:34:42 Server: Object 9:145 not found (message 99)
+ 5:34:42 Server: Object 9:147 not found (message 99)
+ 5:34:42 Server: Object 9:148 not found (message 91)
+ 5:34:42 Server: Object 9:149 not found (message 99)
+ 5:34:42 Server: Object 9:150 not found (message 91)
+ 5:34:42 Server: Object 9:151 not found (message 98)
+ 5:34:42 Server: Object 9:152 not found (message 91)
+ 5:34:42 Server: Object 9:153 not found (message 98)
+ 5:34:42 Server: Object 9:154 not found (message 91)
+ 5:34:42 Server: Object 9:155 not found (message 98)
+ 5:34:42 Server: Object 9:156 not found (message 91)
+ 5:35:13 "CLEANUP: Deleted 5 Loot Piles out of 99"
+ 5:38:19 "CLEANUP: Deleted 1 Loot Piles out of 135"
+ 5:38:22 "CRASHSPAWNER: Mi-17 just exploded at [5687.52,7114.16,2.06937]!, "
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5686.23,7110.37,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5680.51,7112.65,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5684.46,7109.84,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5682.99,7114.12,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5688.79,7118.61,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5684.81,7110.16,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5686.02,7122.35,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5677.6,7119.69,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5684.57,7104.85,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5690.75,7121.18,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Loot spawn at '[5696.62,7116.88,0]' with loot table 'HeliCrash_No50s'"
+ 5:38:22 "CRASHSPAWNER: Crash completed! Wreck at: [5687.52,7114.16,0.198822] - Runtime: 494 Seconds || Distance from calculated POC: 1999 meters"
