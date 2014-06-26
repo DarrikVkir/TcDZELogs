@@ -382,3 +382,13 @@ _pos = g>
  2:17:04 Client: Object 6:436 (type Type_69) not found.
  2:17:11 "CLEANUP: Deleted 1 Loot Piles out of 169"
  2:18:12 "CLEANUP: Deleted 5 Loot Piles out of 215"
+ 2:19:06 "TIME SYNC: Local Time set to [2013,8,3,17,19]"
+ 2:20:18 Server: Object 3:133 not found (message 99)
+ 2:20:18 Server: Object 3:134 not found (message 91)
+ 2:20:19 Server: Object 3:144 not found (message 91)
+ 2:21:13 "CLEANUP: Deleted 42 Loot Piles out of 223"
+ 2:22:13 "CLEANUP: Deleted 50 Loot Piles out of 181"
+ 2:24:06 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
+ 2:24:10 "CLEANUP: Deleted 1 Loot Piles out of 131"
+ 2:25:15 Server: Object 5:270 not found (message 98)
+ 2:25:15 Server: Object 5:271 not found (message 91)
