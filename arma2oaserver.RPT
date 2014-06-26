@@ -872,3 +872,49 @@ _pos = g>
  5:54:07 "CLEANUP: Deleted 5 Animals out of 20"
  5:54:07 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
  5:56:18 "CLEANUP: Deleted 40 Loot Piles out of 162"
+ 5:59:07 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+ 5:59:59 "get: STRING (160317190), sent: STRING (160317190)"
+ 5:59:59 "DISCONNECT: Decoy (160317190) Object: B 1-1-E:1 (Decoy) REMOTE, _characterID: 303 at loc [3687.59,5957.79,0.00143433]"
+ 5:59:59 Client: Remote object 10:2 not found
+ 5:59:59 Client: Remote object 10:8 not found
+ 6:00:00 "PHIT: B 1-1-B:1 (BluntScopes) REMOTE was hit by B 1-1-D:1 ([BOOTY] 4ASST) REMOTE with SUV Blue from 0m with 0.0509993 dmg"
+ 6:00:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:00:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:00:00   Error Undefined variable in expression: _weapon
+ 6:00:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:00:03 "RUNNING EVENT: crash_spawner on [2014,6,26,21,0]"
+ 6:00:03 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 6:00:03 "CRASHSPAWNER: MV-22 started
+
+g from [1623.71,218.188,300] to [14694.3,13564.2] NOW!(TIME:15884||LT:MilitarySpecial)"
+ 6:00:16 "CLEANUP: Deleted 1 Loot Piles out of 121"
+ 6:00:32 Warning: Cleanup player - person 10:7 not found
+ 6:01:15 "CLEANUP: Deleted 1 Loot Piles out of 139"
+ 6:02:22 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 6:04:07 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+ 6:04:53 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 6:05:12 "CRASHSPAWNER: MV-22 just exploded at [14495,13335,6.80128]!, "
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14492.7,13338.3,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14502,13334,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14488,13336.2,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14502,13338.3,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14487.7,13336.5,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14494.1,13342,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14502.5,13329.2,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14501.2,13340,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14504.4,13330.6,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14488.3,13345.9,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14493.4,13327.8,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14491.4,13325,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Loot spawn at '[14492.7,13340.2,0]' with loot table 'MilitarySpecial'"
+ 6:05:12 "CRASHSPAWNER: Crash completed! Wreck at: [14494.9,13335.1,-0.0199471] - Runtime: 309 Seconds || Distance from calculated POC: 309 meters"
+ 6:07:41 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M4A3_CCO_EP1 in/at Stary for 5x ItemGoldBar"
+ 6:08:16 "CLEANUP: Deleted 2 Loot Piles out of 165"
+ 6:08:23 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
