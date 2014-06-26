@@ -767,3 +767,5 @@ g from [10450,-630,1000] to [7713.57,15137.7] NOW!(TIME:12235||LT:HeliCrash_No50
 23:41:50 SetFace error: class CfgFaces.RodriguezHead.Face07 not found
 23:41:50 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face07 not found
 23:44:17 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
+23:49:17 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+23:54:17 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
