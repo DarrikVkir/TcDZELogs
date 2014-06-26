@@ -732,3 +732,21 @@ g from [10450,-630,1000] to [2455.2,5179.27] NOW!(TIME:15126||LT:HeliCrash_No50s
 22:56:24 "CLEANUP: Deleted 34 Loot Piles out of 203"
 22:57:22 "CLEANUP: Deleted 36 Loot Piles out of 169"
 22:58:21 "CLEANUP: Deleted 2 Loot Piles out of 143"
+22:59:21 "CLEANUP: Deleted 2 Loot Piles out of 142"
+23:00:07 "RUNNING EVENT: crash_spawner on [2014,6,26,21,0]"
+23:00:07 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+23:00:07 "CRASHSPAWNER: AH-1Z started
+
+g from [15098,8144,300] to [6944.93,5700.37] NOW!(TIME:16928||LT:MilitarySpecial)"
+23:00:21 "CLEANUP: Deleted 1 Loot Piles out of 142"
+23:01:12 "TIME SYNC: Local Time set to [2013,8,3,21,1]"
+23:02:24 "CLEANUP: Deleted 1 Loot Piles out of 217"
+23:02:27 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:02:29 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:04:47 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:04:56 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:06:12 "TIME SYNC: Local Time set to [2013,8,3,21,6]"
+23:07:27 "CLEANUP: Deleted 11 Loot Piles out of 285"
+23:07:30 Server: Object 8:299 not found (message 98)
+23:07:30 Server: Object 8:300 not found (message 91)
+23:08:28 "CLEANUP: Deleted 30 Loot Piles out of 277"
