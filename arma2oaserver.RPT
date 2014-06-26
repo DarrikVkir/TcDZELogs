@@ -849,3 +849,84 @@ g from [6993.7,173.053,300] to [4859.05,8628.52] NOW!(TIME:15839||LT:Hospital)"
  0:56:31 "CLEANUP: Deleted 11 Loot Piles out of 147"
  0:57:31 "CLEANUP: Deleted 8 Loot Piles out of 136"
  0:58:30 "CLEANUP: Deleted 2 Loot Piles out of 128"
+ 0:59:17 "TIME SYNC: Local Time set to [2013,8,3,21,59]"
+ 0:59:29 "CLEANUP: Deleted 1 Loot Piles out of 126"
+ 0:59:51 Server: Object 22:731 not found (message 70)
+ 1:00:02 "RUNNING EVENT: crash_spawner on [2014,6,25,22,0]"
+ 1:00:02 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 1:00:02 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [15098,8144,300] to [3927.15,3127.65] NOW!(TIME:17632||LT:MilitarySpecial)"
+ 1:00:30 "CLEANUP: Deleted 2 Loot Piles out of 128"
+ 1:02:36 "CLEANUP: Deleted 11 Loot Piles out of 238"
+ 1:03:03 "DELETE: <null> Deleted by ID: 3004"
+ 1:03:03 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:03   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:03   Error Undefined variable in expression: _activatingplayer
+ 1:03:03 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 1:03:13 "DELETE: <null> Deleted by ID: 3014"
+ 1:03:13 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:13   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:13   Error Undefined variable in expression: _activatingplayer
+ 1:03:13 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 1:03:20 "CRASHSPAWNER: AV-8B (LGB) just exploded at [4167.81,3183.13,6.23905]!, "
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4168.59,3187.05,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4160.78,3183.88,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4165.7,3189.68,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4161.69,3186.24,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4175.08,3175.33,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4163.51,3178.44,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4163.72,3186.55,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4160.82,3178.57,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4173.78,3176.62,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Loot spawn at '[4170.69,3187.39,0]' with loot table 'MilitarySpecial'"
+ 1:03:20 "CRASHSPAWNER: Crash completed! Wreck at: [4167.8,3183.01,0.0249786] - Runtime: 198 Seconds || Distance from calculated POC: 247 meters"
+ 1:03:29 "DELETE: <null> Deleted by ID: 3003"
+ 1:03:29 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:29   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:29   Error Undefined variable in expression: _activatingplayer
+ 1:03:29 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 1:03:37 "CLEANUP: Deleted 12 Loot Piles out of 274"
+ 1:03:42 "DELETE: <null> Deleted by ID: 3002"
+ 1:03:42 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:42   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:42   Error Undefined variable in expression: _activatingplayer
+ 1:03:42 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 1:03:55 "DELETE: <null> Deleted by ID: 3001"
+ 1:03:55 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:55   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 1:03:55   Error Undefined variable in expression: _activatingplayer
+ 1:03:55 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 1:04:17 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
+ 1:04:37 "CLEANUP: Deleted 1 Loot Piles out of 264"
+ 1:05:36 "CLEANUP: Deleted 1 Loot Piles out of 266"
