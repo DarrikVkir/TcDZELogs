@@ -431,3 +431,108 @@ _pos = g>
  2:38:54 Client: Object 5:390 (type Type_70) not found.
  2:38:54 Client: Object 5:393 (type Type_70) not found.
  2:38:54 Client: Object 5:392 (type Type_70) not found.
+ 2:38:56 Client: Object 5:395 (type Type_70) not found.
+ 2:38:56 Client: Object 5:394 (type Type_70) not found.
+ 2:38:56 Client: Object 5:397 (type Type_70) not found.
+ 2:38:56 Client: Object 5:396 (type Type_70) not found.
+ 2:38:57 Client: Object 5:399 (type Type_70) not found.
+ 2:38:57 Client: Object 5:398 (type Type_70) not found.
+ 2:38:57 Client: Object 5:402 (type Type_70) not found.
+ 2:38:57 Client: Object 5:403 (type Type_70) not found.
+ 2:38:58 Client: Object 5:405 (type Type_70) not found.
+ 2:39:06 "TIME SYNC: Local Time set to [2013,8,3,17,39]"
+ 2:39:17 "CLEANUP: Deleted 7 Loot Piles out of 347"
+ 2:39:22 Client: Object 5:428 (type Type_70) not found.
+ 2:39:22 Client: Object 5:429 (type Type_70) not found.
+ 2:39:23 Client: Object 5:430 (type Type_70) not found.
+ 2:39:23 Client: Object 5:431 (type Type_70) not found.
+ 2:39:30 Client: Object 5:447 (type Type_70) not found.
+ 2:39:30 Client: Object 5:446 (type Type_70) not found.
+ 2:39:32 Client: Object 5:455 (type Type_70) not found.
+ 2:39:32 Client: Object 5:454 (type Type_70) not found.
+ 2:39:33 Client: Object 5:459 (type Type_70) not found.
+ 2:39:33 Client: Object 5:458 (type Type_70) not found.
+ 2:39:33 Client: Object 5:461 (type Type_70) not found.
+ 2:39:33 Client: Object 5:460 (type Type_70) not found.
+ 2:39:35 Client: Object 5:463 (type Type_70) not found.
+ 2:39:35 Client: Object 5:462 (type Type_70) not found.
+ 2:39:40 Client: Object 5:477 (type Type_70) not found.
+ 2:39:40 Client: Object 5:476 (type Type_70) not found.
+ 2:39:40 Client: Object 5:479 (type Type_70) not found.
+ 2:39:40 Client: Object 5:478 (type Type_70) not found.
+ 2:40:17 "CLEANUP: Deleted 6 Loot Piles out of 340"
+ 2:41:42 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 2:44:06 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
+ 2:44:43 "SAFE UNLOCKED: ID:111 UID:0 BY Cripto(9375302)"
+ 2:44:54 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 2:45:29 "DELETE: <null> Deleted by ID: 4229"
+ 2:45:29 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:45:29   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:45:29   Error Undefined variable in expression: _activatingplayer
+ 2:45:29 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 2:45:41 "DELETE: <null> Deleted by ID: 4230"
+ 2:45:41 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:45:41   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:45:41   Error Undefined variable in expression: _activatingplayer
+ 2:45:41 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 2:45:50 "DELETE: B 1-1-D:1 (Anwatch [BOOTY]) REMOTE Deleted by UID: 0"
+ 2:45:51 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 2:45:51   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 2:45:51   Error Undefined variable in expression: _id
+ 2:45:51 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 2:45:58 "DELETE: <null> Deleted by ID: 4231"
+ 2:45:58 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:45:58   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:45:58   Error Undefined variable in expression: _activatingplayer
+ 2:45:58 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 2:46:10 "DELETE: <null> Deleted by ID: 4228"
+ 2:46:10 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:46:10   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:46:10   Error Undefined variable in expression: _activatingplayer
+ 2:46:10 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 2:46:20 "CLEANUP: Deleted 121 Loot Piles out of 339"
+ 2:46:21 "DELETE: <null> Deleted by ID: 4232"
+ 2:46:21 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:46:21   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 2:46:21   Error Undefined variable in expression: _activatingplayer
+ 2:46:21 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 2:48:12 Server: Object 6:755 not found (message 99)
+ 2:48:14 "CLEANUP: Deleted 1 Loot Piles out of 222"
