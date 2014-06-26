@@ -305,3 +305,9 @@ _pos = g>
  8:16:13   Error Undefined variable in expression: _object
  8:16:13 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
  8:16:33 "[DZMS]: Running Major Mission SM5."
+ 8:19:22 "TIME SYNC: Local Time set to [2013,8,3,17,19]"
+ 8:24:22 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
+ 8:25:24 "CLEANUP: Deleted 14 Loot Piles out of 42"
+ 8:27:33 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a UH1H_DZE in/at Bandit Trader for 1x ItemBriefcase100oz"
+ 8:27:34 "DELETE: B 1-1-C:1 (Kmhuey) REMOTE Deleted by ID: 626966"
+ 8:28:45 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
