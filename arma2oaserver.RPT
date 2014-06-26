@@ -656,3 +656,28 @@ g from [15186,11857,300] to [4055.04,7513.54] NOW!(TIME:6883||LT:HeliCrash_No50s
  3:49:50 Warning: Cleanup player - person 6:7 not found
  3:54:06 "TIME SYNC: Local Time set to [2013,8,3,18,54]"
  3:54:07 "CLEANUP: Deleted 12 Animals out of 20"
+ 3:59:06 "TIME SYNC: Local Time set to [2013,8,3,18,59]"
+ 4:00:02 "RUNNING EVENT: crash_spawner on [2014,6,26,19,0]"
+ 4:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 4:00:02 "CRASHSPAWNER: UH-1H started
+
+g from [1623.71,218.188,300] to [14519,15266.8] NOW!(TIME:8685||LT:HeliCrash_No50s)"
+ 4:04:06 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
+ 4:08:21 "CRASHSPAWNER: UH-1H just exploded at [14446.6,15059.4,2.07048]!, "
+ 4:08:21 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 4:08:21 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 4:08:21 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14448.1,15055.7,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14442.6,15062.1,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14443.5,15064.1,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14443.3,15062.3,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14445.2,15066.6,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14445.7,15064,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14452.4,15061.6,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14447,15064.1,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14447.3,15052.6,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14437.1,15057.2,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14439.1,15067.9,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14438.8,15062.4,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Loot spawn at '[14449.4,15054.7,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:21 "CRASHSPAWNER: Crash completed! Wreck at: [14446.6,15059.4,0.0671539] - Runtime: 499 Seconds || Distance from calculated POC: 227 meters"
