@@ -392,3 +392,42 @@ _pos = g>
  2:24:10 "CLEANUP: Deleted 1 Loot Piles out of 131"
  2:25:15 Server: Object 5:270 not found (message 98)
  2:25:15 Server: Object 5:271 not found (message 91)
+ 2:29:06 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+ 2:30:03 "RUNNING EVENT: crash_spawner on [2014,6,26,17,30]"
+ 2:30:03 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Ural Wreck spawned at [12062.4,8249.88]"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12066.3,8250.64,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12056.1,8246.48,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12064.3,8238.91,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12056.7,8247.2,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12065.9,8244.33,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12062.2,8244.56,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12064.7,8255.69,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12059.5,8243.46,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12069.3,8248.87,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12066.4,8253.71,0.0376129]' with loot table 'Military'"
+ 2:30:03 "CRASHSPAWNER: Loot spawn at '[12067,8246.17,0.0376129]' with loot table 'Military'"
+ 2:33:19 "CLEANUP: Deleted 41 Loot Piles out of 360"
+ 2:34:06 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
+ 2:35:17 "CLEANUP: Deleted 1 Loot Piles out of 356"
+ 2:36:19 "CLEANUP: Deleted 4 Loot Piles out of 395"
+ 2:37:18 "CLEANUP: Deleted 4 Loot Piles out of 394"
+ 2:38:19 "CLEANUP: Deleted 47 Loot Piles out of 394"
+ 2:38:45 Client: Object 5:361 (type Type_70) not found.
+ 2:38:45 Client: Object 5:360 (type Type_70) not found.
+ 2:38:45 Client: Object 5:362 (type Type_70) not found.
+ 2:38:46 Client: Object 5:367 (type Type_70) not found.
+ 2:38:46 Client: Object 5:366 (type Type_70) not found.
+ 2:38:47 Client: Object 5:369 (type Type_70) not found.
+ 2:38:47 Client: Object 5:368 (type Type_70) not found.
+ 2:38:47 Client: Object 5:368 (type Type_70) not found.
+ 2:38:50 Client: Object 5:377 (type Type_70) not found.
+ 2:38:50 Client: Object 5:376 (type Type_70) not found.
+ 2:38:50 Client: Object 5:379 (type Type_70) not found.
+ 2:38:50 Client: Object 5:378 (type Type_70) not found.
+ 2:38:52 Client: Object 5:389 (type Type_70) not found.
+ 2:38:52 Client: Object 5:388 (type Type_70) not found.
+ 2:38:54 Client: Object 5:391 (type Type_70) not found.
+ 2:38:54 Client: Object 5:390 (type Type_70) not found.
+ 2:38:54 Client: Object 5:393 (type Type_70) not found.
+ 2:38:54 Client: Object 5:392 (type Type_70) not found.
