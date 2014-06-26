@@ -526,3 +526,15 @@ g from [6993.7,173.053,300] to [5931.68,14443] NOW!(TIME:11532||LT:HeliCrash_No5
 21:41:11 "CRASHSPAWNER: Crash completed! Wreck at: [5931.51,14447.1,0.0533447] - Runtime: 663 Seconds || Distance from calculated POC: 4 meters"
 21:41:11 "TIME SYNC: Local Time set to [2013,8,3,19,41]"
 21:46:11 "TIME SYNC: Local Time set to [2013,8,3,19,46]"
+21:50:17 "DELETE: B 1-1-B:1 (Cripto) REMOTE Deleted by UID: 13858211710517880"
+21:50:17 "PUBLISH: B 1-1-B:1 (Cripto) REMOTE upgraded CinderWallDoorSmall_DZ with ID "13858211710517880""
+21:50:22 "DELETE: B 1-1-B:1 (Cripto) REMOTE Deleted by UID: 13858211710517880"
+21:50:22 "PUBLISH: B 1-1-B:1 (Cripto) REMOTE upgraded CinderWallDoorSmallLocked_DZ with ID "13858211710517880""
+21:51:11 "TIME SYNC: Local Time set to [2013,8,3,19,51]"
+21:55:04 "SAFE LOCKED: ID:111 UID:0 BY Cripto(9375302)"
+21:55:42 "get: STRING (9375302), sent: STRING (9375302)"
+21:55:42 "DISCONNECT: Cripto (9375302) Object: B 1-1-B:1 (Cripto) REMOTE, _characterID: 265 at loc [13854.4,11751.6,0.00133657]"
+21:55:42 Client: Remote object 6:2 not found
+21:55:42 Client: Remote object 6:8 not found
+21:56:11 "TIME SYNC: Local Time set to [2013,8,3,19,56]"
+21:56:16 "CLEANUP: Deleted 1 Loot Piles out of 73"
