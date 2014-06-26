@@ -644,3 +644,6 @@ g from [15186,11857,300] to [4055.04,7513.54] NOW!(TIME:6883||LT:HeliCrash_No50s
  3:35:46 "CRASHSPAWNER: Crash completed! Wreck at: [4090.62,7543,-0.00506592] - Runtime: 346 Seconds || Distance from calculated POC: 47 meters"
  3:36:10 "CLEANUP: Deleted 7 Loot Piles out of 78"
  3:37:26 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 3:39:06 "TIME SYNC: Local Time set to [2013,8,3,18,39]"
+ 3:44:06 "TIME SYNC: Local Time set to [2013,8,3,18,44]"
+ 3:47:24 Server: Object 6:1040 not found (message 94)
