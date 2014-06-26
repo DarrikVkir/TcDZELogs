@@ -285,3 +285,9 @@ g from [15186,11857,300] to [2222.39,15371.5] NOW!(TIME:731||LT:MilitarySpecial)
 18:45:28 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by UID: 13858611707117879"
 18:46:10 "TIME SYNC: Local Time set to [2013,8,3,16,46]"
 18:47:23 NAT Negotiation completed
+18:50:03 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by UID: 1386251171303352"
+18:50:03 "PUBLISH: B 1-1-C:1 (Cripto) REMOTE upgraded WoodStairs_DZ with ID "1386251171303352""
+18:50:06 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by UID: 1386251171303352"
+18:50:06 "PUBLISH: B 1-1-C:1 (Cripto) REMOTE upgraded WoodStairsRails_DZ with ID "1386251171303352""
+18:51:11 "TIME SYNC: Local Time set to [2013,8,3,16,51]"
+18:56:11 "TIME SYNC: Local Time set to [2013,8,3,16,56]"
