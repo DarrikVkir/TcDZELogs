@@ -647,3 +647,12 @@ g from [15186,11857,300] to [4055.04,7513.54] NOW!(TIME:6883||LT:HeliCrash_No50s
  3:39:06 "TIME SYNC: Local Time set to [2013,8,3,18,39]"
  3:44:06 "TIME SYNC: Local Time set to [2013,8,3,18,44]"
  3:47:24 Server: Object 6:1040 not found (message 94)
+ 3:49:06 "TIME SYNC: Local Time set to [2013,8,3,18,49]"
+ 3:49:48 "get: STRING (235067846), sent: STRING (235067846)"
+ 3:49:48 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-E:1 (Miss Rachel ) REMOTE, _characterID: 357 at loc [9487.83,14340.7,0.617218]"
+ 3:49:48 Client: Remote object 6:2 not found
+ 3:49:48 Client: Remote object 6:8 not found
+ 3:49:48 Warning: Cleanup player - person 6:7 not found
+ 3:49:50 Warning: Cleanup player - person 6:7 not found
+ 3:54:06 "TIME SYNC: Local Time set to [2013,8,3,18,54]"
+ 3:54:07 "CLEANUP: Deleted 12 Animals out of 20"
