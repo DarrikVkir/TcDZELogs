@@ -276,3 +276,12 @@ g from [15186,11857,300] to [2222.39,15371.5] NOW!(TIME:731||LT:MilitarySpecial)
 18:38:43 "CRASHSPAWNER: Loot spawn at '[2248.88,15364.9,0]' with loot table 'MilitarySpecial'"
 18:38:43 "CRASHSPAWNER: Loot spawn at '[2259.7,15350.7,0]' with loot table 'MilitarySpecial'"
 18:38:43 "CRASHSPAWNER: Crash completed! Wreck at: [2251.5,15356.6,-0.000976563] - Runtime: 521 Seconds || Distance from calculated POC: 33 meters"
+18:41:10 "TIME SYNC: Local Time set to [2013,8,3,16,41]"
+18:41:13 "CLEANUP: Deleted 14 Loot Piles out of 59"
+18:44:51 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by UID: 138656117182186171"
+18:44:51 "PUBLISH: B 1-1-C:1 (Cripto) REMOTE upgraded WoodStairs_DZ with ID "138656117182186171""
+18:45:04 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by UID: 138656117182186171"
+18:45:04 "PUBLISH: B 1-1-C:1 (Cripto) REMOTE upgraded WoodStairsRails_DZ with ID "138656117182186171""
+18:45:28 "DELETE: B 1-1-C:1 (Cripto) REMOTE Deleted by UID: 13858611707117879"
+18:46:10 "TIME SYNC: Local Time set to [2013,8,3,16,46]"
+18:47:23 NAT Negotiation completed
