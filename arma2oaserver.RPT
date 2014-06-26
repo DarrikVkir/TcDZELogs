@@ -249,3 +249,7 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  1:37:11 Error: Bone leftshoulder doesn't exist in some skeleton 
  1:37:11 Error: Bone rightshoulder doesn't exist in some skeleton 
  1:38:18 "[DZMS]: Running Major Mission SM6."
+ 1:39:05 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 1:41:09 "SAFE UNLOCKED: ID:1390 UID:0 BY sokol(112666374)"
+ 1:42:35 "SAFE LOCKED: ID:1390 UID:0 BY sokol(112666374)"
+ 1:44:05 "TIME SYNC: Local Time set to [2013,8,3,16,44]"
