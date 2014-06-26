@@ -750,3 +750,45 @@ g from [15098,8144,300] to [6944.93,5700.37] NOW!(TIME:16928||LT:MilitarySpecial
 23:07:30 Server: Object 8:299 not found (message 98)
 23:07:30 Server: Object 8:300 not found (message 91)
 23:08:28 "CLEANUP: Deleted 30 Loot Piles out of 277"
+23:11:01 "CRASHSPAWNER: AH-1Z just exploded at [6964.85,5714.65,-0.0437622]!, "
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6967.77,5711.91,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6965.37,5720.63,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6968.33,5717.95,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6963.13,5710.58,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6965.28,5709.37,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6957.64,5714.52,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6959.94,5709.27,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Loot spawn at '[6968.48,5711.83,0]' with loot table 'MilitarySpecial'"
+23:11:01 "CRASHSPAWNER: Crash completed! Wreck at: [6964.85,5714.66,-0.00125122] - Runtime: 654 Seconds || Distance from calculated POC: 25 meters"
+23:11:12 "TIME SYNC: Local Time set to [2013,8,3,21,11]"
+23:13:58 "[DZMS]: Minor SM10 Heli Crash Mission has Ended."
+23:13:58 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+23:13:58   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+23:13:58   Error Undefined variable in expression: _vehicle1
+23:13:58 File z\addons\dayz_server\EMS\Missions\Minor\SM10.sqf, line 36
+23:13:58 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+23:13:58   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+23:13:58   Error Undefined variable in expression: _object
+23:13:58 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+23:14:06 "[DZMS]: Running Minor Mission SM2."
+23:14:27 "CLEANUP: Deleted 2 Loot Piles out of 287"
+23:15:09 "RUNNING EVENT: supply_drop on [2014,6,26,21,15]"
+23:16:03 Cannot load sound 'sow_sounds\guns\r_m203.wss'
+23:16:12 "TIME SYNC: Local Time set to [2013,8,3,21,16]"
+23:18:29 "CLEANUP: Deleted 10 Loot Piles out of 310"
