@@ -706,3 +706,10 @@ g from [15098,8144,300] to [9732.41,11294.3] NOW!(TIME:10487||LT:HeliCrash_No50s
  4:34:48 "CRASHSPAWNER: Loot spawn at '[9703.84,11304.5,0]' with loot table 'HeliCrash_No50s'"
  4:34:48 "CRASHSPAWNER: Loot spawn at '[9710.34,11311.3,0]' with loot table 'HeliCrash_No50s'"
  4:34:48 "CRASHSPAWNER: Crash completed! Wreck at: [9709.25,11304.8,-0.0472107] - Runtime: 285 Seconds || Distance from calculated POC: 26 meters"
+ 4:39:06 "TIME SYNC: Local Time set to [2013,8,3,19,39]"
+ 4:40:53 "SAFE UNLOCKED: ID:3056 UID:0 BY [BOOTY] 4ASST(234483142)"
+ 4:44:06 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
+ 4:44:12 "CLEANUP: Deleted 4 Loot Piles out of 88"
+ 4:46:25 Server: Object 9:41 not found (message 98)
+ 4:46:25 Server: Object 9:42 not found (message 91)
+ 4:48:12 "CLEANUP: Deleted 1 Loot Piles out of 84"
