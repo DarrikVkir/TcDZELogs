@@ -753,3 +753,31 @@ g from [15098,8144,300] to [3547.37,8141.69] NOW!(TIME:12289||LT:HeliCrash_No50s
  5:02:44 Client: Object 3:544 (type Type_70) not found.
  5:03:12 "CLEANUP: Deleted 1 Loot Piles out of 88"
  5:04:06 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
+ 5:09:06 "TIME SYNC: Local Time set to [2013,8,3,20,9]"
+ 5:13:12 "CLEANUP: Deleted 2 Loot Piles out of 88"
+ 5:14:06 "TIME SYNC: Local Time set to [2013,8,3,20,14]"
+ 5:15:06 "RUNNING EVENT: supply_drop on [2014,6,26,20,15]"
+ 5:15:17 "[DZMS]: Major SM2 Crash Site Mission has Ended."
+ 5:15:17 Error in expression <veVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+[_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 5:15:17   Error position: <_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 5:15:17   Error Undefined variable in expression: _vehicle2
+ 5:15:17 File z\addons\dayz_server\EMS\Missions\Major\SM2.sqf, line 60
+ 5:15:17 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 5:15:17   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 5:15:17   Error Undefined variable in expression: _object
+ 5:15:17 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 5:16:11 "[DZMS]: Running Major Mission SM5."
+ 5:18:13 "CLEANUP: Deleted 1 Loot Piles out of 99"
