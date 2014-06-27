@@ -471,3 +471,8 @@ g from [10450,-630,1000] to [8914.49,2453.65] NOW!(TIME:7088||LT:MilitarySpecial
 20:40:14 "TIME SYNC: Local Time set to [2013,8,3,18,40]"
 20:44:31 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
 20:45:14 "TIME SYNC: Local Time set to [2013,8,3,18,45]"
+20:50:14 "TIME SYNC: Local Time set to [2013,8,3,18,50]"
+20:53:57 "[DZMS]: Minor SM8 Bandit Party Mission has Ended."
+20:54:11 "[DZMS]: Running Minor Mission SM3."
+20:54:18 O 1-1-C:2: moving in direct condition failed, dist 2.12929
+20:55:14 "TIME SYNC: Local Time set to [2013,8,3,18,55]"
