@@ -321,3 +321,60 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  6:27:43 Server: Object 6:94 not found (message 94)
  6:28:03 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
  6:28:11 "CLIENTLOG: Admin Tools: Smiggetti | any."
+ 6:29:51 Client: Object 6:120 (type Type_70) not found.
+ 6:29:51 Client: Object 6:121 (type Type_70) not found.
+ 6:29:54 Server: Object 5:44 not found (message 91)
+ 6:29:58 "TIME SYNC: Local Time set to [2013,8,3,16,29]"
+ 6:30:09 "RUNNING EVENT: crash_spawner on [2014,6,27,16,30]"
+ 6:30:09 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 6:30:09 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [12898.3,7107.79] NOW!(TIME:834||LT:Hospital)"
+ 6:30:25 "CLIENTLOG: Admin Tools: Smiggetti | any."
+ 6:31:52 Client: Object 6:170 (type Type_70) not found.
+ 6:31:52 Client: Object 6:171 (type Type_70) not found.
+ 6:31:53 Client: Object 6:172 (type Type_70) not found.
+ 6:31:53 Client: Object 6:173 (type Type_70) not found.
+ 6:31:54 Client: Object 6:178 (type Type_70) not found.
+ 6:31:54 Client: Object 6:179 (type Type_70) not found.
+ 6:33:43 Client: Object 6:209 (type Type_70) not found.
+ 6:33:43 Client: Object 6:208 (type Type_70) not found.
+ 6:33:44 Client: Object 6:211 (type Type_70) not found.
+ 6:33:44 Client: Object 6:210 (type Type_70) not found.
+ 6:33:44 Client: Object 6:213 (type Type_70) not found.
+ 6:33:44 Client: Object 6:212 (type Type_70) not found.
+ 6:33:46 Client: Object 6:224 (type Type_70) not found.
+ 6:34:53 Server: Object 3:149 not found (message 70)
+ 6:34:58 "TIME SYNC: Local Time set to [2013,8,3,16,34]"
+ 6:35:19 Server: Object 3:154 not found (message 70)
+ 6:36:02 "DELETE: <null> Deleted by UID: 0"
+ 6:36:02 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 6:36:02   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 6:36:02   Error Undefined variable in expression: _activatingplayer
+ 6:36:02 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 6:36:26 "DELETE: <null> Deleted by UID: 0"
+ 6:36:26 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 6:36:26   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 6:36:26   Error Undefined variable in expression: _activatingplayer
+ 6:36:26 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 6:36:53 "DELETE: <null> Deleted by UID: 0"
+ 6:36:53 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 6:36:53   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 6:36:53   Error Undefined variable in expression: _activatingplayer
+ 6:36:53 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 6:37:27 Server: Object 6:313 not found (message 99)
+ 6:37:27 Server: Object 6:314 not found (message 91)
+ 6:37:27 Server: Object 6:316 not found (message 91)
+ 6:37:27 Server: Object 6:315 not found (message 99)
