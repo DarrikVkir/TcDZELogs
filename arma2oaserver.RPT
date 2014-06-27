@@ -1491,3 +1491,102 @@ _we>
  7:26:01 "CLEANUP: Deleted 1 Loot Piles out of 59"
  7:27:02 "CLEANUP: Deleted 15 Loot Piles out of 58"
  7:28:01 "CLEANUP: Deleted 1 Loot Piles out of 43"
+ 7:29:58 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+ 7:29:58 "Purging player: 30ee4080# 1065518: man_survivor.p3d"
+ 7:29:59 "CLEANUP: Deleted 1 players and 0 zombies out of 30 dead"
+ 7:30:01 "CLEANUP: Deleted 1 Loot Piles out of 42"
+ 7:30:06 "RUNNING EVENT: crash_spawner on [2014,6,27,17,30]"
+ 7:30:06 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 7:30:06 "CRASHSPAWNER: UH-60M started
+
+g from [6993.7,173.053,300] to [12540.5,10204.5] NOW!(TIME:4428||LT:HeliCrash_No50s)"
+ 7:32:04 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+ 7:32:04 "PHIT: B 1-1-C:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-B:1 (Miss Rachel ) REMOTE with Strela from 8.07167m with 0.825347 dmg"
+ 7:32:04 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+ 7:32:04 "PKILL: [BOOTY] 4ASST was killed by Miss Rachel  with weapon Strela from 8.07167m"
+ 7:32:04 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 7:32:04   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 7:32:04   Error Undefined variable in expression: dze_deathmsgside
+ 7:32:04 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 7:32:04 "PDEATH: Player Died 234483142"
+ 7:32:04 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-B:1 (Miss Rachel ) REMOTE with Strela from 9.14763m with 3.67647 dmg"
+ 7:32:04 "PKILL: BluntScopes was killed by Miss Rachel  with weapon Strela from 9.14763m"
+ 7:32:04 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 7:32:04   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 7:32:04   Error Undefined variable in expression: dze_deathmsgside
+ 7:32:04 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 7:32:04 "PDEATH: Player Died 4486214"
+ 7:32:20 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [378]. Position in debug! [-7239.52,19539.5,0.216431]"
+ 7:32:21 "get: STRING (4486214), sent: STRING (4486214)"
+ 7:32:21 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-A:1 (BluntScopes) REMOTE, _characterID: 378 at loc [-7239.52,19539.5,0.216431]"
+ 7:32:21 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [378]. Position in debug! [-7239.52,19539.5,0.216431]"
+ 7:32:34 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [375]. Position in debug! [-7238.23,19539.8,0.0503235]"
+ 7:32:35 "get: STRING (234483142), sent: STRING (234483142)"
+ 7:32:35 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-A:2 ([BOOTY] 4ASST) REMOTE, _characterID: 375 at loc [-7238.23,19539.8,0.0503235]"
+ 7:32:35 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [375]. Position in debug! [-7238.23,19539.8,0.0503235]"
+ 7:32:35 Client: Remote object 8:2 not found
+ 7:32:35 Client: Remote object 2:7177 not found
+ 7:32:35 Client: Remote object 2:7178 not found
+ 7:33:11 "DELETE: <null> Deleted by UID: 0"
+ 7:33:11 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 7:33:11   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 7:33:11   Error Undefined variable in expression: _activatingplayer
+ 7:33:11 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 7:34:07 "TELEPORT REVERT for player UID#4486214 from [1107.55,1939.9,0.0401244] to [6495.67,7675.44,0.00866699], 7875 meters, now at [1106.63,1942.83,1.50501]"
+ 7:34:15 "TELEPORT REVERT for player UID#4486214 from [1107.75,1939.77,0.0398142] to [6511.38,7621.02,-0.000549316], 7846 meters, now at [1106.81,1942.74,1.43328]"
+ 7:34:19 "TELEPORT REVERT for player UID#4486214 from [1107.88,1939.67,0.040163] to [6511.82,7619.34,0.000854492], 7845 meters, now at [1107.15,1943.53,1.47844]"
+ 7:34:26 "TELEPORT REVERT for player UID#4486214 from [1108.09,1939.56,0.0400119] to [6519.05,7644.39,0.0017395], 7868 meters, now at [1107.31,1943.42,1.39625]"
+ 7:34:31 "TELEPORT REVERT for player UID#4486214 from [1108.27,1940.66,0.0318298] to [6502.59,7613.71,0.00531006], 7834 meters, now at [1107.48,1944.54,1.353]"
+ 7:34:58 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
+ 7:34:59 "CLEANUP: Deleted 9 Animals out of 18"
+ 7:36:01 "CLEANUP: Deleted 3 Loot Piles out of 43"
+ 7:36:43 safety - unknown animation source revolve
+ 7:37:11 "CRASHSPAWNER: UH-60M just exploded at [12595,10204.4,4.64987]!, "
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12593.4,10200.7,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12588.3,10203.3,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12587.3,10205.2,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12594.7,10209.3,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12602.8,10208.3,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12597.6,10199.6,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12589.2,10199.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12601.6,10206.6,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12595.5,10210.1,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12585.7,10201.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12593,10191.7,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Loot spawn at '[12601.5,10217,0]' with loot table 'HeliCrash_No50s'"
+ 7:37:11 "CRASHSPAWNER: Crash completed! Wreck at: [12595,10204.4,0.0637817] - Runtime: 424 Seconds || Distance from calculated POC: 55 meters"
+ 7:37:30 "DELETE: <null> Deleted by UID: 0"
+ 7:37:30 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 7:37:30   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 7:37:30   Error Undefined variable in expression: _activatingplayer
+ 7:37:30 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 7:37:31 Server: Object 7:309 not found (message 278)
+ 7:37:44 Server: Object 7:309 not found (message 278)
