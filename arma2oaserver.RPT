@@ -616,3 +616,31 @@ g from [10450,-630,1000] to [1140.13,2437.58] NOW!(TIME:6117||LT:MilitarySpecial
 14:21:51 "TIME SYNC: Local Time set to [2013,8,3,18,21]"
 14:21:55 "[DZMS]: Running Major Mission SM8."
 14:26:51 "TIME SYNC: Local Time set to [2013,8,3,18,26]"
+14:29:55 "CLEANUP: Deleted 1 Loot Piles out of 28"
+14:30:02 "RUNNING EVENT: crash_spawner on [2014,6,27,18,30]"
+14:30:02 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+14:30:02 "CRASHSPAWNER: UH-1H started
+
+g from [1623.71,218.188,300] to [1758.74,10387.9] NOW!(TIME:7919||LT:HeliCrash_No50s)"
+14:30:45 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A3_CCO_EP1 in/at Klen for 5x ItemGoldBar"
+14:31:05 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Sa58V_EP1 in/at Klen for 1x ItemGoldBar"
+14:31:24 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1_Aim in/at Klen for 4x ItemGoldBar"
+14:31:51 "TIME SYNC: Local Time set to [2013,8,3,18,31]"
+14:32:17 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M16A4_ACG in/at Klen for 2x ItemGoldBar"
+14:32:23 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a HMMWV_DZ in/at Klen for 2x ItemGoldBar10oz"
+14:32:24 "DELETE: B 1-1-E:1 (telconrar) REMOTE Deleted by ID: 160503"
+14:32:38 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1_Aim in/at Klen for 4x ItemGoldBar"
+14:32:55 "CLEANUP: Deleted 1 Loot Piles out of 39"
+14:32:57 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M16A2 in/at Klen for 1x ItemGoldBar"
+14:36:27 "SAFE UNLOCKED: ID:0 UID:89269920950352 BY telconrar(120160390)"
+14:36:44 Server: Object 6:707 not found (message 98)
+14:36:44 Server: Object 6:708 not found (message 91)
+14:36:50 Server: Object 6:710 not found (message 91)
+14:36:50 Server: Object 6:709 not found (message 98)
+14:36:51 "TIME SYNC: Local Time set to [2013,8,3,18,36]"
+14:37:15 Server: Object 6:717 not found (message 99)
+14:37:15 Server: Object 6:718 not found (message 91)
+14:37:27 "SAFE LOCKED: ID:0 UID:89269920950352 BY telconrar(120160390)"
+14:37:55 "CLEANUP: Deleted 1 Loot Piles out of 39"
+14:38:51 Server: Object 6:747 not found (message 99)
+14:38:51 Server: Object 6:748 not found (message 91)
