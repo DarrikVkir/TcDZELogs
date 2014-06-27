@@ -622,3 +622,32 @@ g from [15098,8144,300] to [6500.66,9031.73] NOW!(TIME:12485||LT:HeliCrash_No50s
 22:24:16 "CUSTOM: Selected "4516""
 22:24:16 "PUBLISH: B 1-1-B:1 (Cripto) REMOTE Bought CH_47F_EP1_DZE with ID "129157127607014223""
 22:25:15 "TIME SYNC: Local Time set to [2013,8,3,20,25]"
+22:29:29 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+22:30:00 "RUNNING EVENT: crash_spawner on [2014,6,27,20,30]"
+22:30:00 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+22:30:00 "CRASHSPAWNER: Mi-17 started
+
+g from [10450,-630,1000] to [4225.16,6059.54] NOW!(TIME:14278||LT:HeliCrash_No50s)"
+22:30:15 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
+22:33:31 "get: STRING (4486214), sent: STRING (4486214)"
+22:33:31 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 379 at loc [13845.2,11766.6,0.00141144]"
+22:33:31 Client: Remote object 6:0 not found
+22:33:31 Client: Remote object 6:8 not found
+22:33:34 Warning: Cleanup player - person 6:7 not found
+22:34:26 "SAFE UNLOCKED: ID:0 UID:1384371170617351 BY Cripto(9375302)"
+22:35:15 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
+22:35:17 "CLEANUP: Deleted 22 Animals out of 41"
+22:35:23 "CLEANUP: Deleted 3 Loot Piles out of 89"
+22:38:16 "CRASHSPAWNER: Mi-17 just exploded at [4279.49,6098.19,0.472809]!, "
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4281.31,6101.75,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4274.94,6095.37,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4280.01,6090.71,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4282.47,6103.9,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4274.18,6096.25,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4274.69,6105.9,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4283.4,6106.23,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4284.3,6095.76,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4274.03,6098.34,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4281.14,6103.27,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Loot spawn at '[4280.36,6103.95,0]' with loot table 'HeliCrash_No50s'"
+22:38:16 "CRASHSPAWNER: Crash completed! Wreck at: [4279.49,6098.19,0.0107117] - Runtime: 497 Seconds || Distance from calculated POC: 69 meters"
