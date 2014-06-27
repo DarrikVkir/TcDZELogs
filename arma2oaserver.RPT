@@ -927,3 +927,23 @@ g from [6986,-630,1000] to [12362.9,13003.6] NOW!(TIME:16920||LT:HeliCrash_No50s
 17:56:55 "CUSTOM: Selected "4512""
 17:56:55 "PUBLISH: B 1-1-B:1 (Cripto) REMOTE Bought KamazOpen_DZE with ID "114555113412020346""
 17:58:46 NAT Negotiation completed
+18:00:03 "CLEANUP: Deleted 3 Loot Piles out of 149"
+18:00:08 "RUNNING EVENT: crash_spawner on [2014,6,27,22,0]"
+18:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+18:00:08 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [12844.8,10383] NOW!(TIME:20524||LT:HeliCrash_No50s)"
+18:01:53 "TIME SYNC: Local Time set to [2013,8,3,22,1]"
+18:04:42 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+18:05:29 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+18:05:46 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+18:06:23 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+18:06:52 "CLEANUP: Deleted 4 Animals out of 13"
+18:06:53 "TIME SYNC: Local Time set to [2013,8,3,22,6]"
+18:07:25 "get: STRING (9375302), sent: STRING (9375302)"
+18:07:25 "DISCONNECT: Cripto (9375302) Object: B 1-1-B:1 (Cripto) REMOTE, _characterID: 265 at loc [13864.7,11727,0.00118399]"
+18:07:25 Client: Remote object 9:6 not found
+18:07:25 Client: Remote object 9:5 not found
+18:07:25 Client: Remote object 9:2 not found
+18:07:27 Warning: Cleanup player - person 9:7 not found
+18:08:03 "CLEANUP: Deleted 3 Loot Piles out of 143"
