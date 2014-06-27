@@ -2118,3 +2118,26 @@ g from [15098,8144,300] to [1081.22,9212.59] NOW!(TIME:15222||LT:HeliCrash_No50s
 10:38:00 Server: Object 10:359 not found (message 99)
 10:38:00 Server: Object 10:357 not found (message 99)
 10:38:00 Server: Object 10:359 not found (message 99)
+10:39:11 "CLEANUP: Deleted 1 Loot Piles out of 301"
+10:39:44 Server: Object 10:365 not found (message 94)
+10:39:44 Server: Object 10:369 not found (message 70)
+10:39:44 Server: Object 10:364 not found (message 94)
+10:39:44 Server: Object 10:367 not found (message 94)
+10:39:44 Server: Object 10:366 not found (message 94)
+10:39:44 Server: Object 10:368 not found (message 94)
+10:39:53 Server: Object 10:374 not found (message 94)
+10:39:59 "TIME SYNC: Local Time set to [2013,8,3,20,39]"
+10:40:12 "CLEANUP: Deleted 1 Loot Piles out of 318"
+10:41:31 Server: Object 10:380 not found (message 98)
+10:41:31 Server: Object 10:381 not found (message 91)
+10:41:31 Server: Object 10:383 not found (message 91)
+10:41:31 Server: Object 10:382 not found (message 99)
+10:42:12 "CLEANUP: Deleted 1 Loot Piles out of 328"
+10:43:13 "CLEANUP: Deleted 20 Loot Piles out of 327"
+10:44:12 "CLEANUP: Deleted 2 Loot Piles out of 310"
+10:44:59 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
+10:46:08 "get: STRING (199810246), sent: STRING (199810246)"
+10:46:08 "DISCONNECT: Marek (199810246) Object: B 1-1-C:1 (Marek) REMOTE, _characterID: 382 at loc [10285.9,3625.02,0.000484467]"
+10:46:08 Client: Remote object 10:2 not found
+10:46:08 Client: Remote object 10:8 not found
+10:48:14 "CLEANUP: Deleted 73 Loot Piles out of 286"
