@@ -483,3 +483,15 @@ _pos = g>
  1:25:36 "TIME SYNC: Local Time set to [2013,8,3,17,25]"
  1:27:28 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
  1:27:39 "CLEANUP: Deleted 3 Loot Piles out of 57"
+ 1:29:38 "CLEANUP: Deleted 1 Loot Piles out of 55"
+ 1:30:03 "RUNNING EVENT: crash_spawner on [2014,6,27,17,30]"
+ 1:30:03 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 1:30:03 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [15186,11857,300] to [3553.57,10782.4] NOW!(TIME:4365||LT:MilitarySpecial)"
+ 1:30:36 "TIME SYNC: Local Time set to [2013,8,3,17,30]"
+ 1:31:38 "CLEANUP: Deleted 1 Loot Piles out of 54"
+ 1:34:39 "CLEANUP: Deleted 12 Loot Piles out of 53"
+ 1:35:36 "TIME SYNC: Local Time set to [2013,8,3,17,35]"
+ 1:35:38 "CLEANUP: Deleted 2 Loot Piles out of 41"
+ 1:36:38 "CLEANUP: Deleted 3 Loot Piles out of 39"
