@@ -2370,3 +2370,15 @@ g from [15098,8144,300] to [6839.16,8210.6] NOW!(TIME:18827||LT:MilitarySpecial)
 11:58:12 "HIVE: WRITE: "CHILD:388:114555113412020837:""
 11:58:12 "CUSTOM: Selected "4481""
 11:58:12 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE Bought V3S_Open_TK_EP1 with ID "114555113412020837""
+12:00:00 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+12:00:00 "RUNNING EVENT: crash_spawner on [2014,6,27,22,0]"
+12:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+12:00:00 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [2652.98,15295] NOW!(TIME:20619||LT:HeliCrash_No50s)"
+12:01:10 "CLEANUP: Deleted 6 Loot Piles out of 135"
+12:04:10 "CLEANUP: Deleted 2 Loot Piles out of 129"
+12:05:00 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
+12:05:10 "CLEANUP: Deleted 2 Loot Piles out of 127"
+12:08:37 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a SUV_Blue in/at Klen for 5x ItemGoldBar"
+12:08:37 "DELETE: B 1-1-C:1 (Marek) REMOTE Deleted by ID: 4355"
