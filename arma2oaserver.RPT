@@ -819,3 +819,12 @@ g from [6986,-630,1000] to [9240.53,11678.4] NOW!(TIME:13326||LT:HeliCrash_No50s
 16:25:51 Client: Remote object 3:1277 not found
 16:25:54 Warning: Cleanup player - person 3:1276 not found
 16:26:52 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
+16:30:01 "RUNNING EVENT: crash_spawner on [2014,6,27,20,30]"
+16:30:01 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+16:30:01 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [15098,8144,300] to [6241.54,8397.54] NOW!(TIME:15118||LT:MilitarySpecial)"
+16:31:52 "TIME SYNC: Local Time set to [2013,8,3,20,31]"
+16:36:00 "CLEANUP: Deleted 2 Loot Piles out of 97"
+16:36:52 "TIME SYNC: Local Time set to [2013,8,3,20,36]"
+16:36:54 "CLEANUP: Deleted 23 Animals out of 31"
