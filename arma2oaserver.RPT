@@ -1705,3 +1705,45 @@ g from [1623.71,218.188,300] to [6951.8,8613.16] NOW!(TIME:8022||LT:MilitarySpec
  8:56:37   Error Undefined variable in expression: _activatingplayer
  8:56:37 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
  8:58:49 "DELETE: B 1-1-H:1 ([BOOTY] 4ASST) REMOTE Deleted by ID: 3564"
+ 8:59:59 "TIME SYNC: Local Time set to [2013,8,3,18,59]"
+ 9:00:04 "RUNNING EVENT: crash_spawner on [2014,6,27,19,0]"
+ 9:00:04 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Ural Wreck spawned at [9213.53,11159.8]"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9209.61,11160.6,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9211.63,11153.2,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9218.93,11168.3,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9206.34,11167.1,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9224.3,11157.5,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9219.94,11166.6,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9224.9,11153.1,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9201.59,11159.8,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9221.83,11164.7,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9201.27,11157.6,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9217.55,11167.6,0.00442505]' with loot table 'Military'"
+ 9:00:04 "CRASHSPAWNER: Loot spawn at '[9207.46,11157.7,0.00442505]' with loot table 'Military'"
+ 9:00:14 "DELETE: <null> Deleted by UID: 0"
+ 9:00:14 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 9:00:14   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 9:00:14   Error Undefined variable in expression: _activatingplayer
+ 9:00:14 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 9:03:25 Server: Object 9:229 not found (message 70)
+ 9:03:25 Server: Object 9:232 not found (message 70)
+ 9:03:25 Server: Object 9:230 not found (message 94)
+ 9:03:25 Server: Object 9:231 not found (message 94)
+ 9:03:25 Server: Object 9:242 not found (message 70)
+ 9:03:25 Server: Object 9:243 not found (message 70)
+ 9:03:25 Server: Object 9:241 not found (message 94)
+ 9:03:25 Server: Object 9:257 not found (message 94)
+ 9:03:25 Server: Object 9:256 not found (message 94)
+ 9:03:35 Server: Object 9:286 not found (message 98)
+ 9:03:35 Server: Object 9:287 not found (message 91)
+ 9:03:35 Server: Object 9:289 not found (message 91)
+ 9:03:35 Server: Object 9:288 not found (message 99)
+ 9:03:35 Server: Object 9:297 not found (message 70)
+ 9:04:59 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
+ 9:06:11 "CLEANUP: Deleted 2 Loot Piles out of 283"
+ 9:08:10 "CLEANUP: Deleted 5 Loot Piles out of 281"
