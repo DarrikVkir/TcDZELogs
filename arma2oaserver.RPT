@@ -650,3 +650,223 @@ if(DZE_DeathMsgSide) then {
  6:48:28   Error Undefined variable in expression: dze_deathmsgside
  6:48:28 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
  6:48:28 "PDEATH: Player Died 234483142"
+ 6:49:03 "CLEANUP: Deleted 2 Loot Piles out of 180"
+ 6:49:17 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 6:49:27 "CLIENTLOG: Admin Tools: Miss Rachel  | any."
+ 6:49:38 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-B:1 (BluntScopes) REMOTE with T-34 from 25.4593m with 1.89266 dmg"
+ 6:49:38 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:49:38   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:49:38   Error Undefined variable in expression: _weapon
+ 6:49:38 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:49:53 Client: Object 6:560 (type Type_70) not found.
+ 6:49:58 "TIME SYNC: Local Time set to [2013,8,3,16,49]"
+ 6:49:58 "CLEANUP: Deleted 1 Animals out of 25"
+ 6:50:01 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [368]. Position in debug! [-7239.67,19539.3,0.245605]"
+ 6:50:02 "get: STRING (234483142), sent: STRING (234483142)"
+ 6:50:02 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-A:1 ([BOOTY] 4ASST) REMOTE, _characterID: 368 at loc [-7239.67,19539.3,0.245605]"
+ 6:50:02 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [368]. Position in debug! [-7239.67,19539.3,0.245605]"
+ 6:50:03 "CLEANUP: Deleted 2 Loot Piles out of 180"
+ 6:50:49 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 6:51:25 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 6:51:28 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 6:51:46 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-E:1 ([BOOTY] 4ASST) REMOTE with Colt1911 from 16.0519m with 0.16393 dmg"
+ 6:53:14 "PDEATH: Player Died 234483142"
+ 6:53:20 "DELETE: <null> Deleted by UID: 0"
+ 6:53:20 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 6:53:20   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 6:53:20   Error Undefined variable in expression: _activatingplayer
+ 6:53:20 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 6:53:32 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [374]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 6:53:33 "get: STRING (234483142), sent: STRING (234483142)"
+ 6:53:33 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-A:1 ([BOOTY] 4ASST) REMOTE, _characterID: 374 at loc [-7239.67,19539.3,0.246155]"
+ 6:53:33 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [374]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 6:53:46 "DELETE: <null> Deleted by UID: 0"
+ 6:53:46 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 6:53:46   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 6:53:46   Error Undefined variable in expression: _activatingplayer
+ 6:53:46 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 6:53:59 Client: Object 7:36 (type Type_70) not found.
+ 6:53:59 Client: Object 7:36 (type Type_69) not found.
+ 6:54:58 "TIME SYNC: Local Time set to [2013,8,3,16,54]"
+ 6:55:05 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 190.055m with 0.865392 dmg"
+ 6:55:05 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:05   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:05   Error Undefined variable in expression: _weapon
+ 6:55:05 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:05 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 191.038m with 1.2821 dmg"
+ 6:55:05 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:05   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:05   Error Undefined variable in expression: _weapon
+ 6:55:05 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:05 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 191.038m with 1.55473 dmg"
+ 6:55:05 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:05   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:05   Error Undefined variable in expression: _weapon
+ 6:55:05 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:06 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 189.728m with 0.917576 dmg"
+ 6:55:06 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error Undefined variable in expression: _weapon
+ 6:55:06 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:06 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 189.728m with 2.41456 dmg"
+ 6:55:06 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error Undefined variable in expression: _weapon
+ 6:55:06 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:06 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 188.868m with 0.92647 dmg"
+ 6:55:06 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error Undefined variable in expression: _weapon
+ 6:55:06 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:06 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 188.868m with 1.02804 dmg"
+ 6:55:06 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error Undefined variable in expression: _weapon
+ 6:55:06 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:06 "PHIT: B 1-1-D:1 (Smiggetti) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mi-24D from 188.868m with 0.708939 dmg"
+ 6:55:06 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:55:06   Error Undefined variable in expression: _weapon
+ 6:55:06 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:55:06 Client: Object 6:659 (type Type_69) not found.
+ 6:55:06 Client: Object 6:659 (type Type_70) not found.
+ 6:55:28 "CLIENTLOG: Admin Tools: Miss Rachel  | any."
+ 6:56:04 "CLEANUP: Deleted 13 Loot Piles out of 179"
+ 6:56:04 Client: Object 3:251 (type Type_70) not found.
+ 6:56:04 Client: Object 3:251 (type Type_69) not found.
+ 6:56:26 Server: Object 3:257 not found (message 70)
+ 6:56:27 Server: Object 3:260 not found (message 70)
+ 6:56:27 Server: Object 3:262 not found (message 70)
+ 6:56:27 Server: Object 3:261 not found (message 70)
+ 6:56:27 Server: Object 3:259 not found (message 70)
+ 6:56:27 Server: Object 3:264 not found (message 70)
+ 6:56:27 Server: Object 3:263 not found (message 94)
+ 6:56:27 Server: Object 3:266 not found (message 70)
+ 6:56:27 Server: Object 3:265 not found (message 94)
+ 6:57:23 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 6:57:23   Error position: <count _lastPos > 2 and count _charPos > >
+ 6:57:23   Error count: Type Number, expected Array,Config entry
+ 6:57:23 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 6:57:45 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 6:57:45   Error position: <count _lastPos > 2 and count _charPos > >
+ 6:57:45   Error count: Type Number, expected Array,Config entry
+ 6:57:45 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 6:57:49 Server: Object 3:280 not found (message 91)
+ 6:57:49 Server: Object 3:279 not found (message 98)
+ 6:57:52 Server: Object 3:282 not found (message 70)
+ 6:57:52 Server: Object 3:281 not found (message 69)
+ 6:57:53 Client: Object 3:282 (type Type_69) not found.
+ 6:58:01 "CLIENTLOG: Admin Tools: Smiggetti | any."
+ 6:58:02 "CLIENTLOG: Admin Tools: Smiggetti | any."
+ 6:58:03 "CLEANUP: Deleted 4 Loot Piles out of 176"
+ 6:58:09 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 6:58:09   Error position: <count _lastPos > 2 and count _charPos > >
+ 6:58:09   Error count: Type Number, expected Array,Config entry
+ 6:58:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 6:58:14 Server: Object 3:228 not found (message 99)
+ 6:58:15 Server: Object 3:240 not found (message 99)
+ 6:58:34 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 6:58:34   Error position: <count _lastPos > 2 and count _charPos > >
+ 6:58:34   Error count: Type Number, expected Array,Config entry
+ 6:58:34 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 6:58:40 "PHIT: B 1-1-C:1 (Miss Rachel ) REMOTE was hit by B 1-1-D:1 (Smiggetti) REMOTE with AH-6J from 47.5159m with 0.136051 dmg"
+ 6:58:40 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:58:40   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:58:40   Error Undefined variable in expression: _weapon
+ 6:58:40 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:58:41 "PHIT: B 1-1-C:1 (Miss Rachel ) REMOTE was hit by B 1-1-D:1 (Smiggetti) REMOTE with AH-6J from 44.2497m with 0.142443 dmg"
+ 6:58:41 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:58:41   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:58:41   Error Undefined variable in expression: _weapon
+ 6:58:41 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:58:48 Client: Object 7:79 (type Type_70) not found.
+ 6:58:48 Client: Object 7:79 (type Type_69) not found.
