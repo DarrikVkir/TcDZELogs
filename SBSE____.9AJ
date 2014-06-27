@@ -1,0 +1,927 @@
+
+
+=====================================================================
+== C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-Al9y3.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+=====================================================================
+Exe timestamp: 2014/06/01 10:01:31
+Current time:  2014/06/27 00:14:14
+
+Version 1.63.112555
+Item STR_EPOCH_BULK_DESC_MP5SD listed twice
+Item STR_ACTIONS_BUILD listed twice
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by Ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by Ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by Ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Obsolete class Animations defined in bin\config.bin/RscCompass/
+Obsolete class Animations defined in bin\config.bin/RscWatch/
+ 0:15:12 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+ 0:15:12 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+ 0:15:12 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:12 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+ 0:15:19 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+ 0:15:19 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+ 0:15:20 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+ 0:15:20 "DayZ Epoch: MPframework inited"
+ 0:15:48 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+ 0:15:51 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+ 0:15:51 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 0:15:51 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 0:15:51 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 0:15:51 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 0:15:51 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+ 0:15:51 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+ 0:15:51 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 0:15:51 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 0:15:51 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 0:15:51 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 0:15:52 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+ 0:15:53 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+ 0:15:57 "Res3tting B!S effects..."
+ 0:15:57 "[AGN] Starting Trader City Safezone Commander!"
+ 0:15:57 "Error: Attempting to start AGN products on a server where it should not be!"
+ 0:15:57 "HIVE: Starting"
+ 0:15:57 "HIVE: trying to get objects"
+ 0:15:59 "HIVE: found 3013 objects"
+ 0:15:59 "HIVE: Commence Object Streaming..."
+ 0:15:59 "HIVE: got 2452 Epoch Objects and 561 Vehicles"
+ 0:16:11 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+ 0:16:11 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+ 0:16:12 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+ 0:16:12 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+ 0:16:26 "HIVE: Vehicle Spawn limit reached!"
+ 0:16:26 "HIVE: Spawning # of Debris: 0"
+ 0:16:26 "HIVE: Spawning # of Ammo Boxes: 3"
+ 0:16:26 "HIVE: Spawning # of Veins: 50"
+ 0:16:26 "Total Number of spawn locations 5"
+ 0:16:27 "EPOCH EVENTS INIT"
+ 0:16:34 SetFace error: class CfgFaces.RodriguezHead.Face07 not found
+ 0:16:34 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face07 not found
+ 0:16:34 "TIME SYNC: Local Time set to [2013,8,3,16,16]"
+ 0:17:15 "Res3tting B!S effects..."
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 0:17:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 0:17:51 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [362]. Position in debug! [-7245.98,19534.9,1.18845]"
+ 0:18:14 "[DZMS]: Starting DayZ Epoch Mission System."
+ 0:18:14 "[DZMS]: Relations not found! Using DZMS Relations."
+ 0:18:14 "[DZMS]: Mission and Extended Configuration Loaded!"
+ 0:18:14 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+ 0:18:14 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+ 0:18:14 "[DZMS]: Mission Functions Script Loaded!"
+ 0:18:14 "[DZMS]: Major Mission Clock Starting!"
+ 0:18:14 "[DZMS]: Minor Mission Clock Starting!"
+ 0:18:14 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+ 0:18:28 "[DZMS]: Running Minor Mission SM11."
+ 0:19:10 "ERROR: server_playerSync: Cannot Sync Player Cripto [265]. Position in debug! [-7239.6,19539.2,0.246155]"
+ 0:19:38 "SAFE UNLOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 0:19:54 "[DZMS]: Running Major Mission SM6."
+ 0:20:35 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 0:21:29 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 0:23:04 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 0:23:04   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 0:23:04 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 0:23:04   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 0:23:04 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 0:23:04   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 0:23:04 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 0:23:04   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 0:23:04 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 0:23:04   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 0:23:05   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 0:23:06 Server: Object 4:77 not found (message 99)
+ 0:23:06 Server: Object 4:78 not found (message 91)
+ 0:23:06 Server: Object 5:79 not found (message 99)
+ 0:23:06 Server: Object 5:80 not found (message 91)
+ 0:23:44 "SAFE UNLOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 0:23:56 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 0:25:35 "TIME SYNC: Local Time set to [2013,8,3,16,25]"
+ 0:25:45 "get: STRING (4486214), sent: STRING (4486214)"
+ 0:25:45 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-D:1 (BluntScopes) REMOTE, _characterID: 362 at loc [13867.7,11732,18.9948]"
+ 0:25:45 Client: Remote object 5:8 not found
+ 0:25:46 Warning: Cleanup player - person 5:7 not found
+ 0:26:07 "DELETE: B 1-1-C:1 (sokol) REMOTE Deleted by UID: 0"
+ 0:26:37 "SAFE UNLOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 0:27:05 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 0:29:03 "[DZMS]: Minor SM11 BRDM Crash Mission has Ended."
+ 0:29:08 "get: STRING (9375302), sent: STRING (9375302)"
+ 0:29:08 "DISCONNECT: Cripto (9375302) Object: B 1-1-F:1 (Cripto) REMOTE, _characterID: 265 at loc [13859.2,11714.8,18.0178]"
+ 0:29:09 Client: Remote object 4:8 not found
+ 0:29:09 Client: Remote object 4:7 not found
+ 0:29:09 Warning: Cleanup player - person 4:9 not found
+ 0:29:10 Warning: Cleanup player - person 4:9 not found
+ 0:29:28 "[DZMS]: Running Minor Mission SM6."
+ 0:30:08 "RUNNING EVENT: crash_spawner on [2014,6,27,16,30]"
+ 0:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 0:30:08 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [6947.38,5109.74] NOW!(TIME:771||LT:HeliCrash_No50s)"
+ 0:30:35 "TIME SYNC: Local Time set to [2013,8,3,16,30]"
+ 0:34:00 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+ 0:34:00 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 0:34:00   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 0:34:00   Error Undefined variable in expression: _vehicle1
+ 0:34:00 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+ 0:34:00 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 0:34:00   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 0:34:00   Error Undefined variable in expression: _object
+ 0:34:00 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 0:34:20 "[DZMS]: Running Major Mission SM7."
+ 0:35:35 "TIME SYNC: Local Time set to [2013,8,3,16,35]"
+ 0:35:37 "CLEANUP: Deleted 16 Animals out of 27"
+ 0:39:45 "[DZMS]: Minor SM6 Ural Crash Mission has Ended."
+ 0:40:00 "[DZMS]: Running Minor Mission SM3."
+ 0:40:36 "TIME SYNC: Local Time set to [2013,8,3,16,40]"
+ 0:40:37 "CLEANUP: Deleted 17 Loot Piles out of 38"
+ 0:41:36 "CRASHSPAWNER: UH-1H just exploded at [6923.89,5369.49,5.54184]!, "
+ 0:41:36 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 0:41:36 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 0:41:36 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 0:41:36 "CRASHSPAWNER: Loot spawn at '[6923.82,5365.49,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6924.81,5365.13,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6927.13,5372.54,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6917.81,5367.39,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6920.66,5360.2,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6925.32,5379.82,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6929.74,5373.19,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6934.52,5369.27,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Loot spawn at '[6913.01,5367.52,0]' with loot table 'HeliCrash_No50s'"
+ 0:41:37 "CRASHSPAWNER: Crash completed! Wreck at: [6923.89,5369.49,0.151459] - Runtime: 689 Seconds || Distance from calculated POC: 261 meters"
+ 0:41:37 "CLEANUP: Deleted 2 Loot Piles out of 21"
+ 0:42:30 Server: Object 3:117 not found (message 91)
+ 0:42:30 Server: Object 3:116 not found (message 98)
+ 0:43:37 "CLEANUP: Deleted 1 Loot Piles out of 28"
+ 0:45:36 "TIME SYNC: Local Time set to [2013,8,3,16,45]"
+ 0:45:37 "CLEANUP: Deleted 3 Loot Piles out of 27"
+ 0:46:33 "[DZMS]: Major SM7 IKEA has Ended."
+ 0:46:33 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 0:46:33   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 0:46:33   Error Undefined variable in expression: _vehicle1
+ 0:46:33 File z\addons\dayz_server\EMS\Missions\Major\SM7.sqf, line 46
+ 0:46:33 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 0:46:33   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 0:46:33   Error Undefined variable in expression: _object
+ 0:46:33 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 0:48:08 "[DZMS]: Running Major Mission SM11."
+ 0:48:37 "CLEANUP: Deleted 1 Loot Piles out of 25"
+ 0:50:36 "TIME SYNC: Local Time set to [2013,8,3,16,50]"
+ 0:50:37 "CLEANUP: Deleted 1 Loot Piles out of 22"
+ 0:50:59 "[DZMS]: Major SM11 Broken HMWV Mission has Ended."
+ 0:51:39 "[DZMS]: Running Major Mission SM6."
+ 0:55:36 "TIME SYNC: Local Time set to [2013,8,3,16,55]"
+ 0:55:37 "CLEANUP: Deleted 4 Loot Piles out of 23"
+ 0:55:37 Server: Object 6:151 not found (message 99)
+ 0:55:37 Server: Object 6:152 not found (message 91)
+ 0:55:37 Server: Object 6:153 not found (message 99)
+ 0:55:37 Server: Object 6:154 not found (message 91)
+ 0:55:39 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 0:55:41 Server: Object 6:185 not found (message 70)
+ 0:55:41 Server: Object 6:197 not found (message 70)
+ 0:55:41 Server: Object 6:202 not found (message 94)
+ 0:55:41 Server: Object 6:203 not found (message 94)
+ 0:56:16 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:56:22 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
+ 0:56:35 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:56:45 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 0:56:55 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 0:57:14 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 0:57:20 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 0:57:44 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
+ 0:58:03 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:58:21 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:58:22 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
+ 0:58:41 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 0:59:00 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M24_des_EP1 in/at Stary for 6x ItemGoldBar"
+ 0:59:03 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
+ 0:59:26 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
+ 0:59:31 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+ 0:59:48 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 0:59:54 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 1:00:01 "RUNNING EVENT: crash_spawner on [2014,6,27,17,0]"
+ 1:00:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 1:00:01 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [7894.64,12013.6] NOW!(TIME:2563||LT:HeliCrash_No50s)"
+ 1:00:15 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 1:00:36 "TIME SYNC: Local Time set to [2013,8,3,17,0]"
+ 1:05:36 "TIME SYNC: Local Time set to [2013,8,3,17,5]"
+ 1:05:51 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+ 1:05:51 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 1:05:51   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 1:05:51   Error Undefined variable in expression: _vehicle1
+ 1:05:51 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+ 1:05:51 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 1:05:51   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 1:05:51   Error Undefined variable in expression: _object
+ 1:05:51 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 1:07:24 "[DZMS]: Running Major Mission SM3."
+ 1:08:39 "CLEANUP: Deleted 1 Loot Piles out of 83"
+ 1:10:36 "TIME SYNC: Local Time set to [2013,8,3,17,10]"
+ 1:10:55 "CRASHSPAWNER: UH-1H just exploded at [7930.1,12079.4,2.2796]!, "
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7926.12,12079,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7933.53,12084.8,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7926.37,12076.2,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7927.75,12083.6,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7938.65,12078.9,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7923.19,12089.6,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7925.85,12083.3,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7936.06,12074,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7933.78,12082,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7924.52,12074.2,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Loot spawn at '[7923.93,12078.4,0]' with loot table 'HeliCrash_No50s'"
+ 1:10:55 "CRASHSPAWNER: Crash completed! Wreck at: [7930.1,12079.4,0.0583801] - Runtime: 654 Seconds || Distance from calculated POC: 76 meters"
+ 1:15:02 "RUNNING EVENT: supply_drop on [2014,6,27,17,15]"
+ 1:15:09 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 1:15:11 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
+ 1:15:29 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 1:15:35 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 1:15:36 "TIME SYNC: Local Time set to [2013,8,3,17,15]"
+ 1:15:52 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 1:15:58 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 1:16:40 "CLEANUP: Deleted 10 Loot Piles out of 112"
+ 1:17:41 "CLEANUP: Deleted 40 Loot Piles out of 102"
+ 1:18:04 NAT Negotiation completed
+ 1:18:38 "CLEANUP: Deleted 4 Loot Piles out of 62"
+ 1:19:38 "CLEANUP: Deleted 4 Loot Piles out of 58"
+ 1:20:36 "TIME SYNC: Local Time set to [2013,8,3,17,20]"
+ 1:20:38 "CLEANUP: Deleted 3 Loot Piles out of 54"
+ 1:21:41 "SAFE UNLOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 1:25:36 "TIME SYNC: Local Time set to [2013,8,3,17,25]"
+ 1:27:28 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 1:27:39 "CLEANUP: Deleted 3 Loot Piles out of 57"
+ 1:29:38 "CLEANUP: Deleted 1 Loot Piles out of 55"
+ 1:30:03 "RUNNING EVENT: crash_spawner on [2014,6,27,17,30]"
+ 1:30:03 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 1:30:03 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [15186,11857,300] to [3553.57,10782.4] NOW!(TIME:4365||LT:MilitarySpecial)"
+ 1:30:36 "TIME SYNC: Local Time set to [2013,8,3,17,30]"
+ 1:31:38 "CLEANUP: Deleted 1 Loot Piles out of 54"
+ 1:34:39 "CLEANUP: Deleted 12 Loot Piles out of 53"
+ 1:35:36 "TIME SYNC: Local Time set to [2013,8,3,17,35]"
+ 1:35:38 "CLEANUP: Deleted 2 Loot Piles out of 41"
+ 1:36:38 "CLEANUP: Deleted 3 Loot Piles out of 39"
+ 1:40:36 "TIME SYNC: Local Time set to [2013,8,3,17,40]"
+ 1:41:38 "CLEANUP: Deleted 1 Loot Piles out of 41"
+ 1:42:25 "[DZMS]: Minor SM3 Stash House Mission has Ended."
+ 1:42:38 "CLEANUP: Deleted 3 Loot Piles out of 40"
+ 1:42:43 "[DZMS]: Running Minor Mission SM6."
+ 1:45:34 "SAFE UNLOCKED: ID:111 UID:0 BY BluntScopes(4486214)"
+ 1:45:36 "TIME SYNC: Local Time set to [2013,8,3,17,45]"
+ 1:46:02 "SAFE LOCKED: ID:111 UID:0 BY BluntScopes(4486214)"
+ 1:46:30 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 1:46:39 "CLEANUP: Deleted 2 Loot Piles out of 42"
+ 1:46:55 "SAFE LOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 1:49:39 "CLEANUP: Deleted 1 Loot Piles out of 41"
+ 1:49:51 "get: STRING (4486214), sent: STRING (4486214)"
+ 1:49:51 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 362 at loc [13863.3,11734,0.00126529]"
+ 1:49:51 Client: Remote object 8:0 not found
+ 1:49:51 Client: Remote object 8:8 not found
+ 1:49:55 Warning: Cleanup player - person 8:7 not found
+ 1:50:36 "TIME SYNC: Local Time set to [2013,8,3,17,50]"
+ 1:50:37 "CLEANUP: Deleted 5 Animals out of 38"
+ 1:50:40 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) bought a HMMWV_M1151_M2_CZ_DES_EP1_DZE in/at Hero Trader for 4x ItemBriefcase100oz"
+ 1:50:40 "PUBLISH: Attempt 2ed94f00# 1064307: arrow_down_large_ep1.p3d REMOTE"
+ 1:50:40 "HIVE: WRITE: "CHILD:308:3195:HMMWV_M1151_M2_CZ_DES_EP1_DZE:0:9517:[333,[12915.7,12760.7,0.00296021]]:[]:[]:1:12915712760705934:""
+ 1:50:41 "HIVE: WRITE: "CHILD:388:12915712760705934:""
+ 1:50:41 "CUSTOM: Selected "4434""
+ 1:50:41 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Bought HMMWV_M1151_M2_CZ_DES_EP1_DZE with ID "12915712760705934""
+ 1:51:30 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) bought a AH6J_EP1 in/at Hero Trader for 2x ItemBriefcase100oz"
+ 1:51:30 "PUBLISH: Attempt 2ed67900# 1064315: arrow_down_large_ep1.p3d REMOTE"
+ 1:51:30 "HIVE: WRITE: "CHILD:308:3195:AH6J_EP1:0:7568:[308,[12915.7,12760.7,0.00296021]]:[]:[]:1:12915712760705959:""
+ 1:51:32 "HIVE: WRITE: "CHILD:388:12915712760705959:""
+ 1:51:32 "CUSTOM: Selected "4435""
+ 1:51:32 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Bought AH6J_EP1 with ID "12915712760705959""
+ 1:55:36 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
+ 1:58:24 "get: STRING (23206790), sent: STRING (23206790)"
+ 1:58:24 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 369 at loc [5452.61,5777.01,0.00189209]"
+ 1:58:24 Client: Remote object 6:2 not found
+ 1:58:24 Client: Remote object 6:8 not found
+ 1:58:39 "CLEANUP: Deleted 2 Loot Piles out of 37"
+ 1:59:03 Server: Object 6:455 not found (message 70)
+ 1:59:18 "get: STRING (23206790), sent: STRING (23206790)"
+ 1:59:18 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 369 at loc [5452.61,5777.01,0.00189209]"
+ 1:59:18 Client: Remote object 6:454 not found
+ 1:59:18 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 1:59:19 Warning: Cleanup player - person 6:453 not found
+ 2:00:06 "RUNNING EVENT: crash_spawner on [2014,6,27,18,0]"
+ 2:00:06 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Ural Wreck spawned at [11129,7953.38]"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11130.2,7949.58,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11128.8,7959.51,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11134.7,7950.44,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11130.4,7946.9,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11132.3,7944.69,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11138.3,7953.63,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11123.7,7961.95,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11115.6,7952.81,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11115,7958.5,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11123.7,7950.87,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11134.6,7959.8,0.00549316]' with loot table 'Military'"
+ 2:00:36 "TIME SYNC: Local Time set to [2013,8,3,18,0]"
+ 2:01:39 "CLEANUP: Deleted 1 Loot Piles out of 46"
+ 2:02:15 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 2:02:57 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:02:57   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:02:57   Error count: Type Number, expected Array,Config entry
+ 2:02:57 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:03:15 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:03:15   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:03:15   Error count: Type Number, expected Array,Config entry
+ 2:03:15 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:03:33 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:03:33   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:03:33   Error count: Type Number, expected Array,Config entry
+ 2:03:33 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:03:39 "CLEANUP: Deleted 2 Loot Piles out of 46"
+ 2:03:49 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:03:49   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:03:49   Error count: Type Number, expected Array,Config entry
+ 2:03:49 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:04:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:04:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:04:25   Error count: Type Number, expected Array,Config entry
+ 2:04:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:04:44 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:04:44   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:04:44   Error count: Type Number, expected Array,Config entry
+ 2:04:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:05:28 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:05:28   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:05:28   Error count: Type Number, expected Array,Config entry
+ 2:05:28 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:05:36 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
+ 2:05:38 "CLEANUP: Deleted 21 Animals out of 33"
+ 2:05:44 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:05:44   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:05:44   Error count: Type Number, expected Array,Config entry
+ 2:05:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:05:56 "get: STRING (112666374), sent: STRING (112666374)"
+ 2:05:56 "DISCONNECT: sokol (112666374) Object: B 1-1-C:1 (sokol) REMOTE, _characterID: 82 at loc [5438.24,5774.5,0.735016]"
+ 2:05:56 Client: Remote object 3:8 not found
+ 2:05:56 Warning: Cleanup player - person 3:7 not found
+ 2:05:58 Warning: Cleanup player - person 3:7 not found
+ 2:06:00 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:00   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:00   Error count: Type Number, expected Array,Config entry
+ 2:06:00 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:06 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error count: Type Number, expected Array,Config entry
+ 2:06:06 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:06 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error count: Type Number, expected Array,Config entry
+ 2:06:06 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:20 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:20   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:20   Error count: Type Number, expected Array,Config entry
+ 2:06:20 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:22 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:22   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:22   Error count: Type Number, expected Array,Config entry
+ 2:06:22 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:27 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:27   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:27   Error count: Type Number, expected Array,Config entry
+ 2:06:27 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:28 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:28   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:28   Error count: Type Number, expected Array,Config entry
+ 2:06:28 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:42 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:42   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:42   Error count: Type Number, expected Array,Config entry
+ 2:06:42 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:56 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:56   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:56   Error count: Type Number, expected Array,Config entry
+ 2:06:56 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:09 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error count: Type Number, expected Array,Config entry
+ 2:07:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:09 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error count: Type Number, expected Array,Config entry
+ 2:07:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:10 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:10   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:10   Error count: Type Number, expected Array,Config entry
+ 2:07:10 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:31 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:31   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:31   Error count: Type Number, expected Array,Config entry
+ 2:07:31 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:43 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:43   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:43   Error count: Type Number, expected Array,Config entry
+ 2:07:43 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:50 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:50   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:50   Error count: Type Number, expected Array,Config entry
+ 2:07:50 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:51 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:51   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:51   Error count: Type Number, expected Array,Config entry
+ 2:07:51 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:01 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:01   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:01   Error count: Type Number, expected Array,Config entry
+ 2:08:01 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:15 "SAFE UNLOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 2:08:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:25   Error count: Type Number, expected Array,Config entry
+ 2:08:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:27 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:27   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:27   Error count: Type Number, expected Array,Config entry
+ 2:08:27 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:32 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 2:08:37 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:37   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:37   Error count: Type Number, expected Array,Config entry
+ 2:08:37 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:05 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:05   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:05   Error count: Type Number, expected Array,Config entry
+ 2:09:05 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:05 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:05   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:05   Error count: Type Number, expected Array,Config entry
+ 2:09:05 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:16 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:16   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:16   Error count: Type Number, expected Array,Config entry
+ 2:09:16 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:17 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:17   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:17   Error count: Type Number, expected Array,Config entry
+ 2:09:17 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:39 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:39   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:39   Error count: Type Number, expected Array,Config entry
+ 2:09:39 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:41 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:41   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:41   Error count: Type Number, expected Array,Config entry
+ 2:09:41 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:48 Server: Object 9:59 not found (message 70)
+ 2:09:48 Server: Object 9:60 not found (message 94)
+ 2:09:48 Server: Object 9:61 not found (message 99)
+ 2:09:48 Server: Object 9:62 not found (message 91)
+ 2:09:55 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:55   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:55   Error count: Type Number, expected Array,Config entry
+ 2:09:55 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:09:55 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:09:55   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:09:55   Error count: Type Number, expected Array,Config entry
+ 2:09:55 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:10:09 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:10:09   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:10:09   Error count: Type Number, expected Array,Config entry
+ 2:10:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:10:17 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 2:10:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:10:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:10:25   Error count: Type Number, expected Array,Config entry
+ 2:10:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:10:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:10:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:10:25   Error count: Type Number, expected Array,Config entry
+ 2:10:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:10:36 "TIME SYNC: Local Time set to [2013,8,3,18,10]"
+ 2:10:39 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M24 in/at Stary for 6x ItemGoldBar"
+ 2:10:45 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:10:45   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:10:45   Error count: Type Number, expected Array,Config entry
+ 2:10:45 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:10:45 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:10:45   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:10:45   Error count: Type Number, expected Array,Config entry
+ 2:10:45 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:10:57 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 2:11:04 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:11:04   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:11:04   Error count: Type Number, expected Array,Config entry
+ 2:11:04 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:11:06 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:11:06   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:11:06   Error count: Type Number, expected Array,Config entry
+ 2:11:06 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:11:17 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 2:11:24 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:11:24   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:11:24   Error count: Type Number, expected Array,Config entry
+ 2:11:24 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:11:24 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:11:24   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:11:24   Error count: Type Number, expected Array,Config entry
+ 2:11:24 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:11:38 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 2:11:43 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:11:43   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:11:43   Error count: Type Number, expected Array,Config entry
+ 2:11:43 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:11:44 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:11:44   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:11:44   Error count: Type Number, expected Array,Config entry
+ 2:11:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:11:58 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:11:58   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:11:58   Error count: Type Number, expected Array,Config entry
+ 2:11:58 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:02 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AKS_GOLD in/at Stary for 1x ItemGoldBar10oz"
+ 2:12:10 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:10   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:10   Error count: Type Number, expected Array,Config entry
+ 2:12:10 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:10 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:10   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:10   Error count: Type Number, expected Array,Config entry
+ 2:12:10 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:18 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:18   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:18   Error count: Type Number, expected Array,Config entry
+ 2:12:18 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:18 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:18   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:18   Error count: Type Number, expected Array,Config entry
+ 2:12:18 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:19 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:19   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:19   Error count: Type Number, expected Array,Config entry
+ 2:12:19 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:19 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 2:12:33 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:33   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:33   Error count: Type Number, expected Array,Config entry
+ 2:12:33 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:41 "SAFE UNLOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 2:12:47 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:47   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:47   Error count: Type Number, expected Array,Config entry
+ 2:12:47 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:57 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:57   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:57   Error count: Type Number, expected Array,Config entry
+ 2:12:57 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:12:57 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:12:57   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:12:57   Error count: Type Number, expected Array,Config entry
+ 2:12:57 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:14:17 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:14:17   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:14:17   Error count: Type Number, expected Array,Config entry
+ 2:14:17 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:14:19 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:14:19   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:14:19   Error count: Type Number, expected Array,Config entry
+ 2:14:19 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:14:24 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 2:14:35 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:14:35   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:14:35   Error count: Type Number, expected Array,Config entry
+ 2:14:35 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:14:35 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:14:35   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:14:35   Error count: Type Number, expected Array,Config entry
+ 2:14:35 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:14:55 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:14:55   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:14:55   Error count: Type Number, expected Array,Config entry
+ 2:14:55 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:14:55 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:14:55   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:14:55   Error count: Type Number, expected Array,Config entry
+ 2:14:55 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:15:04 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:15:04   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:15:04   Error count: Type Number, expected Array,Config entry
+ 2:15:04 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:15:05 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:15:05   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:15:05   Error count: Type Number, expected Array,Config entry
+ 2:15:05 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:15:08 "RUNNING EVENT: supply_drop on [2014,6,27,18,15]"
+ 2:15:29 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:15:29   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:15:29   Error count: Type Number, expected Array,Config entry
+ 2:15:29 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:15:30 "nil player object attempting PV, :["23206790","DarrikVkir [BOOTY]"]"
+ 2:15:30 "get: STRING (), sent: STRING (23206790)"
+ 2:15:30 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-B:1 REMOTE, _characterID: 369 at loc [5435.46,5738.41,0.0753479]"
+ 2:15:30 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:15:30   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:15:30   Error count: Type Number, expected Array,Config entry
+ 2:15:30 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:15:30 Client: Remote object 9:2 not found
+ 2:15:30 Client: Remote object 9:8 not found
+ 2:15:36 "TIME SYNC: Local Time set to [2013,8,3,18,15]"
+ 2:20:36 "TIME SYNC: Local Time set to [2013,8,3,18,20]"
+ 2:20:37 "CLEANUP: Deleted 16 Animals out of 16"
+ 2:20:40 "CLEANUP: Deleted 6 Loot Piles out of 67"
+ 2:25:36 "TIME SYNC: Local Time set to [2013,8,3,18,25]"
