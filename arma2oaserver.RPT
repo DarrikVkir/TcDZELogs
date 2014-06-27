@@ -537,3 +537,37 @@ g from [6986,-630,1000] to [5703.74,7941.21] NOW!(TIME:2523||LT:MilitarySpecial)
 13:23:57 Server: Object 6:536 not found (message 91)
 13:26:51 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
 13:27:53 "CLEANUP: Deleted 1 Loot Piles out of 16"
+13:29:45 "get: STRING (199810246), sent: STRING (199810246)"
+13:29:45 "DISCONNECT: Marek (199810246) Object: B 1-1-D:1 (Marek) REMOTE, _characterID: 382 at loc [9730.27,10852.5,0.00161743]"
+13:29:45 Client: Remote object 6:2 not found
+13:29:45 Client: Remote object 6:360 not found
+13:29:53 "CLEANUP: Deleted 1 Loot Piles out of 15"
+13:30:07 "RUNNING EVENT: crash_spawner on [2014,6,27,17,30]"
+13:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+13:30:07 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [5162.17,10670.2] NOW!(TIME:4325||LT:HeliCrash_No50s)"
+13:31:51 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+13:36:18 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M14_EP1 in/at Klen for 1x ItemGoldBar10oz"
+13:36:45 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Klen for 6x ItemGoldBar"
+13:36:51 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+13:36:52 "CLEANUP: Deleted 15 Animals out of 31"
+13:37:01 "CRASHSPAWNER: UH-60M just exploded at [5126.55,10795,2.34232]!, "
+13:37:01 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+13:37:01 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+13:37:01 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5124.76,10791.4,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5130.01,10792.4,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5132.16,10797.2,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5134.24,10793.6,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5121.43,10787.9,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5133.45,10786.5,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5115.61,10796,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5137.27,10800.1,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Loot spawn at '[5121.33,10784.3,0]' with loot table 'HeliCrash_No50s'"
+13:37:01 "CRASHSPAWNER: Crash completed! Wreck at: [5126.55,10795,0.214996] - Runtime: 414 Seconds || Distance from calculated POC: 131 meters"
+13:37:10 Server: Object 2:7183 not found (message 221)
+13:37:20 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Klen for 6x ItemGoldBar"
+13:37:46 Server: Object 6:562 not found (message 70)
+13:37:48 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Klen for 6x ItemGoldBar"
+13:38:15 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Klen for 6x ItemGoldBar"
