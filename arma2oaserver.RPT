@@ -509,3 +509,9 @@ g from [6986,-630,1000] to [6688.37,9395.36] NOW!(TIME:8890||LT:MilitarySpecial)
 21:06:27 Server: Object 5:199 not found (message 99)
 21:06:27 Server: Object 5:204 not found (message 91)
 21:06:27 Server: Object 5:203 not found (message 99)
+21:10:14 "TIME SYNC: Local Time set to [2013,8,3,19,10]"
+21:10:39 "[DZMS]: Minor SM3 Stash House Mission has Ended."
+21:10:54 "[DZMS]: Running Minor Mission SM4."
+21:15:00 "RUNNING EVENT: supply_drop on [2014,6,27,19,15]"
+21:15:14 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
+21:16:20 "CLEANUP: Deleted 1 Loot Piles out of 81"
