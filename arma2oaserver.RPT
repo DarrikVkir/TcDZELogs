@@ -384,3 +384,30 @@ _pos = g>
  0:46:33 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
  0:48:08 "[DZMS]: Running Major Mission SM11."
  0:48:37 "CLEANUP: Deleted 1 Loot Piles out of 25"
+ 0:50:36 "TIME SYNC: Local Time set to [2013,8,3,16,50]"
+ 0:50:37 "CLEANUP: Deleted 1 Loot Piles out of 22"
+ 0:50:59 "[DZMS]: Major SM11 Broken HMWV Mission has Ended."
+ 0:51:39 "[DZMS]: Running Major Mission SM6."
+ 0:55:36 "TIME SYNC: Local Time set to [2013,8,3,16,55]"
+ 0:55:37 "CLEANUP: Deleted 4 Loot Piles out of 23"
+ 0:55:37 Server: Object 6:151 not found (message 99)
+ 0:55:37 Server: Object 6:152 not found (message 91)
+ 0:55:37 Server: Object 6:153 not found (message 99)
+ 0:55:37 Server: Object 6:154 not found (message 91)
+ 0:55:39 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 0:55:41 Server: Object 6:185 not found (message 70)
+ 0:55:41 Server: Object 6:197 not found (message 70)
+ 0:55:41 Server: Object 6:202 not found (message 94)
+ 0:55:41 Server: Object 6:203 not found (message 94)
+ 0:56:16 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:56:22 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
+ 0:56:35 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:56:45 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 0:56:55 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 0:57:14 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 0:57:20 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 0:57:44 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
+ 0:58:03 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:58:21 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 0:58:22 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
+ 0:58:41 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
