@@ -252,3 +252,40 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 12:18:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
 12:18:39 Unit 2:12 not found, cannot update
 12:18:44 Unit 2:12 not found, cannot update
+12:18:55 Unit 2:12 not found, cannot update
+12:19:30 "[DZMS]: Starting DayZ Epoch Mission System."
+12:19:30 "[DZMS]: Relations not found! Using DZMS Relations."
+12:19:30 "[DZMS]: Mission and Extended Configuration Loaded!"
+12:19:30 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+12:19:30 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+12:19:30 "[DZMS]: Mission Functions Script Loaded!"
+12:19:30 "[DZMS]: Major Mission Clock Starting!"
+12:19:30 "[DZMS]: Minor Mission Clock Starting!"
+12:19:30 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+12:19:41 "[DZMS]: Running Minor Mission SM8."
+12:20:22 "[DZMS]: Running Major Mission SM5."
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:21:02 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:21:51 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+12:23:27 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a Ural_TK_CIV_EP1 in/at Klen for 1x ItemGoldBar10oz"
+12:23:27 "DELETE: B 1-1-C:1 (telconrar) REMOTE Deleted by ID: 4322"
+12:24:36 "get: STRING (199810246), sent: STRING (199810246)"
+12:24:36 "DISCONNECT: Marek (199810246) Object: B 1-1-D:1 (Marek) REMOTE, _characterID: 382 at loc [9612.47,11953.4,0.00152588]"
+12:24:36 Client: Remote object 4:6 not found
+12:24:36 Client: Remote object 4:5 not found
+12:26:51 "TIME SYNC: Local Time set to [2013,8,3,16,26]"
+12:28:33 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a 100Rnd_762x51_M240 in/at Klen for 2x ItemGoldBar"
