@@ -412,3 +412,34 @@ g from [10450,-630,1000] to [7128.09,14125.9] NOW!(TIME:3484||LT:MilitarySpecial
 19:55:31 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
 19:56:02 "SAFE LOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
 19:56:14 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+20:00:04 "RUNNING EVENT: crash_spawner on [2014,6,27,18,0]"
+20:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+20:00:04 "CRASHSPAWNER: UH-60M MEV started
+
+g from [10450,-630,1000] to [6781.23,11523.6] NOW!(TIME:5286||LT:Hospital)"
+20:00:14 "TIME SYNC: Local Time set to [2013,8,3,18,0]"
+20:00:17 "CLEANUP: Deleted 1 Loot Piles out of 40"
+20:01:11 "get: STRING (9375302), sent: STRING (9375302)"
+20:01:11 "DISCONNECT: Cripto (9375302) Object: B 1-3-H:1 (Cripto) REMOTE, _characterID: 265 at loc [13861,11727,0.00125575]"
+20:01:11 Client: Remote object 3:355 not found
+20:01:11 Warning: Cleanup player - person 3:354 not found
+20:01:13 Warning: Cleanup player - person 3:354 not found
+20:05:14 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
+20:05:14 "CLEANUP: Deleted 9 Animals out of 11"
+20:07:12 "get: STRING (4486214), sent: STRING (4486214)"
+20:07:12 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 379 at loc [13842.3,11773.4,0.00150156]"
+20:07:12 Client: Remote object 4:6 not found
+20:07:12 Client: Remote object 4:5 not found
+20:07:12 Client: Remote object 4:0 not found
+20:07:14 Warning: Cleanup player - person 4:7 not found
+20:08:36 "CRASHSPAWNER: UH-60M MEV just exploded at [6789.72,11537.4,2.89716]!, "
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6786.56,11539.9,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6790.01,11530.3,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6787.04,11542,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6788.9,11545.5,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6790.61,11530.1,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6796.67,11531.9,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6780.43,11545,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6794.93,11523,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Loot spawn at '[6796.74,11523.8,0]' with loot table 'Hospital'"
+20:08:36 "CRASHSPAWNER: Crash completed! Wreck at: [6789.72,11537.4,0.066803] - Runtime: 512 Seconds || Distance from calculated POC: 18 meters"
