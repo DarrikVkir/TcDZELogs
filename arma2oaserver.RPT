@@ -929,3 +929,35 @@ _pos = g>
 23:46:12 "TIME SYNC: Local Time set to [2013,8,3,21,46]"
 23:46:30 "CLEANUP: Deleted 35 Loot Piles out of 263"
 23:47:28 "CLEANUP: Deleted 20 Loot Piles out of 228"
+23:49:31 "CLEANUP: Deleted 76 Loot Piles out of 214"
+23:50:25 "CLEANUP: Deleted 3 Loot Piles out of 138"
+23:50:27 Cannot load sound 'sow_sounds\guns\e_m4.wss'
+23:50:28 Cannot load sound 'sow_sounds\guns\r_m249.wss'
+23:51:01 Cannot load sound 'sow_sounds\guns\r_m249.wss'
+23:51:12 "TIME SYNC: Local Time set to [2013,8,3,21,51]"
+23:51:14 "CLEANUP: Deleted 6 Animals out of 48"
+23:51:24 Cannot load sound 'sow_sounds\guns\r_m249.wss'
+23:51:41 Cannot load sound 'sow_sounds\guns\e_m4.wss'
+23:52:20 Cannot load sound 'sow_sounds\guns\e_m4.wss'
+23:52:24 "CLEANUP: Deleted 4 Loot Piles out of 136"
+23:52:25 "[DZMS]: Major SM13 Constructors Mission Mission has Ended."
+23:52:34 Cannot load sound 'sow_sounds\guns\e_m9.wss'
+23:52:35 Cannot load sound 'sow_sounds\guns\e_m9.wss'
+23:52:35 Cannot load sound 'sow_sounds\guns\r_m9.wss'
+23:52:43 Cannot load sound 'sow_sounds\guns\e_m9.wss'
+23:52:44 Cannot load sound 'sow_sounds\guns\e_m9.wss'
+23:52:58 "[DZMS]: Running Major Mission SM8."
+23:53:14 Cannot load sound 'sow_sounds\guns\e_m9.wss'
+23:53:14 Cannot load sound 'sow_sounds\guns\e_m9.wss'
+23:53:25 "CLEANUP: Deleted 1 Loot Piles out of 135"
+23:53:38 "get: STRING (255625286), sent: STRING (255625286)"
+23:53:38 "DISCONNECT: lang (255625286) Object: B 1-1-F:1 (lang) REMOTE, _characterID: 370 at loc [8556.28,2742.79,0.00143242]"
+23:53:38 Client: Remote object 12:6 not found
+23:53:38 Client: Remote object 12:5 not found
+23:53:38 Client: Remote object 12:2 not found
+23:53:40 Warning: Cleanup player - person 12:7 not found
+23:53:55 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:56:12 "TIME SYNC: Local Time set to [2013,8,3,21,56]"
+23:56:24 "CLEANUP: Deleted 9 Loot Piles out of 133"
+23:57:23 "CLEANUP: Deleted 1 Loot Piles out of 128"
+23:58:35 "[DZMS]: Minor SM2 Medical Outpost Mission has Ended."
