@@ -1024,3 +1024,61 @@ g from [1623.71,218.188,300] to [3238.9,4971.05] NOW!(TIME:15166||LT:MilitarySpe
  4:45:37 "TIME SYNC: Local Time set to [2013,8,3,20,45]"
  4:50:37 "TIME SYNC: Local Time set to [2013,8,3,20,50]"
  4:55:37 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
+ 4:59:45 "CLEANUP: Deleted 2 Loot Piles out of 97"
+ 5:00:09 "RUNNING EVENT: crash_spawner on [2014,6,27,21,0]"
+ 5:00:09 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+ 5:00:09 "CRASHSPAWNER: A-10 started
+
+g from [1623.71,218.188,300] to [3861.94,9983.46] NOW!(TIME:16968||LT:MilitarySpecial)"
+ 5:00:37 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
+ 5:00:55 "CLIENTLOG: Admin Tools: Smiggetti | Activated Admin Mode."
+ 5:02:47 "CLEANUP: Deleted 2 Loot Piles out of 138"
+ 5:04:03 "CRASHSPAWNER: A-10 just exploded at [4059.29,10201.4,5.07111]!, "
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4055.71,10199.6,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4057.5,10206.5,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4059.61,10206.8,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4056.7,10194.4,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4051.49,10197.4,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4059.69,10205.7,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4053.77,10198.7,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4062.23,10194.4,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4069.06,10207.1,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Loot spawn at '[4055.73,10186.6,0]' with loot table 'MilitarySpecial'"
+ 5:04:03 "CRASHSPAWNER: Crash completed! Wreck at: [4059.36,10201.4,0.00543213] - Runtime: 233 Seconds || Distance from calculated POC: 294 meters"
+ 5:04:22 "CLIENTLOG: Admin Tools: Smiggetti | any."
+ 5:04:48 "CLEANUP: Deleted 3 Loot Piles out of 166"
+ 5:04:58 Server: Object 13:215 not found (message 70)
+ 5:04:58 Server: Object 13:214 not found (message 70)
+ 5:04:58 Server: Object 13:213 not found (message 70)
+ 5:05:37 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
+ 5:05:37 "CLEANUP: Deleted 1 Animals out of 24"
+ 5:05:53 "CLEANUP: Deleted 2 Loot Piles out of 240"
+ 5:06:22 Server: Object 12:153 not found (message 94)
+ 5:06:22 Server: Object 12:151 not found (message 94)
+ 5:06:22 Server: Object 12:152 not found (message 94)
+ 5:06:22 Server: Object 12:154 not found (message 94)
+ 5:06:22 Server: Object 12:155 not found (message 94)
+ 5:06:22 Server: Object 12:156 not found (message 94)
+ 5:06:22 Server: Object 12:157 not found (message 94)
+ 5:06:22 Server: Object 12:158 not found (message 94)
+ 5:06:22 Server: Object 12:159 not found (message 70)
+ 5:06:22 Server: Object 12:160 not found (message 70)
+ 5:06:22 Server: Object 12:161 not found (message 70)
+ 5:06:22 Server: Object 12:164 not found (message 70)
+ 5:06:22 Server: Object 12:168 not found (message 70)
+ 5:06:22 Server: Object 12:162 not found (message 94)
+ 5:06:22 Server: Object 12:163 not found (message 94)
+ 5:06:22 Server: Object 12:167 not found (message 94)
+ 5:06:22 Server: Object 12:165 not found (message 94)
+ 5:06:22 Server: Object 12:166 not found (message 94)
+ 5:06:55 "CLEANUP: Deleted 8 Loot Piles out of 276"
+ 5:07:27 Server: Object 12:180 not found (message 91)
+ 5:07:27 Server: Object 12:179 not found (message 98)
+ 5:07:27 Server: Object 12:183 not found (message 70)
+ 5:07:27 Server: Object 12:184 not found (message 94)
+ 5:07:27 Server: Object 12:186 not found (message 94)
+ 5:07:27 Server: Object 12:188 not found (message 94)
+ 5:07:27 Server: Object 12:187 not found (message 70)
+ 5:07:27 Server: Object 12:185 not found (message 70)
+ 5:08:47 "CLIENTLOG: Admin Tools: Smiggetti | Deactivated Admin Mode."
+ 5:08:55 "CLEANUP: Deleted 4 Loot Piles out of 284"
