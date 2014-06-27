@@ -1639,3 +1639,11 @@ if(DZE_DeathMsgSide) then {
  8:06:30 Client: Remote object 7:145 not found
  8:06:30 Warning: Cleanup player - person 7:147 not found
  8:06:31 Warning: Cleanup player - person 7:147 not found
+ 8:09:36 "[DZMS]: Major SM5 Medical Ural Mission has Ended."
+ 8:09:58 "Purging player: 330b4080# 1067595: man_survivor.p3d"
+ 8:09:58 "Purging player: 30028080# 1067683: man_survivor.p3d"
+ 8:09:58 "TIME SYNC: Local Time set to [2013,8,3,18,9]"
+ 8:09:59 "CLEANUP: Deleted 2 players and 0 zombies out of 36 dead"
+ 8:10:02 "[DZMS]: Running Major Mission SM5."
+ 8:14:58 "TIME SYNC: Local Time set to [2013,8,3,18,14]"
+ 8:15:00 "RUNNING EVENT: supply_drop on [2014,6,27,18,15]"
