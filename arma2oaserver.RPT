@@ -507,3 +507,18 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 12:57:01 Server: Object 6:411 not found (message 99)
 12:57:01 Server: Object 6:412 not found (message 91)
 12:57:58 "CLEANUP: Deleted 62 Loot Piles out of 162"
+12:58:55 "CLEANUP: Deleted 16 Loot Piles out of 100"
+12:59:54 "CLEANUP: Deleted 5 Loot Piles out of 84"
+13:00:05 "RUNNING EVENT: crash_spawner on [2014,6,27,17,0]"
+13:00:05 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+13:00:05 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [6986,-630,1000] to [5703.74,7941.21] NOW!(TIME:2523||LT:MilitarySpecial)"
+13:00:54 "CLEANUP: Deleted 2 Loot Piles out of 79"
+13:00:55 Server: Object 6:471 not found (message 99)
+13:00:55 Server: Object 6:472 not found (message 91)
+13:01:51 "TIME SYNC: Local Time set to [2013,8,3,17,1]"
+13:01:54 "CLEANUP: Deleted 1 Loot Piles out of 77"
+13:03:55 "CLEANUP: Deleted 25 Loot Piles out of 77"
+13:06:51 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
+13:06:55 "CLEANUP: Deleted 32 Loot Piles out of 52"
