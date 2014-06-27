@@ -1761,3 +1761,19 @@ g from [1623.71,218.188,300] to [6951.8,8613.16] NOW!(TIME:8022||LT:MilitarySpec
  9:18:28 "HIVE: WRITE: "CHILD:388:129157127607011285:""
  9:18:28 "CUSTOM: Selected "4477""
  9:18:28 "PUBLISH: B 1-1-H:1 ([BOOTY] 4ASST) REMOTE Bought ArmoredSUV_PMC_DZE with ID "129157127607011285""
+ 9:19:59 "TIME SYNC: Local Time set to [2013,8,3,19,19]"
+ 9:20:49 "PUBLISH: Attempt 2d0f3040# 1061744: suv.p3d REMOTE"
+ 9:20:49 "HIVE: WRITE: "CHILD:308:3195:SUV_Camo_DZE2:0:3132:[171.654,[13854.4,11758.6,-0.0246196]]:[]:[]:1:138544117586211241:""
+ 9:20:50 "HIVE: WRITE: "CHILD:388:138544117586211241:""
+ 9:20:50 "CUSTOM: Selected "4478""
+ 9:20:50 "DELETE: B 1-1-E:1 (BluntScopes) REMOTE Deleted by ID: 3310"
+ 9:20:50 "PUBLISH: B 1-1-E:1 (BluntScopes) REMOTE Upgraded SUV_Camo_DZE2 with ID "138544117586211241""
+ 9:21:11 "CLEANUP: Deleted 9 Loot Piles out of 261"
+ 9:23:12 "CLEANUP: Deleted 6 Loot Piles out of 281"
+ 9:24:10 Server: Object 9:648 not found (message 70)
+ 9:24:10 Server: Object 9:649 not found (message 70)
+ 9:24:11 Server: Object 9:311 not found (message 70)
+ 9:24:17 "CLEANUP: Deleted 123 Loot Piles out of 319"
+ 9:24:59 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
+ 9:25:09 "CLEANUP: Deleted 9 Loot Piles out of 210"
+ 9:26:09 "CLEANUP: Deleted 1 Loot Piles out of 219"
