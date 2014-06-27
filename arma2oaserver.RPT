@@ -1590,3 +1590,22 @@ if(DZE_DeathMsgSide) then {
  7:37:30 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
  7:37:31 Server: Object 7:309 not found (message 278)
  7:37:44 Server: Object 7:309 not found (message 278)
+ 7:39:58 "TIME SYNC: Local Time set to [2013,8,3,17,39]"
+ 7:39:59 "Purging player: 31ed2040# 1067363: annie_original.p3d"
+ 7:39:59 "Purging player: 24974080# 1062224: man_survivor.p3d"
+ 7:39:59 "Purging player: 2ec6e040# 1064894: annie_original.p3d"
+ 7:39:59 "CLEANUP: Deleted 3 players and 0 zombies out of 31 dead"
+ 7:40:46 "DELETE: <null> Deleted by UID: 0"
+ 7:40:46 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 7:40:46   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 7:40:46   Error Undefined variable in expression: _activatingplayer
+ 7:40:46 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 7:40:52 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 7:40:55 Client: Object 8:143 (type Type_70) not found.
+ 7:44:58 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
+ 7:46:48 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 9477014352123120"
+ 7:46:48 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded Land_DZE_GarageWoodDoorLocked with ID "9477014352123120""
