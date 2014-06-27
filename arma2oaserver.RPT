@@ -870,3 +870,172 @@ _we>
  6:58:41 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
  6:58:48 Client: Object 7:79 (type Type_70) not found.
  6:58:48 Client: Object 7:79 (type Type_69) not found.
+ 6:58:59 Client: Object 6:781 (type Type_69) not found.
+ 6:58:59 Client: Object 6:781 (type Type_70) not found.
+ 6:59:07 "CLEANUP: Deleted 142 Loot Piles out of 172"
+ 6:59:16 "PHIT: B 1-1-E:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-B:1 (BluntScopes) REMOTE with T-34 from 55.5082m with 0.429411 dmg"
+ 6:59:16 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:59:16   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 6:59:16   Error Undefined variable in expression: _weapon
+ 6:59:16 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 6:59:58 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 6:59:58   Error position: <count _lastPos > 2 and count _charPos > >
+ 6:59:58   Error count: Type Number, expected Array,Config entry
+ 6:59:58 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 6:59:58 "TIME SYNC: Local Time set to [2013,8,3,16,59]"
+ 6:59:59 "get: STRING (234483142), sent: STRING (234483142)"
+ 6:59:59 "LOGOUT IN VEHICLE: [BOOTY] 4ASST at location [6558.2,7553.23,-0.615814]"
+ 6:59:59 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-E:1 ([BOOTY] 4ASST) REMOTE, _characterID: 375 at loc [6558.2,7553.23,-0.615814]"
+ 6:59:59 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 6:59:59   Error position: <count _lastPos > 2 and count _charPos > >
+ 6:59:59   Error count: Type Number, expected Array,Config entry
+ 6:59:59 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 6:59:59 Client: Remote object 3:217 not found
+ 7:00:02 "RUNNING EVENT: crash_spawner on [2014,6,27,17,0]"
+ 7:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 7:00:02 "CRASHSPAWNER: UH-60M started
+
+g from [15098,8144,300] to [3402.28,10480.6] NOW!(TIME:2626||LT:HeliCrash_No50s)"
+ 7:00:19 Server: Object 3:296 not found (message 70)
+ 7:00:41 "DELETE: <null> Deleted by UID: 0"
+ 7:00:41 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 7:00:41   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 7:00:41   Error Undefined variable in expression: _activatingplayer
+ 7:00:41 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 7:01:33 Client: Object 3:307 (type Type_69) not found.
+ 7:01:33 Client: Object 3:307 (type Type_70) not found.
+ 7:01:34 WARNING: Function 'name' - Miss Rachel  is dead
+ 7:01:34 "PKILL: Miss Rachel  was killed by Smiggetti with weapon AH-6J from 44.2497m"
+ 7:01:34 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 7:01:34   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 7:01:34   Error Undefined variable in expression: dze_deathmsgside
+ 7:01:34 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 7:01:34 "PDEATH: Player Died 235067846"
+ 7:01:51 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [357]. Position in debug! [-7239.67,19539.3,0.245575]"
+ 7:01:55 "get: STRING (235067846), sent: STRING (235067846)"
+ 7:01:55 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-A:1 (Miss Rachel ) REMOTE, _characterID: 357 at loc [-7239.67,19539.3,0.245575]"
+ 7:01:55 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [357]. Position in debug! [-7239.67,19539.3,0.245575]"
+ 7:01:55 Client: Remote object 7:2 not found
+ 7:01:55 Client: Remote object 7:106 not found
+ 7:01:55 Client: Remote object 7:105 not found
+ 7:02:18 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 7:02:18   Error position: <count _lastPos > 2 and count _charPos > >
+ 7:02:18   Error count: Type Number, expected Array,Config entry
+ 7:02:18 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 7:02:45 Client: Object 6:863 (type Type_70) not found.
+ 7:02:45 Client: Object 6:863 (type Type_69) not found.
+ 7:02:52 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 7:02:55 "CLIENTLOG: Admin Tools: Miss Rachel  | any."
+ 7:03:05 Client: Object 6:862 (type Type_70) not found.
+ 7:03:07 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 7:03:10 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 7:03:15 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 7:03:15   Error position: <count _lastPos > 2 and count _charPos > >
+ 7:03:15   Error count: Type Number, expected Array,Config entry
+ 7:03:15 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 7:03:17 "get: STRING (234483142), sent: STRING (234483142)"
+ 7:03:17 "LOGOUT IN VEHICLE: [BOOTY] 4ASST at location [11903.4,12822.6,-0.919006]"
+ 7:03:17 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-E:1 ([BOOTY] 4ASST) REMOTE, _characterID: 375 at loc [11903.4,12822.6,-0.919006]"
+ 7:03:17 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 7:03:17   Error position: <count _lastPos > 2 and count _charPos > >
+ 7:03:17   Error count: Type Number, expected Array,Config entry
+ 7:03:17 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 7:03:17 Client: Remote object 3:295 not found
+ 7:04:34 "DELETE: <null> Deleted by UID: 0"
+ 7:04:34 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 7:04:34   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 7:04:34   Error Undefined variable in expression: _activatingplayer
+ 7:04:34 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 7:04:52 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 7:04:58 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
+ 7:04:59 "CLEANUP: Deleted 10 Animals out of 31"
+ 7:05:02 "get: STRING (6863686), sent: STRING (6863686)"
+ 7:05:02 "DISCONNECT: Smiggetti (6863686) Object: B 1-1-D:1 (Smiggetti) REMOTE, _characterID: 373 at loc [11463.5,7481.42,0.555145]"
+ 7:05:02 Client: Remote object 6:2 not found
+ 7:05:02 Client: Remote object 6:8 not found
+ 7:05:08 Warning: Cleanup player - person 6:7 not found
+ 7:05:49 WARNING: Function 'name' - Miss Rachel  is dead
+ 7:05:49 WARNING: Function 'name' - Miss Rachel  is dead
+ 7:05:49 WARNING: Function 'name' - Miss Rachel  is dead
+ 7:05:49 "PDEATH: Player Died 235067846"
+ 7:05:49 Client: Object 7:135 (type Type_69) not found.
+ 7:05:49 Client: Object 7:135 (type Type_70) not found.
+ 7:05:50 Client: Object 5:69 (type Type_69) not found.
+ 7:05:50 Client: Object 5:69 (type Type_70) not found.
+ 7:06:10 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [376]. Position in debug! [-7239.67,19539.3,0.245575]"
+ 7:06:13 "get: STRING (235067846), sent: STRING (235067846)"
+ 7:06:13 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-D:1 (Miss Rachel ) REMOTE, _characterID: 376 at loc [-7239.67,19539.3,0.245575]"
+ 7:06:13 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [376]. Position in debug! [-7239.67,19539.3,0.245575]"
+ 7:06:14 "PDEATH: Player Died 4486214"
+ 7:06:27 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [372]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 7:06:28 "get: STRING (4486214), sent: STRING (4486214)"
+ 7:06:28 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-D:1 (BluntScopes) REMOTE, _characterID: 372 at loc [-7239.67,19539.3,0.245728]"
+ 7:06:28 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [372]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 7:06:28 Client: Remote object 5:0 not found
+ 7:06:33 Server: Object 7:155 not found (message 98)
+ 7:06:33 Server: Object 7:151 not found (message 99)
+ 7:06:33 Server: Object 7:152 not found (message 91)
+ 7:06:33 Server: Object 7:153 not found (message 98)
+ 7:06:33 Server: Object 7:154 not found (message 91)
+ 7:06:33 Server: Object 7:156 not found (message 91)
+ 7:06:33 Server: Object 7:157 not found (message 98)
+ 7:06:33 Server: Object 7:158 not found (message 91)
+ 7:06:33 Server: Object 7:160 not found (message 91)
+ 7:06:33 Server: Object 7:159 not found (message 99)
+ 7:06:33 Server: Object 7:162 not found (message 91)
+ 7:06:33 Server: Object 7:172 not found (message 98)
+ 7:06:33 Server: Object 7:173 not found (message 91)
+ 7:06:33 Server: Object 7:177 not found (message 91)
+ 7:06:33 Server: Object 7:176 not found (message 99)
+ 7:06:33 Server: Object 7:179 not found (message 91)
+ 7:06:33 Server: Object 7:178 not found (message 99)
+ 7:06:42 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 7:06:44 "CLIENTLOG: Admin Tools: Miss Rachel  | any."
+ 7:07:17 "TELEPORT REVERT for player UID#4486214 from [7292.15,2676.47,0.00136852] to [7290.54,2689.03,0.00143862], 13 meters, now at [7292.15,2676.47,0.00136852]"
+ 7:07:18 "TELEPORT REVERT for player UID#4486214 from [7292.15,2676.47,0.00136852] to [7290.27,2689.15,0.00143862], 13 meters, now at [7292.15,2676.47,0.00136852]"
+ 7:07:20 "CRASHSPAWNER: UH-60M just exploded at [3454.42,10518.7,1.2291]!, "
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3454.32,10514.7,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3459.91,10513.2,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3450.78,10523.1,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3458.26,10523.4,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3453.6,10523.5,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3449.99,10513.7,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3455.84,10523,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3460.47,10516,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3446.6,10511.7,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3446.86,10528.4,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3448.6,10529.6,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Loot spawn at '[3448.64,10515.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:20 "CRASHSPAWNER: Crash completed! Wreck at: [3454.42,10518.7,-0.00704956] - Runtime: 436 Seconds || Distance from calculated POC: 66 meters"
+ 7:08:13 "TELEPORT REVERT for player UID#4486214 from [7285.36,2690.85,-4.76837e-007] to [6586.61,7718.51,0.224487], 5084 meters, now at [6586.64,7729.89,2.96387]"
+ 7:08:42 "TELEPORT REVERT for player UID#4486214 from [6512.05,7291.61,0.0815735] to [6509.08,7301.29,0.0015564], 10 meters, now at [6512.05,7291.61,0.0815735]"
