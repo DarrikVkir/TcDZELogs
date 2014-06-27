@@ -2189,3 +2189,39 @@ g from [6993.7,173.053,300] to [2918.72,14311.3] NOW!(TIME:17024||LT:Hospital)"
 11:07:11 "CRASHSPAWNER: Loot spawn at '[3002.67,14225.2,0]' with loot table 'Hospital'"
 11:07:11 "CRASHSPAWNER: Loot spawn at '[3012.9,14228.5,0]' with loot table 'Hospital'"
 11:07:11 "CRASHSPAWNER: Crash completed! Wreck at: [3007.52,14224,0.15329] - Runtime: 426 Seconds || Distance from calculated POC: 128 meters"
+11:09:13 Server: Object 12:117 not found (message 91)
+11:09:59 "TIME SYNC: Local Time set to [2013,8,3,21,9]"
+11:10:18 "CRASHSPAWNER: AH-1Z just exploded at [3788.32,11245.4,2.4057]!, "
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3785.07,11243.1,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3785.11,11241.2,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3788.32,11241.1,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3784.13,11252.2,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3795.65,11251.6,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3783.58,11234.6,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3794.88,11244.2,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3791.42,11249.3,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3781.6,11243.4,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Loot spawn at '[3793.88,11246.5,0]' with loot table 'MilitarySpecial'"
+11:10:18 "CRASHSPAWNER: Crash completed! Wreck at: [3788.33,11245.4,-0.00167847] - Runtime: 6010 Seconds || Distance from calculated POC: 53 meters"
+11:11:09 "CLEANUP: Deleted 1 Loot Piles out of 157"
+11:14:57 "[DZMS]: Minor SM9 renegades Mission has Ended."
+11:14:59 "TIME SYNC: Local Time set to [2013,8,3,21,14]"
+11:15:06 "RUNNING EVENT: supply_drop on [2014,6,27,21,15]"
+11:15:14 "[DZMS]: Running Minor Mission SM6."
+11:16:05 Server: Object 13:9 not found (message 70)
+11:18:35 Server: Object 13:37 not found (message 94)
+11:18:43 Server: Object 13:41 not found (message 94)
+11:18:43 Server: Object 13:44 not found (message 94)
+11:18:43 Server: Object 13:45 not found (message 94)
+11:18:43 Server: Object 13:42 not found (message 94)
+11:18:43 Server: Object 13:43 not found (message 94)
+11:18:43 Server: Object 13:47 not found (message 94)
+11:18:43 Server: Object 13:46 not found (message 94)
+11:18:49 Server: Object 12:164 not found (message 91)
+11:18:49 Server: Object 12:163 not found (message 99)
+11:18:49 Server: Object 12:170 not found (message 91)
+11:18:49 Server: Object 12:169 not found (message 99)
+11:18:49 Server: Object 12:180 not found (message 91)
+11:18:49 Server: Object 12:179 not found (message 99)
+11:18:50 Server: Object 12:185 not found (message 98)
+11:18:50 Server: Object 12:186 not found (message 91)
