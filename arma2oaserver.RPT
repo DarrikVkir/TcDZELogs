@@ -644,3 +644,13 @@ g from [1623.71,218.188,300] to [1758.74,10387.9] NOW!(TIME:7919||LT:HeliCrash_N
 14:37:55 "CLEANUP: Deleted 1 Loot Piles out of 39"
 14:38:51 Server: Object 6:747 not found (message 99)
 14:38:51 Server: Object 6:748 not found (message 91)
+14:39:47 "SAFE UNLOCKED: ID:0 UID:89269920950352 BY telconrar(120160390)"
+14:41:52 "TIME SYNC: Local Time set to [2013,8,3,18,41]"
+14:42:32 "get: STRING (199810246), sent: STRING (199810246)"
+14:42:32 "DISCONNECT: Marek (199810246) Object: B 1-1-B:1 (Marek) REMOTE, _characterID: 382 at loc [8953.37,9259.19,0.00152588]"
+14:42:32 Client: Remote object 6:561 not found
+14:42:33 "SAFE LOCKED: ID:0 UID:89269920950352 BY telconrar(120160390)"
+14:42:33 Warning: Cleanup player - person 6:560 not found
+14:42:55 "CLEANUP: Deleted 1 Loot Piles out of 31"
+14:46:43 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a 30m_plot_kit in/at Klen for 6x ItemGoldBar10oz"
+14:46:52 "TIME SYNC: Local Time set to [2013,8,3,18,46]"
