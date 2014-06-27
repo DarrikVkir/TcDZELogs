@@ -699,3 +699,33 @@ g from [15186,11857,300] to [5219.62,15345.6] NOW!(TIME:16080||LT:MilitarySpecia
 23:27:13 Client: Remote object 7:2 not found
 23:27:13 Client: Remote object 7:8 not found
 23:27:13 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+23:30:04 "RUNNING EVENT: crash_spawner on [2014,6,27,21,30]"
+23:30:04 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+23:30:04 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [1623.71,218.188,300] to [1191.86,2612.44] NOW!(TIME:17881||LT:MilitarySpecial)"
+23:30:15 "TIME SYNC: Local Time set to [2013,8,3,21,30]"
+23:30:19 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+23:30:20 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:30:21 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:30:23 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:30:24 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:30:24 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+23:30:25 "CRASHSPAWNER: AV-8B (LGB) just exploded at [1529.1,2637.58,7.09311]!, "
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1533.1,2637.7,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1530.31,2633.27,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1530.01,2645.17,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1530.69,2633.44,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1535.86,2637.03,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1534.91,2638.17,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1529.99,2645.59,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1534.05,2636.3,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1525.72,2640.69,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1530.86,2629.62,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Loot spawn at '[1533.09,2642.48,0]' with loot table 'MilitarySpecial'"
+23:30:25 "CRASHSPAWNER: Crash completed! Wreck at: [1529.01,2637.49,0.0286217] - Runtime: 21 Seconds || Distance from calculated POC: 339 meters"
+23:30:43 SetFace error: class CfgFaces.RodriguezHead.Face07 not found
+23:30:43 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face07 not found
+23:35:14 "CLEANUP: Deleted 2 Animals out of 3"
+23:35:15 "TIME SYNC: Local Time set to [2013,8,3,21,35]"
+23:35:25 "CLEANUP: Deleted 5 Loot Piles out of 139"
