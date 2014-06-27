@@ -411,3 +411,42 @@ _pos = g>
  0:58:21 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
  0:58:22 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
  0:58:41 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 0:59:00 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M24_des_EP1 in/at Stary for 6x ItemGoldBar"
+ 0:59:03 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
+ 0:59:26 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
+ 0:59:31 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+ 0:59:48 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 0:59:54 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 1:00:01 "RUNNING EVENT: crash_spawner on [2014,6,27,17,0]"
+ 1:00:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 1:00:01 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [7894.64,12013.6] NOW!(TIME:2563||LT:HeliCrash_No50s)"
+ 1:00:15 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 1:00:36 "TIME SYNC: Local Time set to [2013,8,3,17,0]"
+ 1:05:36 "TIME SYNC: Local Time set to [2013,8,3,17,5]"
+ 1:05:51 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+ 1:05:51 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 1:05:51   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 1:05:51   Error Undefined variable in expression: _vehicle1
+ 1:05:51 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+ 1:05:51 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 1:05:51   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 1:05:51   Error Undefined variable in expression: _object
+ 1:05:51 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 1:07:24 "[DZMS]: Running Major Mission SM3."
+ 1:08:39 "CLEANUP: Deleted 1 Loot Piles out of 83"
