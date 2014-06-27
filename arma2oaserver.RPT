@@ -532,3 +532,176 @@ g from [15186,11857,300] to [3553.57,10782.4] NOW!(TIME:4365||LT:MilitarySpecial
  1:58:24 Client: Remote object 6:2 not found
  1:58:24 Client: Remote object 6:8 not found
  1:58:39 "CLEANUP: Deleted 2 Loot Piles out of 37"
+ 1:59:03 Server: Object 6:455 not found (message 70)
+ 1:59:18 "get: STRING (23206790), sent: STRING (23206790)"
+ 1:59:18 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 369 at loc [5452.61,5777.01,0.00189209]"
+ 1:59:18 Client: Remote object 6:454 not found
+ 1:59:18 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 1:59:19 Warning: Cleanup player - person 6:453 not found
+ 2:00:06 "RUNNING EVENT: crash_spawner on [2014,6,27,18,0]"
+ 2:00:06 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Ural Wreck spawned at [11129,7953.38]"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11130.2,7949.58,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11128.8,7959.51,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11134.7,7950.44,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11130.4,7946.9,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11132.3,7944.69,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11138.3,7953.63,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11123.7,7961.95,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11115.6,7952.81,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11115,7958.5,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11123.7,7950.87,0.00549316]' with loot table 'Military'"
+ 2:00:06 "CRASHSPAWNER: Loot spawn at '[11134.6,7959.8,0.00549316]' with loot table 'Military'"
+ 2:00:36 "TIME SYNC: Local Time set to [2013,8,3,18,0]"
+ 2:01:39 "CLEANUP: Deleted 1 Loot Piles out of 46"
+ 2:02:15 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 2:02:57 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:02:57   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:02:57   Error count: Type Number, expected Array,Config entry
+ 2:02:57 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:03:15 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:03:15   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:03:15   Error count: Type Number, expected Array,Config entry
+ 2:03:15 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:03:33 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:03:33   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:03:33   Error count: Type Number, expected Array,Config entry
+ 2:03:33 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:03:39 "CLEANUP: Deleted 2 Loot Piles out of 46"
+ 2:03:49 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:03:49   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:03:49   Error count: Type Number, expected Array,Config entry
+ 2:03:49 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:04:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:04:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:04:25   Error count: Type Number, expected Array,Config entry
+ 2:04:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:04:44 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:04:44   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:04:44   Error count: Type Number, expected Array,Config entry
+ 2:04:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:05:28 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:05:28   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:05:28   Error count: Type Number, expected Array,Config entry
+ 2:05:28 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:05:36 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
+ 2:05:38 "CLEANUP: Deleted 21 Animals out of 33"
+ 2:05:44 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:05:44   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:05:44   Error count: Type Number, expected Array,Config entry
+ 2:05:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:05:56 "get: STRING (112666374), sent: STRING (112666374)"
+ 2:05:56 "DISCONNECT: sokol (112666374) Object: B 1-1-C:1 (sokol) REMOTE, _characterID: 82 at loc [5438.24,5774.5,0.735016]"
+ 2:05:56 Client: Remote object 3:8 not found
+ 2:05:56 Warning: Cleanup player - person 3:7 not found
+ 2:05:58 Warning: Cleanup player - person 3:7 not found
+ 2:06:00 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:00   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:00   Error count: Type Number, expected Array,Config entry
+ 2:06:00 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:06 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error count: Type Number, expected Array,Config entry
+ 2:06:06 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:06 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:06   Error count: Type Number, expected Array,Config entry
+ 2:06:06 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:20 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:20   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:20   Error count: Type Number, expected Array,Config entry
+ 2:06:20 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:22 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:22   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:22   Error count: Type Number, expected Array,Config entry
+ 2:06:22 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:27 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:27   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:27   Error count: Type Number, expected Array,Config entry
+ 2:06:27 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:28 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:28   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:28   Error count: Type Number, expected Array,Config entry
+ 2:06:28 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:42 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:42   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:42   Error count: Type Number, expected Array,Config entry
+ 2:06:42 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:06:56 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:06:56   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:06:56   Error count: Type Number, expected Array,Config entry
+ 2:06:56 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:09 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error count: Type Number, expected Array,Config entry
+ 2:07:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:09 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:09   Error count: Type Number, expected Array,Config entry
+ 2:07:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:10 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:10   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:10   Error count: Type Number, expected Array,Config entry
+ 2:07:10 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:31 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:31   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:31   Error count: Type Number, expected Array,Config entry
+ 2:07:31 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:43 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:43   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:43   Error count: Type Number, expected Array,Config entry
+ 2:07:43 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:50 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:50   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:50   Error count: Type Number, expected Array,Config entry
+ 2:07:50 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:07:51 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:07:51   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:07:51   Error count: Type Number, expected Array,Config entry
+ 2:07:51 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:01 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:01   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:01   Error count: Type Number, expected Array,Config entry
+ 2:08:01 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:15 "SAFE UNLOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 2:08:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:25   Error count: Type Number, expected Array,Config entry
+ 2:08:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:27 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:27   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:27   Error count: Type Number, expected Array,Config entry
+ 2:08:27 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 2:08:32 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 2:08:37 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 2:08:37   Error position: <count _lastPos > 2 and count _charPos > >
+ 2:08:37   Error count: Type Number, expected Array,Config entry
+ 2:08:37 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
