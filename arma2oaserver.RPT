@@ -1616,3 +1616,26 @@ if(DZE_DeathMsgSide) then {
  7:54:03 "CLEANUP: Deleted 1 Loot Piles out of 90"
  7:54:37 "ERROR: Cannot Sync Character Arkadiy Morozov as no characterID"
  7:54:58 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
+ 7:59:58 "TIME SYNC: Local Time set to [2013,8,3,17,59]"
+ 8:00:09 "RUNNING EVENT: crash_spawner on [2014,6,27,18,0]"
+ 8:00:10 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Ural Wreck spawned at [9642.49,15388.9]"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9645.52,15386.2,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9646.55,15391.9,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9645.82,15383.2,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9638.11,15380.1,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9649.78,15380.9,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9639.99,15385.2,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9649.55,15384.4,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9649.3,15396.7,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9647.87,15386.6,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9633.22,15388.5,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9632.2,15393,0.295441]' with loot table 'Military'"
+ 8:00:10 "CRASHSPAWNER: Loot spawn at '[9639.52,15385.3,0.295441]' with loot table 'Military'"
+ 8:04:58 "TIME SYNC: Local Time set to [2013,8,3,18,4]"
+ 8:06:30 "get: STRING (235067846), sent: STRING (235067846)"
+ 8:06:30 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-B:1 (Miss Rachel ) REMOTE, _characterID: 377 at loc [9465.4,14346.6,0.000869751]"
+ 8:06:30 Client: Remote object 7:146 not found
+ 8:06:30 Client: Remote object 7:145 not found
+ 8:06:30 Warning: Cleanup player - person 7:147 not found
+ 8:06:31 Warning: Cleanup player - person 7:147 not found
