@@ -2152,3 +2152,40 @@ g from [15098,8144,300] to [1081.22,9212.59] NOW!(TIME:15222||LT:HeliCrash_No50s
 10:55:09 "CLEANUP: Deleted 17 Loot Piles out of 164"
 10:58:10 "CLEANUP: Deleted 32 Loot Piles out of 147"
 10:58:50 Server: Object 9:1752 not found (message 91)
+10:59:59 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+11:00:05 "RUNNING EVENT: crash_spawner on [2014,6,27,21,0]"
+11:00:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+11:00:05 "CRASHSPAWNER: UH-60M MEV started
+
+g from [6993.7,173.053,300] to [2918.72,14311.3] NOW!(TIME:17024||LT:Hospital)"
+11:00:09 "CLEANUP: Deleted 18 Loot Piles out of 142"
+11:00:29 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Ural_UN_EP1 in/at Stary for 1x ItemGoldBar10oz"
+11:00:29 "DELETE: B 1-1-C:1 (Marek) REMOTE Deleted by ID: 4333"
+11:01:09 "CLEANUP: Deleted 11 Loot Piles out of 129"
+11:01:22 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a bizon_silenced in/at Stary for 5x ItemGoldBar"
+11:01:26 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a UZI_EP1 in/at Stary for 2x ItemGoldBar"
+11:02:06 Server: Object 12:66 not found (message 99)
+11:02:06 Server: Object 12:67 not found (message 91)
+11:02:06 Server: Object 12:68 not found (message 98)
+11:02:06 Server: Object 12:69 not found (message 91)
+11:02:06 Server: Object 12:71 not found (message 91)
+11:02:06 Server: Object 12:70 not found (message 99)
+11:02:06 Server: Object 12:73 not found (message 91)
+11:02:06 Server: Object 12:72 not found (message 99)
+11:03:10 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Skin_Priest_DZ in/at Stary for 1x ItemGoldBar"
+11:04:08 "CLEANUP: Deleted 3 Loot Piles out of 119"
+11:04:59 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+11:07:10 "CRASHSPAWNER: UH-60M MEV just exploded at [3007.52,14224,0.826294]!, "
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3006.96,14228,0]' with loot table 'Hospital'"
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3003.34,14217.5,0]' with loot table 'Hospital'"
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3001.98,14225.6,0]' with loot table 'Hospital'"
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3008.11,14218.3,0]' with loot table 'Hospital'"
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3008.24,14229.9,0]' with loot table 'Hospital'"
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3005.11,14231.8,0]' with loot table 'Hospital'"
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3005.13,14218,0]' with loot table 'Hospital'"
+11:07:10 "CRASHSPAWNER: Loot spawn at '[3016.91,14226.5,0]' with loot table 'Hospital'"
+11:07:11 "CRASHSPAWNER: Loot spawn at '[2998.57,14224.5,0]' with loot table 'Hospital'"
+11:07:11 "CRASHSPAWNER: Loot spawn at '[3002.08,14222,0]' with loot table 'Hospital'"
+11:07:11 "CRASHSPAWNER: Loot spawn at '[3002.67,14225.2,0]' with loot table 'Hospital'"
+11:07:11 "CRASHSPAWNER: Loot spawn at '[3012.9,14228.5,0]' with loot table 'Hospital'"
+11:07:11 "CRASHSPAWNER: Crash completed! Wreck at: [3007.52,14224,0.15329] - Runtime: 426 Seconds || Distance from calculated POC: 128 meters"
