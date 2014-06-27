@@ -681,3 +681,35 @@ g from [1623.71,218.188,300] to [1758.74,10387.9] NOW!(TIME:7919||LT:HeliCrash_N
 15:11:52 "TIME SYNC: Local Time set to [2013,8,3,19,11]"
 15:15:05 "RUNNING EVENT: supply_drop on [2014,6,27,19,15]"
 15:16:52 "TIME SYNC: Local Time set to [2013,8,3,19,16]"
+15:20:59 "CLEANUP: Deleted 6 Loot Piles out of 147"
+15:21:52 "TIME SYNC: Local Time set to [2013,8,3,19,21]"
+15:22:59 "CLEANUP: Deleted 2 Loot Piles out of 141"
+15:23:59 "CLEANUP: Deleted 1 Loot Piles out of 139"
+15:24:47 "CRASHSPAWNER: UH-1H just exploded at [1784.46,10410.7,4.14619]!, "
+15:24:47 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+15:24:47 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+15:24:47 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1782.74,10414.3,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1783.4,10406.6,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1778.52,10413.6,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1779.88,10412.7,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1785.56,10403,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1786.47,10414.6,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1784.07,10416.6,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1781.71,10406.5,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Loot spawn at '[1782.51,10418.9,0]' with loot table 'HeliCrash_No50s'"
+15:24:47 "CRASHSPAWNER: Crash completed! Wreck at: [1784.46,10410.7,-0.0287018] - Runtime: 3285 Seconds || Distance from calculated POC: 35 meters"
+15:26:00 "CLEANUP: Deleted 5 Loot Piles out of 194"
+15:26:12 Server: Object 3:1134 not found (message 70)
+15:26:12 Server: Object 3:1137 not found (message 94)
+15:26:12 Server: Object 3:1136 not found (message 94)
+15:26:12 Server: Object 3:1135 not found (message 94)
+15:26:12 Server: Object 3:1133 not found (message 94)
+15:26:52 "TIME SYNC: Local Time set to [2013,8,3,19,26]"
+15:27:11 "get: STRING (9375302), sent: STRING (9375302)"
+15:27:11 "DISCONNECT: Cripto (9375302) Object: B 1-1-A:1 (Cripto) REMOTE, _characterID: 0 at loc [-7245.22,19535.3,1.07932]"
+15:27:11 "ERROR: Cannot Sync Character Cripto as no characterID"
+15:27:11 Client: Remote object 8:2 not found
+15:27:11 Client: Remote object 2:7301 not found
+15:27:11 Client: Remote object 2:7302 not found
+15:27:11 Client: Remote object 2:7303 not found
