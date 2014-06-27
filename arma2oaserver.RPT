@@ -233,3 +233,26 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 18:33:19 "[DZMS]: Running Major Mission SM4."
 18:35:13 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
 18:38:39 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a Mk_48_DZ in/at Hero Trader for 1x ItemGoldBar10oz"
+18:39:01 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a FN_FAL in/at Hero Trader for 5x ItemGoldBar"
+18:39:42 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a FN_FAL_ANPVS4 in/at Hero Trader for 1x ItemGoldBar10oz"
+18:40:04 "EPOCH SERVERTRADE: Player: Cripto (9375302) sold a FN_FAL_ANPVS4 in/at Hero Trader for 1x ItemGoldBar10oz"
+18:40:13 "TIME SYNC: Local Time set to [2013,8,3,16,40]"
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:41:33 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:45:13 "TIME SYNC: Local Time set to [2013,8,3,16,45]"
+18:46:15 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+18:48:12 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
