@@ -1192,3 +1192,56 @@ g from [1623.71,218.188,300] to [6643.39,8774.17] NOW!(TIME:18761||LT:MilitarySp
  5:36:59 "CLEANUP: Deleted 4 Loot Piles out of 323"
  5:37:19 "CLIENTLOG: Admin Tools: Smiggetti | Activated Admin Mode."
  5:37:57 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 5:38:58 "CLEANUP: Deleted 1 Loot Piles out of 322"
+ 5:39:27 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 5:39:58 "CLEANUP: Deleted 1 Loot Piles out of 323"
+ 5:40:37 "TIME SYNC: Local Time set to [2013,8,3,21,40]"
+ 5:40:47 "CLIENTLOG: Admin Tools: Smiggetti | any."
+ 5:41:18 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 5:41:21 WARNING: Function 'name' - Smiggetti is dead
+ 5:41:21 "PDEATH: Player Died 6863686"
+ 5:41:47 "ERROR: server_playerSync: Cannot Sync Player Smiggetti [198]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 5:41:48 "get: STRING (6863686), sent: STRING (6863686)"
+ 5:41:48 "DISCONNECT: Smiggetti (6863686) Object: B 1-1-A:1 (Smiggetti) REMOTE, _characterID: 198 at loc [-7239.67,19539.3,0.245728]"
+ 5:41:48 "ERROR: server_playerSync: Cannot Sync Player Smiggetti [198]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 5:41:48 Client: Remote object 15:0 not found
+ 5:41:48 Client: Remote object 15:155 not found
+ 5:41:48 Client: Remote object 15:154 not found
+ 5:41:48 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 5:41:58 "CLEANUP: Deleted 5 Loot Piles out of 322"
+ 5:43:06 "CRASHSPAWNER: Ka-52 (black) just exploded at [8189,6535.58,2.13895]!, "
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8191.83,6538.4,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8193.7,6530.68,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8199.17,6532.88,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8192.16,6544.34,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8199.18,6539.61,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8184.39,6542.33,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8184.26,6532.05,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8195.38,6542.88,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8194.94,6525.22,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8195.58,6535.32,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8195.92,6533.22,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Loot spawn at '[8184.98,6543.21,0]' with loot table 'MilitarySpecial'"
+ 5:43:06 "CRASHSPAWNER: Crash completed! Wreck at: [8189.02,6535.66,-0.0100098] - Runtime: 9782 Seconds || Distance from calculated POC: 9161 meters"
+ 5:43:25 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 5:43:59 "CLEANUP: Deleted 12 Loot Piles out of 327"
+ 5:44:57 "CLEANUP: Deleted 2 Loot Piles out of 315"
+ 5:45:37 "TIME SYNC: Local Time set to [2013,8,3,21,45]"
+ 5:45:57 "CLEANUP: Deleted 1 Loot Piles out of 311"
+ 5:46:58 "CLEANUP: Deleted 4 Loot Piles out of 310"
+ 5:47:27 "PHIT: B 1-1-F:1 (BluntScopes) REMOTE was hit by B 1-1-D:1 ([BOOTY] 4ASST) REMOTE with SUV Blue from 0m with 0.125808 dmg"
+ 5:47:27 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 5:47:27   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 5:47:27   Error Undefined variable in expression: _weapon
+ 5:47:27 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 5:47:37 "CLIENTLOG: Admin Tools: Smiggetti | Activated Admin Mode."
+ 5:47:58 "CLEANUP: Deleted 2 Loot Piles out of 308"
+ 5:48:33 Server: Object 16:323 not found (message 99)
+ 5:48:33 Server: Object 16:324 not found (message 91)
