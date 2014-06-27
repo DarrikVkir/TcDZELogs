@@ -1317,3 +1317,83 @@ _we>
  5:56:27 Warning: Cleanup player - person 12:383 not found
  5:57:48 "CLEANUP: Deleted 3 Loot Piles out of 119"
  5:58:37 "CLIENTLOG: Admin Tools: Smiggetti | Activated Admin Mode."
+ 5:59:48 "CLEANUP: Deleted 2 Loot Piles out of 120"
+ 6:00:09 "RUNNING EVENT: crash_spawner on [2014,6,27,22,0]"
+ 6:00:09 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 6:00:09 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [8266.06,6054.43] NOW!(TIME:20565||LT:Hospital)"
+ 6:00:37 "Purging player: 2f9fc080# 1065135: ghillie_overall.p3d"
+ 6:00:37 "CLEANUP: Deleted 1 players and 0 zombies out of 23 dead"
+ 6:00:37 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+ 6:02:15 Server: Object 16:347 not found (message 98)
+ 6:02:15 Server: Object 16:348 not found (message 91)
+ 6:02:22 Server: Object 16:350 not found (message 91)
+ 6:02:22 Server: Object 16:349 not found (message 98)
+ 6:02:42 Server: Object 16:353 not found (message 98)
+ 6:02:42 Server: Object 16:354 not found (message 91)
+ 6:02:42 Server: Object 16:356 not found (message 91)
+ 6:02:42 Server: Object 16:355 not found (message 99)
+ 6:02:42 Server: Object 16:357 not found (message 98)
+ 6:02:43 Server: Object 16:358 not found (message 91)
+ 6:02:43 Server: Object 16:360 not found (message 91)
+ 6:02:43 Server: Object 16:359 not found (message 98)
+ 6:02:43 Server: Object 16:362 not found (message 91)
+ 6:02:43 Server: Object 16:361 not found (message 99)
+ 6:02:43 Server: Object 16:364 not found (message 91)
+ 6:02:43 Server: Object 16:363 not found (message 99)
+ 6:02:43 Server: Object 16:366 not found (message 91)
+ 6:02:43 Server: Object 16:365 not found (message 99)
+ 6:02:43 Server: Object 16:368 not found (message 91)
+ 6:02:43 Server: Object 16:367 not found (message 99)
+ 6:02:43 Server: Object 16:370 not found (message 91)
+ 6:02:43 Server: Object 16:369 not found (message 99)
+ 6:02:43 Server: Object 16:372 not found (message 91)
+ 6:02:43 Server: Object 16:371 not found (message 99)
+ 6:02:43 Server: Object 16:374 not found (message 91)
+ 6:02:43 Server: Object 16:373 not found (message 99)
+ 6:02:43 Server: Object 16:376 not found (message 91)
+ 6:02:43 Server: Object 16:375 not found (message 99)
+ 6:02:43 Server: Object 16:378 not found (message 91)
+ 6:02:43 Server: Object 16:377 not found (message 99)
+ 6:02:43 Server: Object 16:380 not found (message 91)
+ 6:02:43 Server: Object 16:379 not found (message 99)
+ 6:02:43 Server: Object 16:382 not found (message 91)
+ 6:02:43 Server: Object 16:381 not found (message 99)
+ 6:02:43 Server: Object 16:384 not found (message 91)
+ 6:02:43 Server: Object 16:383 not found (message 99)
+ 6:02:43 Server: Object 16:386 not found (message 91)
+ 6:02:43 Server: Object 16:385 not found (message 99)
+ 6:02:49 "CLEANUP: Deleted 1 Loot Piles out of 141"
+ 6:03:50 "CLEANUP: Deleted 1 Loot Piles out of 146"
+ 6:05:37 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
+ 6:05:38 "CLEANUP: Deleted 15 Animals out of 26"
+ 6:05:52 "CRASHSPAWNER: UH-60M MEV just exploded at [8331.91,6030.6,0.0567322]!, "
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8332.86,6026.72,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8331.33,6038.42,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8342.26,6025.89,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8319.67,6024.08,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8339.96,6021.26,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8318.7,6029.15,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8337.61,6026.37,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8323.52,6032.56,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8334.55,6026.99,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8336.72,6034.49,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8325.77,6029.51,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8335.62,6035.33,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Loot spawn at '[8329.85,6024.13,0]' with loot table 'Hospital'"
+ 6:05:52 "CRASHSPAWNER: Crash completed! Wreck at: [8331.91,6030.6,-0.0921936] - Runtime: 343 Seconds || Distance from calculated POC: 70 meters"
+ 6:06:13 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+ 6:06:22 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+ 6:06:30 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+ 6:06:39 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+ 6:06:47 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+ 6:07:24 "CLIENTLOG: Admin Tools: Smiggetti | any."
+ 6:07:49 "CLEANUP: Deleted 1 Loot Piles out of 164"
+ 6:08:41 Server: Object 16:426 not found (message 98)
+ 6:08:41 Server: Object 16:427 not found (message 91)
+ 6:08:41 Server: Object 16:429 not found (message 91)
+ 6:08:41 Server: Object 16:428 not found (message 99)
+ 6:08:41 Server: Object 16:430 not found (message 99)
+ 6:08:41 Server: Object 16:431 not found (message 91)
+ 6:08:49 "CLEANUP: Deleted 1 Loot Piles out of 163"
