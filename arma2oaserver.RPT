@@ -945,3 +945,5 @@ if (count _lastPos > 2 and count _charPos > >
  2:30:41 "CLEANUP: Deleted 20 Loot Piles out of 74"
  2:35:36 "TIME SYNC: Local Time set to [2013,8,3,18,35]"
  2:35:40 "CLEANUP: Deleted 4 Loot Piles out of 54"
+ 2:40:36 "TIME SYNC: Local Time set to [2013,8,3,18,40]"
+ 2:45:36 "TIME SYNC: Local Time set to [2013,8,3,18,45]"
