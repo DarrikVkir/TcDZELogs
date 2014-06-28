@@ -2256,3 +2256,6 @@ if (count _lastPos > 2 and count _charPos > >
  3:55:54 Client: Object 6:151 (type Type_70) not found.
  3:55:56 Client: Object 6:151 (type Type_70) not found.
  3:55:58 Client: Object 6:151 (type Type_70) not found.
+ 3:55:59 Client: Object 6:151 (type Type_69) not found.
+ 3:56:00 Client: Object 6:151 (type Type_70) not found.
+ 3:56:02 Client: Object 6:151 (type Type_70) not found.
