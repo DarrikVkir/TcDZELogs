@@ -303,3 +303,8 @@ g from [6993.7,173.053,300] to [6103.3,13979] NOW!(TIME:2522||LT:HeliCrash_No50s
  1:13:32 "PUBLISH: B 1-1-D:1 (DarrikVkir [BOOTY]) REMOTE upgraded CinderWall_DZ with ID "543635784520133""
  1:15:05 "RUNNING EVENT: supply_drop on [2014,6,28,17,15]"
  1:16:22 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+ 1:21:00 "DELETE: B 1-1-D:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543655780822223"
+ 1:21:22 "TIME SYNC: Local Time set to [2013,8,3,17,21]"
+ 1:23:43 "DELETE: B 1-1-D:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 544035780724133"
+ 1:25:02 "DELETE: B 1-1-D:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543745782818359"
+ 1:26:22 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
