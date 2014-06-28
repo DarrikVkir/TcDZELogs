@@ -581,3 +581,164 @@ _pos = g>
  3:17:10 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M40A3 in/at Stary for 6x ItemGoldBar"
  3:17:17 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M40A3 in/at Stary for 6x ItemGoldBar"
  3:17:31 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M4A1_HWS_GL_camo in/at Stary for 4x ItemGoldBar"
+ 3:19:00 "EPOCH SERVERTRADE: Player: sokol (112666374) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
+ 3:19:10 "EPOCH SERVERTRADE: Player: sokol (112666374) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
+ 3:19:20 "EPOCH SERVERTRADE: Player: sokol (112666374) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
+ 3:19:29 "CLEANUP: Deleted 4 Loot Piles out of 140"
+ 3:19:31 "EPOCH SERVERTRADE: Player: sokol (112666374) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
+ 3:19:41 "EPOCH SERVERTRADE: Player: sokol (112666374) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
+ 3:20:50 Server: Network message 31321f is pending
+ 3:20:50 Server: Network message 313220 is pending
+ 3:20:50 Server: Network message 313221 is pending
+ 3:20:50 Server: Network message 313222 is pending
+ 3:20:50 Server: Network message 313223 is pending
+ 3:20:50 Server: Network message 31322c is pending
+ 3:20:50 Server: Network message 313231 is pending
+ 3:20:50 Server: Network message 313234 is pending
+ 3:20:50 Server: Network message 313235 is pending
+ 3:20:50 Server: Network message 313236 is pending
+ 3:20:50 Server: Network message 313239 is pending
+ 3:20:50 Server: Network message 31323a is pending
+ 3:20:50 Server: Network message 31323b is pending
+ 3:20:50 Server: Network message 31323c is pending
+ 3:20:50 Server: Network message 313240 is pending
+ 3:20:50 Server: Network message 313243 is pending
+ 3:20:50 Server: Network message 31324b is pending
+ 3:20:50 Server: Network message 31324c is pending
+ 3:20:50 Server: Network message 31324d is pending
+ 3:20:50 Server: Network message 31324e is pending
+ 3:20:50 Server: Network message 313252 is pending
+ 3:20:51 Server: Network message 31325e is pending
+ 3:20:51 Server: Network message 31325e is pending
+ 3:20:51 Server: Network message 31325f is pending
+ 3:20:51 Server: Network message 31326a is pending
+ 3:20:51 Server: Network message 313278 is pending
+ 3:20:51 Server: Network message 313279 is pending
+ 3:20:51 Server: Network message 31327c is pending
+ 3:20:52 Server: Network message 313300 is pending
+ 3:20:52 Server: Network message 313301 is pending
+ 3:20:52 Server: Network message 313302 is pending
+ 3:20:52 Server: Network message 313303 is pending
+ 3:20:52 Server: Network message 313304 is pending
+ 3:20:52 Server: Network message 313305 is pending
+ 3:20:52 Server: Network message 313306 is pending
+ 3:20:52 Server: Network message 313307 is pending
+ 3:20:52 Server: Network message 313308 is pending
+ 3:20:52 Server: Network message 313309 is pending
+ 3:20:52 Server: Network message 31330a is pending
+ 3:20:52 Server: Network message 31330b is pending
+ 3:20:52 Server: Network message 31330b is pending
+ 3:20:52 Server: Network message 31330c is pending
+ 3:20:52 Server: Network message 31330d is pending
+ 3:20:52 Server: Network message 31330e is pending
+ 3:20:52 Server: Network message 31330f is pending
+ 3:20:52 Server: Network message 313310 is pending
+ 3:20:52 Server: Network message 313311 is pending
+ 3:20:52 Server: Network message 313312 is pending
+ 3:20:52 Server: Network message 313313 is pending
+ 3:20:52 Server: Network message 313314 is pending
+ 3:20:52 Server: Network message 313315 is pending
+ 3:20:52 Server: Network message 313316 is pending
+ 3:20:52 Server: Network message 313317 is pending
+ 3:20:52 Server: Network message 31332b is pending
+ 3:20:52 Server: Network message 31332c is pending
+ 3:20:52 Server: Network message 31332d is pending
+ 3:20:52 Server: Network message 31332e is pending
+ 3:20:52 Server: Network message 31332f is pending
+ 3:20:52 Server: Network message 313330 is pending
+ 3:20:52 Server: Network message 313331 is pending
+ 3:20:52 Server: Network message 313332 is pending
+ 3:20:52 Server: Network message 313333 is pending
+ 3:20:52 Server: Network message 313334 is pending
+ 3:20:52 Server: Network message 313335 is pending
+ 3:20:52 Server: Network message 313336 is pending
+ 3:20:52 Server: Network message 313337 is pending
+ 3:20:52 Server: Network message 313338 is pending
+ 3:20:52 Server: Network message 313339 is pending
+ 3:20:52 Server: Network message 31333a is pending
+ 3:20:52 Server: Network message 31333b is pending
+ 3:20:52 Server: Network message 31333c is pending
+ 3:20:52 Server: Network message 31333d is pending
+ 3:20:52 Server: Network message 31333e is pending
+ 3:20:52 Server: Network message 31333f is pending
+ 3:20:52 Server: Network message 313340 is pending
+ 3:20:52 Server: Network message 313341 is pending
+ 3:20:52 Server: Network message 313342 is pending
+ 3:20:52 Server: Network message 313343 is pending
+ 3:20:52 Server: Network message 31334f is pending
+ 3:20:52 Server: Network message 313350 is pending
+ 3:21:09 "get: STRING (23206790), sent: STRING (23206790)"
+ 3:21:09 "LOGOUT IN VEHICLE: DarrikVkir [BOOTY] at location [6312.91,7810.61,1.84631]"
+ 3:21:09 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 384 at loc [6312.91,7810.61,1.84631]"
+ 3:21:09 Client: Remote object 4:391 not found
+ 3:21:09 Client: Remote object 4:390 not found
+ 3:21:10 "TELEPORT REVERT for player UID#112666374 from [6261.66,7819.42,-0.00961304] to [6248.31,7814.21,0.0700989], 14 meters, now at [6261.66,7819.42,-0.00961304]"
+ 3:21:22 "TIME SYNC: Local Time set to [2013,8,3,19,21]"
+ 3:21:22 "CLEANUP: Deleted 7 Animals out of 12"
+ 3:21:38 "PDEATH: Player Died 112666374"
+ 3:21:44 SetFace error: class CfgFaces.RodriguezHead.Face07 not found
+ 3:21:44 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face07 not found
+ 3:21:44 SetFace error: class CfgFaces.RodriguezHead.Face07 not found
+ 3:21:44 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face07 not found
+ 3:22:26 "ERROR: server_playerSync: Cannot Sync Player sokol [82]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 3:22:27 "get: STRING (112666374), sent: STRING (112666374)"
+ 3:22:27 "DISCONNECT: sokol (112666374) Object: B 1-1-A:1 (sokol) REMOTE, _characterID: 82 at loc [-7239.67,19539.3,0.24588]"
+ 3:22:27 "ERROR: server_playerSync: Cannot Sync Player sokol [82]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 3:22:29 "CLEANUP: Deleted 2 Loot Piles out of 122"
+ 3:24:24 Server: Object 6:9 not found (message 70)
+ 3:24:52 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 3:24:53 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 3:24:55 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 3:24:56 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 3:25:34 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 3:26:22 "TIME SYNC: Local Time set to [2013,8,3,19,26]"
+ 3:27:13 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:27:13   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:27:13   Error count: Type Number, expected Array,Config entry
+ 3:27:13 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:27:27 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:27:27   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:27:27   Error count: Type Number, expected Array,Config entry
+ 3:27:27 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:27:37 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:27:37   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:27:37   Error count: Type Number, expected Array,Config entry
+ 3:27:37 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:27:47 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:27:47   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:27:47   Error count: Type Number, expected Array,Config entry
+ 3:27:47 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:27:58 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:27:58   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:27:58   Error count: Type Number, expected Array,Config entry
+ 3:27:58 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:28:08 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:28:08   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:28:08   Error count: Type Number, expected Array,Config entry
+ 3:28:08 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:28:18 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:28:18   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:28:18   Error count: Type Number, expected Array,Config entry
+ 3:28:18 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:28:28 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:28:28   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:28:28   Error count: Type Number, expected Array,Config entry
+ 3:28:28 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:28:38 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:28:38   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:28:38   Error count: Type Number, expected Array,Config entry
+ 3:28:38 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:28:48 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:28:48   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:28:48   Error count: Type Number, expected Array,Config entry
+ 3:28:48 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
