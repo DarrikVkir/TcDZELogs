@@ -1308,3 +1308,12 @@ if(DZE_DeathMsgSide) then {
 10:18:24 Client: Remote object 5:2 not found
 10:18:24 Client: Remote object 2:9 not found
 10:18:24 Client: Remote object 2:10 not found
+10:19:19 "CLEANUP: Deleted 1 Loot Piles out of 129"
+10:21:08 "TIME SYNC: Local Time set to [2013,8,3,20,21]"
+10:21:10 "CLEANUP: Deleted 6 Animals out of 64"
+10:22:20 "CLEANUP: Deleted 11 Loot Piles out of 131"
+10:26:00 Server: Object 5:573 not found (message 99)
+10:26:00 Server: Object 5:574 not found (message 91)
+10:26:01 Server: Object 5:590 not found (message 91)
+10:26:01 Server: Object 5:589 not found (message 98)
+10:26:09 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
