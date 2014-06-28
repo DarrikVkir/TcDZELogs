@@ -5890,3 +5890,27 @@ if (count _lastPos > 2 and count _charPos > >
  5:02:08 Client: Object 6:151 (type Type_69) not found.
  5:02:09 Client: Object 6:151 (type Type_70) not found.
  5:02:11 Client: Object 6:151 (type Type_70) not found.
+ 5:02:13 Client: Object 6:151 (type Type_70) not found.
+ 5:02:13 Client: Object 6:151 (type Type_69) not found.
+ 5:02:15 Client: Object 6:151 (type Type_70) not found.
+ 5:02:17 Client: Object 6:151 (type Type_70) not found.
+ 5:02:17 "CRASHSPAWNER: A-10 just exploded at [12293.4,12672.8,4.2605]!, "
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12292.4,12668.9,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12289,12671.2,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12288.5,12676.8,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12297.2,12665,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12287.2,12664.1,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12290.1,12670.1,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12290.2,12669.2,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12294.8,12669,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Loot spawn at '[12292.2,12666.5,0]' with loot table 'MilitarySpecial'"
+ 5:02:17 "CRASHSPAWNER: Crash completed! Wreck at: [12293.4,12672.8,1.52588e-005] - Runtime: 128 Seconds || Distance from calculated POC: 291 meters"
+ 5:02:17 "SAFE UNLOCKED: ID:1096 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 5:02:18 Client: Object 6:151 (type Type_69) not found.
+ 5:02:19 Client: Object 6:151 (type Type_70) not found.
+ 5:02:19 Server: Object 6:1476 not found (message 94)
+ 5:02:19 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:02:19   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:02:19   Error count: Type Number, expected Array,Config entry
+ 5:02:19 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
