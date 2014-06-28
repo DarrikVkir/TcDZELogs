@@ -5631,3 +5631,16 @@ if (count _lastPos > 2 and count _charPos > >
  4:57:36 Client: Object 6:151 (type Type_70) not found.
  4:57:38 "CLEANUP: Deleted 2 Loot Piles out of 281"
  4:57:38 Client: Object 6:151 (type Type_70) not found.
+ 4:57:40 Client: Object 6:151 (type Type_70) not found.
+ 4:57:40 Client: Object 6:151 (type Type_69) not found.
+ 4:57:41 "DELETE: <null> Deleted by ID: 3280"
+ 4:57:41 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 4:57:41   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 4:57:41   Error Undefined variable in expression: _activatingplayer
+ 4:57:41 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
