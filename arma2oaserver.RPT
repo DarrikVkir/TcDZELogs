@@ -394,3 +394,17 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  6:25:40 Server: Object 4:184 not found (message 70)
  6:25:40 Server: Object 4:183 not found (message 70)
  6:26:07 "TIME SYNC: Local Time set to [2013,8,3,16,26]"
+ 6:30:08 "RUNNING EVENT: crash_spawner on [2014,6,28,16,30]"
+ 6:30:09 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 6:30:09 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [5148.48,8918.9] NOW!(TIME:771||LT:HeliCrash_No50s)"
+ 6:31:07 "TIME SYNC: Local Time set to [2013,8,3,16,31]"
+ 6:31:29 Server: Object 4:274 not found (message 94)
+ 6:31:29 Server: Object 4:276 not found (message 70)
+ 6:31:29 Server: Object 4:275 not found (message 70)
+ 6:34:17 Server: Object 4:290 not found (message 70)
+ 6:34:17 Server: Object 4:293 not found (message 94)
+ 6:34:17 Server: Object 4:292 not found (message 70)
+ 6:34:17 Server: Object 4:291 not found (message 70)
+ 6:36:07 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
