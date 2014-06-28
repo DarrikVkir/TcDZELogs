@@ -3328,3 +3328,13 @@ if (count _lastPos > 2 and count _charPos > >
  4:15:01 Client: Object 6:151 (type Type_70) not found.
  4:15:03 "RUNNING EVENT: supply_drop on [2014,6,28,20,15]"
  4:15:03 Client: Object 6:151 (type Type_69) not found.
+ 4:15:03 Client: Object 6:151 (type Type_70) not found.
+ 4:15:05 Client: Object 6:151 (type Type_70) not found.
+ 4:15:07 Client: Object 6:151 (type Type_70) not found.
+ 4:15:07 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:15:07   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:15:07   Error count: Type Number, expected Array,Config entry
+ 4:15:07 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:15:08 Client: Object 6:151 (type Type_69) not found.
+ 4:15:09 Client: Object 6:151 (type Type_70) not found.
