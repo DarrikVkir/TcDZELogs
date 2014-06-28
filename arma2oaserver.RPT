@@ -1049,3 +1049,37 @@ g from [10450,-630,1000] to [10336.6,8085.19] NOW!(TIME:9763||LT:MilitarySpecial
  9:16:17 "CLEANUP: Deleted 1 Loot Piles out of 158"
  9:17:17 "CLEANUP: Deleted 13 Loot Piles out of 169"
  9:18:17 "CLEANUP: Deleted 6 Loot Piles out of 156"
+ 9:19:48 "[DZMS]: Minor SM12 Ural Crash Mission has Ended."
+ 9:19:53 "[DZMS]: Running Minor Mission SM13."
+ 9:20:18 "CLEANUP: Deleted 17 Loot Piles out of 154"
+ 9:21:08 "TIME SYNC: Local Time set to [2013,8,3,19,21]"
+ 9:21:09 "CLEANUP: Deleted 1 Animals out of 47"
+ 9:21:17 "CLEANUP: Deleted 1 Loot Piles out of 137"
+ 9:22:17 "CLEANUP: Deleted 18 Loot Piles out of 137"
+ 9:23:16 "CLEANUP: Deleted 3 Loot Piles out of 119"
+ 9:24:12 Server: Object 15:57 not found (message 99)
+ 9:24:12 Server: Object 15:58 not found (message 91)
+ 9:24:12 Server: Object 15:60 not found (message 91)
+ 9:24:12 Server: Object 15:62 not found (message 91)
+ 9:24:17 "CLEANUP: Deleted 7 Loot Piles out of 116"
+ 9:24:22 "DELETE: <null> Deleted by UID: 0"
+ 9:24:22 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 9:24:22   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 9:24:22   Error Undefined variable in expression: _activatingplayer
+ 9:24:22 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 9:24:28 Server: Object 3:306 not found (message 98)
+ 9:24:28 Server: Object 3:307 not found (message 91)
+ 9:24:33 Server: Object 5:298 not found (message 99)
+ 9:24:33 Server: Object 5:299 not found (message 91)
+ 9:24:35 Server: Object 3:324 not found (message 98)
+ 9:24:35 Server: Object 3:325 not found (message 91)
+ 9:24:36 Server: Object 3:334 not found (message 98)
+ 9:24:36 Server: Object 3:335 not found (message 91)
+ 9:26:08 "TIME SYNC: Local Time set to [2013,8,3,19,26]"
+ 9:26:24 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 9:27:17 "CLEANUP: Deleted 4 Loot Piles out of 126"
+ 9:28:23 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
