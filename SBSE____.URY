@@ -5148,3 +5148,9 @@ if (count _lastPos > 2 and count _charPos > >
  4:48:35 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
  4:48:35 Client: Object 6:151 (type Type_70) not found.
  4:48:37 Client: Object 6:151 (type Type_70) not found.
+ 4:48:37 Client: Object 6:151 (type Type_69) not found.
+ 4:48:39 Client: Object 6:151 (type Type_70) not found.
+ 4:48:41 Client: Object 6:151 (type Type_70) not found.
+ 4:48:42 Client: Object 6:151 (type Type_69) not found.
+ 4:48:43 Client: Object 6:151 (type Type_70) not found.
+ 4:48:45 Client: Object 6:151 (type Type_70) not found.
