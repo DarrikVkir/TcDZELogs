@@ -2640,3 +2640,12 @@ if (count _lastPos > 2 and count _charPos > >
  4:03:46 "HIVE: WRITE: "CHILD:308:3195:MH60S_DZE:0:5881:[124,[12915.7,12760.7,0.00296021]]:[]:[]:1:129157127607013662:""
  4:03:47 "HIVE: WRITE: "CHILD:388:129157127607013662:""
  4:03:47 "CUSTOM: Selected "4542""
+ 4:03:47 "PUBLISH: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE Bought MH60S_DZE with ID "129157127607013662""
+ 4:03:47 Client: Object 6:151 (type Type_69) not found.
+ 4:03:48 Client: Object 6:151 (type Type_70) not found.
+ 4:03:49 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:03:49   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:03:49   Error count: Type Number, expected Array,Config entry
+ 4:03:49 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:03:50 Client: Object 6:151 (type Type_70) not found.
