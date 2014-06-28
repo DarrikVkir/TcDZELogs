@@ -6500,3 +6500,13 @@ if (count _lastPos > 2 and count _charPos > >
  5:12:00 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
  5:12:01 Client: Object 6:151 (type Type_70) not found.
  5:12:01 "SAFE UNLOCKED: ID:4517 UID:0 BY BluntScopes(4486214)"
+ 5:12:03 Client: Object 6:151 (type Type_69) not found.
+ 5:12:03 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:12:03   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:12:03   Error count: Type Number, expected Array,Config entry
+ 5:12:03 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:12:03 Client: Object 6:151 (type Type_70) not found.
+ 5:12:05 Client: Object 6:151 (type Type_70) not found.
+ 5:12:07 Client: Object 6:151 (type Type_70) not found.
+ 5:12:08 Client: Object 6:151 (type Type_69) not found.
