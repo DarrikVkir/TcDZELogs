@@ -6714,3 +6714,64 @@ if (count _lastPos > 2 and count _charPos > >
  5:26:33 "CLEANUP: Deleted 2 Loot Piles out of 115"
  5:27:33 "CLEANUP: Deleted 1 Loot Piles out of 113"
  5:28:33 "CLEANUP: Deleted 1 Loot Piles out of 112"
+ 5:29:17 "DELETE: B 1-1-G:1 (BluntScopes) REMOTE Deleted by UID: 0"
+ 5:30:03 "RUNNING EVENT: crash_spawner on [2014,6,28,21,30]"
+ 5:30:03 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Ural Wreck spawned at [12725.8,10211.7]"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12729.7,10210.9,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12729.9,10211.9,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12732.3,10211.3,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12724.9,10204.9,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12728.3,10206.5,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12722,10217,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12732.7,10215.7,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12734.4,10213.1,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12713.4,10214.4,0.00989914]' with loot table 'Military'"
+ 5:30:03 "CRASHSPAWNER: Loot spawn at '[12720.7,10214.3,0.00989914]' with loot table 'Military'"
+ 5:31:22 Server: Object 12:111 not found (message 70)
+ 5:31:23 "TIME SYNC: Local Time set to [2013,8,3,21,31]"
+ 5:32:11 Server: Object 12:121 not found (message 70)
+ 5:32:11 Server: Object 12:119 not found (message 94)
+ 5:32:11 Server: Object 12:120 not found (message 94)
+ 5:32:11 Server: Object 12:131 not found (message 70)
+ 5:32:11 Server: Object 12:130 not found (message 94)
+ 5:32:11 Server: Object 12:128 not found (message 94)
+ 5:32:11 Server: Object 12:129 not found (message 94)
+ 5:32:36 "CLEANUP: Deleted 1 Loot Piles out of 198"
+ 5:33:08 Server: Object 12:142 not found (message 99)
+ 5:33:08 Server: Object 12:143 not found (message 91)
+ 5:35:36 "CLEANUP: Deleted 6 Loot Piles out of 200"
+ 5:35:41 "SAFE UNLOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
+ 5:35:42 Server: Object 12:154 not found (message 94)
+ 5:35:42 Server: Object 12:153 not found (message 94)
+ 5:36:23 "TIME SYNC: Local Time set to [2013,8,3,21,36]"
+ 5:36:24 "CLEANUP: Deleted 7 Animals out of 40"
+ 5:37:11 Server: Object 12:189 not found (message 70)
+ 5:37:11 Server: Object 12:188 not found (message 70)
+ 5:37:11 Server: Object 12:186 not found (message 70)
+ 5:37:11 Server: Object 12:187 not found (message 70)
+ 5:37:11 Server: Object 12:185 not found (message 94)
+ 5:37:11 Server: Object 12:197 not found (message 70)
+ 5:37:11 Server: Object 12:196 not found (message 94)
+ 5:37:11 Server: Object 12:195 not found (message 70)
+ 5:37:11 Server: Object 12:201 not found (message 70)
+ 5:37:11 Server: Object 12:200 not found (message 70)
+ 5:37:11 Server: Object 12:199 not found (message 70)
+ 5:37:11 Server: Object 12:198 not found (message 70)
+ 5:37:11 Server: Object 12:194 not found (message 94)
+ 5:37:28 Server: Object 12:212 not found (message 70)
+ 5:37:28 Server: Object 12:217 not found (message 70)
+ 5:37:28 Server: Object 12:216 not found (message 70)
+ 5:37:28 Server: Object 12:215 not found (message 70)
+ 5:37:28 Server: Object 12:214 not found (message 70)
+ 5:37:28 Server: Object 12:213 not found (message 70)
+ 5:37:28 Server: Object 12:219 not found (message 94)
+ 5:37:28 Server: Object 12:218 not found (message 70)
+ 5:37:28 Server: Object 12:221 not found (message 94)
+ 5:37:28 Server: Object 12:222 not found (message 94)
+ 5:37:28 Server: Object 12:223 not found (message 94)
+ 5:37:28 Server: Object 12:225 not found (message 70)
+ 5:37:28 Server: Object 12:224 not found (message 94)
+ 5:37:28 Server: Object 12:220 not found (message 94)
+ 5:37:28 Server: Object 12:226 not found (message 94)
+ 5:37:38 "CLEANUP: Deleted 1 Loot Piles out of 255"
