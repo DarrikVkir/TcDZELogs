@@ -732,3 +732,33 @@ g from [1623.71,218.188,300] to [3668.44,15349.4] NOW!(TIME:2563||LT:HeliCrash_N
  7:52:11 "CLEANUP: Deleted 3 Loot Piles out of 49"
  7:55:11 "CLEANUP: Deleted 1 Loot Piles out of 46"
  7:56:07 "TIME SYNC: Local Time set to [2013,8,3,17,56]"
+ 7:59:44 Server: Object 4:1201 not found (message 94)
+ 7:59:44 Server: Object 4:1203 not found (message 94)
+ 7:59:44 Server: Object 4:1202 not found (message 94)
+ 8:00:06 "RUNNING EVENT: crash_spawner on [2014,6,28,18,0]"
+ 8:00:07 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 8:00:07 "CRASHSPAWNER: UH-1H started
+
+g from [15098,8144,300] to [6646.24,13720.5] NOW!(TIME:6168||LT:HeliCrash_No50s)"
+ 8:00:57 Server: Object 4:1230 not found (message 99)
+ 8:00:57 Server: Object 4:1231 not found (message 91)
+ 8:01:08 "TIME SYNC: Local Time set to [2013,8,3,18,1]"
+ 8:02:12 "CLEANUP: Deleted 13 Loot Piles out of 80"
+ 8:03:12 "CLEANUP: Deleted 7 Loot Piles out of 68"
+ 8:03:12 "[DZMS]: Minor SM5 HMMWV Crash Mission has Ended."
+ 8:03:15 "[DZMS]: Running Minor Mission SM10."
+ 8:05:12 "CLEANUP: Deleted 2 Loot Piles out of 67"
+ 8:06:05 Server: Object 4:1241 not found (message 99)
+ 8:06:08 "TIME SYNC: Local Time set to [2013,8,3,18,6]"
+ 8:06:38 Server: Object 4:1317 not found (message 91)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:06:38 Server: Object 4:1316 not found (message 99)
+ 8:08:06 Server: Object 4:1334 not found (message 70)
