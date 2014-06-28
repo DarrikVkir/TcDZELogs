@@ -2810,3 +2810,12 @@ if (count _lastPos > 2 and count _charPos > >
  4:06:08 "PUBLISH: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE Bought UH60M_EP1_DZE with ID "129157127607013748""
  4:06:08 Client: Object 6:151 (type Type_69) not found.
  4:06:09 Client: Object 6:151 (type Type_70) not found.
+ 4:06:11 Client: Object 6:151 (type Type_70) not found.
+ 4:06:13 Client: Object 6:151 (type Type_69) not found.
+ 4:06:13 Client: Object 6:151 (type Type_70) not found.
+ 4:06:14 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:06:14   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:06:14   Error count: Type Number, expected Array,Config entry
+ 4:06:14 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:06:15 Client: Object 6:151 (type Type_70) not found.
