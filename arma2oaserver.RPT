@@ -430,3 +430,39 @@ g from [15098,8144,300] to [1113.71,2591.24] NOW!(TIME:7918||LT:Hospital)"
  2:38:24 "CRASHSPAWNER: Loot spawn at '[5341.34,7023.82,0]' with loot table 'Hospital'"
  2:38:24 "CRASHSPAWNER: Crash completed! Wreck at: [5352.86,7013.57,-0.0585022] - Runtime: 501 Seconds || Distance from calculated POC: 6133 meters"
  2:38:26 "CLEANUP: Deleted 1 Loot Piles out of 50"
+ 2:41:22 "TIME SYNC: Local Time set to [2013,8,3,18,41]"
+ 2:42:26 "CLEANUP: Deleted 2 Loot Piles out of 49"
+ 2:43:26 "CLEANUP: Deleted 1 Loot Piles out of 47"
+ 2:46:16 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 2:46:16 "get: STRING (), sent: STRING (4486214)"
+ 2:46:16 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 REMOTE, _characterID: 379 at loc [13857.1,11746.7,0.00120449]"
+ 2:46:16 Client: Remote object 5:0 not found
+ 2:46:16 Client: Remote object 5:8 not found
+ 2:46:19 Warning: Cleanup player - person 5:7 not found
+ 2:46:22 "TIME SYNC: Local Time set to [2013,8,3,18,46]"
+ 2:46:33 "[DZMS]: Minor SM10 Heli Crash Mission has Ended."
+ 2:46:33 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 2:46:33   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 2:46:33   Error Undefined variable in expression: _vehicle1
+ 2:46:33 File z\addons\dayz_server\EMS\Missions\Minor\SM10.sqf, line 36
+ 2:46:33 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 2:46:33   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 2:46:33   Error Undefined variable in expression: _object
+ 2:46:33 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 2:46:44 "[DZMS]: Running Minor Mission SM8."
