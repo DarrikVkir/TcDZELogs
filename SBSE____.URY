@@ -2654,3 +2654,11 @@ if (count _lastPos > 2 and count _charPos > >
  4:03:54 Client: Object 6:151 (type Type_70) not found.
  4:03:56 Client: Object 6:151 (type Type_70) not found.
  4:03:57 Client: Object 6:151 (type Type_69) not found.
+ 4:03:58 Client: Object 6:151 (type Type_70) not found.
+ 4:04:00 Client: Object 6:151 (type Type_70) not found.
+ 4:04:02 Client: Object 6:151 (type Type_70) not found.
+ 4:04:02 Client: Object 6:151 (type Type_69) not found.
+ 4:04:03 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:04:03   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:04:03   Error count: Type Number, expected Array,Config entry
