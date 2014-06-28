@@ -4710,3 +4710,9 @@ if (count _lastPos > 2 and count _charPos > >
  4:40:03 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a 8Rnd_9x18_MakarovSD in/at Klen for 2x ItemSilverBar10oz"
  4:40:04 Client: Object 6:151 (type Type_69) not found.
  4:40:05 Client: Object 6:151 (type Type_70) not found.
+ 4:40:07 Client: Object 6:151 (type Type_70) not found.
+ 4:40:09 Client: Object 6:151 (type Type_69) not found.
+ 4:40:09 Client: Object 6:151 (type Type_70) not found.
+ 4:40:11 Client: Object 6:151 (type Type_70) not found.
+ 4:40:13 Client: Object 6:151 (type Type_70) not found.
+ 4:40:14 Client: Object 6:151 (type Type_69) not found.
