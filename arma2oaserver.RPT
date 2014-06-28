@@ -1154,3 +1154,46 @@ _we>
  9:46:08 "TIME SYNC: Local Time set to [2013,8,3,19,46]"
  9:48:44 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a UH1H_DZE in/at Bandit Trader for 1x ItemBriefcase100oz"
  9:48:45 "DELETE: B 1-1-D:1 (Kmhuey) REMOTE Deleted by ID: 1860"
+ 9:49:17 "CLEANUP: Deleted 4 Loot Piles out of 97"
+ 9:49:28 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with SUV (Armored) AL from 0m with 0.120478 dmg"
+ 9:49:28 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:49:28   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:49:28   Error Undefined variable in expression: _weapon
+ 9:49:28 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 9:49:28 "PHIT: B 1-1-E:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with SUV (Armored) AL from 0m with 0.112533 dmg"
+ 9:49:28 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:49:28   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:49:28   Error Undefined variable in expression: _weapon
+ 9:49:28 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 9:51:08 "TIME SYNC: Local Time set to [2013,8,3,19,51]"
+ 9:52:17 "CLEANUP: Deleted 1 Loot Piles out of 93"
+ 9:52:28 Server: Object 6:404 not found (message 91)
+ 9:52:28 Server: Object 6:408 not found (message 91)
+ 9:52:28 Server: Object 6:410 not found (message 91)
+ 9:52:28 Server: Object 6:413 not found (message 98)
+ 9:52:28 Server: Object 6:414 not found (message 91)
+ 9:52:28 Server: Object 6:416 not found (message 91)
+ 9:54:06 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 9:54:34 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 9:55:05 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
+ 9:56:08 "TIME SYNC: Local Time set to [2013,8,3,19,56]"
+ 9:56:56 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M24 in/at Stary for 6x ItemGoldBar"
+ 9:57:00 "DELETE: B 1-1-D:1 (Kmhuey) REMOTE Deleted by UID: 0"
+ 9:57:22 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M24_des_EP1 in/at Stary for 6x ItemGoldBar"
+ 9:57:46 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 9:58:11 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 9:58:41 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
