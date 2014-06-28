@@ -1524,3 +1524,30 @@ g from [6986,-630,1000] to [4739.62,8951.41] NOW!(TIME:18758||LT:HeliCrash_No50s
 11:37:27 "CRASHSPAWNER: Loot spawn at '[4758.45,8963.06,0]' with loot table 'HeliCrash_No50s'"
 11:37:27 "CRASHSPAWNER: Crash completed! Wreck at: [4749.73,8957.85,-0.0149841] - Runtime: 440 Seconds || Distance from calculated POC: 13 meters"
 11:38:21 "CLEANUP: Deleted 1 Loot Piles out of 167"
+11:39:50 "SAFE UNLOCKED: ID:4517 UID:0 BY BluntScopes(4486214)"
+11:40:10 "SAFE LOCKED: ID:4517 UID:0 BY BluntScopes(4486214)"
+11:40:28 "CRASHSPAWNER: UH-60M just exploded at [2958.35,12795,0.809479]!, "
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2960.71,12791.8,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2956.98,12789.6,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2962.23,12800.9,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2963.2,12791.4,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2956.67,12785.3,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2954.29,12793.8,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2956.32,12791.5,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2961.92,12800.3,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Loot spawn at '[2952.54,12792.9,0]' with loot table 'HeliCrash_No50s'"
+11:40:28 "CRASHSPAWNER: Crash completed! Wreck at: [2958.36,12795,0.0541382] - Runtime: 6011 Seconds || Distance from calculated POC: 5327 meters"
+11:41:09 "TIME SYNC: Local Time set to [2013,8,3,21,41]"
+11:42:43 "nil player object attempting PV, :["4486214","BluntScopes"]"
+11:42:43 "get: STRING (), sent: STRING (4486214)"
+11:42:43 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 REMOTE, _characterID: 390 at loc [13862.1,11733.1,0.00134969]"
+11:42:43 Client: Remote object 17:0 not found
+11:42:43 Client: Remote object 17:8 not found
+11:42:45 Warning: Cleanup player - person 17:7 not found
+11:43:11 "get: STRING (234483142), sent: STRING (234483142)"
+11:43:11 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-G:1 ([BOOTY] 4ASST) REMOTE, _characterID: 388 at loc [13843.1,11771.5,0.00159979]"
+11:43:11 Client: Remote object 5:725 not found
+11:43:14 Warning: Cleanup player - person 5:724 not found
+11:46:09 "TIME SYNC: Local Time set to [2013,8,3,21,46]"
+11:46:22 "CLEANUP: Deleted 15 Loot Piles out of 170"
+11:48:22 "CLEANUP: Deleted 36 Loot Piles out of 155"
