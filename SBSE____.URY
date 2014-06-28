@@ -5786,3 +5786,13 @@ if (count _lastPos > 2 and count _charPos > >
  5:00:00 Client: Object 6:151 (type Type_70) not found.
  5:00:02 Client: Object 6:151 (type Type_70) not found.
  5:00:03 Client: Object 6:151 (type Type_69) not found.
+ 5:00:04 Client: Object 6:151 (type Type_70) not found.
+ 5:00:06 Client: Object 6:151 (type Type_70) not found.
+ 5:00:08 Client: Object 6:151 (type Type_69) not found.
+ 5:00:09 Client: Object 6:151 (type Type_70) not found.
+ 5:00:09 "RUNNING EVENT: crash_spawner on [2014,6,28,21,0]"
+ 5:00:09 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+ 5:00:09 "CRASHSPAWNER: A-10 started
+
+g from [10450,-630,1000] to [12577.6,12731.8] NOW!(TIME:16919||LT:MilitarySpecial)"
+ 5:00:11 Client: Object 6:151 (type Type_70) not found.
