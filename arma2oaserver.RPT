@@ -669,3 +669,22 @@ g from [1623.71,218.188,300] to [3668.44,15349.4] NOW!(TIME:2563||LT:HeliCrash_N
  7:27:45 Server: Object 4:881 not found (message 99)
  7:27:45 Server: Object 4:881 not found (message 99)
  7:28:27 Server: Object 4:877 not found (message 99)
+ 7:30:04 "RUNNING EVENT: crash_spawner on [2014,6,28,17,30]"
+ 7:30:04 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Ural Wreck spawned at [12435.3,15307]"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12439.3,15307.8,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12430.8,15301.1,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12434.6,15302.4,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12438,15310.9,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12430.8,15313.8,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12447,15309,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12439.1,15318.8,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12422.3,15302,0.0641785]' with loot table 'Military'"
+ 7:30:04 "CRASHSPAWNER: Loot spawn at '[12450,15314.4,0.0641785]' with loot table 'Military'"
+ 7:31:07 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+ 7:32:17 Server: Object 4:952 not found (message 91)
+ 7:32:17 Server: Object 4:951 not found (message 99)
+ 7:35:22 Server: Object 4:966 not found (message 98)
+ 7:35:22 Server: Object 4:967 not found (message 91)
+ 7:36:07 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+ 7:36:08 "CLEANUP: Deleted 5 Animals out of 41"
