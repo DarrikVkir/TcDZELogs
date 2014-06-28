@@ -2577,3 +2577,9 @@ if (count _lastPos > 2 and count _charPos > >
  4:02:31 Client: Object 6:151 (type Type_70) not found.
  4:02:32 Client: Object 6:151 (type Type_69) not found.
  4:02:33 Client: Object 6:151 (type Type_70) not found.
+ 4:02:35 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a UH1H_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+ 4:02:35 "DELETE: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE Deleted by ID: 973874"
+ 4:02:35 Client: Object 6:151 (type Type_70) not found.
+ 4:02:37 Client: Object 6:151 (type Type_69) not found.
+ 4:02:37 Client: Object 6:151 (type Type_70) not found.
+ 4:02:39 Client: Object 6:151 (type Type_70) not found.
