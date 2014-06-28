@@ -291,3 +291,41 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 18:53:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
 18:57:20 "TIME SYNC: Local Time set to [2013,8,3,16,57]"
 18:58:22 "CLEANUP: Deleted 13 Loot Piles out of 19"
+18:59:21 "CLEANUP: Deleted 1 Loot Piles out of 6"
+18:59:54 Server: Object 4:153 not found (message 91)
+18:59:54 Server: Object 4:152 not found (message 99)
+18:59:54 Server: Object 4:154 not found (message 99)
+18:59:54 Server: Object 4:155 not found (message 91)
+18:59:54 Server: Object 4:165 not found (message 91)
+18:59:54 Server: Object 4:164 not found (message 98)
+19:00:04 "RUNNING EVENT: crash_spawner on [2014,6,28,17,0]"
+19:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+19:00:04 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [4978.07,8979.35] NOW!(TIME:1593||LT:HeliCrash_No50s)"
+19:00:10 Server: Object 4:168 not found (message 94)
+19:00:10 Server: Object 4:169 not found (message 94)
+19:00:11 Server: Object 4:176 not found (message 94)
+19:00:11 Server: Object 4:181 not found (message 70)
+19:01:05 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1_Aim in/at Stary for 4x ItemGoldBar"
+19:01:28 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1 in/at Stary for 2x ItemGoldBar"
+19:01:47 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a huntingrifle in/at Stary for 1x ItemGoldBar"
+19:02:06 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AKS_74_U in/at Stary for 1x ItemGoldBar"
+19:02:20 "TIME SYNC: Local Time set to [2013,8,3,17,2]"
+19:02:45 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AK_74 in/at Stary for 1x ItemGoldBar"
+19:03:03 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AKS_74_kobra in/at Stary for 2x ItemGoldBar"
+19:03:21 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AKS_74_kobra in/at Stary for 2x ItemGoldBar"
+19:03:40 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AKS_74_kobra in/at Stary for 2x ItemGoldBar"
+19:05:16 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a DZ_British_ACU in/at Stary for 2x ItemGoldBar"
+19:06:22 "CLEANUP: Deleted 1 Loot Piles out of 31"
+19:06:49 Server: Object 4:215 not found (message 91)
+19:06:49 Server: Object 4:214 not found (message 99)
+19:07:16 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a UAZ_Unarmed_UN_EP1 in/at Stary for 4x ItemGoldBar"
+19:07:16 "DELETE: B 1-1-C:1 (Marek) REMOTE Deleted by ID: 554697"
+19:07:20 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
+19:07:39 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a TT650_TK_CIV_EP1 in/at Stary for 2x ItemGoldBar"
+19:07:40 "PUBLISH: Attempt 2e19ab00# 1062477: arrow_down_large_ep1.p3d REMOTE"
+19:07:40 "HIVE: WRITE: "CHILD:308:3195:TT650_TK_CIV_EP1:0:7744:[11,[6292.99,7806.43,0.000152588]]:[]:[]:1:629307806402060:""
+19:07:41 "HIVE: WRITE: "CHILD:388:629307806402060:""
+19:07:41 "CUSTOM: Selected "4553""
+19:07:41 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought TT650_TK_CIV_EP1 with ID "629307806402060""
