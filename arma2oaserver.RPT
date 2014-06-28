@@ -1556,3 +1556,10 @@ g from [6986,-630,1000] to [4739.62,8951.41] NOW!(TIME:18758||LT:HeliCrash_No50s
 11:51:09 "CLEANUP: Deleted 12 Animals out of 12"
 11:51:09 "TIME SYNC: Local Time set to [2013,8,3,21,51]"
 11:56:09 "TIME SYNC: Local Time set to [2013,8,3,21,56]"
+12:00:09 "RUNNING EVENT: crash_spawner on [2014,6,28,22,0]"
+12:00:09 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+12:00:09 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [10450,-630,1000] to [2900.86,6838.82] NOW!(TIME:20560||LT:MilitarySpecial)"
+12:01:09 "TIME SYNC: Local Time set to [2013,8,3,22,1]"
+12:06:09 "TIME SYNC: Local Time set to [2013,8,3,22,6]"
