@@ -465,3 +465,29 @@ g from [1623.71,218.188,300] to [8243.48,9682.88] NOW!(TIME:3396||LT:MilitarySpe
 19:58:45 Server: Object 6:425 not found (message 91)
 19:58:46 Server: Object 6:426 not found (message 98)
 19:58:46 Server: Object 6:427 not found (message 91)
+20:00:01 "RUNNING EVENT: crash_spawner on [2014,6,28,18,0]"
+20:00:01 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+20:00:01 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [10450,-630,1000] to [1009.13,4424.49] NOW!(TIME:5188||LT:MilitarySpecial)"
+20:02:21 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+20:02:33 "CRASHSPAWNER: AV-8B (LGB) just exploded at [1076.3,4602.22,3.0585]!, "
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1077.61,4605.99,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1078.41,4609.51,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1084.25,4605.61,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1082.43,4601.96,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1073.83,4605.42,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1075.34,4606.24,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1084.13,4601.72,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1078.19,4613.03,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1081.26,4592,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1088.32,4594.64,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1068.83,4590.86,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1082.19,4601.66,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Loot spawn at '[1073.35,4599.11,0]' with loot table 'MilitarySpecial'"
+20:02:33 "CRASHSPAWNER: Crash completed! Wreck at: [1076.23,4602.24,0.00701904] - Runtime: 151 Seconds || Distance from calculated POC: 190 meters"
+20:05:21 Server: Object 6:533 not found (message 98)
+20:05:21 Server: Object 6:534 not found (message 91)
+20:06:28 "CLEANUP: Deleted 2 Loot Piles out of 176"
+20:07:21 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
+20:08:28 "CLEANUP: Deleted 1 Loot Piles out of 174"
