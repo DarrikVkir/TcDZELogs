@@ -2800,3 +2800,13 @@ if (count _lastPos > 2 and count _charPos > >
  4:06:01 Client: Object 6:151 (type Type_70) not found.
  4:06:03 Client: Object 6:151 (type Type_69) not found.
  4:06:03 Client: Object 6:151 (type Type_70) not found.
+ 4:06:05 Client: Object 6:151 (type Type_70) not found.
+ 4:06:06 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) bought a UH60M_EP1_DZE in/at Hero Trader for 2x ItemBriefcase100oz"
+ 4:06:07 "PUBLISH: Attempt 342d2400# 1065872: arrow_down_large_ep1.p3d REMOTE"
+ 4:06:07 "HIVE: WRITE: "CHILD:308:3195:UH60M_EP1_DZE:0:5829:[69,[12915.7,12760.7,0.00296021]]:[]:[]:1:129157127607013748:""
+ 4:06:07 Client: Object 6:151 (type Type_70) not found.
+ 4:06:08 "HIVE: WRITE: "CHILD:388:129157127607013748:""
+ 4:06:08 "CUSTOM: Selected "4543""
+ 4:06:08 "PUBLISH: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE Bought UH60M_EP1_DZE with ID "129157127607013748""
+ 4:06:08 Client: Object 6:151 (type Type_69) not found.
+ 4:06:09 Client: Object 6:151 (type Type_70) not found.
