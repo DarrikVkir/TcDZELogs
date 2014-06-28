@@ -3036,3 +3036,8 @@ if (count _lastPos > 2 and count _charPos > >
  4:09:57 Client: Object 6:151 (type Type_70) not found.
  4:09:59 Client: Object 6:151 (type Type_70) not found.
  4:09:59 "SAFE LOCKED: ID:4206 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 4:10:00 Client: Object 6:151 (type Type_69) not found.
+ 4:10:01 Client: Object 6:151 (type Type_70) not found.
+ 4:10:03 Client: Object 6:151 (type Type_70) not found.
+ 4:10:05 Client: Object 6:151 (type Type_70) not found.
+ 4:10:05 Client: Object 6:151 (type Type_69) not found.
