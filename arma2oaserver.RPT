@@ -538,3 +538,60 @@ g from [10450,-630,1000] to [1009.13,4424.49] NOW!(TIME:5188||LT:MilitarySpecial
 20:36:46 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) bought a ItemCrowbar in/at Bash for 2x ItemSilverBar"
 20:37:21 "TIME SYNC: Local Time set to [2013,8,3,18,37]"
 20:37:24 "CLEANUP: Deleted 1 Animals out of 70"
+20:39:02 Server: Network message 1ac26a is pending
+20:39:02 Server: Network message 1ac26b is pending
+20:39:02 Server: Network message 1ac27c is pending
+20:39:02 Server: Network message 1ac27d is pending
+20:39:02 Server: Network message 1ac27e is pending
+20:39:02 Server: Network message 1ac28f is pending
+20:39:02 Server: Network message 1ac290 is pending
+20:39:02 Server: Network message 1ac291 is pending
+20:39:02 Server: Network message 1ac292 is pending
+20:39:02 Server: Network message 1ac293 is pending
+20:39:02 Server: Network message 1ac2b4 is pending
+20:39:02 Server: Network message 1ac2b5 is pending
+20:39:02 Server: Network message 1ac2b6 is pending
+20:39:02 Server: Network message 1ac2e7 is pending
+20:39:02 Server: Network message 1ac2e8 is pending
+20:39:02 Server: Network message 1ac2e9 is pending
+20:39:02 Server: Network message 1ac2ea is pending
+20:39:02 Server: Network message 1ac2eb is pending
+20:39:02 Server: Network message 1ac2ec is pending
+20:39:02 Server: Network message 1ac2ed is pending
+20:39:02 Server: Network message 1ac2ee is pending
+20:39:02 Server: Network message 1ac2ef is pending
+20:39:02 Server: Network message 1ac2f0 is pending
+20:39:02 Server: Network message 1ac2f1 is pending
+20:39:02 Server: Network message 1ac355 is pending
+20:39:02 Server: Network message 1ac37b is pending
+20:39:02 Server: Network message 1ac37c is pending
+20:39:02 Server: Network message 1ac39d is pending
+20:39:02 Server: Network message 1ac39d is pending
+20:39:02 Server: Network message 1ac39e is pending
+20:39:02 Server: Network message 1ac3cc is pending
+20:39:02 Server: Network message 1ac3e0 is pending
+20:39:02 Server: Network message 1ac3e1 is pending
+20:39:02 Server: Network message 1ac3f9 is pending
+20:40:26 "CLEANUP: Deleted 2 Loot Piles out of 57"
+20:40:43 "get: STRING (147143046), sent: STRING (147143046)"
+20:40:43 "DISCONNECT: iTzNiCe (147143046) Object: B 1-1-F:1 (iTzNiCe) REMOTE, _characterID: 391 at loc [13543.1,3983.37,0.0017786]"
+20:40:43 Client: Remote object 10:2 not found
+20:40:43 Client: Remote object 10:8 not found
+20:41:09 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) bought a hilux1_civil_2_covered in/at Bash for 8x ItemGoldBar"
+20:41:10 "PUBLISH: Attempt 30f54800# 1064947: arrow_down_large_ep1.p3d REMOTE"
+20:41:10 "HIVE: WRITE: "CHILD:308:3195:hilux1_civil_2_covered:0:8263:[175,[4037.27,11673.5,0.00289917]]:[]:[]:1:4037311673507830:""
+20:41:11 "HIVE: WRITE: "CHILD:388:4037311673507830:""
+20:41:11 "CUSTOM: Selected "4555""
+20:41:11 "PUBLISH: B 1-1-B:1 (InsaneEvolution) REMOTE Bought hilux1_civil_2_covered with ID "4037311673507830""
+20:41:25 "CLEANUP: Deleted 3 Loot Piles out of 52"
+20:42:21 "TIME SYNC: Local Time set to [2013,8,3,18,42]"
+20:42:52 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a M24 in/at Bash for 6x ItemGoldBar"
+20:43:27 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a AKS_74_U in/at Bash for 1x ItemGoldBar"
+20:45:23 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a 30rnd_9x19_MP5 in/at Bash for 1x ItemSilverBar10oz"
+20:45:31 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a 30rnd_9x19_MP5 in/at Bash for 1x ItemSilverBar10oz"
+20:45:40 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a 30rnd_9x19_MP5 in/at Bash for 1x ItemSilverBar10oz"
+20:46:14 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a 30Rnd_545x39_AK in/at Bash for 1x ItemSilverBar"
+20:46:23 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a 30Rnd_545x39_AK in/at Bash for 1x ItemSilverBar"
+20:46:31 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a 30Rnd_545x39_AK in/at Bash for 1x ItemSilverBar"
+20:47:21 "TIME SYNC: Local Time set to [2013,8,3,18,47]"
+20:47:53 "EPOCH SERVERTRADE: Player: InsaneEvolution (253611654) sold a 10Rnd_762x54_SVD in/at Bash for 1x ItemSilverBar10oz"
