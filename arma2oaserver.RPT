@@ -329,3 +329,32 @@ g from [10450,-630,1000] to [4978.07,8979.35] NOW!(TIME:1593||LT:HeliCrash_No50s
 19:07:41 "HIVE: WRITE: "CHILD:388:629307806402060:""
 19:07:41 "CUSTOM: Selected "4553""
 19:07:41 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought TT650_TK_CIV_EP1 with ID "629307806402060""
+19:12:21 "TIME SYNC: Local Time set to [2013,8,3,17,12]"
+19:12:22 "CLEANUP: Deleted 1 Loot Piles out of 31"
+19:13:22 "CLEANUP: Deleted 1 Loot Piles out of 30"
+19:14:31 "CRASHSPAWNER: UH-60M just exploded at [5009.09,9026.66,0.415161]!, "
+19:14:31 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+19:14:31 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+19:14:31 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+19:14:31 "CRASHSPAWNER: Loot spawn at '[5005.84,9024.34,0]' with loot table 'HeliCrash_No50s'"
+19:14:31 "CRASHSPAWNER: Loot spawn at '[5011.44,9031.04,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5010,9018.09,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5005.86,9030.83,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5010.79,9032.5,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5007.17,9019.85,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5002.55,9026.16,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5005.42,9020.93,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5013.54,9026.62,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5008.03,9022.17,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5014.4,9023.71,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5003.31,9022.13,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Loot spawn at '[5003.81,9022.71,0]' with loot table 'HeliCrash_No50s'"
+19:14:32 "CRASHSPAWNER: Crash completed! Wreck at: [5009.09,9026.66,0.0336914] - Runtime: 867 Seconds || Distance from calculated POC: 58 meters"
+19:15:06 "RUNNING EVENT: supply_drop on [2014,6,28,17,15]"
+19:15:53 "get: STRING (199810246), sent: STRING (199810246)"
+19:15:53 "DISCONNECT: Marek (199810246) Object: B 1-1-C:1 (Marek) REMOTE, _characterID: 382 at loc [8939.12,9209.73,0.00143433]"
+19:15:53 Client: Remote object 4:6 not found
+19:15:53 Client: Remote object 4:5 not found
+19:15:53 Client: Remote object 4:2 not found
+19:15:54 Warning: Cleanup player - person 4:7 not found
+19:17:21 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
