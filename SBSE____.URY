@@ -4134,3 +4134,12 @@ if (count _lastPos > 2 and count _charPos > >
  4:30:00 Client: Object 6:151 (type Type_70) not found.
  4:30:02 Client: Object 6:151 (type Type_70) not found.
  4:30:03 Client: Object 6:151 (type Type_69) not found.
+ 4:30:04 Client: Object 6:151 (type Type_70) not found.
+ 4:30:05 "RUNNING EVENT: crash_spawner on [2014,6,28,20,30]"
+ 4:30:05 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 4:30:05 "CRASHSPAWNER: UH-1H started
+
+g from [1623.71,218.188,300] to [11722.6,10008.1] NOW!(TIME:15116||LT:HeliCrash_No50s)"
+ 4:30:06 Client: Object 6:151 (type Type_70) not found.
+ 4:30:08 Client: Object 6:151 (type Type_70) not found.
+ 4:30:08 Client: Object 6:151 (type Type_69) not found.
