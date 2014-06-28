@@ -6145,3 +6145,26 @@ if (count _lastPos > 2 and count _charPos > >
  5:06:33   Error count: Type Number, expected Array,Config entry
  5:06:33 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
  5:06:35 Client: Object 6:151 (type Type_70) not found.
+ 5:06:36 Client: Object 6:151 (type Type_69) not found.
+ 5:06:36 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:06:36   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:06:36   Error count: Type Number, expected Array,Config entry
+ 5:06:36 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:06:36 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:06:36   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:06:36   Error count: Type Number, expected Array,Config entry
+ 5:06:36 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:06:37 Client: Object 6:151 (type Type_70) not found.
+ 5:06:37 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:06:37   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:06:37   Error count: Type Number, expected Array,Config entry
+ 5:06:37 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:06:39 Client: Object 6:151 (type Type_70) not found.
+ 5:06:39 "SAFE LOCKED: ID:598 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 5:06:40 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 5:06:41 Client: Object 6:151 (type Type_70) not found.
+ 5:06:41 Client: Object 6:151 (type Type_69) not found.
+ 5:06:43 Client: Object 6:151 (type Type_70) not found.
