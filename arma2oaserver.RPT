@@ -243,3 +243,10 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  0:20:53 "[DZMS]: Running Major Mission SM10."
  0:21:21 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
  0:26:21 "TIME SYNC: Local Time set to [2013,8,3,16,26]"
+ 0:30:02 "RUNNING EVENT: crash_spawner on [2014,6,28,16,30]"
+ 0:30:02 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 0:30:02 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [1623.71,218.188,300] to [13105.3,7398.05] NOW!(TIME:721||LT:MilitarySpecial)"
+ 0:31:21 "TIME SYNC: Local Time set to [2013,8,3,16,31]"
+ 0:36:21 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
