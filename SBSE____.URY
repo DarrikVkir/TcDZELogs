@@ -2106,3 +2106,9 @@ if (count _lastPos > 2 and count _charPos > >
  3:52:25 Client: Object 6:151 (type Type_70) not found.
  3:52:27 Client: Object 6:151 (type Type_70) not found.
  3:52:29 Client: Object 6:151 (type Type_69) not found.
+ 3:52:29 Client: Object 6:151 (type Type_70) not found.
+ 3:52:29 "CLEANUP: Deleted 2 Loot Piles out of 104"
+ 3:52:31 Client: Object 6:151 (type Type_70) not found.
+ 3:52:31 Server: Object 6:336 not found (message 94)
+ 3:52:33 Client: Object 6:151 (type Type_70) not found.
+ 3:52:34 Client: Object 6:151 (type Type_69) not found.
