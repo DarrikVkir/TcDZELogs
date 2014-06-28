@@ -6305,3 +6305,8 @@ if (count _lastPos > 2 and count _charPos > >
  5:08:55 Client: Object 6:151 (type Type_70) not found.
  5:08:56 Client: Object 6:151 (type Type_69) not found.
  5:08:57 Client: Object 6:151 (type Type_70) not found.
+ 5:08:59 Client: Object 6:151 (type Type_70) not found.
+ 5:09:01 "SAFE UNLOCKED: ID:4489 UID:0 BY BluntScopes(4486214)"
+ 5:09:01 Client: Object 6:151 (type Type_69) not found.
+ 5:09:01 Client: Object 6:151 (type Type_70) not found.
+ 5:09:04 Client: Object 6:151 (type Type_70) not found.
