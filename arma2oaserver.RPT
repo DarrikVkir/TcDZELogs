@@ -6775,3 +6775,38 @@ if (count _lastPos > 2 and count _charPos > >
  5:37:28 Server: Object 12:220 not found (message 94)
  5:37:28 Server: Object 12:226 not found (message 94)
  5:37:38 "CLEANUP: Deleted 1 Loot Piles out of 255"
+ 5:39:38 "CLEANUP: Deleted 1 Loot Piles out of 254"
+ 5:41:23 "TIME SYNC: Local Time set to [2013,8,3,21,41]"
+ 5:43:40 "CLEANUP: Deleted 3 Loot Piles out of 294"
+ 5:45:40 Server: Object 12:364 not found (message 94)
+ 5:45:40 Server: Object 12:361 not found (message 70)
+ 5:45:40 Server: Object 12:363 not found (message 70)
+ 5:45:40 Server: Object 12:362 not found (message 70)
+ 5:45:41 "CLEANUP: Deleted 1 Loot Piles out of 327"
+ 5:46:05 Server: Object 12:385 not found (message 94)
+ 5:46:05 Server: Object 12:384 not found (message 94)
+ 5:46:05 Server: Object 12:380 not found (message 70)
+ 5:46:05 Server: Object 12:378 not found (message 94)
+ 5:46:05 Server: Object 12:379 not found (message 94)
+ 5:46:05 Server: Object 12:381 not found (message 94)
+ 5:46:05 Server: Object 12:382 not found (message 94)
+ 5:46:05 Server: Object 12:383 not found (message 94)
+ 5:46:23 "TIME SYNC: Local Time set to [2013,8,3,21,46]"
+ 5:46:32 Server: Object 12:386 not found (message 98)
+ 5:46:32 Server: Object 12:387 not found (message 91)
+ 5:46:32 Server: Object 12:388 not found (message 98)
+ 5:46:32 Server: Object 12:389 not found (message 91)
+ 5:46:32 Server: Object 12:390 not found (message 98)
+ 5:46:32 Server: Object 12:391 not found (message 91)
+ 5:46:32 Server: Object 12:392 not found (message 98)
+ 5:46:32 Server: Object 12:393 not found (message 91)
+ 5:46:32 Server: Object 12:394 not found (message 98)
+ 5:46:32 Server: Object 12:395 not found (message 91)
+ 5:46:32 Server: Object 12:396 not found (message 98)
+ 5:46:32 Server: Object 12:397 not found (message 91)
+ 5:46:32 Server: Object 12:399 not found (message 91)
+ 5:46:32 Server: Object 12:398 not found (message 98)
+ 5:46:32 Server: Object 12:400 not found (message 98)
+ 5:46:32 Server: Object 12:401 not found (message 91)
+ 5:46:32 Server: Object 12:402 not found (message 98)
+ 5:46:32 Server: Object 12:403 not found (message 91)
