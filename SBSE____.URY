@@ -3223,3 +3223,9 @@ if (count _lastPos > 2 and count _charPos > >
  4:13:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
  4:13:09 Client: Object 6:151 (type Type_70) not found.
  4:13:11 Client: Object 6:151 (type Type_70) not found.
+ 4:13:11 Client: Object 6:151 (type Type_69) not found.
+ 4:13:13 Client: Object 6:151 (type Type_70) not found.
+ 4:13:15 "SAFE LOCKED: ID:4223 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 4:13:15 Client: Object 6:151 (type Type_70) not found.
+ 4:13:16 Client: Object 6:151 (type Type_69) not found.
+ 4:13:17 Client: Object 6:151 (type Type_70) not found.
