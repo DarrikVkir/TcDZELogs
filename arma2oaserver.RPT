@@ -978,3 +978,60 @@ g from [15186,11857,300] to [13661.2,3159.17] NOW!(TIME:7970||LT:MilitarySpecial
  8:56:16 "CLEANUP: Deleted 2 Loot Piles out of 166"
  8:56:56 B 1-1-B:1 ([BOOTY] 4ASST) REMOTE: Getting out while IsMoveOutInProgress
  8:57:17 "CLEANUP: Deleted 1 Loot Piles out of 177"
+ 9:00:03 "RUNNING EVENT: crash_spawner on [2014,6,28,19,0]"
+ 9:00:03 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 9:00:03 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [10450,-630,1000] to [10336.6,8085.19] NOW!(TIME:9763||LT:MilitarySpecial)"
+ 9:00:07 Server: Object 6:278 not found (message 91)
+ 9:00:07 Server: Object 6:277 not found (message 98)
+ 9:00:08 Server: Object 6:282 not found (message 91)
+ 9:00:08 Server: Object 6:281 not found (message 99)
+ 9:00:08 Server: Object 6:283 not found (message 99)
+ 9:00:08 Server: Object 6:284 not found (message 91)
+ 9:00:08 Server: Object 6:285 not found (message 99)
+ 9:00:08 Server: Object 6:286 not found (message 91)
+ 9:00:08 Server: Object 6:287 not found (message 98)
+ 9:00:08 Server: Object 6:288 not found (message 91)
+ 9:00:08 Server: Object 6:292 not found (message 91)
+ 9:00:08 Server: Object 6:291 not found (message 98)
+ 9:01:08 "TIME SYNC: Local Time set to [2013,8,3,19,1]"
+ 9:01:18 "CLEANUP: Deleted 7 Loot Piles out of 200"
+ 9:02:06 "CRASHSPAWNER: AV-8B (LGB) just exploded at [10085.9,8014.48,6.83865]!, "
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10085,8018.38,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10086.5,8019.75,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10089.3,8008.72,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10081.9,8012.61,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10091.9,8010.42,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10085.8,8024.01,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10090,8001.92,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10073,8022.42,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10089.2,8029.9,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10084.7,8020.2,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10085.6,8008.71,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Loot spawn at '[10078.8,8012.03,0]' with loot table 'MilitarySpecial'"
+ 9:02:06 "CRASHSPAWNER: Crash completed! Wreck at: [10085.8,8014.38,0.0431366] - Runtime: 123 Seconds || Distance from calculated POC: 262 meters"
+ 9:02:18 "CLEANUP: Deleted 4 Loot Piles out of 223"
+ 9:03:18 "CLEANUP: Deleted 4 Loot Piles out of 222"
+ 9:04:18 "CLEANUP: Deleted 3 Loot Piles out of 225"
+ 9:05:10 Server: Object 3:285 not found (message 91)
+ 9:05:19 "CLEANUP: Deleted 1 Loot Piles out of 222"
+ 9:06:08 "TIME SYNC: Local Time set to [2013,8,3,19,6]"
+ 9:06:13 Server: Object 5:272 not found (message 99)
+ 9:06:13 Server: Object 5:273 not found (message 91)
+ 9:06:14 Server: Object 5:272 not found (message 99)
+ 9:06:14 Server: Object 5:272 not found (message 99)
+ 9:06:14 Server: Object 5:272 not found (message 99)
+ 9:06:19 "CLEANUP: Deleted 5 Loot Piles out of 221"
+ 9:06:36 "[DZMS]: Minor SM5 HMMWV Crash Mission has Ended."
+ 9:07:05 "[DZMS]: Running Minor Mission SM12."
+ 9:07:22 "CLEANUP: Deleted 41 Loot Piles out of 222"
+ 9:07:26 "get: STRING (15791622), sent: STRING (15791622)"
+ 9:07:26 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-D:1 (Kmhuey) REMOTE, _characterID: 348 at loc [1695.85,7954.22,3.25415]"
+ 9:07:26 Client: Remote object 11:2 not found
+ 9:07:26 Client: Remote object 11:8 not found
+ 9:07:26 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 9:07:26 Client: Object 9:531 (type Type_149) not found.
+ 9:07:26 Client: Object 6:317 (type Type_149) not found.
+ 9:07:26 Client: Object 5:275 (type Type_149) not found.
+ 9:08:19 "CLEANUP: Deleted 35 Loot Piles out of 180"
