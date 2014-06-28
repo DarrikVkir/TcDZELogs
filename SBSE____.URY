@@ -4481,3 +4481,12 @@ if (count _lastPos > 2 and count _charPos > >
  4:35:45 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a huntingrifle in/at Klen for 1x ItemGoldBar"
  4:35:46 Client: Object 6:151 (type Type_70) not found.
  4:35:47 Client: Object 6:151 (type Type_69) not found.
+ 4:35:48 Client: Object 6:151 (type Type_70) not found.
+ 4:35:50 Client: Object 6:151 (type Type_70) not found.
+ 4:35:50 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:35:50   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:35:50   Error count: Type Number, expected Array,Config entry
+ 4:35:50 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:35:52 Client: Object 6:151 (type Type_70) not found.
+ 4:35:52 Client: Object 6:151 (type Type_69) not found.
