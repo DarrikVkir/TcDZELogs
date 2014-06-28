@@ -4475,3 +4475,9 @@ if (count _lastPos > 2 and count _charPos > >
  4:35:37 Client: Object 6:151 (type Type_69) not found.
  4:35:38 Client: Object 6:151 (type Type_70) not found.
  4:35:40 Client: Object 6:151 (type Type_70) not found.
+ 4:35:42 Client: Object 6:151 (type Type_70) not found.
+ 4:35:42 Client: Object 6:151 (type Type_69) not found.
+ 4:35:44 Client: Object 6:151 (type Type_70) not found.
+ 4:35:45 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a huntingrifle in/at Klen for 1x ItemGoldBar"
+ 4:35:46 Client: Object 6:151 (type Type_70) not found.
+ 4:35:47 Client: Object 6:151 (type Type_69) not found.
