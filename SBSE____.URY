@@ -4614,3 +4614,8 @@ if (count _lastPos > 2 and count _charPos > >
  4:38:13 Client: Object 6:151 (type Type_69) not found.
  4:38:13 Client: Object 6:151 (type Type_70) not found.
  4:38:15 Client: Object 6:151 (type Type_70) not found.
+ 4:38:17 Client: Object 6:151 (type Type_70) not found.
+ 4:38:18 Client: Object 6:151 (type Type_69) not found.
+ 4:38:19 Client: Object 6:151 (type Type_70) not found.
+ 4:38:21 Client: Object 6:151 (type Type_70) not found.
+ 4:38:22 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a 7Rnd_45ACP_1911 in/at Klen for 1x ItemSilverBar"
