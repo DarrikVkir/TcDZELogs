@@ -6130,3 +6130,18 @@ if (count _lastPos > 2 and count _charPos > >
  5:06:25 "CLEANUP: Deleted 11 Animals out of 63"
  5:06:26 Client: Object 6:151 (type Type_69) not found.
  5:06:27 Client: Object 6:151 (type Type_70) not found.
+ 5:06:29 Client: Object 6:151 (type Type_70) not found.
+ 5:06:31 Client: Object 6:151 (type Type_70) not found.
+ 5:06:31 Client: Object 6:151 (type Type_69) not found.
+ 5:06:31 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:06:31   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:06:31   Error count: Type Number, expected Array,Config entry
+ 5:06:31 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:06:33 Client: Object 6:151 (type Type_70) not found.
+ 5:06:33 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:06:33   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:06:33   Error count: Type Number, expected Array,Config entry
+ 5:06:33 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:06:35 Client: Object 6:151 (type Type_70) not found.
