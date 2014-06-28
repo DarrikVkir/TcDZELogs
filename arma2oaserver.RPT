@@ -762,3 +762,119 @@ g from [15098,8144,300] to [6646.24,13720.5] NOW!(TIME:6168||LT:HeliCrash_No50s)
  8:06:38 Server: Object 4:1316 not found (message 99)
  8:06:38 Server: Object 4:1316 not found (message 99)
  8:08:06 Server: Object 4:1334 not found (message 70)
+ 8:09:15 "CLEANUP: Deleted 5 Loot Piles out of 154"
+ 8:10:07 Server: Object 4:1302 not found (message 99)
+ 8:10:51 NAT Negotiation completed
+ 8:10:53 No player found for channel 786915456 - message ignored
+ 8:11:08 "TIME SYNC: Local Time set to [2013,8,3,18,11]"
+ 8:12:20 "[DZMS]: Minor SM10 Heli Crash Mission has Ended."
+ 8:12:20 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 8:12:20   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 8:12:20   Error Undefined variable in expression: _vehicle1
+ 8:12:20 File z\addons\dayz_server\EMS\Missions\Minor\SM10.sqf, line 36
+ 8:12:20 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 8:12:20   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 8:12:20   Error Undefined variable in expression: _object
+ 8:12:20 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 8:12:26 "[DZMS]: Running Minor Mission SM5."
+ 8:13:52 Server: Object 4:1481 not found (message 94)
+ 8:13:52 Server: Object 4:1480 not found (message 94)
+ 8:13:52 Server: Object 4:1494 not found (message 70)
+ 8:13:52 Server: Object 4:1493 not found (message 94)
+ 8:13:52 Server: Object 4:1491 not found (message 94)
+ 8:13:52 Server: Object 4:1492 not found (message 94)
+ 8:13:52 Server: Object 4:1513 not found (message 70)
+ 8:13:52 Server: Object 4:1512 not found (message 70)
+ 8:13:52 Server: Object 4:1511 not found (message 70)
+ 8:14:16 Server: Object 4:1538 not found (message 94)
+ 8:14:16 Server: Object 4:1539 not found (message 94)
+ 8:14:16 Server: Object 4:1537 not found (message 94)
+ 8:15:08 "RUNNING EVENT: supply_drop on [2014,6,28,18,15]"
+ 8:16:08 "TIME SYNC: Local Time set to [2013,8,3,18,16]"
+ 8:16:22 Server: Network message 319d99 is pending
+ 8:16:22 Server: Network message 319d9a is pending
+ 8:16:22 Server: Network message 319da5 is pending
+ 8:16:22 Server: Network message 319db6 is pending
+ 8:16:22 Server: Network message 319dde is pending
+ 8:16:22 Server: Network message 319e02 is pending
+ 8:16:22 Server: Network message 319e21 is pending
+ 8:16:22 Server: Network message 319e34 is pending
+ 8:16:22 Server: Network message 319e61 is pending
+ 8:16:22 Server: Network message 319e61 is pending
+ 8:16:22 Server: Network message 319e62 is pending
+ 8:16:22 Server: Network message 319e63 is pending
+ 8:16:22 Server: Network message 319e64 is pending
+ 8:16:22 Server: Network message 319e65 is pending
+ 8:16:22 Server: Network message 319e66 is pending
+ 8:16:22 Server: Network message 319e67 is pending
+ 8:16:22 Server: Network message 319e68 is pending
+ 8:16:22 Server: Network message 319e69 is pending
+ 8:16:22 Server: Network message 319e6a is pending
+ 8:16:22 Server: Network message 319e6b is pending
+ 8:16:22 Server: Network message 319e6c is pending
+ 8:16:22 Server: Network message 319e6d is pending
+ 8:16:22 Server: Network message 319e83 is pending
+ 8:16:22 Server: Network message 319e84 is pending
+ 8:16:22 Server: Network message 319e85 is pending
+ 8:16:23 Server: Network message 319ee3 is pending
+ 8:16:23 Server: Network message 319ef4 is pending
+ 8:16:23 Server: Network message 319ef5 is pending
+ 8:16:23 Server: Network message 319f06 is pending
+ 8:16:23 Server: Network message 319f12 is pending
+ 8:16:23 Server: Network message 319f13 is pending
+ 8:16:23 Server: Network message 319f55 is pending
+ 8:16:23 Server: Network message 319f83 is pending
+ 8:16:23 Server: Network message 319fd5 is pending
+ 8:16:23 Server: Network message 319fd6 is pending
+ 8:16:23 Server: Network message 319fe0 is pending
+ 8:16:23 Server: Network message 319fe8 is pending
+ 8:16:23 Server: Network message 31a006 is pending
+ 8:16:23 Server: Network message 31a018 is pending
+ 8:16:24 Server: Network message 31a036 is pending
+ 8:16:24 Server: Network message 31a044 is pending
+ 8:16:24 Server: Network message 31a052 is pending
+ 8:16:25 Server: Network message 31a1e5 is pending
+ 8:16:25 Server: Network message 31a1e6 is pending
+ 8:16:25 Server: Network message 31a1e6 is pending
+ 8:16:25 Server: Network message 31a1e6 is pending
+ 8:16:25 Server: Network message 31a1e7 is pending
+ 8:16:25 Server: Network message 31a1e8 is pending
+ 8:16:25 Server: Network message 31a1e9 is pending
+ 8:16:25 Server: Network message 31a1ea is pending
+ 8:16:25 Server: Network message 31a1eb is pending
+ 8:16:25 Server: Network message 31a1ec is pending
+ 8:16:25 Server: Network message 31a1ed is pending
+ 8:16:25 Server: Network message 31a1ee is pending
+ 8:16:25 Server: Network message 31a1ef is pending
+ 8:16:25 Server: Network message 31a220 is pending
+ 8:16:25 Server: Network message 31a221 is pending
+ 8:16:25 Server: Network message 31a222 is pending
+ 8:16:25 Server: Network message 31a223 is pending
+ 8:16:25 Server: Network message 31a37a is pending
+ 8:16:25 Server: Network message 31a37a is pending
+ 8:16:25 Server: Network message 31a37a is pending
+ 8:16:25 Server: Network message 31a37b is pending
+ 8:16:25 Server: Network message 31a37c is pending
+ 8:16:25 Server: Network message 31a37d is pending
+ 8:16:25 Server: Network message 31a37d is pending
+ 8:16:25 Server: Network message 31a37e is pending
+ 8:16:25 Server: Network message 31a37f is pending
+ 8:16:25 Server: Network message 31a380 is pending
+ 8:16:26 Server: Network message 31a3bf is pending
+ 8:18:19 "CLEANUP: Deleted 8 Loot Piles out of 295"
