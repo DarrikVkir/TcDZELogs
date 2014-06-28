@@ -667,3 +667,64 @@ _pos = g>
 21:27:21 "TIME SYNC: Local Time set to [2013,8,3,19,27]"
 21:28:27 "CLEANUP: Deleted 1 Loot Piles out of 56"
 21:28:32 "[DZMS]: Running Major Mission SM3."
+21:29:21 WARNING: Function 'name' - InsaneEvolution is dead
+21:29:21 "PHIT: B 1-1-B:1 (InsaneEvolution) REMOTE was hit by B 1-1-C:1 (BluntScopes) REMOTE with SCAR_H_STD_EGLM_Spect from 118.409m with 1.49436 dmg"
+21:29:21 WARNING: Function 'name' - InsaneEvolution is dead
+21:29:21 "PKILL: InsaneEvolution was killed by BluntScopes with weapon SCAR_H_STD_EGLM_Spect from 118.409m"
+21:29:21 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+21:29:21   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+21:29:21   Error Undefined variable in expression: dze_deathmsgside
+21:29:21 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+21:29:21 "PDEATH: Player Died 253611654"
+21:29:27 "CLEANUP: Deleted 2 Loot Piles out of 58"
+21:30:01 "RUNNING EVENT: crash_spawner on [2014,6,28,19,30]"
+21:30:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+21:30:01 "CRASHSPAWNER: UH-1H started
+
+g from [15098,8144,300] to [7328.02,6001.93] NOW!(TIME:10586||LT:HeliCrash_No50s)"
+21:31:23 "get: STRING (253611654), sent: STRING (253611654)"
+21:31:23 "DISCONNECT: InsaneEvolution (253611654) Object: B 1-1-A:1 (InsaneEvolution) REMOTE, _characterID: 387 at loc [-7239.67,19539.3,0.245514]"
+21:31:23 "ERROR: server_playerSync: Cannot Sync Player InsaneEvolution [387]. Position in debug! [-7239.67,19539.3,0.245514]"
+21:31:23 Client: Remote object 6:2 not found
+21:32:21 "TIME SYNC: Local Time set to [2013,8,3,19,32]"
+21:33:27 "CLEANUP: Deleted 1 Loot Piles out of 58"
+21:35:57 Server: Object 8:257 not found (message 98)
+21:35:57 Server: Object 8:258 not found (message 91)
+21:35:57 Server: Object 8:268 not found (message 91)
+21:35:57 Server: Object 8:270 not found (message 91)
+21:35:57 Server: Object 8:269 not found (message 99)
+21:35:57 Server: Object 8:272 not found (message 91)
+21:35:57 Server: Object 8:271 not found (message 99)
+21:35:57 Server: Object 8:276 not found (message 91)
+21:35:57 Server: Object 8:275 not found (message 99)
+21:35:57 Server: Object 8:278 not found (message 91)
+21:35:57 Server: Object 8:277 not found (message 99)
+21:35:57 Server: Object 8:280 not found (message 91)
+21:35:57 Server: Object 8:279 not found (message 99)
+21:37:21 "TIME SYNC: Local Time set to [2013,8,3,19,37]"
+21:37:24 "CLEANUP: Deleted 14 Animals out of 89"
+21:38:12 "CRASHSPAWNER: UH-1H just exploded at [7258.2,6060.85,4.40979]!, "
+21:38:12 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+21:38:12 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+21:38:12 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7257.93,6056.86,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7257.58,6055.9,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7262.01,6063.54,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7256.46,6064.73,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7259.88,6068.82,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7264.6,6061.23,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7255.41,6066.96,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7255.62,6065.91,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7263.33,6060.41,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Loot spawn at '[7254.99,6063.54,0]' with loot table 'HeliCrash_No50s'"
+21:38:12 "CRASHSPAWNER: Crash completed! Wreck at: [7258.2,6060.85,0.0815125] - Runtime: 491 Seconds || Distance from calculated POC: 91 meters"
