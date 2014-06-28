@@ -5721,3 +5721,19 @@ if (count _lastPos > 2 and count _charPos > >
  4:58:50 Client: Object 6:151 (type Type_70) not found.
  4:58:51 Client: Object 6:151 (type Type_69) not found.
  4:58:52 Client: Object 6:151 (type Type_70) not found.
+ 4:58:53 "DELETE: <null> Deleted by ID: 3846"
+ 4:58:53 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 4:58:53   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 4:58:53   Error Undefined variable in expression: _activatingplayer
+ 4:58:53 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 4:58:54 Client: Object 6:151 (type Type_70) not found.
+ 4:58:56 Client: Object 6:151 (type Type_70) not found.
+ 4:58:57 Client: Object 6:151 (type Type_69) not found.
+ 4:58:58 Client: Object 6:151 (type Type_70) not found.
+ 4:59:01 Client: Object 6:151 (type Type_70) not found.
