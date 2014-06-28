@@ -5338,3 +5338,18 @@ if (count _lastPos > 2 and count _charPos > >
  4:52:06 Client: Object 6:151 (type Type_70) not found.
  4:52:08 Client: Object 6:151 (type Type_70) not found.
  4:52:10 Client: Object 6:151 (type Type_70) not found.
+ 4:52:11 Client: Object 6:151 (type Type_69) not found.
+ 4:52:11 "get: STRING (4486214), sent: STRING (4486214)"
+ 4:52:11 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-F:1 (BluntScopes) REMOTE, _characterID: 379 at loc [13863.2,11715.2,18.4235]"
+ 4:52:11 Client: Remote object 9:6 not found
+ 4:52:11 Client: Remote object 9:0 not found
+ 4:52:12 Client: Object 6:151 (type Type_70) not found.
+ 4:52:14 Client: Object 6:151 (type Type_70) not found.
+ 4:52:16 Client: Object 6:151 (type Type_69) not found.
+ 4:52:16 Client: Object 6:151 (type Type_70) not found.
+ 4:52:17 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:52:17   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:52:17   Error count: Type Number, expected Array,Config entry
+ 4:52:17 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:52:18 Client: Object 6:151 (type Type_70) not found.
