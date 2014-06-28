@@ -4079,3 +4079,8 @@ if (count _lastPos > 2 and count _charPos > >
  4:29:03 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
  4:29:03 Client: Object 6:151 (type Type_69) not found.
  4:29:03 Client: Object 6:151 (type Type_70) not found.
+ 4:29:05 Client: Object 6:151 (type Type_70) not found.
+ 4:29:07 Client: Object 6:151 (type Type_70) not found.
+ 4:29:08 Client: Object 6:151 (type Type_69) not found.
+ 4:29:09 Client: Object 6:151 (type Type_70) not found.
+ 4:29:12 Client: Object 6:151 (type Type_70) not found.
