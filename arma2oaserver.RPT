@@ -1222,3 +1222,89 @@ g from [6993.7,173.053,300] to [5135.1,7934.43] NOW!(TIME:13369||LT:HeliCrash_No
 10:08:07 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
 10:08:38 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
 10:08:49 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:08:59 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:09:09 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:09:19 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:09:20 "CLEANUP: Deleted 4 Loot Piles out of 159"
+10:09:29 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:09:39 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:09:50 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:11:06 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) bought a ATV_US_EP1 in/at Stary for 2x ItemGoldBar"
+10:11:06 "PUBLISH: Attempt 11ddab00# 1075537: arrow_down_large_ep1.p3d REMOTE"
+10:11:06 "HIVE: WRITE: "CHILD:308:3195:ATV_US_EP1:0:51:[46,[6292.99,7806.43,0.000152588]]:[]:[]:1:6293078064014072:""
+10:11:07 "HIVE: WRITE: "CHILD:388:6293078064014072:""
+10:11:07 "CUSTOM: Selected "4550""
+10:11:07 "PUBLISH: B 1-1-D:1 (Kmhuey) REMOTE Bought ATV_US_EP1 with ID "6293078064014072""
+10:11:08 "TIME SYNC: Local Time set to [2013,8,3,20,11]"
+10:11:30 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:11:40 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:11:50 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:12:01 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:12:11 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:12:21 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a 100Rnd_762x51_M240 in/at Stary for 1x ItemGoldBar"
+10:13:11 "DELETE: <null> Deleted by ID: 3279"
+10:13:11 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+10:13:11   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+10:13:11   Error Undefined variable in expression: _activatingplayer
+10:13:11 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+10:15:01 "RUNNING EVENT: supply_drop on [2014,6,28,20,15]"
+10:15:43 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+10:16:08 "TIME SYNC: Local Time set to [2013,8,3,20,16]"
+10:16:23 "CLEANUP: Deleted 29 Loot Piles out of 180"
+10:17:21 "CLEANUP: Deleted 1 Loot Piles out of 151"
+10:17:36 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+10:17:36 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-E:1 (BluntScopes) REMOTE with SUV (Armored) AL from 0m with 0.0879917 dmg"
+10:17:36 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+10:17:36   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+10:17:36   Error Undefined variable in expression: _weapon
+10:17:36 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+10:17:36 "PHIT: B 1-1-C:1 (Bored Shorts) REMOTE was hit by B 1-1-E:1 (BluntScopes) REMOTE with SUV (Armored) AL from 0m with 0.0619892 dmg"
+10:17:36 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+10:17:36   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+10:17:36   Error Undefined variable in expression: _weapon
+10:17:36 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+10:17:36 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+10:17:36 "PKILL: [BOOTY] 4ASST was killed by BluntScopes with weapon SUV (Armored) AL from 0m"
+10:17:36 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+10:17:36   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+10:17:36   Error Undefined variable in expression: dze_deathmsgside
+10:17:36 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+10:17:36 "PDEATH: Player Died 234483142"
+10:18:21 "CLEANUP: Deleted 5 Loot Piles out of 150"
+10:18:23 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [380]. Position in debug! [-7239.67,19539.3,0.246216]"
+10:18:24 "get: STRING (234483142), sent: STRING (234483142)"
+10:18:24 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-A:1 ([BOOTY] 4ASST) REMOTE, _characterID: 380 at loc [-7239.67,19539.3,0.246216]"
+10:18:24 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [380]. Position in debug! [-7239.67,19539.3,0.246216]"
+10:18:24 Client: Remote object 5:2 not found
+10:18:24 Client: Remote object 2:9 not found
+10:18:24 Client: Remote object 2:10 not found
