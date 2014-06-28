@@ -1317,3 +1317,27 @@ if(DZE_DeathMsgSide) then {
 10:26:01 Server: Object 5:590 not found (message 91)
 10:26:01 Server: Object 5:589 not found (message 98)
 10:26:09 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
+10:30:04 "RUNNING EVENT: crash_spawner on [2014,6,28,20,30]"
+10:30:04 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+10:30:04 "CRASHSPAWNER: MV-22 started
+
+g from [6993.7,173.053,300] to [12810.9,11769.5] NOW!(TIME:15163||LT:MilitarySpecial)"
+10:31:09 "TIME SYNC: Local Time set to [2013,8,3,20,31]"
+10:31:20 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+10:32:03 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+10:33:22 "CLEANUP: Deleted 19 Loot Piles out of 160"
+10:34:21 "CLEANUP: Deleted 1 Loot Piles out of 141"
+10:35:53 "CRASHSPAWNER: MV-22 just exploded at [12609.4,11577.5,2.22291]!, "
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12605.9,11575.7,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12606.6,11573.8,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12614.1,11571.9,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12603.6,11570.1,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12605.1,11571.8,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12611.6,11582,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12609.9,11572.6,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12610.5,11583.4,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12614.1,11579.2,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12611.9,11582.2,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Loot spawn at '[12606.5,11580.9,0]' with loot table 'MilitarySpecial'"
+10:35:53 "CRASHSPAWNER: Crash completed! Wreck at: [12609.4,11577.4,-0.008255] - Runtime: 344 Seconds || Distance from calculated POC: 279 meters"
+10:36:09 "TIME SYNC: Local Time set to [2013,8,3,20,36]"
