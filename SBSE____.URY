@@ -2902,3 +2902,8 @@ if (count _lastPos > 2 and count _charPos > >
  4:07:44   Error position: <count _lastPos > 2 and count _charPos > >
  4:07:44   Error count: Type Number, expected Array,Config entry
  4:07:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:07:45 Client: Object 6:151 (type Type_70) not found.
+ 4:07:47 Client: Object 6:151 (type Type_70) not found.
+ 4:07:49 Client: Object 6:151 (type Type_69) not found.
+ 4:07:49 Client: Object 6:151 (type Type_70) not found.
+ 4:07:51 Client: Object 6:151 (type Type_70) not found.
