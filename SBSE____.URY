@@ -6449,3 +6449,23 @@ if (count _lastPos > 2 and count _charPos > >
  5:11:23 "TIME SYNC: Local Time set to [2013,8,3,21,11]"
  5:11:23 Client: Object 6:151 (type Type_70) not found.
  5:11:25 Client: Object 6:151 (type Type_70) not found.
+ 5:11:26 Client: Object 6:151 (type Type_69) not found.
+ 5:11:27 Client: Object 6:151 (type Type_70) not found.
+ 5:11:29 Client: Object 6:151 (type Type_70) not found.
+ 5:11:31 Client: Object 6:151 (type Type_70) not found.
+ 5:11:32 Client: Object 6:151 (type Type_69) not found.
+ 5:11:32 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:11:32   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:11:32   Error count: Type Number, expected Array,Config entry
+ 5:11:32 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:11:32 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:11:32   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:11:32   Error count: Type Number, expected Array,Config entry
+ 5:11:32 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 5:11:33 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 5:11:33   Error position: <count _lastPos > 2 and count _charPos > >
+ 5:11:33   Error count: Type Number, expected Array,Config entry
+ 5:11:33 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
