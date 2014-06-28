@@ -2704,3 +2704,6 @@ if (count _lastPos > 2 and count _charPos > >
  4:04:44 Client: Object 6:151 (type Type_70) not found.
  4:04:46 Client: Object 6:151 (type Type_70) not found.
  4:04:47 Client: Object 6:151 (type Type_69) not found.
+ 4:04:48 Client: Object 6:151 (type Type_70) not found.
+ 4:04:50 Client: Object 6:151 (type Type_70) not found.
+ 4:04:52 "DELETE: <null> Deleted by ID: 4542"
