@@ -476,3 +476,57 @@ _pos = g>
  2:58:21 "get: STRING (23206790), sent: STRING (23206790)"
  2:58:21 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 369 at loc [-7239.67,19539.3,0.245575]"
  2:58:21 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [369]. Position in debug! [-7239.67,19539.3,0.245575]"
+ 2:59:19 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 2:59:20 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 2:59:21 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 2:59:22 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 2:59:24 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 2:59:25 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 2:59:26 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 3:00:05 "RUNNING EVENT: crash_spawner on [2014,6,28,19,0]"
+ 3:00:05 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+ 3:00:05 "CRASHSPAWNER: A-10 started
+
+g from [10450,-630,1000] to [8264.22,6517.81] NOW!(TIME:9720||LT:MilitarySpecial)"
+ 3:01:22 "TIME SYNC: Local Time set to [2013,8,3,19,1]"
+ 3:01:29 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 3:01:47 "CRASHSPAWNER: A-10 just exploded at [8006.22,6691.12,5.42438]!, "
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8002.23,6690.83,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8008.09,6696.31,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8003.37,6694.88,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8000.87,6693.48,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8003.52,6687.65,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8005.61,6697.47,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8010.67,6691.19,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8011.62,6693.06,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8006.84,6700.52,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[7996.9,6689.83,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Loot spawn at '[8019.2,6690.95,0]' with loot table 'MilitarySpecial'"
+ 3:01:47 "CRASHSPAWNER: Crash completed! Wreck at: [8006.09,6691.24,0.026947] - Runtime: 102 Seconds || Distance from calculated POC: 311 meters"
+ 3:05:51 "[DZMS]: Major SM9 Fire Base Mission has Ended."
+ 3:05:51 Error in expression < <= 30  } count playableunits > 0};
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+ 3:05:51   Error position: <_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+ 3:05:51   Error Undefined variable in expression: _vehicle
+ 3:05:51 File z\addons\dayz_server\EMS\Missions\Major\SM9.sqf, line 43
+ 3:05:51 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 3:05:51   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 3:05:51   Error Undefined variable in expression: _object
+ 3:05:51 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 3:05:57 "[DZMS]: Running Major Mission SM10."
+ 3:06:22 "TIME SYNC: Local Time set to [2013,8,3,19,6]"
+ 3:06:23 "CLEANUP: Deleted 15 Animals out of 24"
