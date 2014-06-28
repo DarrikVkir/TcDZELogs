@@ -2432,3 +2432,21 @@ if (count _lastPos > 2 and count _charPos > >
  3:59:57 Client: Object 6:151 (type Type_70) not found.
  3:59:59 Client: Object 6:151 (type Type_70) not found.
  4:00:01 Client: Object 6:151 (type Type_69) not found.
+ 4:00:01 "RUNNING EVENT: crash_spawner on [2014,6,28,20,0]"
+ 4:00:01 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Ural Wreck spawned at [9893.14,15146.2]"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9897.05,15145.4,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9892.43,15140.3,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9902.81,15144.4,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9891.64,15140.8,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9889.92,15138.9,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9896.19,15142.1,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9889.64,15151.3,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9885.85,15144.9,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9899.11,15150.1,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9886.63,15148.2,0.100876]' with loot table 'Military'"
+ 4:00:01 "CRASHSPAWNER: Loot spawn at '[9898.16,15140.8,0.100876]' with loot table 'Military'"
+ 4:00:01 Client: Object 6:151 (type Type_70) not found.
+ 4:00:03 Client: Object 6:151 (type Type_70) not found.
+ 4:00:05 Client: Object 6:151 (type Type_70) not found.
+ 4:00:06 Client: Object 6:151 (type Type_69) not found.
