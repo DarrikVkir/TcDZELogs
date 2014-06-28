@@ -3688,3 +3688,14 @@ if (count _lastPos > 2 and count _charPos > >
  4:21:30 Client: Object 6:151 (type Type_70) not found.
  4:21:31 "CLEANUP: Deleted 3 Loot Piles out of 139"
  4:21:32 Client: Object 6:151 (type Type_70) not found.
+ 4:21:34 Client: Object 6:151 (type Type_70) not found.
+ 4:21:35 Client: Object 6:151 (type Type_69) not found.
+ 4:21:35 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:21:35   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:21:35   Error count: Type Number, expected Array,Config entry
+ 4:21:35 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:21:36 Client: Object 6:151 (type Type_70) not found.
+ 4:21:38 Client: Object 6:151 (type Type_70) not found.
+ 4:21:40 Client: Object 6:151 (type Type_69) not found.
+ 4:21:40 Client: Object 6:151 (type Type_70) not found.
