@@ -1477,3 +1477,21 @@ if(DZE_DeathMsgSide) then {
 11:15:55 Client: Remote object 2:7690 not found
 11:16:09 "TIME SYNC: Local Time set to [2013,8,3,21,16]"
 11:16:13 NAT Negotiation completed
+11:21:09 "CLEANUP: Deleted 10 Animals out of 15"
+11:21:09 "TIME SYNC: Local Time set to [2013,8,3,21,21]"
+11:23:31 "SAFE UNLOCKED: ID:4517 UID:0 BY BluntScopes(4486214)"
+11:23:51 "SAFE LOCKED: ID:4517 UID:0 BY BluntScopes(4486214)"
+11:25:20 "CLEANUP: Deleted 2 Loot Piles out of 128"
+11:25:21 Server: Object 5:830 not found (message 91)
+11:25:21 Server: Object 5:829 not found (message 99)
+11:25:21 Server: Object 5:832 not found (message 91)
+11:25:21 Server: Object 5:831 not found (message 99)
+11:25:21 Server: Object 5:836 not found (message 91)
+11:25:21 Server: Object 5:835 not found (message 99)
+11:26:09 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
+11:27:20 Server: Object 17:83 not found (message 94)
+11:27:20 Server: Object 17:84 not found (message 94)
+11:27:20 Server: Object 5:864 not found (message 91)
+11:27:20 Server: Object 5:863 not found (message 99)
+11:27:20 Server: Object 5:868 not found (message 91)
+11:27:20 Server: Object 5:867 not found (message 99)
