@@ -5796,3 +5796,9 @@ if (count _lastPos > 2 and count _charPos > >
 
 g from [10450,-630,1000] to [12577.6,12731.8] NOW!(TIME:16919||LT:MilitarySpecial)"
  5:00:11 Client: Object 6:151 (type Type_70) not found.
+ 5:00:13 Client: Object 6:151 (type Type_70) not found.
+ 5:00:13 Client: Object 6:151 (type Type_69) not found.
+ 5:00:15 Client: Object 6:151 (type Type_70) not found.
+ 5:00:17 Client: Object 6:151 (type Type_70) not found.
+ 5:00:19 Client: Object 6:151 (type Type_69) not found.
+ 5:00:19 Client: Object 6:151 (type Type_70) not found.
