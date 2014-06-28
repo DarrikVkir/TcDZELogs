@@ -932,3 +932,37 @@ g from [15186,11857,300] to [13661.2,3159.17] NOW!(TIME:7970||LT:MilitarySpecial
  8:37:45 "CRASHSPAWNER: Loot spawn at '[5474.2,9477.11,0]' with loot table 'HeliCrash_No50s'"
  8:37:45 "CRASHSPAWNER: Loot spawn at '[5481.26,9491.77,0]' with loot table 'HeliCrash_No50s'"
  8:37:45 "CRASHSPAWNER: Crash completed! Wreck at: [5484.22,9482.1,0.0868225] - Runtime: 7655 Seconds || Distance from calculated POC: 658 meters"
+ 8:39:15 "CLEANUP: Deleted 9 Loot Piles out of 97"
+ 8:40:15 "CLEANUP: Deleted 3 Loot Piles out of 88"
+ 8:41:08 "TIME SYNC: Local Time set to [2013,8,3,18,41]"
+ 8:41:15 "CLEANUP: Deleted 3 Loot Piles out of 92"
+ 8:41:35 Server: Object 4:1714 not found (message 98)
+ 8:41:35 Server: Object 4:1715 not found (message 91)
+ 8:42:09 Server: Object 4:1721 not found (message 91)
+ 8:42:15 "CLEANUP: Deleted 8 Loot Piles out of 93"
+ 8:43:24 "CRASHSPAWNER: AH-1Z just exploded at [13669.8,3119.31,-0.167015]!, "
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13668.2,3122.96,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13677.1,3121.93,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13666.9,3116.24,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13669.8,3123.96,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13668.4,3112.77,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13675.5,3127.13,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13658.9,3126.64,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13668.3,3123.05,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13671,3113.36,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Loot spawn at '[13677.2,3121.9,0]' with loot table 'MilitarySpecial'"
+ 8:43:24 "CRASHSPAWNER: Crash completed! Wreck at: [13669.8,3119.28,-0.0153236] - Runtime: 794 Seconds || Distance from calculated POC: 41 meters"
+ 8:43:31 Server: Object 4:1740 not found (message 99)
+ 8:43:31 Server: Object 4:1741 not found (message 91)
+ 8:44:17 "CLEANUP: Deleted 11 Loot Piles out of 137"
+ 8:45:16 "CLEANUP: Deleted 1 Loot Piles out of 129"
+ 8:46:08 "TIME SYNC: Local Time set to [2013,8,3,18,46]"
+ 8:46:15 "CLEANUP: Deleted 1 Loot Piles out of 128"
+ 8:48:02 Server: Object 4:1770 not found (message 99)
+ 8:48:18 "CLEANUP: Deleted 1 Loot Piles out of 171"
+ 8:48:21 "get: STRING (253611654), sent: STRING (253611654)"
+ 8:48:21 "DISCONNECT: Logiczz (253611654) Object: B 1-1-D:1 (Logiczz) REMOTE, _characterID: 387 at loc [2120.96,15173.7,0.00119019]"
+ 8:48:21 Client: Remote object 4:6 not found
+ 8:48:21 Client: Remote object 4:5 not found
+ 8:48:21 Client: Remote object 4:2 not found
+ 8:48:23 Warning: Cleanup player - person 4:7 not found
