@@ -232,3 +232,165 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  6:18:41 "[DZMS]: Major Mission Clock Starting!"
  6:18:41 "[DZMS]: Minor Mission Clock Starting!"
  6:18:41 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+ 6:19:06 "[DZMS]: Running Minor Mission SM11."
+ 6:19:49 "[DZMS]: Running Major Mission SM10."
+ 6:20:29 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 6:20:29 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 6:20:29 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 6:20:29 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 6:20:29 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 6:20:29   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 6:20:31 Server: Object 4:25 not found (message 99)
+ 6:20:31 Server: Object 4:26 not found (message 91)
+ 6:20:31 Server: Object 4:39 not found (message 70)
+ 6:20:31 Server: Object 4:38 not found (message 70)
+ 6:20:31 Server: Object 4:42 not found (message 70)
+ 6:20:31 Server: Object 4:41 not found (message 70)
+ 6:20:31 Server: Object 4:40 not found (message 94)
+ 6:20:31 Server: Object 4:43 not found (message 99)
+ 6:20:31 Server: Object 4:44 not found (message 91)
+ 6:20:31 Server: Object 4:45 not found (message 99)
+ 6:20:31 Server: Object 4:46 not found (message 91)
+ 6:20:31 Server: Object 4:48 not found (message 91)
+ 6:20:31 Server: Object 4:47 not found (message 99)
+ 6:20:31 Server: Object 4:60 not found (message 70)
+ 6:20:31 Server: Object 4:59 not found (message 70)
+ 6:20:31 Server: Object 4:53 not found (message 70)
+ 6:20:31 Server: Object 4:57 not found (message 94)
+ 6:20:31 Server: Object 4:56 not found (message 70)
+ 6:20:31 Server: Object 4:55 not found (message 70)
+ 6:20:31 Server: Object 4:54 not found (message 70)
+ 6:20:31 Server: Object 4:58 not found (message 70)
+ 6:20:31 Server: Object 4:52 not found (message 94)
+ 6:20:31 Server: Object 4:63 not found (message 94)
+ 6:20:31 Server: Object 4:62 not found (message 70)
+ 6:20:31 Server: Object 4:74 not found (message 70)
+ 6:20:31 Server: Object 4:73 not found (message 94)
+ 6:20:31 Server: Object 4:67 not found (message 94)
+ 6:20:31 Server: Object 4:71 not found (message 94)
+ 6:20:31 Server: Object 4:70 not found (message 70)
+ 6:20:31 Server: Object 4:69 not found (message 70)
+ 6:20:31 Server: Object 4:72 not found (message 70)
+ 6:20:31 Server: Object 4:68 not found (message 70)
+ 6:20:31 Server: Object 4:66 not found (message 70)
+ 6:20:31 Server: Object 4:61 not found (message 94)
+ 6:20:31 Server: Object 4:64 not found (message 94)
+ 6:20:31 Server: Object 4:65 not found (message 70)
+ 6:20:31 Server: Object 4:75 not found (message 94)
+ 6:20:31 Server: Object 4:79 not found (message 94)
+ 6:20:31 Server: Object 4:85 not found (message 70)
+ 6:20:31 Server: Object 4:84 not found (message 70)
+ 6:20:31 Server: Object 4:83 not found (message 70)
+ 6:20:31 Server: Object 4:80 not found (message 70)
+ 6:20:31 Server: Object 4:82 not found (message 70)
+ 6:20:31 Server: Object 4:81 not found (message 70)
+ 6:20:31 Server: Object 4:76 not found (message 70)
+ 6:20:31 Server: Object 4:78 not found (message 70)
+ 6:20:31 Server: Object 4:77 not found (message 94)
+ 6:20:31 Server: Object 4:86 not found (message 94)
+ 6:20:31 Server: Object 4:87 not found (message 94)
+ 6:20:31 Server: Object 4:88 not found (message 70)
+ 6:20:31 Server: Object 4:94 not found (message 94)
+ 6:20:31 Server: Object 4:100 not found (message 70)
+ 6:20:31 Server: Object 4:99 not found (message 70)
+ 6:20:31 Server: Object 4:98 not found (message 70)
+ 6:20:31 Server: Object 4:97 not found (message 70)
+ 6:20:31 Server: Object 4:96 not found (message 70)
+ 6:20:31 Server: Object 4:91 not found (message 70)
+ 6:20:31 Server: Object 4:95 not found (message 70)
+ 6:20:31 Server: Object 4:92 not found (message 94)
+ 6:20:31 Server: Object 4:93 not found (message 94)
+ 6:20:31 Server: Object 4:90 not found (message 94)
+ 6:20:31 Server: Object 4:89 not found (message 70)
+ 6:20:31 Server: Object 4:101 not found (message 70)
+ 6:20:31 Server: Object 4:104 not found (message 70)
+ 6:20:31 Server: Object 4:106 not found (message 70)
+ 6:20:31 Server: Object 4:105 not found (message 70)
+ 6:20:31 Server: Object 4:102 not found (message 94)
+ 6:20:31 Server: Object 4:103 not found (message 70)
+ 6:20:31 Server: Object 4:108 not found (message 94)
+ 6:20:31 Server: Object 4:114 not found (message 70)
+ 6:20:31 Server: Object 4:113 not found (message 70)
+ 6:20:31 Server: Object 4:112 not found (message 70)
+ 6:20:31 Server: Object 4:111 not found (message 70)
+ 6:20:31 Server: Object 4:110 not found (message 70)
+ 6:20:31 Server: Object 4:109 not found (message 70)
+ 6:20:31 Server: Object 4:107 not found (message 94)
+ 6:20:31 Server: Object 4:116 not found (message 70)
+ 6:20:31 Server: Object 4:115 not found (message 70)
+ 6:20:31 Server: Object 4:118 not found (message 91)
+ 6:20:31 Server: Object 4:117 not found (message 99)
+ 6:20:31 Server: Object 4:122 not found (message 70)
+ 6:20:31 Server: Object 4:127 not found (message 70)
+ 6:20:31 Server: Object 4:126 not found (message 70)
+ 6:20:31 Server: Object 4:125 not found (message 70)
+ 6:20:31 Server: Object 4:124 not found (message 70)
+ 6:20:31 Server: Object 4:123 not found (message 70)
+ 6:20:31 Server: Object 4:120 not found (message 70)
+ 6:20:31 Server: Object 4:121 not found (message 70)
+ 6:20:31 Server: Object 4:119 not found (message 94)
+ 6:20:31 Server: Object 4:129 not found (message 91)
+ 6:20:31 Server: Object 4:128 not found (message 99)
+ 6:20:31 Server: Object 4:131 not found (message 91)
+ 6:20:31 Server: Object 4:130 not found (message 99)
+ 6:20:31 Server: Object 4:134 not found (message 70)
+ 6:20:31 Server: Object 4:133 not found (message 70)
+ 6:20:31 Server: Object 4:132 not found (message 70)
+ 6:20:31 Server: Object 4:136 not found (message 91)
+ 6:20:31 Server: Object 4:135 not found (message 99)
+ 6:20:31 Server: Object 4:138 not found (message 91)
+ 6:20:34 Server: Object 4:137 not found (message 99)
+ 6:20:34 Server: Object 4:140 not found (message 91)
+ 6:20:34 Server: Object 4:139 not found (message 99)
+ 6:20:34 Server: Object 4:142 not found (message 91)
+ 6:20:34 Server: Object 4:141 not found (message 99)
+ 6:20:34 Server: Object 4:144 not found (message 91)
+ 6:20:34 Server: Object 4:143 not found (message 99)
+ 6:20:34 Server: Object 4:146 not found (message 91)
+ 6:20:34 Server: Object 4:145 not found (message 99)
+ 6:20:36 Server: Object 4:147 not found (message 98)
+ 6:20:36 Server: Object 4:148 not found (message 91)
+ 6:21:07 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 6:21:45 Server: Object 4:157 not found (message 94)
+ 6:21:45 Server: Object 4:155 not found (message 94)
+ 6:21:45 Server: Object 4:156 not found (message 94)
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 6:23:32 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 6:25:40 Server: Object 4:184 not found (message 70)
+ 6:25:40 Server: Object 4:183 not found (message 70)
+ 6:26:07 "TIME SYNC: Local Time set to [2013,8,3,16,26]"
