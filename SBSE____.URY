@@ -6044,3 +6044,17 @@ if (count _lastPos > 2 and count _charPos > >
  5:04:53 Client: Object 6:151 (type Type_70) not found.
  5:04:55 Client: Object 6:151 (type Type_69) not found.
  5:04:55 Client: Object 6:151 (type Type_70) not found.
+ 5:04:57 Client: Object 6:151 (type Type_70) not found.
+ 5:05:00 Client: Object 6:151 (type Type_70) not found.
+ 5:05:00 Client: Object 6:151 (type Type_69) not found.
+ 5:05:02 Client: Object 6:151 (type Type_70) not found.
+ 5:05:02 "get: STRING (168402182), sent: STRING (168402182)"
+ 5:05:02 "DISCONNECT: TheSinsterMonkey (168402182) Object: B 1-1-F:1 (TheSinsterMonkey) REMOTE, _characterID: 386 at loc [12601.6,3631.51,0.486403]"
+ 5:05:02 Client: Remote object 10:2 not found
+ 5:05:02 Client: Remote object 10:6 not found
+ 5:05:02 Client: Remote object 10:5 not found
+ 5:05:04 Client: Object 6:151 (type Type_70) not found.
+ 5:05:05 Client: Object 6:151 (type Type_69) not found.
+ 5:05:06 Client: Object 6:151 (type Type_70) not found.
+ 5:05:06 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
