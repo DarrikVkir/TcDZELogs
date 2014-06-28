@@ -1083,3 +1083,63 @@ g from [10450,-630,1000] to [10336.6,8085.19] NOW!(TIME:9763||LT:MilitarySpecial
  9:26:24 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
  9:27:17 "CLEANUP: Deleted 4 Loot Piles out of 126"
  9:28:23 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 9:29:25 "[DZMS]: Minor SM12 Bofors Crash Mission has Ended."
+ 9:29:48 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+ 9:29:52 "[DZMS]: Running Minor Mission SM2."
+ 9:30:06 "RUNNING EVENT: crash_spawner on [2014,6,28,19,30]"
+ 9:30:06 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+ 9:30:06 "CRASHSPAWNER: A-10 started
+
+g from [6986,-630,1000] to [7751.28,10266.2] NOW!(TIME:11566||LT:MilitarySpecial)"
+ 9:31:08 "TIME SYNC: Local Time set to [2013,8,3,19,31]"
+ 9:34:18 "CLEANUP: Deleted 26 Loot Piles out of 135"
+ 9:34:38 "CRASHSPAWNER: A-10 just exploded at [7474.81,10199.6,4.92667]!, "
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7471,10198.4,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7473.42,10206,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7475.85,10205.2,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7476.39,10195.7,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7471.04,10197.3,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7468.42,10200.4,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7471.04,10197.2,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7480.73,10197.5,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Loot spawn at '[7472.14,10190.9,0]' with loot table 'MilitarySpecial'"
+ 9:34:38 "CRASHSPAWNER: Crash completed! Wreck at: [7474.92,10199.7,0.030426] - Runtime: 272 Seconds || Distance from calculated POC: 284 meters"
+ 9:36:08 "TIME SYNC: Local Time set to [2013,8,3,19,36]"
+ 9:36:09 "CLEANUP: Deleted 1 Animals out of 55"
+ 9:37:17 "CLEANUP: Deleted 12 Loot Piles out of 118"
+ 9:37:30 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with SUV (Armored) AL from 0m with 0.0731816 dmg"
+ 9:37:30 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:37:30   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:37:30   Error Undefined variable in expression: _weapon
+ 9:37:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 9:37:30 "PHIT: B 1-1-D:1 (Kmhuey) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with SUV (Armored) AL from 0m with 0.0693411 dmg"
+ 9:37:30 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:37:30   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:37:30   Error Undefined variable in expression: _weapon
+ 9:37:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 9:37:30 "PHIT: B 1-1-E:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with SUV (Armored) AL from 0m with 0.0740509 dmg"
+ 9:37:30 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:37:30   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 9:37:30   Error Undefined variable in expression: _weapon
+ 9:37:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
