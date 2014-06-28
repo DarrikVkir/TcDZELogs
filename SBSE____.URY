@@ -3394,3 +3394,14 @@ if (count _lastPos > 2 and count _charPos > >
  4:16:14 Client: Object 6:151 (type Type_69) not found.
  4:16:15 Client: Object 6:151 (type Type_70) not found.
  4:16:17 Client: Object 6:151 (type Type_70) not found.
+ 4:16:17 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:16:17   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:16:17   Error count: Type Number, expected Array,Config entry
+ 4:16:17 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:16:19 Client: Object 6:151 (type Type_70) not found.
+ 4:16:19 Client: Object 6:151 (type Type_69) not found.
+ 4:16:21 Client: Object 6:151 (type Type_70) not found.
+ 4:16:22 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a CH_47F_EP1_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+ 4:16:22 "DELETE: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE Deleted by ID: 4331"
+ 4:16:23 "TIME SYNC: Local Time set to [2013,8,3,20,16]"
