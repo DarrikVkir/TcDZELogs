@@ -5651,3 +5651,49 @@ _key >
  4:57:48 Client: Object 6:151 (type Type_70) not found.
  4:57:50 Client: Object 6:151 (type Type_69) not found.
  4:57:50 Client: Object 6:151 (type Type_70) not found.
+ 4:57:52 Client: Object 6:151 (type Type_70) not found.
+ 4:57:54 Client: Object 6:151 (type Type_70) not found.
+ 4:57:55 Client: Object 6:151 (type Type_69) not found.
+ 4:57:56 Client: Object 6:151 (type Type_70) not found.
+ 4:57:59 Client: Object 6:151 (type Type_70) not found.
+ 4:58:01 Client: Object 6:151 (type Type_69) not found.
+ 4:58:01 Client: Object 6:151 (type Type_70) not found.
+ 4:58:03 Client: Object 6:151 (type Type_70) not found.
+ 4:58:04 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:58:04   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:58:04   Error count: Type Number, expected Array,Config entry
+ 4:58:04 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:58:05 Client: Object 6:151 (type Type_70) not found.
+ 4:58:06 Client: Object 6:151 (type Type_69) not found.
+ 4:58:07 Client: Object 6:151 (type Type_70) not found.
+ 4:58:09 Client: Object 6:151 (type Type_70) not found.
+ 4:58:11 Client: Object 6:151 (type Type_69) not found.
+ 4:58:11 Client: Object 6:151 (type Type_70) not found.
+ 4:58:13 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:58:13   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:58:13   Error count: Type Number, expected Array,Config entry
+ 4:58:13 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:58:13 Client: Object 6:151 (type Type_70) not found.
+ 4:58:14 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:58:14   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:58:14   Error count: Type Number, expected Array,Config entry
+ 4:58:14 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:58:15 Client: Object 6:151 (type Type_70) not found.
+ 4:58:16 Client: Object 6:151 (type Type_69) not found.
+ 4:58:17 Client: Object 6:151 (type Type_70) not found.
+ 4:58:19 Client: Object 6:151 (type Type_70) not found.
+ 4:58:21 Client: Object 6:151 (type Type_69) not found.
+ 4:58:21 Client: Object 6:151 (type Type_70) not found.
+ 4:58:23 Client: Object 6:151 (type Type_70) not found.
+ 4:58:25 Client: Object 6:151 (type Type_70) not found.
+ 4:58:26 Client: Object 6:151 (type Type_69) not found.
+ 4:58:27 Client: Object 6:151 (type Type_70) not found.
+ 4:58:30 Client: Object 6:151 (type Type_70) not found.
+ 4:58:31 Server: Object 8:108 not found (message 98)
+ 4:58:31 Server: Object 8:109 not found (message 91)
+ 4:58:31 Client: Object 6:151 (type Type_69) not found.
+ 4:58:31 Client: Object 6:151 (type Type_70) not found.
+ 4:58:33 Client: Object 6:151 (type Type_70) not found.
