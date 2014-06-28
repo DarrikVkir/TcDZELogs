@@ -1544,3 +1544,6 @@ if (count _lastPos > 2 and count _charPos > >
  3:41:18 Client: Object 6:151 (type Type_70) not found.
  3:41:19 Client: Object 6:151 (type Type_69) not found.
  3:41:20 Client: Object 6:151 (type Type_70) not found.
+ 3:41:22 Client: Object 6:151 (type Type_70) not found.
+ 3:41:22 "SAFE LOCKED: ID:1390 UID:0 BY DarrikVkir [BOOTY](23206790)"
+ 3:41:22 "TIME SYNC: Local Time set to [2013,8,3,19,41]"
