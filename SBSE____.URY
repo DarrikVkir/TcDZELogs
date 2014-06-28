@@ -2508,3 +2508,6 @@ if (count _lastPos > 2 and count _charPos > >
  4:01:22 "[DZMS]: Running Major Mission SM3."
  4:01:22 "TIME SYNC: Local Time set to [2013,8,3,20,1]"
  4:01:24 Client: Object 6:151 (type Type_70) not found.
+ 4:01:26 Client: Object 6:151 (type Type_70) not found.
+ 4:01:27 Client: Object 6:151 (type Type_69) not found.
+ 4:01:28 Client: Object 6:151 (type Type_70) not found.
