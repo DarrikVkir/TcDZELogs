@@ -5865,3 +5865,10 @@ if (count _lastPos > 2 and count _charPos > >
  5:01:37   Error count: Type Number, expected Array,Config entry
  5:01:37 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
  5:01:38 Client: Object 6:151 (type Type_69) not found.
+ 5:01:38 "CLEANUP: Deleted 4 Loot Piles out of 236"
+ 5:01:38 Client: Object 6:151 (type Type_70) not found.
+ 5:01:39 Server: Object 6:1360 not found (message 70)
+ 5:01:40 Client: Object 6:151 (type Type_70) not found.
+ 5:01:42 Client: Object 6:151 (type Type_70) not found.
+ 5:01:43 Client: Object 6:151 (type Type_69) not found.
+ 5:01:45 Client: Object 6:151 (type Type_70) not found.
