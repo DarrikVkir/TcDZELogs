@@ -583,3 +583,47 @@ g from [1623.71,218.188,300] to [3668.44,15349.4] NOW!(TIME:2563||LT:HeliCrash_N
  7:05:00 Server: Object 4:702 not found (message 99)
  7:06:07 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
  7:07:15 "CLEANUP: Deleted 1 Loot Piles out of 215"
+ 7:09:00 "[DZMS]: Minor SM3 Stash House Mission has Ended."
+ 7:09:17 "CLEANUP: Deleted 56 Loot Piles out of 214"
+ 7:09:25 "[DZMS]: Running Minor Mission SM8."
+ 7:11:07 "TIME SYNC: Local Time set to [2013,8,3,17,11]"
+ 7:11:30 "CRASHSPAWNER: UH-1Y just exploded at [3728.49,15310.4,-0.848083]!, "
+ 7:11:30 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 7:11:30 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 7:11:30 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3728.08,15306.4,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3728.47,15315.7,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3721.57,15310.9,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3725.48,15313.9,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3729.41,15306.2,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3728.25,15305.4,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3726.93,15315.2,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Loot spawn at '[3724.96,15313.4,0]' with loot table 'HeliCrash_No50s'"
+ 7:11:30 "CRASHSPAWNER: Crash completed! Wreck at: [3728.49,15310.4,0.109619] - Runtime: 689 Seconds || Distance from calculated POC: 75 meters"
+ 7:11:46 Server: Object 4:724 not found (message 91)
+ 7:11:46 Server: Object 4:723 not found (message 99)
+ 7:14:02 Server: Object 4:741 not found (message 98)
+ 7:14:02 Server: Object 4:742 not found (message 91)
+ 7:14:14 Server: Object 4:746 not found (message 91)
+ 7:14:14 Server: Object 4:745 not found (message 99)
+ 7:15:02 "RUNNING EVENT: supply_drop on [2014,6,28,17,15]"
+ 7:16:07 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+ 7:16:13 "CLEANUP: Deleted 2 Loot Piles out of 168"
+ 7:16:22 Server: Object 4:757 not found (message 98)
+ 7:16:22 Server: Object 4:758 not found (message 91)
+ 7:16:27 Server: Object 4:759 not found (message 99)
+ 7:16:27 Server: Object 4:760 not found (message 91)
+ 7:16:27 Server: Object 4:761 not found (message 99)
+ 7:16:27 Server: Object 4:762 not found (message 91)
+ 7:16:27 Server: Object 4:764 not found (message 91)
+ 7:16:27 Server: Object 4:763 not found (message 98)
+ 7:16:27 Server: Object 4:765 not found (message 98)
+ 7:16:27 Server: Object 4:766 not found (message 91)
+ 7:16:27 Server: Object 4:767 not found (message 99)
+ 7:16:27 Server: Object 4:768 not found (message 91)
+ 7:16:27 Server: Object 4:769 not found (message 98)
+ 7:16:27 Server: Object 4:770 not found (message 91)
+ 7:16:27 Server: Object 4:771 not found (message 98)
+ 7:16:27 Server: Object 4:772 not found (message 91)
+ 7:16:27 Server: Object 4:774 not found (message 91)
+ 7:16:27 Server: Object 4:773 not found (message 98)
