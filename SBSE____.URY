@@ -5298,3 +5298,11 @@ if (count _lastPos > 2 and count _charPos > >
  4:51:19 Client: Object 6:151 (type Type_70) not found.
  4:51:20 Client: Object 6:151 (type Type_69) not found.
  4:51:21 Client: Object 6:151 (type Type_70) not found.
+ 4:51:23 "TIME SYNC: Local Time set to [2013,8,3,20,51]"
+ 4:51:23 Client: Object 6:151 (type Type_70) not found.
+ 4:51:24 "CLEANUP: Deleted 2 Animals out of 59"
+ 4:51:25 Client: Object 6:151 (type Type_70) not found.
+ 4:51:25 Client: Object 6:151 (type Type_69) not found.
+ 4:51:27 Client: Object 6:151 (type Type_70) not found.
+ 4:51:29 Client: Object 6:151 (type Type_70) not found.
+ 4:51:30 Client: Object 6:151 (type Type_69) not found.
