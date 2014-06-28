@@ -530,3 +530,54 @@ _pos = g>
  3:05:57 "[DZMS]: Running Major Mission SM10."
  3:06:22 "TIME SYNC: Local Time set to [2013,8,3,19,6]"
  3:06:23 "CLEANUP: Deleted 15 Animals out of 24"
+ 3:10:28 "CRASHSPAWNER: UH-60M just exploded at [4277.28,10033.8,0.726105]!, "
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4273.29,10033.6,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4281.67,10030.7,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4270.97,10034.2,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4275.8,10039.5,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4280.62,10026.3,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4267.01,10036.1,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4264.76,10030.8,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4281.98,10032,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4269.96,10029,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4266.11,10038,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4278.63,10038.7,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4282.87,10032.8,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Loot spawn at '[4281.29,10035.8,0]' with loot table 'HeliCrash_No50s'"
+ 3:10:28 "CRASHSPAWNER: Crash completed! Wreck at: [4277.28,10033.8,0.0170288] - Runtime: 6018 Seconds || Distance from calculated POC: 3456 meters"
+ 3:11:22 "TIME SYNC: Local Time set to [2013,8,3,19,11]"
+ 3:13:07 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 3:13:10 Server: Object 4:465 not found (message 91)
+ 3:13:10 Server: Object 4:464 not found (message 99)
+ 3:13:10 Server: Object 4:467 not found (message 91)
+ 3:13:10 Server: Object 4:466 not found (message 99)
+ 3:13:10 Server: Object 4:469 not found (message 91)
+ 3:13:10 Server: Object 4:468 not found (message 99)
+ 3:13:10 Server: Object 4:475 not found (message 91)
+ 3:13:10 Server: Object 4:477 not found (message 91)
+ 3:13:10 Server: Object 4:476 not found (message 99)
+ 3:13:10 Server: Object 4:478 not found (message 98)
+ 3:13:10 Server: Object 4:479 not found (message 91)
+ 3:13:27 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M24 in/at Stary for 6x ItemGoldBar"
+ 3:13:29 "CLEANUP: Deleted 4 Loot Piles out of 112"
+ 3:13:52 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 3:13:56 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 3:14:15 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 3:14:37 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M24 in/at Stary for 6x ItemGoldBar"
+ 3:14:39 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 3:14:58 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 3:15:06 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 3:15:07 "RUNNING EVENT: supply_drop on [2014,6,28,19,15]"
+ 3:15:20 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
+ 3:15:27 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 3:15:53 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a m240_scoped_EP1_DZE in/at Stary for 6x ItemGoldBar"
+ 3:16:05 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+ 3:16:21 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a Pecheneg_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 3:16:22 "TIME SYNC: Local Time set to [2013,8,3,19,16]"
+ 3:16:27 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+ 3:16:39 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 3:16:49 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 3:16:59 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 3:17:10 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 3:17:17 "EPOCH SERVERTRADE: Player: DarrikVkir [BOOTY] (23206790) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 3:17:31 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M4A1_HWS_GL_camo in/at Stary for 4x ItemGoldBar"
