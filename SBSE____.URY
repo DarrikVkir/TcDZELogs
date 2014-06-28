@@ -1694,3 +1694,5 @@ if (count _lastPos > 2 and count _charPos > >
  3:42:31 Error: Error during SetFace - class CfgFaces.GravesHead_EP1.Face04_EP1 not found
  3:42:33 Client: Object 6:151 (type Type_70) not found.
  3:42:35 Client: Object 6:151 (type Type_69) not found.
+ 3:42:35 Client: Object 6:151 (type Type_70) not found.
+ 3:42:37 Client: Object 6:151 (type Type_70) not found.
