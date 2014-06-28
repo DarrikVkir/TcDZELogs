@@ -723,3 +723,12 @@ g from [1623.71,218.188,300] to [3668.44,15349.4] NOW!(TIME:2563||LT:HeliCrash_N
  7:47:24 "[DZMS]: Minor SM9 renegades Mission has Ended."
  7:47:33 "[DZMS]: Running Minor Mission SM5."
  7:48:11 "CLEANUP: Deleted 5 Loot Piles out of 54"
+ 7:49:18 Server: Object 4:1079 not found (message 99)
+ 7:49:18 Server: Object 4:1080 not found (message 91)
+ 7:49:36 Server: Object 4:1083 not found (message 98)
+ 7:49:36 Server: Object 4:1084 not found (message 91)
+ 7:50:11 "CLEANUP: Deleted 5 Loot Piles out of 54"
+ 7:51:07 "TIME SYNC: Local Time set to [2013,8,3,17,51]"
+ 7:52:11 "CLEANUP: Deleted 3 Loot Piles out of 49"
+ 7:55:11 "CLEANUP: Deleted 1 Loot Piles out of 46"
+ 7:56:07 "TIME SYNC: Local Time set to [2013,8,3,17,56]"
