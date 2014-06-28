@@ -6443,3 +6443,9 @@ if (count _lastPos > 2 and count _charPos > >
  5:11:15 Client: Object 6:151 (type Type_70) not found.
  5:11:16 Client: Object 6:151 (type Type_69) not found.
  5:11:17 Client: Object 6:151 (type Type_70) not found.
+ 5:11:19 Client: Object 6:151 (type Type_70) not found.
+ 5:11:21 Client: Object 6:151 (type Type_70) not found.
+ 5:11:21 Client: Object 6:151 (type Type_69) not found.
+ 5:11:23 "TIME SYNC: Local Time set to [2013,8,3,21,11]"
+ 5:11:23 Client: Object 6:151 (type Type_70) not found.
+ 5:11:25 Client: Object 6:151 (type Type_70) not found.
