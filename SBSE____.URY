@@ -5644,3 +5644,10 @@ _key >
 _key >
  4:57:41   Error Undefined variable in expression: _activatingplayer
  4:57:41 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 4:57:42 Client: Object 6:151 (type Type_70) not found.
+ 4:57:44 Client: Object 6:151 (type Type_70) not found.
+ 4:57:45 Client: Object 6:151 (type Type_69) not found.
+ 4:57:46 Client: Object 6:151 (type Type_70) not found.
+ 4:57:48 Client: Object 6:151 (type Type_70) not found.
+ 4:57:50 Client: Object 6:151 (type Type_69) not found.
+ 4:57:50 Client: Object 6:151 (type Type_70) not found.
