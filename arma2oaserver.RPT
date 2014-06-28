@@ -1143,3 +1143,14 @@ _we>
 _we>
  9:37:30   Error Undefined variable in expression: _weapon
  9:37:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 9:39:04 "[DZMS]: Major SM10 UH1H Mission has Ended."
+ 9:39:06 "DELETE: B 1-1-F:1 (Miss Rachel ) REMOTE Deleted by UID: 947921434143729"
+ 9:39:06 "PUBLISH: B 1-1-F:1 (Miss Rachel ) REMOTE upgraded WoodStairsRails_DZ with ID "947921434143729""
+ 9:39:17 "CLEANUP: Deleted 2 Loot Piles out of 107"
+ 9:41:04 "[DZMS]: Running Major Mission SM3."
+ 9:41:08 "TIME SYNC: Local Time set to [2013,8,3,19,41]"
+ 9:42:17 "CLEANUP: Deleted 1 Loot Piles out of 108"
+ 9:45:17 "CLEANUP: Deleted 16 Loot Piles out of 109"
+ 9:46:08 "TIME SYNC: Local Time set to [2013,8,3,19,46]"
+ 9:48:44 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a UH1H_DZE in/at Bandit Trader for 1x ItemBriefcase100oz"
+ 9:48:45 "DELETE: B 1-1-D:1 (Kmhuey) REMOTE Deleted by ID: 1860"
