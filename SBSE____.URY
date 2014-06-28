@@ -5743,3 +5743,15 @@ _key >
  4:59:06 Client: Object 6:151 (type Type_70) not found.
  4:59:07 Client: Object 6:151 (type Type_69) not found.
  4:59:08 Client: Object 6:151 (type Type_70) not found.
+ 4:59:10 Client: Object 6:151 (type Type_70) not found.
+ 4:59:11 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:59:11   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:59:11   Error count: Type Number, expected Array,Config entry
+ 4:59:11 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:59:12 Client: Object 6:151 (type Type_69) not found.
+ 4:59:13 Client: Object 6:151 (type Type_70) not found.
+ 4:59:15 Client: Object 6:151 (type Type_70) not found.
+ 4:59:17 Client: Object 6:151 (type Type_70) not found.
+ 4:59:17 Client: Object 6:151 (type Type_69) not found.
+ 4:59:19 Client: Object 6:151 (type Type_70) not found.
