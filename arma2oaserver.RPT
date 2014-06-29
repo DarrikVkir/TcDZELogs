@@ -370,3 +370,50 @@ g from [15098,8144,300] to [11728,11904.5] NOW!(TIME:520||LT:MilitarySpecial)"
 17:27:53 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A3_CCO_EP1 in/at Stary for 5x ItemGoldBar"
 17:28:27 "CLEANUP: Deleted 2 Loot Piles out of 186"
 17:28:33 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AKS_74_kobra in/at Stary for 2x ItemGoldBar"
+17:28:57 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
+17:29:15 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a DZ_CivilBackpack_EP1 in/at Stary for 4x ItemGoldBar"
+17:29:44 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a DZ_GunBag_EP1 in/at Stary for 3x ItemGoldBar"
+17:30:08 "RUNNING EVENT: crash_spawner on [2014,6,29,19,30]"
+17:30:08 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+17:30:08 "CRASHSPAWNER: A-10 started
+
+g from [10450,-630,1000] to [10591.2,15261.6] NOW!(TIME:2322||LT:MilitarySpecial)"
+17:30:18 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1 in/at Stary for 2x ItemGoldBar"
+17:30:20 "TIME SYNC: Local Time set to [2013,8,3,19,30]"
+17:30:37 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Sa58P_EP1 in/at Stary for 1x ItemGoldBar"
+17:30:54 "get: STRING (199810246), sent: STRING (199810246)"
+17:30:54 "DISCONNECT: Marek (199810246) Object: B 1-1-C:1 (Marek) REMOTE, _characterID: 382 at loc [6310.09,7793.36,0.00140381]"
+17:30:54 No player found for channel 814972992 - message ignored
+17:30:54 No player found for channel 814972992 - message ignored
+17:30:54 Client: Remote object 10:6 not found
+17:30:54 Client: Remote object 10:2 not found
+17:30:54 Client: Remote object 10:5 not found
+17:32:21 "ERROR: server_playerSync: Cannot Sync Player Pogranec [392]. Position in debug! [-7245.93,19534.8,1.1886]"
+17:32:21 "TELEPORT REVERT for player UID#166473030 from [7035.14,2796.39,0.266685] to [-7245.93,19534.8,1.1886], 22006 meters, now at [7035.14,2796.39,0.266685]"
+17:32:21 SetFace error: class CfgFaces.OharaHead.Face08 not found
+17:32:21 Error: Error during SetFace - class CfgFaces.OharaHead.Face08 not found
+17:34:03 "CRASHSPAWNER: A-10 just exploded at [10505.5,15029.9,5.46703]!, "
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10502.1,15032,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10509.2,15025.2,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10508.4,15036.1,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10501.7,15026.8,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10501.3,15037.3,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10505.2,15023.8,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10500.2,15027.8,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10508.8,15022.3,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Loot spawn at '[10495.5,15024,0]' with loot table 'MilitarySpecial'"
+17:34:03 "CRASHSPAWNER: Crash completed! Wreck at: [10505.1,15029.9,0.131653] - Runtime: 236 Seconds || Distance from calculated POC: 266 meters"
+17:34:07 Server: Object 2:7358 not found (message 221)
+17:34:07 Server: Object 2:7358 not found (message 221)
+17:34:13 Server: Object 12:9 not found (message 70)
+17:35:20 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a DZ_CivilBackpack_EP1 in/at Stary for 4x ItemGoldBar"
+17:35:20 "TIME SYNC: Local Time set to [2013,8,3,19,35]"
+17:35:30 "CLEANUP: Deleted 3 Loot Piles out of 264"
+17:35:52 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a DZ_CivilBackpack_EP1 in/at Stary for 4x ItemGoldBar"
+17:36:30 "CLEANUP: Deleted 1 Loot Piles out of 278"
+17:36:39 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A3_CCO_EP1 in/at Stary for 5x ItemGoldBar"
+17:37:32 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a HMMWV_DZ in/at Stary for 2x ItemGoldBar10oz"
+17:37:32 "DELETE: B 1-1-F:1 (Marek) REMOTE Deleted by ID: 637156"
+17:38:31 "CLEANUP: Deleted 2 Loot Piles out of 296"
+17:38:35 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Saiga12K in/at Stary for 3x ItemGoldBar"
+17:38:46 Server: Object 12:72 not found (message 70)
