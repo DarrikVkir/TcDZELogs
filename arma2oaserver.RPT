@@ -322,3 +322,51 @@ g from [15098,8144,300] to [11728,11904.5] NOW!(TIME:520||LT:MilitarySpecial)"
 17:17:08 Client: Remote object 6:2 not found
 17:17:08 Client: Remote object 6:8 not found
 17:18:48 Server: Object 9:9 not found (message 70)
+17:20:20 "TIME SYNC: Local Time set to [2013,8,3,19,20]"
+17:20:25 Server: Object 9:21 not found (message 99)
+17:20:25 Server: Object 9:22 not found (message 91)
+17:20:33 "get: STRING (199810246), sent: STRING (199810246)"
+17:20:33 "LOGOUT IN VEHICLE: Marek at location [9833.91,8802.45,2.52588]"
+17:20:33 "DISCONNECT: Marek (199810246) Object: B 1-1-C:1 (Marek) REMOTE, _characterID: 382 at loc [9833.91,8802.45,2.52588]"
+17:20:33 Client: Remote object 9:2 not found
+17:20:33 Client: Remote object 9:8 not found
+17:20:51 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+17:22:35 Server: Object 10:32 not found (message 99)
+17:22:35 Server: Object 10:33 not found (message 91)
+17:22:36 Server: Object 10:36 not found (message 91)
+17:22:36 Server: Object 10:35 not found (message 99)
+17:22:36 Server: Object 10:38 not found (message 91)
+17:22:36 Server: Object 10:37 not found (message 99)
+17:22:36 Server: Object 10:41 not found (message 70)
+17:22:36 Server: Object 10:40 not found (message 70)
+17:22:36 Server: Object 10:39 not found (message 94)
+17:22:36 Server: Object 10:43 not found (message 91)
+17:22:36 Server: Object 10:42 not found (message 99)
+17:22:36 Server: Object 10:48 not found (message 91)
+17:22:36 Server: Object 10:47 not found (message 99)
+17:22:36 Server: Object 10:50 not found (message 70)
+17:22:36 Server: Object 10:49 not found (message 70)
+17:22:36 Server: Object 10:52 not found (message 91)
+17:22:36 Server: Object 10:51 not found (message 99)
+17:23:09 Server: Object 10:59 not found (message 70)
+17:23:09 Server: Object 10:60 not found (message 94)
+17:23:09 Server: Object 10:61 not found (message 94)
+17:23:17 Server: Object 10:70 not found (message 94)
+17:25:09 Server: Object 10:94 not found (message 91)
+17:25:09 Server: Object 10:93 not found (message 98)
+17:25:15 Server: Object 10:95 not found (message 98)
+17:25:15 Server: Object 10:96 not found (message 91)
+17:25:20 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
+17:25:21 "CLEANUP: Deleted 12 Animals out of 32"
+17:25:26 Server: Object 10:98 not found (message 91)
+17:25:26 Server: Object 10:97 not found (message 99)
+17:25:32 Server: Object 10:100 not found (message 91)
+17:25:32 Server: Object 10:99 not found (message 99)
+17:26:26 "CLEANUP: Deleted 1 Loot Piles out of 158"
+17:26:45 Server: Object 10:124 not found (message 91)
+17:26:45 Server: Object 10:123 not found (message 99)
+17:27:26 "CLEANUP: Deleted 1 Loot Piles out of 184"
+17:27:32 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+17:27:53 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A3_CCO_EP1 in/at Stary for 5x ItemGoldBar"
+17:28:27 "CLEANUP: Deleted 2 Loot Piles out of 186"
+17:28:33 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AKS_74_kobra in/at Stary for 2x ItemGoldBar"
