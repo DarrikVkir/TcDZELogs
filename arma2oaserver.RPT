@@ -684,3 +684,42 @@ _pos = g>
 19:55:21 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
 19:55:44 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
 19:59:28 "CLEANUP: Deleted 2 Loot Piles out of 113"
+20:00:03 "RUNNING EVENT: crash_spawner on [2014,6,29,22,0]"
+20:00:03 "CRASHSPAWNER: 100% chance to start a crashing Su-25 with loot table 'MilitarySpecial'"
+20:00:03 "CRASHSPAWNER: Su-25 started
+
+g from [6986,-630,1000] to [7820.44,8699.9] NOW!(TIME:11315||LT:MilitarySpecial)"
+20:00:06 "get: STRING (166473030), sent: STRING (166473030)"
+20:00:06 "DISCONNECT: Pogranec (166473030) Object: B 1-1-B:1 (Pogranec) REMOTE, _characterID: 393 at loc [6326.07,7686.99,0.0532532]"
+20:00:06 Client: Remote object 20:6 not found
+20:00:06 Client: Remote object 20:5 not found
+20:00:06 Client: Remote object 20:2 not found
+20:00:14 NetServer::SendMsg: cannot find channel #1024126952, users.card=0
+20:00:14 NetServer: users.get failed when sending to 1024126952
+20:00:14 Message not sent - error 0, message ID = ffffffff, to 1024126952 (Channgg00)
+20:00:14 NetServer::SendMsg: cannot find channel #1024126952, users.card=0
+20:00:14 NetServer: users.get failed when sending to 1024126952
+20:00:14 Message not sent - error 0, message ID = ffffffff, to 1024126952 (Channgg00)
+20:00:14 "get: STRING (8896708), sent: STRING (8896708)"
+20:00:14 "LOGOUT IN VEHICLE: Channgg00 at location [6325.42,7683.13,1.44781]"
+20:00:14 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-C:1 (Channgg00) REMOTE, _characterID: 221 at loc [6325.42,7683.13,1.44781]"
+20:00:14 Client: Remote object 18:6 not found
+20:00:14 Client: Remote object 18:5 not found
+20:00:14 Client: Remote object 18:2 not found
+20:00:21 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+20:01:27 "CLEANUP: Deleted 1 Loot Piles out of 100"
+20:02:22 "CRASHSPAWNER: Su-25 just exploded at [7685.4,8413.98,5.36179]!, "
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7689.39,8414.22,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7686.5,8419.49,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7685.29,8419.12,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7687.17,8420.42,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7680.43,8419.92,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7679.77,8422.1,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7681.35,8421.78,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7684.26,8419.09,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7683.89,8410.08,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7692.94,8414.71,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Loot spawn at '[7695.62,8418.13,0]' with loot table 'MilitarySpecial'"
+20:02:22 "CRASHSPAWNER: Crash completed! Wreck at: [7685.41,8413.9,0.00842285] - Runtime: 140 Seconds || Distance from calculated POC: 321 meters"
+20:05:21 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
+20:05:28 "CLEANUP: Deleted 1 Loot Piles out of 110"
