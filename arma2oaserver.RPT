@@ -362,3 +362,7 @@ g from [15098,8144,300] to [2876.61,3456.02] NOW!(TIME:5815||LT:MilitarySpecial)
  4:02:00 "CRASHSPAWNER: Loot spawn at '[3182.09,3449.94,0]' with loot table 'MilitarySpecial'"
  4:02:00 "CRASHSPAWNER: Crash completed! Wreck at: [3179.14,3441.48,0.0324554] - Runtime: 113 Seconds || Distance from calculated POC: 303 meters"
  4:06:50 "TIME SYNC: Local Time set to [2013,8,3,18,6]"
+ 4:09:11 NAT Negotiation failed - partner not found
+ 4:11:50 "TIME SYNC: Local Time set to [2013,8,3,18,11]"
+ 4:15:08 "RUNNING EVENT: supply_drop on [2014,6,29,18,15]"
+ 4:16:50 "TIME SYNC: Local Time set to [2013,8,3,18,16]"
