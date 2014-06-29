@@ -1,0 +1,390 @@
+
+
+=====================================================================
+== C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-tn7Xv.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+=====================================================================
+Exe timestamp: 2014/06/01 10:01:31
+Current time:  2014/06/29 20:19:15
+
+Version 1.63.112555
+Item STR_EPOCH_BULK_DESC_MP5SD listed twice
+Item STR_ACTIONS_BUILD listed twice
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by Ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by Ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by Ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Obsolete class Animations defined in bin\config.bin/RscCompass/
+Obsolete class Animations defined in bin\config.bin/RscWatch/
+20:46:28 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+20:46:28 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+20:46:28 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+20:46:28 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+20:46:35 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+20:46:35 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+20:46:35 "DayZ Epoch: MPframework inited"
+20:47:00 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+20:47:02 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+20:47:02 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:47:02 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:47:02 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:47:02 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:47:02 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+20:47:03 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+20:47:03 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:47:03 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:47:03 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:47:03 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:47:03 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+20:47:05 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+20:47:08 "Res3tting B!S effects..."
+20:47:08 "[AGN] Starting Trader City Safezone Commander!"
+20:47:08 "Error: Attempting to start AGN products on a server where it should not be!"
+20:47:08 "HIVE: Starting"
+20:47:08 "HIVE: trying to get objects"
+20:47:10 "HIVE: found 3149 objects"
+20:47:10 "HIVE: Commence Object Streaming..."
+20:47:10 "HIVE: got 2518 Epoch Objects and 631 Vehicles"
+20:47:22 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+20:47:22 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+20:47:24 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+20:47:24 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+20:47:39 "HIVE: Vehicle Spawn limit reached!"
+20:47:39 "HIVE: Spawning # of Debris: 0"
+20:47:39 "HIVE: Spawning # of Ammo Boxes: 3"
+20:47:39 "HIVE: Spawning # of Veins: 50"
+20:47:39 "Total Number of spawn locations 5"
+20:47:39 "DEBUG VEIN: Too many objects at [3594.25,9431.04]"
+20:47:39 "DEBUG VEIN: Too many objects at [3916.65,9806.53]"
+20:47:40 "DEBUG VEIN: on road [3780.32,10094]"
+20:47:40 "DEBUG VEIN: Too many objects at [3908.27,9808.01]"
+20:47:40 "EPOCH EVENTS INIT"
+20:47:42 "Res3tting B!S effects..."
+20:47:44 "TIME SYNC: Local Time set to [2013,8,3,16,47]"
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:48:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:48:44 "[DZMS]: Starting DayZ Epoch Mission System."
+20:48:44 "[DZMS]: Relations not found! Using DZMS Relations."
+20:48:44 "[DZMS]: Mission and Extended Configuration Loaded!"
+20:48:44 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+20:48:44 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+20:48:44 "[DZMS]: Mission Functions Script Loaded!"
+20:48:44 "[DZMS]: Major Mission Clock Starting!"
+20:48:44 "[DZMS]: Minor Mission Clock Starting!"
+20:48:44 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+20:49:03 "[DZMS]: Running Minor Mission SM7."
+20:50:07 "[DZMS]: Running Major Mission SM10."
+20:51:05 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+20:56:05 "TIME SYNC: Local Time set to [2013,8,3,16,56]"
+21:00:07 "RUNNING EVENT: crash_spawner on [2014,6,29,17,0]"
+21:00:07 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+21:00:07 "CRASHSPAWNER: MV-22 started
+
+g from [10450,-630,1000] to [7185.31,14949.5] NOW!(TIME:741||LT:MilitarySpecial)"
+21:01:05 "TIME SYNC: Local Time set to [2013,8,3,17,1]"
+21:03:24 "CRASHSPAWNER: MV-22 just exploded at [6922.16,14959.8,4.50983]!, "
+21:03:24 "CRASHSPAWNER: Loot spawn at '[6919.35,14957,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6927.96,14962.1,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6930.55,14962.1,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6915.84,14968.9,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6922.77,14952.4,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6931.03,14959.1,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6916.12,14958.8,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6919.44,14963,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6918.06,14961.1,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6918.46,14963.3,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Loot spawn at '[6929.5,14963.5,0]' with loot table 'MilitarySpecial'"
+21:03:25 "CRASHSPAWNER: Crash completed! Wreck at: [6922.14,14959.8,-0.00311279] - Runtime: 198 Seconds || Distance from calculated POC: 263 meters"
+21:06:06 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
+21:11:06 "TIME SYNC: Local Time set to [2013,8,3,17,11]"
+21:11:07 "CLEANUP: Deleted 13 Loot Piles out of 37"
+21:12:24 "SAFE UNLOCKED: ID:3056 UID:0 BY [BOOTY] 4ASST(234483142)"
+21:15:08 "RUNNING EVENT: supply_drop on [2014,6,29,17,15]"
+21:16:06 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+21:21:06 "TIME SYNC: Local Time set to [2013,8,3,17,21]"
+21:21:29 "SAFE LOCKED: ID:3056 UID:0 BY [BOOTY] 4ASST(234483142)"
+21:22:20 NAT Negotiation completed
+21:26:06 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
+21:26:07 "CLEANUP: Deleted 1 Loot Piles out of 44"
+21:28:08 "CLEANUP: Deleted 10 Loot Piles out of 43"
+21:28:48 Server: Object 4:40 not found (message 70)
+21:28:48 Server: Object 4:39 not found (message 70)
+21:28:51 Client: Object 4:32 (type Type_70) not found.
+21:28:52 Server: Object 4:38 not found (message 70)
+21:30:07 "CLEANUP: Deleted 1 Loot Piles out of 33"
+21:30:09 "RUNNING EVENT: crash_spawner on [2014,6,29,17,30]"
+21:30:09 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Ural Wreck spawned at [7842.47,7142.41]"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7838.65,7141.22,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7845.64,7135.52,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7836,7150.03,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7850.57,7134.73,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7855.97,7143.55,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7830.26,7131.82,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7837.65,7158.6,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7831.11,7144.22,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7846.25,7130.14,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7843.42,7146.57,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7846.19,7138.8,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7843.91,7147.56,0.00631714]' with loot table 'Military'"
+21:30:09 "CRASHSPAWNER: Loot spawn at '[7834.5,7145.31,0.00631714]' with loot table 'Military'"
+21:31:06 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+21:32:08 "CLEANUP: Deleted 3 Loot Piles out of 46"
+21:33:07 "CLEANUP: Deleted 1 Loot Piles out of 43"
+21:33:09 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+21:33:09   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+21:33:09 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+21:33:09   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+21:33:09 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+21:33:09   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+21:33:09 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+21:33:09   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+21:33:09 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+21:33:09   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+21:33:09   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+21:33:10 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+21:36:06 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+21:36:08 "CLEANUP: Deleted 2 Loot Piles out of 42"
+21:37:08 "CLEANUP: Deleted 2 Loot Piles out of 40"
+21:37:28 Server: Object 4:150 not found (message 91)
+21:37:28 Server: Object 4:149 not found (message 99)
+21:37:29 Server: Object 4:155 not found (message 99)
+21:37:29 Server: Object 4:156 not found (message 91)
+21:38:08 "CLEANUP: Deleted 1 Loot Piles out of 38"
+21:41:06 "TIME SYNC: Local Time set to [2013,8,3,17,41]"
+21:42:16 "PHIT: B 1-1-C:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-D:1 (BluntScopes) REMOTE with Off-road (red) from 0m with 0.0766194 dmg"
+21:42:16 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+21:42:16   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+21:42:16   Error Undefined variable in expression: _weapon
+21:42:16 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+21:43:29 "PHIT: B 1-1-C:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-D:1 (BluntScopes) REMOTE with Off-road (red) from 0m with 0.0540542 dmg"
+21:43:29 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+21:43:29   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+21:43:29   Error Undefined variable in expression: _weapon
+21:43:29 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+21:43:33 Client: Object 5:92 (type Type_69) not found.
+21:43:33 Client: Object 5:92 (type Type_70) not found.
+21:43:33 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:43:33 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:43:33 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:43:33 "PKILL: [BOOTY] 4ASST was killed by BluntScopes with weapon Off-road (red) from 0m"
+21:43:33 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+21:43:33   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+21:43:33   Error Undefined variable in expression: dze_deathmsgside
+21:43:33 File
