@@ -277,3 +277,13 @@ g from [10450,-630,1000] to [7185.31,14949.5] NOW!(TIME:741||LT:MilitarySpecial)
 21:12:24 "SAFE UNLOCKED: ID:3056 UID:0 BY [BOOTY] 4ASST(234483142)"
 21:15:08 "RUNNING EVENT: supply_drop on [2014,6,29,17,15]"
 21:16:06 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+21:21:06 "TIME SYNC: Local Time set to [2013,8,3,17,21]"
+21:21:29 "SAFE LOCKED: ID:3056 UID:0 BY [BOOTY] 4ASST(234483142)"
+21:22:20 NAT Negotiation completed
+21:26:06 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
+21:26:07 "CLEANUP: Deleted 1 Loot Piles out of 44"
+21:28:08 "CLEANUP: Deleted 10 Loot Piles out of 43"
+21:28:48 Server: Object 4:40 not found (message 70)
+21:28:48 Server: Object 4:39 not found (message 70)
+21:28:51 Client: Object 4:32 (type Type_70) not found.
+21:28:52 Server: Object 4:38 not found (message 70)
