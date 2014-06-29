@@ -520,3 +520,37 @@ g from [1623.71,218.188,300] to [2335.18,9091.12] NOW!(TIME:13020||LT:HeliCrash_
 12:06:40 "CRASHSPAWNER: Loot spawn at '[2234.05,9128.06,0]' with loot table 'HeliCrash_No50s'"
 12:06:40 "CRASHSPAWNER: Crash completed! Wreck at: [2230.88,9133.18,0.13858] - Runtime: 396 Seconds || Distance from calculated POC: 113 meters"
 12:06:58 "TIME SYNC: Local Time set to [2013,8,3,20,6]"
+12:09:23 "[DZMS]: Major SM1 Weapon Cache Mission has Ended."
+12:09:23 Error in expression <veVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+[_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+12:09:23   Error position: <_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+12:09:23   Error Undefined variable in expression: _vehicle2
+12:09:23 File z\addons\dayz_server\EMS\Missions\Major\SM1.sqf, line 48
+12:09:23 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+12:09:23   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+12:09:23   Error Undefined variable in expression: _object
+12:09:23 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+12:11:02 "[DZMS]: Running Major Mission SM12."
+12:11:58 "TIME SYNC: Local Time set to [2013,8,3,20,11]"
+12:15:04 "RUNNING EVENT: supply_drop on [2014,6,29,20,15]"
+12:16:03 "CLEANUP: Deleted 1 Loot Piles out of 85"
+12:16:32 Server: Object 5:304 not found (message 98)
+12:16:32 Server: Object 5:305 not found (message 91)
+12:16:58 "TIME SYNC: Local Time set to [2013,8,3,20,16]"
+12:17:36 Server: Object 5:316 not found (message 99)
+12:17:36 Server: Object 5:317 not found (message 91)
+12:17:53 Server: Object 5:319 not found (message 91)
+12:17:54 Server: Object 5:318 not found (message 98)
+12:18:04 "CLEANUP: Deleted 3 Loot Piles out of 84"
