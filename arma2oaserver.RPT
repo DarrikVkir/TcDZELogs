@@ -343,3 +343,72 @@ g from [10450,-630,1000] to [7185.31,14949.5] NOW!(TIME:741||LT:MilitarySpecial)
 21:37:29 Server: Object 4:155 not found (message 99)
 21:37:29 Server: Object 4:156 not found (message 91)
 21:38:08 "CLEANUP: Deleted 1 Loot Piles out of 38"
+21:41:06 "TIME SYNC: Local Time set to [2013,8,3,17,41]"
+21:42:16 "PHIT: B 1-1-C:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-D:1 (BluntScopes) REMOTE with Off-road (red) from 0m with 0.0766194 dmg"
+21:42:16 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+21:42:16   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+21:42:16   Error Undefined variable in expression: _weapon
+21:42:16 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+21:43:29 "PHIT: B 1-1-C:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-D:1 (BluntScopes) REMOTE with Off-road (red) from 0m with 0.0540542 dmg"
+21:43:29 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+21:43:29   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+21:43:29   Error Undefined variable in expression: _weapon
+21:43:29 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+21:43:33 Client: Object 5:92 (type Type_69) not found.
+21:43:33 Client: Object 5:92 (type Type_70) not found.
+21:43:33 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:43:33 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:43:33 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+21:43:33 "PKILL: [BOOTY] 4ASST was killed by BluntScopes with weapon Off-road (red) from 0m"
+21:43:33 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+21:43:33   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+21:43:33   Error Undefined variable in expression: dze_deathmsgside
+21:43:33 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+21:43:33 "PDEATH: Player Died 234483142"
+21:43:59 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [388]. Position in debug! [-7239.67,19539.3,0.246216]"
+21:44:01 "get: STRING (234483142), sent: STRING (234483142)"
+21:44:01 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-E:1 ([BOOTY] 4ASST) REMOTE, _characterID: 388 at loc [-7239.67,19539.3,0.246216]"
+21:44:01 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [388]. Position in debug! [-7239.67,19539.3,0.246216]"
+21:44:15 Client: Object 5:91 (type Type_70) not found.
+21:46:06 "TIME SYNC: Local Time set to [2013,8,3,17,46]"
+21:47:43 "get: STRING (9375302), sent: STRING (9375302)"
+21:47:43 "DISCONNECT: Cripto (9375302) Object: B 1-1-B:1 (Cripto) REMOTE, _characterID: 265 at loc [13854,11707.5,0.00129271]"
+21:47:43 Client: Remote object 4:6 not found
+21:47:43 Client: Remote object 4:5 not found
+21:47:43 Client: Remote object 4:2 not found
+21:47:44 Warning: Cleanup player - person 4:7 not found
+21:47:49 "nil player object attempting PV, :["234483142","[BOOTY] 4ASST"]"
+21:47:49 "get: STRING (), sent: STRING (234483142)"
+21:47:49 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-E:1 REMOTE, _characterID: 394 at loc [13880.4,11723.7,0.00139141]"
+21:47:49 Client: Remote object 3:200 not found
+21:47:52 Warning: Cleanup player - person 3:199 not found
+21:48:41 "nil player object attempting PV, :["4486214","BluntScopes"]"
+21:48:41 "get: STRING (), sent: STRING (4486214)"
+21:48:41 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-D:1 REMOTE, _characterID: 390 at loc [13879,11706.1,0.00148201]"
+21:48:41 Client: Remote object 5:0 not found
+21:48:41 Client: Remote object 5:8 not found
+21:48:43 Warning: Cleanup player - person 5:7 not found
