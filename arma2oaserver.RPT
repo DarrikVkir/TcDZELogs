@@ -281,3 +281,13 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:41:50 "CLEANUP: Deleted 5 Animals out of 10"
  2:46:50 "TIME SYNC: Local Time set to [2013,8,3,16,46]"
  2:47:52 "CLEANUP: Deleted 12 Loot Piles out of 49"
+ 2:49:51 "CLEANUP: Deleted 1 Loot Piles out of 37"
+ 2:50:51 "CLEANUP: Deleted 1 Loot Piles out of 36"
+ 2:51:50 "TIME SYNC: Local Time set to [2013,8,3,16,51]"
+ 2:53:33 "get: STRING (9375302), sent: STRING (9375302)"
+ 2:53:33 "DISCONNECT: Cripto (9375302) Object: B 1-1-B:1 (Cripto) REMOTE, _characterID: 265 at loc [13863.5,11736.1,0.00120449]"
+ 2:53:33 Client: Remote object 4:6 not found
+ 2:53:33 Client: Remote object 4:5 not found
+ 2:53:33 Client: Remote object 4:2 not found
+ 2:56:50 "TIME SYNC: Local Time set to [2013,8,3,16,56]"
+ 2:56:50 "CLEANUP: Deleted 6 Animals out of 6"
