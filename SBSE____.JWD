@@ -22999,3 +22999,57 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  1:49:24 "CUSTOM: Selected "4627""
  1:49:24 "PUBLISH: Created Zodiac with ID "14143057809427149""
  1:49:26 "TIME SYNC: Local Time set to [2013,8,3,17,49]"
+ 1:49:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:49:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:49:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 1:49:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 1:50:10 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 1:50:10 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 1:50:10 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 1:50:10 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 1:50:10 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 1:50:10   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 1:50:18 "[DZMS]: Starting DayZ Epoch Mission System."
+ 1:50:18 "[DZMS]: Relations not found! Using DZMS Relations."
+ 1:50:18 "[DZMS]: Mission and Extended Configuration Loaded!"
+ 1:50:18 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+ 1:50:18 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+ 1:50:18 "[DZMS]: Mission Functions Script Loaded!"
+ 1:50:18 "[DZMS]: Major Mission Clock Starting!"
+ 1:50:18 "[DZMS]: Minor Mission Clock Starting!"
+ 1:50:18 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+ 1:50:31 "[DZMS]: Running Minor Mission SM8."
+ 1:51:25 "[DZMS]: Running Major Mission SM5."
