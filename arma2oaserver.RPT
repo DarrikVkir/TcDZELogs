@@ -406,3 +406,9 @@ g from [6993.7,173.053,300] to [2761.86,9665.58] NOW!(TIME:7617||LT:HeliCrash_No
  4:48:49   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
  4:48:49   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
  4:48:49   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 4:51:51 "TIME SYNC: Local Time set to [2013,8,3,18,51]"
+ 4:56:51 "TIME SYNC: Local Time set to [2013,8,3,18,56]"
+ 4:57:09 Server: Object 5:110 not found (message 91)
+ 4:57:09 Server: Object 5:109 not found (message 99)
+ 4:57:09 Server: Object 5:112 not found (message 91)
+ 4:57:09 Server: Object 5:111 not found (message 98)
