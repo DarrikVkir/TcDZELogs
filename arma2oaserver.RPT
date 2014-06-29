@@ -460,3 +460,31 @@ g from [10450,-630,1000] to [10591.2,15261.6] NOW!(TIME:2322||LT:MilitarySpecial
 17:46:26 "CLEANUP: Deleted 2 Loot Piles out of 183"
 17:47:27 "CLEANUP: Deleted 26 Loot Piles out of 202"
 17:48:26 "CLEANUP: Deleted 1 Loot Piles out of 177"
+17:50:20 "TIME SYNC: Local Time set to [2013,8,3,19,50]"
+17:50:26 "CLEANUP: Deleted 1 Loot Piles out of 176"
+17:51:26 "CLEANUP: Deleted 15 Loot Piles out of 177"
+17:52:26 "CLEANUP: Deleted 22 Loot Piles out of 163"
+17:53:07 "get: STRING (8896708), sent: STRING (8896708)"
+17:53:07 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-B:1 (Channgg00) REMOTE, _characterID: 221 at loc [7341.31,4752.63,0.00198364]"
+17:53:07 Client: Remote object 4:6 not found
+17:53:07 Client: Remote object 4:5 not found
+17:53:07 Client: Remote object 4:2 not found
+17:53:24 "CLEANUP: Deleted 1 Loot Piles out of 135"
+17:54:25 "CLEANUP: Deleted 31 Loot Piles out of 134"
+17:54:35 "PDEATH: Player Died 166473030"
+17:54:41 SetFace error: class CfgFaces.OharaHead.Face08 not found
+17:54:41 Error: Error during SetFace - class CfgFaces.OharaHead.Face08 not found
+17:54:41 SetFace error: class CfgFaces.OharaHead.Face08 not found
+17:54:41 Error: Error during SetFace - class CfgFaces.OharaHead.Face08 not found
+17:54:53 "ERROR: server_playerSync: Cannot Sync Player Pogranec [392]. Position in debug! [-7239.67,19539.3,0.245575]"
+17:54:54 "get: STRING (166473030), sent: STRING (166473030)"
+17:54:54 "DISCONNECT: Pogranec (166473030) Object: B 1-1-B:1 (Pogranec) REMOTE, _characterID: 392 at loc [-7239.67,19539.3,0.245575]"
+17:54:54 "ERROR: server_playerSync: Cannot Sync Player Pogranec [392]. Position in debug! [-7239.67,19539.3,0.245575]"
+17:54:54 Client: Remote object 7:2 not found
+17:55:07 Warning: Cleanup player - person 7:436 not found
+17:55:20 "TIME SYNC: Local Time set to [2013,8,3,19,55]"
+17:55:21 "CLEANUP: Deleted 14 Animals out of 14"
+17:55:24 "CLEANUP: Deleted 2 Loot Piles out of 99"
+17:56:24 "CLEANUP: Deleted 15 Loot Piles out of 97"
+17:57:24 "CLEANUP: Deleted 16 Loot Piles out of 82"
+17:58:23 "CLEANUP: Deleted 2 Loot Piles out of 66"
