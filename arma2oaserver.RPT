@@ -437,3 +437,6 @@ g from [15186,11857,300] to [3546.58,4881.83] NOW!(TIME:4335||LT:MilitarySpecial
 22:02:50 "CRASHSPAWNER: Crash completed! Wreck at: [3705.39,4954.38,-0.012146] - Runtime: 167 Seconds || Distance from calculated POC: 175 meters"
 22:06:06 "TIME SYNC: Local Time set to [2013,8,3,18,6]"
 22:06:08 "CLEANUP: Deleted 1 Loot Piles out of 39"
+22:11:06 "TIME SYNC: Local Time set to [2013,8,3,18,11]"
+22:15:04 "RUNNING EVENT: supply_drop on [2014,6,29,18,15]"
+22:16:06 "TIME SYNC: Local Time set to [2013,8,3,18,16]"
