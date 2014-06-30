@@ -1,0 +1,756 @@
+
+
+=====================================================================
+== C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-82fUF.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+=====================================================================
+Exe timestamp: 2014/06/01 10:01:31
+Current time:  2014/06/30 14:19:32
+
+Version 1.63.112555
+Item STR_EPOCH_BULK_DESC_MP5SD listed twice
+Item STR_ACTIONS_BUILD listed twice
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by Ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by Ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by Ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Obsolete class Animations defined in bin\config.bin/RscCompass/
+Obsolete class Animations defined in bin\config.bin/RscWatch/
+14:21:29 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+14:21:36 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+14:21:36 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+14:21:37 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+14:21:37 "DayZ Epoch: MPframework inited"
+14:22:12 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+14:22:15 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+14:22:15 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:16 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+14:22:17 "Res3tting B!S effects..."
+14:22:17 "[AGN] Starting Trader City Safezone Commander!"
+14:22:17 "Error: Attempting to start AGN products on a server where it should not be!"
+14:22:17 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+14:22:19 "HIVE: Starting"
+14:22:19 "HIVE: trying to get objects"
+14:22:21 "HIVE: found 3156 objects"
+14:22:21 "HIVE: Commence Object Streaming..."
+14:22:24 "HIVE: got 2524 Epoch Objects and 632 Vehicles"
+14:22:27 "Res3tting B!S effects..."
+14:22:38 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+14:22:38 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+14:22:42 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+14:22:42 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+14:23:04 "HIVE: Vehicle Spawn limit reached!"
+14:23:04 "HIVE: Spawning # of Debris: 0"
+14:23:04 "HIVE: Spawning # of Ammo Boxes: 3"
+14:23:04 "HIVE: Spawning # of Veins: 50"
+14:23:04 "Total Number of spawn locations 5"
+14:23:04 "EPOCH EVENTS INIT"
+14:23:04 "DEBUG VEIN: Too many objects at [5163.28,9122.29]"
+14:23:04 "DEBUG VEIN: on road [4797.49,7185.43]"
+14:23:05 "TIME SYNC: Local Time set to [2013,8,3,16,23]"
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+14:24:07 "[DZMS]: Starting DayZ Epoch Mission System."
+14:24:07 "[DZMS]: Relations not found! Using DZMS Relations."
+14:24:07 "[DZMS]: Mission and Extended Configuration Loaded!"
+14:24:07 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+14:24:07 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+14:24:07 "[DZMS]: Mission Functions Script Loaded!"
+14:24:07 "[DZMS]: Major Mission Clock Starting!"
+14:24:07 "[DZMS]: Minor Mission Clock Starting!"
+14:24:07 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+14:24:21 "[DZMS]: Running Minor Mission SM13."
+14:25:14 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+14:25:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:54 "[DZMS]: Running Major Mission SM8."
+14:26:29 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+14:30:00 "RUNNING EVENT: crash_spawner on [2014,6,30,16,30]"
+14:30:00 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Ural Wreck spawned at [4495.71,2585.48]"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4493.01,2582.53,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4490.65,2586.01,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4502.38,2586.87,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4490.54,2588.05,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4497.62,2581.54,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4498.23,2591.58,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4498.81,2592.96,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4498.02,2592.91,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4496.54,2580.94,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4500.02,2580,0.000675201]' with loot table 'Military'"
+14:30:00 "CRASHSPAWNER: Loot spawn at '[4488.81,2584.67,0.000675201]' with loot table 'Military'"
+14:31:29 "TIME SYNC: Local Time set to [2013,8,3,16,31]"
+14:35:05 Server: Object 3:174 not found (message 94)
+14:35:05 Server: Object 3:171 not found (message 94)
+14:35:05 Server: Object 3:172 not found (message 94)
+14:35:05 Server: Object 3:173 not found (message 94)
+14:35:05 Server: Object 3:184 not found (message 70)
+14:35:05 Server: Object 3:183 not found (message 70)
+14:35:05 Server: Object 3:182 not found (message 70)
+14:35:05 Server: Object 3:181 not found (message 94)
+14:35:05 Server: Object 3:188 not found (message 94)
+14:35:05 Server: Object 3:186 not found (message 94)
+14:35:05 Server: Object 3:191 not found (message 94)
+14:35:05 Server: Object 3:190 not found (message 70)
+14:35:05 Server: Object 3:192 not found (message 70)
+14:35:05 Server: Object 3:185 not found (message 94)
+14:35:05 Server: Object 3:189 not found (message 70)
+14:35:05 Server: Object 3:187 not found (message 94)
+14:35:05 Server: Object 3:193 not found (message 94)
+14:35:06 Server: Object 3:201 not found (message 70)
+14:35:06 Server: Object 3:205 not found (message 94)
+14:35:06 Server: Object 3:207 not found (message 70)
+14:35:06 Server: Object 3:206 not found (message 70)
+14:35:06 Server: Object 3:204 not found (message 70)
+14:35:06 Server: Object 3:208 not found (message 94)
+14:35:06 Server: Object 3:209 not found (message 94)
+14:35:24 Server: Object 3:247 not found (message 70)
+14:35:24 Server: Object 3:246 not found (message 94)
+14:35:45 "SAFE UNLOCKED: ID:0 UID:460846057098 BY Pogranec(166473030)"
+14:35:59 "DELETE: B 1-1-D:1 (Pogranec) REMOTE Deleted by UID: 460846057098"
+14:36:29 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
+14:36:38 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:37:38 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:37:49 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:38:02 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:38:31 Server: Object 6:9 not found (message 94)
+14:38:48 Server: Object 6:37 not found (message 70)
+14:38:48 Server: Object 6:49 not found (message 91)
+14:38:48 Server: Object 6:48 not found (message 99)
+14:38:49 Server: Object 6:65 not found (message 70)
+14:38:49 Server: Object 6:65 not found (message 94)
+14:38:49 Server: Object 6:64 not found (message 70)
+14:38:49 Server: Object 6:64 not found (message 94)
+14:38:49 Server: Object 6:63 not found (message 70)
+14:38:49 Server: Object 6:63 not found (message 94)
+14:38:50 Server: Object 6:57 not found (message 98)
+14:38:50 Server: Object 6:58 not found (message 91)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:55 not found (message 70)
+14:38:50 Server: Object 6:56 not found (message 70)
+14:38:50 Server: Object 6:56 not found (message 94)
+14:38:50 Server: Object 6:55 not found (message 94)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:57 not found (message 98)
+14:38:50 Server: Object 6:58 not found (message 91)
+14:38:50 Server: Object 6:58 not found (message 91)
+14:38:50 Server: Object 6:58 not found (message 91)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:70 not found (message 70)
+14:38:50 Server: Object 6:70 not found (message 94)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:72 not found (message 94)
+14:38:50 Server: Object 6:74 not found (message 70)
+14:38:50 Server: Object 6:74 not found (message 94)
+14:38:50 Server: Object 6:73 not found (message 70)
+14:38:50 Server: Object 6:73 not found (message 94)
+14:38:50 Server: Object 6:72 not found (message 70)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:65 not found (message 94)
+14:38:50 Server: Object 6:70 not found (message 94)
+14:38:50 Server: Object 6:57 not found (message 99)
+14:38:50 Server: Object 6:62 not found (message 91)
+14:38:50 Server: Object 6:61 not found (message 99)
+14:38:51 Server: Object 6:73 not found (message 94)
+14:38:51 Server: Object 6:63 not found (message 94)
+14:38:51 Server: Object 6:72 not found (message 94)
+14:38:51 Server: Object 6:57 not found (message 99)
+14:38:51 Server: Object 6:74 not found (message 94)
+14:38:51 Server: Object 6:57 not found (message 99)
+14:38:51 Server: Object 6:97 not found (message 94)
+14:38:51 Server: Object 6:93 not found (message 94)
+14:38:51 Server: Object 6:104 not found (message 94)
+14:38:51 Server: Object 6:92 not found (message 94)
+14:38:51 Server: Object 6:98 not found (message 94)
+14:38:51 Server: Object 6:107 not found (message 94)
+14:38:51 Server: Object 6:57 not found (message 99)
+14:38:52 Server: Object 6:57 not found (message 99)
+14:38:52 Server: Object 6:57 not found (message 99)
+14:38:52 Server: Object 6:57 not found (message 99)
+14:38:52 Server: Object 6:57 not found (message 99)
+14:38:52 Server: Object 6:57 not found (message 99)
+14:38:52 Server: Object 6:57 not found (message 99)
+14:38:52 Server: Object 6:57 not found (message 99)
+14:38:53 Server: Object 6:57 not found (message 99)
+14:38:54 Server: Object 6:94 not found (message 94)
+14:38:54 Server: Object 6:97 not found (message 70)
+14:38:54 Server: Object 6:95 not found (message 94)
+14:38:54 Server: Object 6:93 not found (message 70)
+14:38:54 Server: Object 6:91 not found (message 94)
+14:38:54 Server: Object 6:90 not found (message 70)
+14:38:54 Server: Object 6:96 not found (message 70)
+14:38:54 Server: Object 6:92 not found (message 70)
+14:38:54 Server: Object 6:100 not found (message 70)
+14:38:54 Server: Object 6:102 not found (message 70)
+14:38:54 Server: Object 6:101 not found (message 70)
+14:38:54 Server: Object 6:99 not found (message 70)
+14:38:54 Server: Object 6:98 not found (message 70)
+14:38:54 Server: Object 6:103 not found (message 94)
+14:38:54 Server: Object 6:105 not found (message 70)
+14:38:54 Server: Object 6:104 not found (message 70)
+14:38:54 Server: Object 6:107 not found (message 70)
+14:38:54 Server: Object 6:106 not found (message 70)
+14:39:05 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:39:06 Server: Object 6:113 not found (message 98)
+14:39:06 Server: Object 6:114 not found (message 91)
+14:39:07 Server: Object 6:115 not found (message 70)
+14:39:07 Server: Object 6:116 not found (message 94)
+14:39:15 Server: Object 6:125 not found (message 70)
+14:39:15 Server: Object 6:124 not found (message 70)
+14:39:15 Server: Object 6:128 not found (message 70)
+14:39:15 Server: Object 6:130 not found (message 70)
+14:39:15 Server: Object 6:126 not found (message 94)
+14:39:15 Server: Object 6:129 not found (message 70)
+14:39:15 Server: Object 6:127 not found (message 94)
+14:39:44 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:39:48 Server: Object 6:142 not found (message 70)
+14:39:48 Server: Object 6:141 not found (message 70)
+14:39:48 Server: Object 6:146 not found (message 70)
+14:39:48 Server: Object 6:144 not found (message 94)
+14:39:48 Server: Object 6:145 not found (message 70)
+14:39:48 Server: Object 6:148 not found (message 70)
+14:39:48 Server: Object 6:151 not found (message 70)
+14:39:48 Server: Object 6:155 not found (message 94)
+14:39:48 Server: Object 6:149 not found (message 94)
+14:39:48 Server: Object 6:152 not found (message 70)
+14:39:48 Server: Object 6:150 not found (message 70)
+14:39:48 Server: Object 6:154 not found (message 70)
+14:39:48 Server: Object 6:153 not found (message 70)
+14:39:49 Server: Object 6:158 not found (message 94)
+14:39:49 Server: Object 6:151 not found (message 94)
+14:39:49 Server: Object 6:144 not found (message 94)
+14:39:49 Server: Object 6:147 not found (message 94)
+14:39:49 Server: Object 6:153 not found (message 94)
+14:39:49 Server: Object 6:150 not found (message 94)
+14:39:49 Server: Object 6:148 not found (message 94)
+14:40:13 Server: Object 6:172 not found (message 70)
+14:40:13 Server: Object 6:170 not found (message 94)
+14:40:13 Server: Object 6:171 not found (message 70)
+14:40:13 Server: Object 6:169 not found (message 94)
+14:40:29 Server: Object 6:175 not found (message 70)
+14:40:29 Server: Object 6:173 not found (message 94)
+14:40:29 Server: Object 6:174 not found (message 70)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:14 Server: Object 6:182 not found (message 99)
+14:41:15 Server: Object 6:182 not found (message 99)
+14:41:29 "TIME SYNC: Local Time set to [2013,8,3,16,41]"
+14:41:34 Server: Object 6:189 not found (message 94)
+14:41:35 Server: Object 6:194 not found (message 94)
+14:41:35 Server: Object 6:197 not found (message 70)
+14:41:35 Server: Object 6:193 not found (message 70)
+14:41:35 Server: Object 6:195 not found (message 94)
+14:41:35 Server: Object 6:196 not found (message 70)
+14:41:35 Server: Object 6:198 not found (message 94)
+14:41:35 Server: Object 6:199 not found (message 70)
+14:41:43 Server: Object 6:207 not found (message 94)
+14:41:43 Server: Object 6:209 not found (message 94)
+14:41:43 Server: Object 6:202 not found (message 70)
+14:41:43 Server: Object 6:203 not found (message 94)
+14:41:43 Server: Object 6:208 not found (message 70)
+14:41:43 Server: Object 6:204 not found (message 94)
+14:41:43 Server: Object 6:201 not found (message 94)
+14:41:43 Server: Object 6:206 not found (message 94)
+14:41:43 Server: Object 6:205 not found (message 94)
+14:42:00 Server: Object 6:211 not found (message 70)
+14:43:31 Server: Object 6:258 not found (message 70)
+14:43:31 Server: Object 6:257 not found (message 70)
+14:43:35 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:43:50 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:44:24 Server: Object 5:141 not found (message 94)
+14:44:24 Server: Object 5:140 not found (message 94)
+14:44:24 Server: Object 5:144 not found (message 94)
+14:44:33 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+14:46:29 "TIME SYNC: Local Time set to [2013,8,3,16,46]"
+14:47:45 "CLEANUP: Deleted 35 Loot Piles out of 445"
+14:48:43 "CLEANUP: Deleted 1 Loot Piles out of 412"
+14:49:43 "CLEANUP: Deleted 1 Loot Piles out of 417"
+14:50:17 Server: Object 6:306 not found (message 91)
+14:50:17 Server: Object 6:305 not found (message 98)
+14:50:28 Server: Object 6:309 not found (message 98)
+14:50:28 Server: Object 6:310 not found (message 91)
+14:50:29 Server: Object 6:311 not found (message 98)
+14:50:29 Server: Object 6:312 not found (message 91)
+14:50:29 Server: Object 6:314 not found (message 91)
+14:50:29 Server: Object 6:313 not found (message 99)
+14:50:29 Server: Object 6:315 not found (message 98)
+14:50:29 Server: Object 6:316 not found (message 91)
+14:51:29 "TIME SYNC: Local Time set to [2013,8,3,16,51]"
+14:51:43 "CLEANUP: Deleted 8 Loot Piles out of 432"
+14:51:50 "get: STRING (166473030), sent: STRING (166473030)"
+14:51:50 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.472,4597.57,0.00143433]"
+14:51:50 Client: Remote object 4:6 not found
+14:51:50 Client: Remote object 4:5 not found
+14:51:50 Client: Remote object 4:2 not found
+14:52:41 "CLEANUP: Deleted 15 Loot Piles out of 412"
+14:53:13 Server: Object 6:324 not found (message 98)
+14:53:13 Server: Object 6:325 not found (message 91)
+14:53:41 "CLEANUP: Deleted 8 Loot Piles out of 397"
+14:54:23 Server: Object 6:370 not found (message 98)
+14:54:23 Server: Object 6:371 not found (message 91)
+14:54:23 Server: Object 6:374 not found (message 98)
+14:54:23 Server: Object 6:375 not found (message 91)
+14:54:24 Server: Object 6:366 not found (message 99)
+14:54:24 Server: Object 6:366 not found (message 99)
+14:54:24 Server: Object 6:368 not found (message 99)
+14:54:24 Server: Object 6:366 not found (message 99)
+14:54:24 Server: Object 6:372 not found (message 99)
+14:54:24 Server: Object 6:368 not found (message 99)
+14:54:24 Server: Object 6:366 not found (message 99)
+14:54:24 Server: Object 6:372 not found (message 99)
+14:54:24 Server: Object 6:368 not found (message 99)
+14:54:24 Server: Object 6:372 not found (message 99)
+14:54:24 Server: Object 6:366 not found (message 99)
+14:54:24 Server: Object 6:372 not found (message 99)
+14:54:24 Server: Object 6:368 not found (message 99)
+14:54:24 Server: Object 6:366 not found (message 99)
+14:54:24 Server: Object 6:368 not found (message 99)
+14:54:24 Server: Object 6:368 not found (message 99)
+14:54:24 Server: Object 6:372 not found (message 99)
+14:54:24 Server: Object 6:372 not found (message 99)
+14:54:24 Server: Object 6:368 not found (message 99)
+14:54:24 Server: Object 6:372 not found (message 99)
+14:54:25 Server: Object 6:372 not found (message 99)
+14:54:25 Server: Object 6:372 not found (message 99)
+14:54:25 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:26 Server: Object 6:376 not found (message 99)
+14:54:39 Server: Object 6:378 not found (message 94)
+14:54:44 "CLEANUP: Deleted 105 Loot Piles out of 396"
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:53 Server: Object 6:389 not found (message 99)
+14:55:58 Server: Object 6:391 not found (message 99)
+14:55:58 Server: Object 6:392 not found (message 91)
+14:56:07 Server: Object 6:364 not found (message 99)
+14:56:07 Server: Object 6:371 not found (message 91)
+14:56:30 "TIME SYNC: Local Time set to [2013,8,3,16,56]"
+14:56:31 "CLEANUP: Deleted 8 Animals out of 38"
+14:56:39 "CLEANUP: Deleted 1 Loot Piles out of 295"
+14:57:39 "CLEANUP: Deleted 8 Loot Piles out of 301"
+14:57:43 "get: STRING (166473030), sent: STRING (166473030)"
+14:57:43 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.135,4597.42,0.00146484]"
+14:57:43 Client: Remote object 7:2 not found
+14:57:43 Client: Remote object 7:8 not found
+14:58:42 "CLEANUP: Deleted 91 Loot Piles out of 295"
+14:58:51 Server: Object 6:406 not found (message 91)
+14:58:51 Server: Object 6:405 not found (message 98)
+14:59:47 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a HMMWV_DZ in/at Klen for 2x ItemGoldBar10oz"
+14:59:47 "DELETE: B 1-1-E:1 (Marek) REMOTE Deleted by ID: 4564"
+15:00:03 "RUNNING EVENT: crash_spawner on [2014,6,30,17,0]"
+15:00:03 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+15:00:03 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [5737.31,2577.95] NOW!(TIME:2247||LT:Hospital)"
+15:00:22 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:27 Server: Object 5:293 not found (message 99)
+15:00:38 "CLEANUP: Deleted 43 Loot Piles out of 206"
+15:00:47 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a SUV_Green in/at Klen for 5x ItemGoldBar"
+15:00:47 "DELETE: B 1-1-E:1 (Marek) REMOTE Deleted by ID: 4368"
+15:01:08 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a ATV_US_EP1 in/at Klen for 2x ItemGoldBar"
+15:01:08 "PUBLISH: Attempt 32221600# 1063647: arrow_down_large_ep1.p3d REMOTE"
+15:01:08 "HIVE: WRITE: "CHILD:308:3195:ATV_US_EP1:0:9447:[174,[11455.5,11341.2,0]]:[]:[]:1:11455511341202486:""
+15:01:09 "HIVE: WRITE: "CHILD:388:11455511341202486:""
+15:01:09 "CUSTOM: Selected "4689""
+15:01:09 "PUBLISH: B 1-1-E:1 (Marek) REMOTE Bought ATV_US_EP1 with ID "11455511341202486""
+15:01:30 "TIME SYNC: Local Time set to [2013,8,3,17,1]"
+15:01:31 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:01:53 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:02:36 "CLEANUP: Deleted 43 Loot Piles out of 168"
+15:03:34 "CLEANUP: Deleted 12 Loot Piles out of 126"
+15:04:07 Server: Object 3:620 not found (message 70)
+15:04:07 Server: Object 3:619 not found (message 70)
+15:04:07 Server: Object 3:633 not found (message 70)
+15:04:07 Server: Object 3:632 not found (message 94)
+15:04:07 Server: Object 3:630 not found (message 94)
+15:04:07 Server: Object 3:631 not found (message 94)
+15:04:07 Server: Object 3:638 not found (message 70)
+15:04:07 Server: Object 3:637 not found (message 94)
+15:04:37 "CLEANUP: Deleted 35 Loot Piles out of 164"
+15:05:10 "get: STRING (166473030), sent: STRING (166473030)"
+15:05:10 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.646,4597.75,0.00145721]"
+15:05:10 Client: Remote object 7:27 not found
+15:05:10 Client: Remote object 7:26 not found
+15:05:36 "CLEANUP: Deleted 11 Loot Piles out of 174"
+15:06:30 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
+15:06:36 "CLEANUP: Deleted 1 Loot Piles out of 169"
+15:07:36 "CLEANUP: Deleted 2 Loot Piles out of 169"
+15:07:45 Server: Object 6:452 not found (message 91)
+15:07:45 Server: Object 6:451 not found (message 98)
+15:07:51 Server: Object 6:454 not found (message 91)
+15:07:51 Server: Object 6:453 not found (message 98)
+15:08:36 "CLEANUP: Deleted 2 Loot Piles out of 168"
+15:09:18 "CRASHSPAWNER: UH-60M MEV just exploded at [5727.59,2544.77,-0.212944]!, "
+15:09:18 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+15:09:18 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+15:09:18 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5724.77,2541.93,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5726.31,2552.45,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5737.09,2540.71,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5740.16,2544.42,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5737.19,2551.48,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5732.2,2552.91,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5721.25,2545.67,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5718.15,2543.97,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5734.21,2536.28,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5724.09,2539.85,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5731.88,2535.77,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Loot spawn at '[5719.91,2541.81,0]' with loot table 'Hospital'"
+15:09:18 "CRASHSPAWNER: Crash completed! Wreck at: [5727.6,2544.78,-0.106491] - Runtime: 554 Seconds || Distance from calculated POC: 34 meters"
+15:09:36 "CLEANUP: Deleted 5 Loot Piles out of 179"
+15:10:03 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:10:21 "TELEPORT REVERT for player UID#199810246 from [12218.2,12586.4,0.270126] to [0,0,0.00154877], 17542 meters, now at [12218.2,12586.4,0.270126]"
+15:11:30 "TIME SYNC: Local Time set to [2013,8,3,17,11]"
+15:11:30 "CLEANUP: Deleted 4 Animals out of 29"
+15:11:36 "CLEANUP: Deleted 15 Loot Piles out of 176"
+15:12:22 Server: Object 6:481 not found (message 94)
+15:12:22 Server: Object 6:482 not found (message 70)
+15:13:40 NAT Negotiation completed
+15:14:01 "get: STRING (166473030), sent: STRING (166473030)"
+15:14:01 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.65,4597.72,0.00144958]"
+15:14:01 Client: Remote object 7:50 not found
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:30 Server: Object 7:77 not found (message 70)
+15:14:37 "CLEANUP: Deleted 7 Loot Piles out of 181"
+15:14:58 Server: Object 6:491 not found (message 91)
+15:14:58 Server: Object 6:490 not found (message 99)
+15:15:05 "RUNNING EVENT: supply_drop on [2014,6,30,17,15]"
+15:15:38 "CLEANUP: Deleted 1 Loot Piles out of 225"
+15:16:01 Server: Object 6:503 not found (message 91)
+15:16:01 Server: Object 6:502 not found (message 98)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:09 Server: Object 6:508 not found (message 98)
+15:16:09 Server: Object 6:509 not found (message 91)
+15:16:30 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+15:16:40 "CLEANUP: Deleted 1 Loot Piles out of 293"
+15:17:40 "CLEANUP: Deleted 7 Loot Piles out of 295"
+15:18:40 "CLEANUP: Deleted 1 Loot Piles out of 289"
+15:19:32 Server: Object 6:510 not found (message 99)
+15:19:40 "CLEANUP: Deleted 1 Loot Piles out of 288"
+15:19:56 Server: Object 6:519 not found (message 98)
+15:19:56 Server: Object 6:520 not found (message 91)
+15:20:06 "get: STRING (166473030), sent: STRING (166473030)"
+15:20:06 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [425.062,4597.16,0.00147247]"
+15:20:06 Client: Remote object 7:74 not found
+15:20:06 Client: Remote object 7:73 not found
+15:20:06 Client: Remote object 7:76 not found
+15:20:28 Server: Object 6:523 not found (message 94)
+15:20:28 Server: Object 6:522 not found (message 70)
+15:20:28 Server: Object 6:521 not found (message 94)
+15:20:35 Server: Object 7:90 not found (message 70)
+15:20:46 Server: Object 6:528 not found (message 94)
+15:21:30 "TIME SYNC: Local Time set to [2013,8,3,17,21]"
+15:21:39 "get: STRING (166473030), sent: STRING (166473030)"
+15:21:39 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.549,4597.43,0.00146484]"
+15:21:40 Client: Remote object 7:89 not found
+15:21:40 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+15:21:40 "CLEANUP: Deleted 2 Loot Piles out of 293"
+15:22:03 Server: Object 7:103 not found (message 70)
+15:22:05 Server: Object 6:539 not found (message 91)
+15:22:05 Server: Object 6:538 not found (message 99)
+15:22:05 Server: Object 6:540 not found (message 98)
+15:22:05 Server: Object 6:541 not found (message 91)
+15:22:05 Server: Object 6:542 not found (message 99)
+15:22:05 Server: Object 6:543 not found (message 91)
+15:22:05 Server: Object 6:544 not found (message 98)
+15:22:05 Server: Object 6:545 not found (message 91)
+15:22:05 Server: Object 6:546 not found (message 98)
+15:22:05 Server: Object 6:547 not found (message 91)
+15:22:05 Server: Object 6:549 not found (message 91)
+15:22:05 Server: Object 6:548 not found (message 99)
+15:22:40 "CLEANUP: Deleted 1 Loot Piles out of 299"
+15:23:45 "get: STRING (166473030), sent: STRING (166473030)"
+15:23:45 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.599,4597.43,0.00146484]"
+15:23:45 Client: Remote object 7:102 not found
+15:24:10 Server: Object 7:116 not found (message 70)
+15:24:31 Server: Object 6:559 not found (message 94)
+15:24:31 Server: Object 6:558 not found (message 94)
+15:25:15 "get: STRING (166473030), sent: STRING (166473030)"
+15:25:15 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.72,4597.61,0.00144958]"
+15:25:15 Client: Remote object 7:115 not found
+15:25:41 "CLEANUP: Deleted 20 Loot Piles out of 323"
+15:25:43 Server: Object 7:128 not found (message 70)
+15:26:30 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
+15:26:30 "CLEANUP: Deleted 4 Animals out of 27"
+15:26:42 "CLEANUP: Deleted 53 Loot Piles out of 307"
+15:27:39 "CLEANUP: Deleted 28 Loot Piles out of 254"
+15:28:16 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:28:38 "CLEANUP: Deleted 1 Loot Piles out of 227"
+15:28:56 "get: STRING (166473030), sent: STRING (166473030)"
+15:28:56 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [439.221,4602.56,0.00145721]"
+15:28:56 Client: Remote object 7:127 not found
+15:28:56 Client: Object 5:354 (type Type_149) not found.
+15:29:31 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Channgg00(8896708)"
+15:29:37 "CLEANUP: Deleted 1 Loot Piles out of 222"
+15:30:07 "RUNNING EVENT: crash_spawner on [2014,6,30,17,30]"
+15:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+15:30:07 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [3505.87,10729.9] NOW!(TIME:4049||LT:HeliCrash_No50s)"
+15:31:30 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+15:32:34 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:32:38 "CLEANUP: Deleted 2 Loot Piles out of 223"
+15:32:39 No player found for channel 747692160 - message ignored
+15:34:39 "CLEANUP: Deleted 19 Loot Piles out of 222"
+15:35:39 "CLEANUP: Deleted 58 Loot Piles out of 203"
+15:35:47 Server: Object 6:615 not found (message 91)
+15:35:47 Server: Object 6:614 not found (message 98)
+15:36:09 Server: Object 6:616 not found (message 99)
+15:36:09 Serve
