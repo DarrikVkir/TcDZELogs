@@ -320,3 +320,11 @@ g from [10450,-630,1000] to [4119.3,8449.56] NOW!(TIME:68||LT:HeliCrash_No50s)"
  9:52:36 "CLEANUP: Deleted 15 Loot Piles out of 35"
  9:53:35 "CLEANUP: Deleted 10 Loot Piles out of 20"
  9:57:34 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
+10:00:02 "RUNNING EVENT: crash_spawner on [2014,6,30,18,0]"
+10:00:02 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+10:00:02 "CRASHSPAWNER: Mi-24D started
+
+g from [15098,8144,300] to [13126.3,14767.9] NOW!(TIME:3663||LT:MilitarySpecial)"
+10:00:51 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+10:02:34 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+10:07:34 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
