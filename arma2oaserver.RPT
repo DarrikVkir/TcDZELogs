@@ -418,3 +418,7 @@ g from [10450,-630,1000] to [11412.5,6722.68] NOW!(TIME:4126||LT:MilitarySpecial
  6:43:07 Warning: Cleanup player - person 5:46 not found
  6:43:09 Warning: Cleanup player - person 5:46 not found
  6:44:36 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
+ 6:49:36 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+ 6:50:40 "CLEANUP: Deleted 6 Loot Piles out of 41"
+ 6:54:36 "CLEANUP: Deleted 2 Animals out of 2"
+ 6:54:36 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
