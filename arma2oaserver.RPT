@@ -1388,3 +1388,162 @@ if(DZE_DeathMsgSide) then {
 16:28:26 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a bulk_ItemWire in/at Unknown Trader City for 1x ItemGoldBar10oz"
 16:28:35 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a bulk_ItemWire in/at Unknown Trader City for 1x ItemGoldBar10oz"
 16:28:44 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a bulk_ItemWire in/at Unknown Trader City for 1x ItemGoldBar10oz"
+16:29:54 Server: Object 12:665 not found (message 91)
+16:29:54 Server: Object 12:669 not found (message 91)
+16:29:54 Server: Object 12:668 not found (message 99)
+16:30:08 "RUNNING EVENT: crash_spawner on [2014,6,30,18,30]"
+16:30:08 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+16:30:08 "CRASHSPAWNER: A-10 started
+
+g from [15098,8144,300] to [7767.77,8718.79] NOW!(TIME:7645||LT:MilitarySpecial)"
+16:30:44 "ERROR: server_playerSync: Cannot Sync Player telconrar [400]. Position in debug! [-7239.19,19538.6,0.24704]"
+16:31:30 "TIME SYNC: Local Time set to [2013,8,3,18,31]"
+16:31:43 "CLEANUP: Deleted 1 Loot Piles out of 250"
+16:34:37 "CRASHSPAWNER: A-10 just exploded at [7920.76,8930.16,5.20114]!, "
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7918.49,8933.37,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7925.17,8928.78,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7913.84,8922.79,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7923.86,8941.83,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7923.96,8930.29,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7921.31,8925.39,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7915.46,8931.25,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7918.7,8921.33,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7930,8931.99,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Loot spawn at '[7911.68,8932.45,0]' with loot table 'MilitarySpecial'"
+16:34:37 "CRASHSPAWNER: Crash completed! Wreck at: [7919.64,8929.6,0.0155334] - Runtime: 269 Seconds || Distance from calculated POC: 260 meters"
+16:34:44 "CLEANUP: Deleted 4 Loot Piles out of 252"
+16:35:43 "CLEANUP: Deleted 7 Loot Piles out of 260"
+16:36:30 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+16:36:30 "TIME SYNC: Local Time set to [2013,8,3,18,36]"
+16:36:34 Server: Network message 35e7e1 is pending
+16:36:34 Server: Network message 35e7e2 is pending
+16:36:34 Server: Network message 35e828 is pending
+16:36:34 Server: Network message 35e829 is pending
+16:36:34 Server: Network message 35e82a is pending
+16:36:34 Server: Network message 35e82b is pending
+16:36:34 Server: Network message 35e82c is pending
+16:36:34 Server: Network message 35e82d is pending
+16:36:34 Server: Network message 35e82e is pending
+16:36:34 Server: Network message 35e82f is pending
+16:36:34 Server: Network message 35e830 is pending
+16:36:34 Server: Network message 35e831 is pending
+16:36:34 Server: Network message 35e832 is pending
+16:36:34 Server: Network message 35e833 is pending
+16:36:34 Server: Network message 35e834 is pending
+16:36:34 Server: Network message 35e835 is pending
+16:36:34 Server: Network message 35e836 is pending
+16:36:34 Server: Network message 35e837 is pending
+16:36:34 Server: Network message 35e838 is pending
+16:36:34 Server: Network message 35e87a is pending
+16:36:34 Server: Network message 35e87b is pending
+16:36:34 Server: Network message 35e87c is pending
+16:36:34 Server: Network message 35e87d is pending
+16:36:34 Server: Network message 35e87e is pending
+16:36:34 Server: Network message 35e87f is pending
+16:36:34 Server: Network message 35e87f is pending
+16:36:34 Server: Network message 35e87f is pending
+16:36:34 Server: Network message 35e880 is pending
+16:36:34 Server: Network message 35e881 is pending
+16:36:34 Server: Network message 35e882 is pending
+16:36:34 Server: Network message 35e883 is pending
+16:36:34 Server: Network message 35e884 is pending
+16:36:34 Server: Network message 35e8ba is pending
+16:36:34 Server: Network message 35e8bb is pending
+16:36:34 Server: Network message 35e8bc is pending
+16:36:34 Server: Network message 35e8bd is pending
+16:36:34 Server: Network message 35e8c7 is pending
+16:36:34 Server: Network message 35e8c8 is pending
+16:36:34 Server: Network message 35e8c9 is pending
+16:36:34 Server: Network message 35e8ca is pending
+16:36:34 Server: Network message 35e8cb is pending
+16:36:34 Server: Network message 35e8cc is pending
+16:36:34 Server: Network message 35e8cd is pending
+16:36:34 Server: Network message 35e8ce is pending
+16:36:34 Server: Network message 35e8cf is pending
+16:36:34 Server: Network message 35e8d0 is pending
+16:36:34 Server: Network message 35e8d1 is pending
+16:36:34 Server: Network message 35e8d2 is pending
+16:36:34 Server: Network message 35e8d3 is pending
+16:36:34 Server: Network message 35e8d4 is pending
+16:36:34 Server: Network message 35e8d5 is pending
+16:36:34 Server: Network message 35e8d6 is pending
+16:36:34 Server: Network message 35e8d7 is pending
+16:36:34 Server: Network message 35e8d8 is pending
+16:36:34 Server: Network message 35e8d9 is pending
+16:36:34 Server: Network message 35e8da is pending
+16:36:34 Server: Network message 35e8db is pending
+16:36:34 Server: Network message 35e8dc is pending
+16:36:34 Server: Network message 35e8dd is pending
+16:36:34 Server: Network message 35e8de is pending
+16:36:34 Server: Network message 35e8df is pending
+16:36:34 Server: Network message 35e8e0 is pending
+16:36:34 Server: Network message 35e8e1 is pending
+16:36:34 Server: Network message 35e8e2 is pending
+16:36:34 Server: Network message 35e8e3 is pending
+16:36:34 Server: Network message 35e8ef is pending
+16:36:34 Server: Network message 35e900 is pending
+16:36:34 Server: Network message 35e916 is pending
+16:36:34 Server: Network message 35e917 is pending
+16:36:34 Server: Network message 35e935 is pending
+16:36:34 Server: Network message 35e935 is pending
+16:36:34 Server: Network message 35e936 is pending
+16:36:36 Server: Network message 35eaf8 is pending
+16:36:36 Server: Network message 35eaf9 is pending
+16:36:36 Server: Network message 35eafa is pending
+16:36:36 Server: Network message 35eafb is pending
+16:36:36 Server: Network message 35eafc is pending
+16:36:36 Server: Network message 35eafd is pending
+16:36:36 Server: Network message 35eafe is pending
+16:36:36 Server: Network message 35eaff is pending
+16:36:36 Server: Network message 35eb2c is pending
+16:36:36 Server: Network message 35eb2d is pending
+16:36:36 Server: Network message 35eb2e is pending
+16:36:36 Server: Network message 35eb2e is pending
+16:36:36 Server: Network message 35eb2e is pending
+16:36:36 Server: Network message 35eb2f is pending
+16:36:55 Server: Object 12:672 not found (message 99)
+16:37:47 "CLEANUP: Deleted 124 Loot Piles out of 256"
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 NetServer::SendMsg: cannot find channel #281180, users.card=3
+16:39:00 NetServer: users.get failed when sending to 281180
+16:39:00 Message not sent - error 0, message ID = ffffffff, to 281180 (Channgg00)
+16:39:00 "get: STRING (8896708), sent: STRING (8896708)"
+16:39:00 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-B:1 (Channgg00) REMOTE, _characterID: 399 at loc [409.527,4607.24,0.00143433]"
+16:39:00 Client: Remote object 5:2 not found
+16:39:00 Client: Remote object 5:8 not found
+16:39:00 Client: Object 12:690 (type Type_149) not found.
