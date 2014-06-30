@@ -670,3 +670,18 @@ g from [6993.7,173.053,300] to [10797.5,15156] NOW!(TIME:15138||LT:HeliCrash_No5
  1:17:57 Client: Remote object 8:8 not found
  1:17:59 Warning: Cleanup player - person 8:7 not found
  1:19:16 "CLEANUP: Deleted 3 Loot Piles out of 112"
+ 1:21:07 "TIME SYNC: Local Time set to [2013,8,3,21,21]"
+ 1:21:08 "CLEANUP: Deleted 13 Animals out of 22"
+ 1:23:16 "CLEANUP: Deleted 1 Loot Piles out of 112"
+ 1:23:21 "get: STRING (4486214), sent: STRING (4486214)"
+ 1:23:21 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-D:1 (BluntScopes) REMOTE, _characterID: 390 at loc [13861,11734.8,0.00134969]"
+ 1:23:21 Client: Remote object 9:0 not found
+ 1:23:23 Warning: Cleanup player - person 9:7 not found
+ 1:24:15 "CLEANUP: Deleted 1 Loot Piles out of 108"
+ 1:26:07 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
+ 1:26:33 "get: STRING (234483142), sent: STRING (234483142)"
+ 1:26:33 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE, _characterID: 394 at loc [13858.7,11712.5,0.00166082]"
+ 1:26:33 Client: Remote object 10:6 not found
+ 1:26:33 Client: Remote object 10:5 not found
+ 1:26:33 Client: Remote object 10:2 not found
+ 1:26:36 Warning: Cleanup player - person 10:7 not found
