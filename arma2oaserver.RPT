@@ -586,3 +586,24 @@ g from [15098,8144,300] to [9509.34,12340.2] NOW!(TIME:11532||LT:HeliCrash_No50s
  0:26:35 Client: Object 8:80 (type Type_70) not found.
  0:26:35 Client: Object 8:79 (type Type_70) not found.
  0:28:14 "CLEANUP: Deleted 12 Loot Piles out of 101"
+ 0:30:05 "RUNNING EVENT: crash_spawner on [2014,6,29,20,30]"
+ 0:30:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 0:30:05 "CRASHSPAWNER: Mi-17 started
+
+g from [1623.71,218.188,300] to [6101.1,3233.08] NOW!(TIME:13335||LT:HeliCrash_No50s)"
+ 0:31:07 "TIME SYNC: Local Time set to [2013,8,3,20,31]"
+ 0:33:52 "[DZMS]: Major SM10 UH1H Mission has Ended."
+ 0:34:07 "[DZMS]: Running Major Mission SM10."
+ 0:36:07 "TIME SYNC: Local Time set to [2013,8,3,20,36]"
+ 0:37:54 "CRASHSPAWNER: Mi-17 just exploded at [6149.43,3234.99,1.62112]!, "
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6145.43,3235.06,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6155.92,3235.16,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6144.55,3236.68,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6143.23,3230.31,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6143.68,3233.44,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6148.05,3229.67,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6145.91,3232.82,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6150.41,3228.93,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6149.78,3228.79,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Loot spawn at '[6145.23,3235.96,0]' with loot table 'HeliCrash_No50s'"
+ 0:37:54 "CRASHSPAWNER: Crash completed! Wreck at: [6149.43,3234.99,0.0101814] - Runtime: 469 Seconds || Distance from calculated POC: 49 meters"
