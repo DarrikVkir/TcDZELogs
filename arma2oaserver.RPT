@@ -826,3 +826,154 @@ _pos = g>
 12:37:55 "CLEANUP: Deleted 66 Loot Piles out of 301"
 12:38:49 Server: Object 6:633 not found (message 91)
 12:38:49 Server: Object 6:632 not found (message 98)
+12:40:04 Client: Object 11:205 (type Type_69) not found.
+12:40:04 Client: Object 11:205 (type Type_70) not found.
+12:40:08 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+12:42:17 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+12:42:35 "TIME SYNC: Local Time set to [2013,8,3,20,42]"
+12:42:46 "EPOCH SERVERTRADE: Player: Channgg00 (8896708) sold a UAZ_Unarmed_UN_EP1 in/at Stary for 4x ItemGoldBar"
+12:42:46 "DELETE: B 1-1-D:1 (Channgg00) REMOTE Deleted by ID: 162335"
+12:42:57 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+12:43:26 Server: Object 6:636 not found (message 69)
+12:43:26 Server: Object 6:637 not found (message 69)
+12:43:26 WARNING: Function 'name' - Marek is dead
+12:43:26 WARNING: Function 'name' - Marek is dead
+12:43:26 WARNING: Function 'name' - Marek is dead
+12:43:26 WARNING: Function 'name' - Marek is dead
+12:43:26 WARNING: Function 'name' - Marek is dead
+12:43:26 WARNING: Function 'name' - Marek is dead
+12:43:26 WARNING: Function 'name' - Marek is dead
+12:43:26 "PDEATH: Player Died 199810246"
+12:43:30 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+12:43:43 "ERROR: server_playerSync: Cannot Sync Player Marek [382]. Position in debug! [-7239.67,19539.3,0.245514]"
+12:43:44 "get: STRING (199810246), sent: STRING (199810246)"
+12:43:44 "DISCONNECT: Marek (199810246) Object: B 1-1-F:1 (Marek) REMOTE, _characterID: 382 at loc [-7239.67,19539.3,0.245514]"
+12:43:44 "ERROR: server_playerSync: Cannot Sync Player Marek [382]. Position in debug! [-7239.67,19539.3,0.245514]"
+12:43:44 Client: Remote object 6:2 not found
+12:44:03 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+12:44:32 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+12:45:45 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a SCAR_L_CQC_EGLM_Holo in/at Stary for 5x ItemGoldBar"
+12:45:45 "EPOCH SERVERTRADE: Player: Channgg00 (8896708) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+12:45:53 Server: Object 6:695 not found (message 94)
+12:45:53 Server: Object 6:694 not found (message 70)
+12:45:53 Server: Object 6:693 not found (message 94)
+12:45:53 Server: Object 6:689 not found (message 94)
+12:45:53 Server: Object 6:690 not found (message 94)
+12:45:53 Server: Object 6:691 not found (message 94)
+12:45:53 Server: Object 6:692 not found (message 94)
+12:45:54 Server: Object 6:698 not found (message 70)
+12:45:54 Server: Object 6:704 not found (message 70)
+12:45:54 Server: Object 6:703 not found (message 70)
+12:45:54 Server: Object 6:701 not found (message 70)
+12:45:54 Server: Object 6:702 not found (message 94)
+12:45:54 Server: Object 6:699 not found (message 94)
+12:45:54 Server: Object 6:700 not found (message 94)
+12:46:20 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+12:46:43 Server: Object 6:728 not found (message 94)
+12:46:43 Server: Object 6:736 not found (message 70)
+12:46:43 Server: Object 6:735 not found (message 70)
+12:46:43 Server: Object 6:734 not found (message 94)
+12:46:43 Server: Object 6:731 not found (message 94)
+12:46:43 Server: Object 6:729 not found (message 94)
+12:46:43 Server: Object 6:730 not found (message 94)
+12:46:43 Server: Object 6:732 not found (message 94)
+12:46:43 Server: Object 6:733 not found (message 94)
+12:46:43 Server: Object 6:740 not found (message 94)
+12:46:43 Server: Object 6:738 not found (message 70)
+12:46:43 Server: Object 6:748 not found (message 70)
+12:46:43 Server: Object 6:739 not found (message 94)
+12:46:43 Server: Object 6:745 not found (message 70)
+12:46:43 Server: Object 6:744 not found (message 70)
+12:46:43 Server: Object 6:747 not found (message 70)
+12:46:43 Server: Object 6:746 not found (message 70)
+12:46:43 Server: Object 6:737 not found (message 94)
+12:46:43 Server: Object 6:743 not found (message 94)
+12:46:43 Server: Object 6:741 not found (message 94)
+12:46:43 Server: Object 6:742 not found (message 94)
+12:46:43 Server: Object 6:749 not found (message 70)
+12:46:43 Server: Object 6:750 not found (message 94)
+12:46:43 Server: Object 6:753 not found (message 70)
+12:46:43 Server: Object 6:756 not found (message 70)
+12:46:43 Server: Object 6:755 not found (message 70)
+12:46:43 Server: Object 6:754 not found (message 70)
+12:46:43 Server: Object 6:752 not found (message 70)
+12:46:43 Server: Object 6:751 not found (message 70)
+12:47:00 Server: Object 6:784 not found (message 98)
+12:47:00 Server: Object 6:785 not found (message 91)
+12:47:00 Server: Object 6:787 not found (message 91)
+12:47:01 Server: Object 6:791 not found (message 91)
+12:47:01 Server: Object 6:790 not found (message 99)
+12:47:01 Server: Object 6:797 not found (message 94)
+12:47:01 Server: Object 6:796 not found (message 70)
+12:47:01 Server: Object 6:799 not found (message 70)
+12:47:01 Server: Object 6:795 not found (message 94)
+12:47:01 Server: Object 6:798 not found (message 70)
+12:47:01 Server: Object 6:800 not found (message 99)
+12:47:01 Server: Object 6:801 not found (message 91)
+12:47:01 Server: Object 6:807 not found (message 91)
+12:47:02 Server: Object 6:806 not found (message 99)
+12:47:02 Server: Object 6:804 not found (message 99)
+12:47:02 Server: Object 6:806 not found (message 99)
+12:47:02 Server: Object 6:804 not found (message 99)
+12:47:02 Server: Object 6:806 not found (message 99)
+12:47:02 Server: Object 6:806 not found (message 99)
+12:47:02 Server: Object 6:806 not found (message 99)
+12:47:02 Server: Object 6:804 not found (message 99)
+12:47:02 Server: Object 6:806 not found (message 99)
+12:47:02 Server: Object 6:806 not found (message 99)
+12:47:11 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+12:47:33 "CRASHSPAWNER: Mi-24D just exploded at [10037.5,13575.8,2.43585]!, "
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10038.2,13579.7,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10037.6,13581.4,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10043.1,13573.1,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10028.8,13575.5,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10048.7,13575.8,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10035,13564.5,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10029.8,13570.8,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10035.8,13584.5,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10039,13563.7,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10028.7,13563.9,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10023.8,13580.9,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Loot spawn at '[10054.1,13574.4,0]' with loot table 'MilitarySpecial'"
+12:47:33 "CRASHSPAWNER: Crash completed! Wreck at: [10037.4,13575.8,3.05176e-005] - Runtime: 10043 Seconds || Distance from calculated POC: 3311 meters"
+12:47:35 "TIME SYNC: Local Time set to [2013,8,3,20,47]"
+12:47:36 "CLEANUP: Deleted 14 Animals out of 43"
+12:47:41   found in (217,76).
+12:47:53 "CLEANUP: Deleted 2 Loot Piles out of 371"
+12:48:22 Server: Object 6:827 not found (message 70)
+12:48:22 Server: Object 6:826 not found (message 70)
+12:48:22 Server: Object 6:825 not found (message 94)
+12:48:22 Server: Object 6:821 not found (message 94)
+12:48:22 Server: Object 6:824 not found (message 94)
+12:48:22 Server: Object 6:823 not found (message 70)
+12:48:22 Server: Object 6:822 not found (message 70)
+12:48:22 Server: Object 6:828 not found (message 70)
+12:48:29 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+12:48:38 Server: Object 6:829 not found (message 94)
+12:48:38 Server: Object 6:830 not found (message 94)
+12:48:38 Server: Object 6:831 not found (message 94)
+12:48:38 Server: Object 6:832 not found (message 70)
+12:48:39 Server: Object 6:836 not found (message 70)
+12:48:47 Server: Object 6:842 not found (message 70)
+12:48:47 Server: Object 6:837 not found (message 70)
+12:48:47 Server: Object 6:843 not found (message 94)
+12:48:47 Server: Object 6:838 not found (message 94)
+12:48:47 Server: Object 6:839 not found (message 94)
+12:48:47 Server: Object 6:840 not found (message 94)
+12:48:47 Server: Object 6:841 not found (message 94)
+12:48:47 Server: Object 6:847 not found (message 94)
+12:48:47 Server: Object 6:846 not found (message 94)
+12:48:47 Server: Object 6:844 not found (message 94)
+12:48:47 Server: Object 6:845 not found (message 94)
+12:48:47 Server: Object 6:848 not found (message 94)
+12:48:47 Server: Object 6:853 not found (message 94)
+12:48:47 Server: Object 6:850 not found (message 70)
+12:48:47 Server: Object 6:852 not found (message 70)
+12:48:47 Server: Object 6:851 not found (message 94)
+12:48:47 Server: Object 6:854 not found (message 70)
+12:48:47 Server: Object 6:849 not found (message 94)
+12:48:47 Server: Object 6:855 not found (message 94)
+12:48:47 Server: Object 6:856 not found (message 70)
+12:48:47 Server: Object 6:857 not found (message 94)
+12:48:54 "CLEANUP: Deleted 1 Loot Piles out of 391"
+12:49:00 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M40A3 in/at Stary for 6x ItemGoldBar"
