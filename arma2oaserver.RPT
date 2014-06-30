@@ -1247,3 +1247,24 @@ if(DZE_DeathMsgSide) then {
 13:59:05 Client: Remote object 4:2 not found
 13:59:05 Client: Remote object 4:1576 not found
 13:59:05 Client: Remote object 4:1577 not found
+14:00:03 "RUNNING EVENT: crash_spawner on [2014,6,30,22,0]"
+14:00:03 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+14:00:03 "CRASHSPAWNER: Mi-24D started
+
+g from [6986,-630,1000] to [4421.68,9926.7] NOW!(TIME:18056||LT:MilitarySpecial)"
+14:00:08 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [397]. Position in debug! [-7238.94,19539.3,0.170013]"
+14:00:09 "get: STRING (8896708), sent: STRING (8896708)"
+14:00:09 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-B:1 (Channgg00) REMOTE, _characterID: 397 at loc [-7238.94,19539.3,0.170013]"
+14:00:09 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [397]. Position in debug! [-7238.94,19539.3,0.170013]"
+14:00:36 Warning: Cleanup player - person 4:1578 not found
+14:02:35 "TIME SYNC: Local Time set to [2013,8,3,22,2]"
+14:02:36 "CLEANUP: Deleted 23 Animals out of 31"
+14:05:26 Server: Object 13:145 not found (message 70)
+14:05:26 Server: Object 13:146 not found (message 94)
+14:05:26 Server: Object 13:147 not found (message 94)
+14:05:52 "CLEANUP: Deleted 1 Loot Piles out of 297"
+14:05:52 Server: Object 13:199 not found (message 94)
+14:05:52 Server: Object 13:198 not found (message 70)
+14:05:52 Server: Object 13:197 not found (message 70)
+14:07:35 "TIME SYNC: Local Time set to [2013,8,3,22,7]"
+14:07:54 "CLEANUP: Deleted 1 Loot Piles out of 325"
