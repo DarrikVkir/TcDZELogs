@@ -607,3 +607,12 @@ g from [1623.71,218.188,300] to [6101.1,3233.08] NOW!(TIME:13335||LT:HeliCrash_N
  0:37:54 "CRASHSPAWNER: Loot spawn at '[6149.78,3228.79,0]' with loot table 'HeliCrash_No50s'"
  0:37:54 "CRASHSPAWNER: Loot spawn at '[6145.23,3235.96,0]' with loot table 'HeliCrash_No50s'"
  0:37:54 "CRASHSPAWNER: Crash completed! Wreck at: [6149.43,3234.99,0.0101814] - Runtime: 469 Seconds || Distance from calculated POC: 49 meters"
+ 0:40:06 "EPOCH SERVERTRADE: Player: [BOOTY] 4ASST (234483142) sold a UH1H_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+ 0:40:06 "DELETE: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE Deleted by ID: 573276"
+ 0:41:07 "TIME SYNC: Local Time set to [2013,8,3,20,41]"
+ 0:43:29 Server: Object 9:74 not found (message 98)
+ 0:43:29 Server: Object 9:75 not found (message 91)
+ 0:43:29 Server: Object 9:77 not found (message 91)
+ 0:44:14 "CLEANUP: Deleted 1 Loot Piles out of 103"
+ 0:45:14 "CLEANUP: Deleted 1 Loot Piles out of 102"
+ 0:46:07 "TIME SYNC: Local Time set to [2013,8,3,20,46]"
