@@ -549,3 +549,25 @@ _key >
 g from [15098,8144,300] to [9509.34,12340.2] NOW!(TIME:11532||LT:HeliCrash_No50s)"
  0:01:06 "TIME SYNC: Local Time set to [2013,8,3,20,1]"
  0:06:06 "TIME SYNC: Local Time set to [2013,8,3,20,6]"
+ 0:10:17 "CRASHSPAWNER: UH-1H just exploded at [9524.04,12353.9,3.63335]!, "
+ 0:10:17 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 0:10:17 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 0:10:17 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9526.28,12350.6,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9521.42,12349.9,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9517.54,12354.3,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9520.08,12353,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9519.68,12356.2,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9524.17,12358.8,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9521.56,12358.8,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9516.65,12349.6,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9532.73,12360.8,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Loot spawn at '[9521.96,12347.4,0]' with loot table 'HeliCrash_No50s'"
+ 0:10:17 "CRASHSPAWNER: Crash completed! Wreck at: [9524.04,12353.9,-0.0640259] - Runtime: 614 Seconds || Distance from calculated POC: 21 meters"
+ 0:11:06 "TIME SYNC: Local Time set to [2013,8,3,20,11]"
+ 0:12:28 Client: Object 8:43 (type Type_70) not found.
+ 0:12:28 Client: Object 8:44 (type Type_70) not found.
+ 0:12:29 Client: Object 8:45 (type Type_70) not found.
+ 0:12:29 Client: Object 8:46 (type Type_70) not found.
+ 0:15:04 "RUNNING EVENT: supply_drop on [2014,6,29,20,15]"
+ 0:16:06 "TIME SYNC: Local Time set to [2013,8,3,20,16]"
