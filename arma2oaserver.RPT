@@ -254,3 +254,37 @@ g from [6986,-630,1000] to [10564,8197.52] NOW!(TIME:1711||LT:MilitarySpecial)"
 23:25:28 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
 23:28:35 SetFace error: class CfgFaces.GravesHead_EP1.Face04_EP1 not found
 23:28:35 Error: Error during SetFace - class CfgFaces.GravesHead_EP1.Face04_EP1 not found
+23:30:02 "RUNNING EVENT: crash_spawner on [2014,6,30,19,30]"
+23:30:02 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Ural Wreck spawned at [4469.03,5501.52]"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4472.85,5500.34,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4468.89,5495.25,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4474.35,5506.04,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4472.13,5509.55,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4469.67,5496.49,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4472.44,5506.31,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4472.38,5508.54,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4477.43,5497.18,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4465.03,5508.33,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4469.91,5491.27,0.00704956]' with loot table 'Military'"
+23:30:02 "CRASHSPAWNER: Loot spawn at '[4472.96,5500.57,0.00704956]' with loot table 'Military'"
+23:30:28 "TIME SYNC: Local Time set to [2013,8,3,19,30]"
+23:31:56 "SAFE UNLOCKED: ID:1390 UID:0 BY sokol(112666374)"
+23:35:28 "TIME SYNC: Local Time set to [2013,8,3,19,35]"
+23:35:31 "ERROR: Cannot Sync Character sokol as no characterID"
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:37:36 Error: Bone rightshoulder doesn't exist in some skeleton 
