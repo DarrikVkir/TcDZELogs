@@ -571,3 +571,18 @@ g from [15098,8144,300] to [9509.34,12340.2] NOW!(TIME:11532||LT:HeliCrash_No50s
  0:12:29 Client: Object 8:46 (type Type_70) not found.
  0:15:04 "RUNNING EVENT: supply_drop on [2014,6,29,20,15]"
  0:16:06 "TIME SYNC: Local Time set to [2013,8,3,20,16]"
+ 0:20:05 "nil player object attempting PV, :["234483142","[BOOTY] 4ASST"]"
+ 0:20:05 "get: STRING (), sent: STRING (234483142)"
+ 0:20:05 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-B:1 REMOTE, _characterID: 394 at loc [13861.2,11740.5,18.4191]"
+ 0:20:05 Client: Remote object 7:6 not found
+ 0:20:05 Client: Remote object 7:5 not found
+ 0:20:05 Client: Remote object 7:2 not found
+ 0:20:06 Warning: Cleanup player - person 7:7 not found
+ 0:21:06 "CLEANUP: Deleted 2 Animals out of 5"
+ 0:21:06 "TIME SYNC: Local Time set to [2013,8,3,20,21]"
+ 0:26:06 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
+ 0:26:16 Client: Object 8:71 (type Type_70) not found.
+ 0:26:16 Client: Object 8:72 (type Type_70) not found.
+ 0:26:35 Client: Object 8:80 (type Type_70) not found.
+ 0:26:35 Client: Object 8:79 (type Type_70) not found.
+ 0:28:14 "CLEANUP: Deleted 12 Loot Piles out of 101"
