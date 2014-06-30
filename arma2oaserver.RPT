@@ -977,3 +977,42 @@ _pos = g>
 12:48:47 Server: Object 6:857 not found (message 94)
 12:48:54 "CLEANUP: Deleted 1 Loot Piles out of 391"
 12:49:00 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+12:49:55 "CLEANUP: Deleted 1 Loot Piles out of 423"
+12:50:00 Server: Object 6:872 not found (message 91)
+12:50:00 Server: Object 6:871 not found (message 99)
+12:50:04 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a m8_sharpshooter in/at Stary for 3x ItemGoldBar"
+12:50:50 Server: Object 6:877 not found (message 94)
+12:50:50 Server: Object 6:879 not found (message 70)
+12:50:50 Server: Object 6:882 not found (message 70)
+12:50:50 Server: Object 6:878 not found (message 70)
+12:50:50 Server: Object 6:881 not found (message 70)
+12:50:50 Server: Object 6:880 not found (message 70)
+12:50:50 Server: Object 6:876 not found (message 70)
+12:50:50 Server: Object 6:884 not found (message 94)
+12:50:50 Server: Object 6:883 not found (message 94)
+12:50:50 Server: Object 6:885 not found (message 70)
+12:50:55 "CLEANUP: Deleted 3 Loot Piles out of 424"
+12:50:56 NAT Negotiation completed
+12:51:08 Server: Object 6:892 not found (message 94)
+12:51:33 Server: Object 6:902 not found (message 70)
+12:51:33 Server: Object 6:903 not found (message 94)
+12:51:33 Server: Object 6:901 not found (message 94)
+12:51:41 Server: Object 6:906 not found (message 98)
+12:51:41 Server: Object 6:907 not found (message 91)
+12:51:52 Server: Object 6:909 not found (message 91)
+12:51:52 Server: Object 6:908 not found (message 99)
+12:52:00 "CLEANUP: Deleted 31 Loot Piles out of 450"
+12:52:35 "TIME SYNC: Local Time set to [2013,8,3,20,52]"
+12:52:56 "CLEANUP: Deleted 19 Loot Piles out of 420"
+12:53:00 "get: STRING (199810246), sent: STRING (199810246)"
+12:53:00 "DISCONNECT: Marek (199810246) Object: B 1-1-C:1 (Marek) REMOTE, _characterID: 398 at loc [6444.37,2570.34,0.00143337]"
+12:53:00 Client: Remote object 6:652 not found
+12:53:01 Client: Object 11:264 (type Type_149) not found.
+12:53:53 "CLEANUP: Deleted 68 Loot Piles out of 363"
+12:54:50 "CLEANUP: Deleted 11 Loot Piles out of 300"
+12:55:31 Client: Object 11:287 (type Type_70) not found.
+12:55:31 Client: Object 11:287 (type Type_69) not found.
+12:55:51 "CLEANUP: Deleted 1 Loot Piles out of 290"
+12:56:51 "CLEANUP: Deleted 1 Loot Piles out of 289"
+12:57:35 "TIME SYNC: Local Time set to [2013,8,3,20,57]"
+12:58:50 "CLEANUP: Deleted 1 Loot Piles out of 288"
