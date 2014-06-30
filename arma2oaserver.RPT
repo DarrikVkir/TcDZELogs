@@ -372,3 +372,17 @@ g from [15098,8144,300] to [13126.3,14767.9] NOW!(TIME:3663||LT:MilitarySpecial)
 10:42:36 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
 10:47:34 "TIME SYNC: Local Time set to [2013,8,3,18,47]"
 10:48:38 "CLEANUP: Deleted 1 Loot Piles out of 72"
+10:50:38 "CLEANUP: Deleted 1 Loot Piles out of 71"
+10:52:34 "TIME SYNC: Local Time set to [2013,8,3,18,52]"
+10:53:38 Server: Object 6:23 not found (message 99)
+10:53:38 Server: Object 6:24 not found (message 91)
+10:53:38 Server: Object 6:22 not found (message 91)
+10:55:33 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a MMT_Civ in/at Stary for 4x ItemSilverBar"
+10:55:34 "PUBLISH: Attempt 31bf5d00# 1063977: arrow_down_large_ep1.p3d REMOTE"
+10:55:34 "HIVE: WRITE: "CHILD:308:3195:MMT_Civ:0:382:[133,[6292.99,7806.43,0.000152588]]:[]:[]:1:629307806407125:""
+10:55:35 "HIVE: WRITE: "CHILD:388:629307806407125:""
+10:55:35 "CUSTOM: Selected "4675""
+10:55:35 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought MMT_Civ with ID "629307806407125""
+10:55:39 "CLEANUP: Deleted 1 Loot Piles out of 85"
+10:56:40 "CLEANUP: Deleted 4 Loot Piles out of 87"
+10:57:34 "TIME SYNC: Local Time set to [2013,8,3,18,57]"
