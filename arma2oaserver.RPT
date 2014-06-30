@@ -313,3 +313,16 @@ g from [15098,8144,300] to [9606.49,8425.74] NOW!(TIME:532||LT:HeliCrash_No50s)"
  5:04:36 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
  5:05:44 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
  5:05:44 Warnings in z\addons\dayz_communityassets\models\razor.p3d:shadow(1000)
+ 5:09:36 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+ 5:09:40 Server: Object 4:439 not found (message 94)
+ 5:09:40 Server: Object 4:438 not found (message 70)
+ 5:09:40 Server: Object 4:440 not found (message 94)
+ 5:14:36 "TIME SYNC: Local Time set to [2013,8,3,19,14]"
+ 5:15:09 "RUNNING EVENT: supply_drop on [2014,6,30,19,15]"
+ 5:15:42 "CLEANUP: Deleted 16 Loot Piles out of 214"
+ 5:16:41 "CLEANUP: Deleted 13 Loot Piles out of 198"
+ 5:19:19 "get: STRING (15791622), sent: STRING (15791622)"
+ 5:19:19 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-C:1 (Kmhuey) REMOTE, _characterID: 389 at loc [13881.9,11748.1,0.000937223]"
+ 5:19:19 Client: Remote object 4:6 not found
+ 5:19:19 Client: Remote object 4:5 not found
+ 5:19:20 Warning: Cleanup player - person 4:7 not found
