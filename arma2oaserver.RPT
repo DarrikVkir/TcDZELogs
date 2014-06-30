@@ -1593,3 +1593,151 @@ g from [15098,8144,300] to [7767.77,8718.79] NOW!(TIME:7645||LT:MilitarySpecial)
 16:56:30 "TIME SYNC: Local Time set to [2013,8,3,18,56]"
 16:56:32 "CLEANUP: Deleted 31 Animals out of 31"
 16:57:36 "CLEANUP: Deleted 2 Loot Piles out of 68"
+17:00:01 "RUNNING EVENT: crash_spawner on [2014,6,30,19,0]"
+17:00:01 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+17:00:01 "CRASHSPAWNER: Ural Wreck spawned at [12543.9,14527.3]"
+17:00:01 "CRASHSPAWNER: Loot spawn at '[12547.7,14528.7,0.192085]' with loot table 'Military'"
+17:00:01 "CRASHSPAWNER: Loot spawn at '[12551.7,14527,0.192085]' with loot table 'Military'"
+17:00:01 "CRASHSPAWNER: Loot spawn at '[12541.9,14533.2,0.192085]' with loot table 'Military'"
+17:00:01 "CRASHSPAWNER: Loot spawn at '[12551.8,14524.3,0.192085]' with loot table 'Military'"
+17:00:01 "CRASHSPAWNER: Loot spawn at '[12547.9,14528.6,0.192085]' with loot table 'Military'"
+17:00:01 "CRASHSPAWNER: Loot spawn at '[12546.5,14534.8,0.192085]' with loot table 'Military'"
+17:00:02 "CRASHSPAWNER: Loot spawn at '[12548.9,14521.4,0.192085]' with loot table 'Military'"
+17:00:02 "CRASHSPAWNER: Loot spawn at '[12544.7,14531.3,0.192085]' with loot table 'Military'"
+17:01:30 "TIME SYNC: Local Time set to [2013,8,3,19,1]"
+17:01:37 "CLEANUP: Deleted 2 Loot Piles out of 77"
+17:05:21 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a 30m_plot_kit in/at Stary for 6x ItemGoldBar10oz"
+17:06:30 "TIME SYNC: Local Time set to [2013,8,3,19,6]"
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:145 (type Type_70) not found.
+17:06:32 Client: Object 16:147 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:146 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:148 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:145 (type Type_70) not found.
+17:06:32 Client: Object 16:147 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:146 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:148 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:147 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:148 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:147 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:148 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:147 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:148 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:147 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:148 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:32 Client: Object 16:149 (type Type_70) not found.
+17:06:32 Client: Object 16:151 (type Type_70) not found.
+17:06:32 Client: Object 16:150 (type Type_70) not found.
+17:06:32 Client: Object 16:152 (type Type_70) not found.
+17:06:33 Client: Object 16:151 (type Type_70) not found.
+17:06:33 Client: Object 16:152 (type Type_70) not found.
+17:06:33 Client: Object 16:151 (type Type_70) not found.
+17:06:33 Client: Object 16:152 (type Type_70) not found.
+17:06:33 Client: Object 16:151 (type Type_70) not found.
+17:06:33 Client: Object 16:152 (type Type_70) not found.
+17:06:33 Client: Object 16:151 (type Type_70) not found.
+17:06:33 Client: Object 16:152 (type Type_70) not found.
+17:06:33 Client: Object 16:151 (type Type_70) not found.
+17:06:33 Client: Object 16:152 (type Type_70) not found.
+17:06:33 Client: Object 16:151 (type Type_70) not found.
+17:06:33 Client: Object 16:152 (type Type_70) not found.
+17:06:34 Client: Object 16:153 (type Type_70) not found.
+17:06:34 Client: Object 16:154 (type Type_70) not found.
+17:06:34 Client: Object 16:153 (type Type_70) not found.
+17:06:34 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:35 Client: Object 16:153 (type Type_70) not found.
+17:06:35 Client: Object 16:154 (type Type_70) not found.
+17:06:36 Client: Object 16:153 (type Type_70) not found.
+17:06:36 Client: Object 16:154 (type Type_70) not found.
+17:06:38 "CLEANUP: Deleted 1 Loot Piles out of 108"
+17:07:38 "CLEANUP: Deleted 1 Loot Piles out of 107"
+17:08:38 "CLEANUP: Deleted 6 Loot Piles out of 106"
