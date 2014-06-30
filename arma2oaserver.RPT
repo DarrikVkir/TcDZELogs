@@ -597,3 +597,33 @@ if(DZE_DeathMsgSide) then {
 11:57:13 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
 11:57:34 "TIME SYNC: Local Time set to [2013,8,3,19,57]"
 11:58:48 "CLEANUP: Deleted 6 Loot Piles out of 261"
+11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
+11:59:35 NetServer: users.get failed when sending to 25086864
+11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
+11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
+11:59:35 NetServer: users.get failed when sending to 25086864
+11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
+11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
+11:59:35 NetServer: users.get failed when sending to 25086864
+11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
+11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
+11:59:35 NetServer: users.get failed when sending to 25086864
+11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
+11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
+11:59:35 NetServer: users.get failed when sending to 25086864
+11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
+11:59:35 "get: STRING (166473030), sent: STRING (166473030)"
+11:59:35 "DISCONNECT: Pogranec (166473030) Object: B 1-1-E:1 (Pogranec) REMOTE, _characterID: 393 at loc [6341.06,7676.9,11.0844]"
+11:59:35 Client: Remote object 10:0 not found
+11:59:35 Client: Object 6:258 (type Type_149) not found.
+11:59:47 "CLEANUP: Deleted 12 Loot Piles out of 265"
+12:00:08 "RUNNING EVENT: crash_spawner on [2014,6,30,20,0]"
+12:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+12:00:08 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [4527.34,6675.74] NOW!(TIME:10864||LT:HeliCrash_No50s)"
+12:02:35 "TIME SYNC: Local Time set to [2013,8,3,20,2]"
+12:02:35 "CLEANUP: Deleted 5 Animals out of 40"
+12:05:49 "CLEANUP: Deleted 3 Loot Piles out of 257"
+12:07:35 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
+12:08:50 "CLEANUP: Deleted 1 Loot Piles out of 284"
