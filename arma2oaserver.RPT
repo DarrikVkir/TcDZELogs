@@ -2,10 +2,10 @@
 
 =====================================================================
 == C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
-== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-0JPqu.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-82fUF.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
 =====================================================================
 Exe timestamp: 2014/06/01 10:01:31
-Current time:  2014/06/30 08:19:28
+Current time:  2014/06/30 14:19:32
 
 Version 1.63.112555
 Item STR_EPOCH_BULK_DESC_MP5SD listed twice
@@ -92,1179 +92,189 @@ Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M11
 Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
 Obsolete class Animations defined in bin\config.bin/RscCompass/
 Obsolete class Animations defined in bin\config.bin/RscWatch/
- 8:53:54 NAT Negotiation completed
- 8:57:27 Server error: Player without identity telconrar (id 279977413)
- 8:57:55 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
- 8:57:55 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
- 8:57:55 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
- 8:57:55 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
- 8:58:01 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
- 8:58:02 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
- 8:58:02 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
- 8:58:02 "DayZ Epoch: MPframework inited"
- 8:58:29 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
- 8:58:31 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
- 8:58:31 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:58:31 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:58:31 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:58:31 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:58:31 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
- 8:58:32 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
- 8:58:32 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:58:32 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:58:32 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:58:32 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:58:32 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
- 8:58:34 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
- 8:58:36 "Res3tting B!S effects..."
- 8:58:36 "[AGN] Starting Trader City Safezone Commander!"
- 8:58:36 "Error: Attempting to start AGN products on a server where it should not be!"
- 8:58:36 "HIVE: Starting"
- 8:58:36 "HIVE: trying to get objects"
- 8:58:38 "HIVE: found 3148 objects"
- 8:58:38 "HIVE: Commence Object Streaming..."
- 8:58:39 "HIVE: got 2518 Epoch Objects and 630 Vehicles"
- 8:58:49 "Res3tting B!S effects..."
- 8:58:50 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
- 8:58:50 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
- 8:58:53 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
- 8:58:53 UH1Y_DZE: ObsGun - unknown animation source ObsGun
- 8:59:12 "HIVE: Vehicle Spawn limit reached!"
- 8:59:12 "HIVE: Spawning # of Debris: 0"
- 8:59:12 "HIVE: Spawning # of Ammo Boxes: 3"
- 8:59:12 "HIVE: Spawning # of Veins: 50"
- 8:59:12 "Total Number of spawn locations 5"
- 8:59:12 "EPOCH EVENTS INIT"
- 8:59:14 "TIME SYNC: Local Time set to [2013,8,3,16,59]"
- 9:00:02 "RUNNING EVENT: crash_spawner on [2014,6,30,17,0]"
- 9:00:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
- 9:00:03 "CRASHSPAWNER: UH-1Y started
-
-g from [10450,-630,1000] to [4119.3,8449.56] NOW!(TIME:68||LT:HeliCrash_No50s)"
- 9:00:12 "[DZMS]: Starting DayZ Epoch Mission System."
- 9:00:12 "[DZMS]: Relations not found! Using DZMS Relations."
- 9:00:12 "[DZMS]: Mission and Extended Configuration Loaded!"
- 9:00:12 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
- 9:00:12 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
- 9:00:12 "[DZMS]: Mission Functions Script Loaded!"
- 9:00:12 "[DZMS]: Major Mission Clock Starting!"
- 9:00:12 "[DZMS]: Minor Mission Clock Starting!"
- 9:00:12 "[DZMS]: Mission Marker Loop for JIPs Starting!"
- 9:00:28 "[DZMS]: Running Minor Mission SM10."
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone leftshoulder doesn't exist in some skeleton 
- 9:00:36 Error: Bone rightshoulder doesn't exist in some skeleton 
- 9:02:06 "[DZMS]: Running Major Mission SM5."
- 9:02:33 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
- 9:07:33 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
- 9:12:23 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
- 9:12:23 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
- 9:12:23 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
- 9:12:23 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
- 9:12:23 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
- 9:12:23   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
- 9:12:33 "TIME SYNC: Local Time set to [2013,8,3,17,12]"
- 9:15:07 "RUNNING EVENT: supply_drop on [2014,6,30,17,15]"
- 9:17:33 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
- 9:22:33 "TIME SYNC: Local Time set to [2013,8,3,17,22]"
- 9:23:36 "CLEANUP: Deleted 13 Loot Piles out of 29"
- 9:27:33 "TIME SYNC: Local Time set to [2013,8,3,17,27]"
- 9:30:09 "RUNNING EVENT: crash_spawner on [2014,6,30,17,30]"
- 9:30:09 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Ural Wreck spawned at [4828.65,2103.62]"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4831.03,2100.41,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4833.83,2099.68,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4823.84,2101.18,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4835.98,2102.22,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4831.81,2109.61,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4830.48,2098.97,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4828.35,2095.23,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4830.21,2094.87,0.000163555]' with loot table 'Military'"
- 9:30:09 "CRASHSPAWNER: Loot spawn at '[4832.57,2106.89,0.000163555]' with loot table 'Military'"
- 9:32:33 "TIME SYNC: Local Time set to [2013,8,3,17,32]"
- 9:34:05 "get: STRING (120160390), sent: STRING (120160390)"
- 9:34:05 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 381 at loc [12482.3,12457.3,0.00192261]"
- 9:34:05 Client: Remote object 3:8 not found
- 9:37:33 "TIME SYNC: Local Time set to [2013,8,3,17,37]"
- 9:41:37 "CLEANUP: Deleted 11 Loot Piles out of 96"
- 9:42:34 "TIME SYNC: Local Time set to [2013,8,3,17,42]"
- 9:46:38 "CLEANUP: Deleted 5 Loot Piles out of 85"
- 9:47:34 "CLEANUP: Deleted 4 Animals out of 4"
- 9:47:34 "TIME SYNC: Local Time set to [2013,8,3,17,47]"
- 9:47:37 "CLEANUP: Deleted 11 Loot Piles out of 80"
- 9:48:36 "CLEANUP: Deleted 7 Loot Piles out of 69"
- 9:49:36 "CLEANUP: Deleted 11 Loot Piles out of 62"
- 9:50:36 "CLEANUP: Deleted 3 Loot Piles out of 51"
- 9:51:36 "CLEANUP: Deleted 13 Loot Piles out of 48"
- 9:52:34 "TIME SYNC: Local Time set to [2013,8,3,17,52]"
- 9:52:36 "CLEANUP: Deleted 15 Loot Piles out of 35"
- 9:53:35 "CLEANUP: Deleted 10 Loot Piles out of 20"
- 9:57:34 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
-10:00:02 "RUNNING EVENT: crash_spawner on [2014,6,30,18,0]"
-10:00:02 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
-10:00:02 "CRASHSPAWNER: Mi-24D started
-
-g from [15098,8144,300] to [13126.3,14767.9] NOW!(TIME:3663||LT:MilitarySpecial)"
-10:00:51 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
-10:02:34 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
-10:07:34 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
-10:12:34 "TIME SYNC: Local Time set to [2013,8,3,18,12]"
-10:15:05 "RUNNING EVENT: supply_drop on [2014,6,30,18,15]"
-10:17:34 "TIME SYNC: Local Time set to [2013,8,3,18,17]"
-10:20:48 "CLEANUP: Deleted 36 Loot Piles out of 242"
-10:22:34 "TIME SYNC: Local Time set to [2013,8,3,18,22]"
-10:22:41 "CLEANUP: Deleted 14 Loot Piles out of 206"
-10:23:40 "CLEANUP: Deleted 16 Loot Piles out of 192"
-10:24:59 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-10:26:42 "CLEANUP: Deleted 42 Loot Piles out of 176"
-10:27:34 "TIME SYNC: Local Time set to [2013,8,3,18,27]"
-10:27:39 "CLEANUP: Deleted 7 Loot Piles out of 134"
-10:28:39 "CLEANUP: Deleted 5 Loot Piles out of 128"
-10:29:09 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-10:29:39 "CLEANUP: Deleted 5 Loot Piles out of 123"
-10:30:07 "RUNNING EVENT: crash_spawner on [2014,6,30,18,30]"
-10:30:07 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Ural Wreck spawned at [9933.57,8086.84]"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9937.44,8087.82,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9935.43,8083.21,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9927.88,8082.59,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9937.46,8092.09,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9935.87,8079.73,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9933.75,8097.72,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9937.78,8088.9,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9936.75,8093.26,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9938.81,8088.37,0.092804]' with loot table 'Military'"
-10:30:07 "CRASHSPAWNER: Loot spawn at '[9933.09,8091.68,0.092804]' with loot table 'Military'"
-10:30:39 "CLEANUP: Deleted 8 Loot Piles out of 128"
-10:32:34 "TIME SYNC: Local Time set to [2013,8,3,18,32]"
-10:32:41 "CLEANUP: Deleted 47 Loot Piles out of 120"
-10:33:38 "CLEANUP: Deleted 5 Loot Piles out of 73"
-10:35:40 "CLEANUP: Deleted 41 Loot Piles out of 101"
-10:36:35 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a MG36_camo in/at Stary for 6x ItemGoldBar"
-10:37:00 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
-10:37:34 "TIME SYNC: Local Time set to [2013,8,3,18,37]"
-10:38:25 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_carbine in/at Stary for 2x ItemGoldBar"
-10:38:49 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_sharpshooter in/at Stary for 3x ItemGoldBar"
-10:39:19 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
-10:39:45 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a MG36 in/at Stary for 6x ItemGoldBar"
-10:42:00 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
-10:42:34 "TIME SYNC: Local Time set to [2013,8,3,18,42]"
-10:42:36 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
-10:47:34 "TIME SYNC: Local Time set to [2013,8,3,18,47]"
-10:48:38 "CLEANUP: Deleted 1 Loot Piles out of 72"
-10:50:38 "CLEANUP: Deleted 1 Loot Piles out of 71"
-10:52:34 "TIME SYNC: Local Time set to [2013,8,3,18,52]"
-10:53:38 Server: Object 6:23 not found (message 99)
-10:53:38 Server: Object 6:24 not found (message 91)
-10:53:38 Server: Object 6:22 not found (message 91)
-10:55:33 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a MMT_Civ in/at Stary for 4x ItemSilverBar"
-10:55:34 "PUBLISH: Attempt 31bf5d00# 1063977: arrow_down_large_ep1.p3d REMOTE"
-10:55:34 "HIVE: WRITE: "CHILD:308:3195:MMT_Civ:0:382:[133,[6292.99,7806.43,0.000152588]]:[]:[]:1:629307806407125:""
-10:55:35 "HIVE: WRITE: "CHILD:388:629307806407125:""
-10:55:35 "CUSTOM: Selected "4675""
-10:55:35 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought MMT_Civ with ID "629307806407125""
-10:55:39 "CLEANUP: Deleted 1 Loot Piles out of 85"
-10:56:40 "CLEANUP: Deleted 4 Loot Piles out of 87"
-10:57:34 "TIME SYNC: Local Time set to [2013,8,3,18,57]"
-11:00:01 "RUNNING EVENT: crash_spawner on [2014,6,30,19,0]"
-11:00:01 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
-11:00:01 "CRASHSPAWNER: MV-22 started
-
-g from [1623.71,218.188,300] to [6183.67,9161.18] NOW!(TIME:7258||LT:MilitarySpecial)"
-11:00:34 "[DZMS]: Minor SM10 Heli Crash Mission has Ended."
-11:00:34 Error in expression <0}; 
-
-
-
-[_vehicle] ExecVM DZMSSaveVeh;
-[_vehicle1] ExecVM DZMSSaveVeh;
-
-
-[nil,ni>
-11:00:34   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
-
-
-[nil,ni>
-11:00:34   Error Undefined variable in expression: _vehicle1
-11:00:34 File z\addons\dayz_server\EMS\Missions\Minor\SM10.sqf, line 36
-11:00:34 Error in expression <bject = _this select 0;
-_class = typeOf _object;
-_dir = getDir _object;
-_pos = g>
-11:00:34   Error position: <_object;
-_dir = getDir _object;
-_pos = g>
-11:00:34   Error Undefined variable in expression: _object
-11:00:34 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
-11:00:39 "CLEANUP: Deleted 4 Loot Piles out of 85"
-11:00:56 "[DZMS]: Running Minor Mission SM11."
-11:02:12 "CRASHSPAWNER: MV-22 just exploded at [5989.58,9388.61,4.91953]!, "
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5991.42,9385.05,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5993.29,9385.71,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5992.81,9381.78,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5984.7,9395.29,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5982.96,9390.11,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5981.76,9394.92,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5990.71,9381.79,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Loot spawn at '[5999.46,9388.87,0]' with loot table 'MilitarySpecial'"
-11:02:12 "CRASHSPAWNER: Crash completed! Wreck at: [5989.63,9388.56,-0.00869751] - Runtime: 131 Seconds || Distance from calculated POC: 300 meters"
-11:02:34 "TIME SYNC: Local Time set to [2013,8,3,19,2]"
-11:06:40 "CLEANUP: Deleted 1 Loot Piles out of 99"
-11:07:34 "TIME SYNC: Local Time set to [2013,8,3,19,7]"
-11:07:40 "CLEANUP: Deleted 1 Loot Piles out of 100"
-11:08:01 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
-11:08:32 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
-11:08:57 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36K_camo in/at Stary for 3x ItemGoldBar"
-11:09:32 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36C in/at Stary for 2x ItemGoldBar"
-11:12:34 "TIME SYNC: Local Time set to [2013,8,3,19,12]"
-11:13:40 "CLEANUP: Deleted 1 Loot Piles out of 107"
-11:15:02 "RUNNING EVENT: supply_drop on [2014,6,30,19,15]"
-11:16:41 "CLEANUP: Deleted 3 Loot Piles out of 109"
-11:17:34 "TIME SYNC: Local Time set to [2013,8,3,19,17]"
-11:17:40 "CLEANUP: Deleted 1 Loot Piles out of 107"
-11:18:41 "CLEANUP: Deleted 1 Loot Piles out of 106"
-11:22:34 "TIME SYNC: Local Time set to [2013,8,3,19,22]"
-11:25:41 "CLEANUP: Deleted 1 Loot Piles out of 107"
-11:26:41 "CLEANUP: Deleted 3 Loot Piles out of 106"
-11:27:34 "TIME SYNC: Local Time set to [2013,8,3,19,27]"
-11:28:41 "CLEANUP: Deleted 1 Loot Piles out of 103"
-11:30:04 "RUNNING EVENT: crash_spawner on [2014,6,30,19,30]"
-11:30:04 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
-11:30:04 "CRASHSPAWNER: MV-22 started
-
-g from [1623.71,218.188,300] to [4680.62,11856.9] NOW!(TIME:9061||LT:MilitarySpecial)"
-11:31:41 "CLEANUP: Deleted 2 Loot Piles out of 102"
-11:31:43 "[DZMS]: Major SM5 Medical Ural Mission has Ended."
-11:31:57 NAT Negotiation completed
-11:32:20 "CRASHSPAWNER: MV-22 just exploded at [4914.95,11672.2,6.60641]!, "
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4915.8,11676.2,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4920.82,11674.4,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4917.15,11667.8,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4916.69,11664.7,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4926.01,11674.3,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4906.36,11670.4,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4910,11661.3,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4918.75,11668.4,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Loot spawn at '[4917.09,11676.3,0]' with loot table 'MilitarySpecial'"
-11:32:20 "CRASHSPAWNER: Crash completed! Wreck at: [4914.91,11672.2,-0.00444031] - Runtime: 136 Seconds || Distance from calculated POC: 298 meters"
-11:32:34 "TIME SYNC: Local Time set to [2013,8,3,19,32]"
-11:32:35 "[DZMS]: Running Major Mission SM1."
-11:33:06 "get: STRING (8896708), sent: STRING (8896708)"
-11:33:06 "LOGOUT IN VEHICLE: Channgg00 at location [6298.47,7814.19,1.39709]"
-11:33:06 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-D:1 (Channgg00) REMOTE, _characterID: 221 at loc [6298.47,7814.19,1.39709]"
-11:33:07 Client: Remote object 7:6 not found
-11:33:07 Client: Remote object 7:2 not found
-11:33:07 Client: Remote object 7:5 not found
-11:33:07 Client: Object 4:812 (type Type_149) not found.
-11:33:43 "CLEANUP: Deleted 60 Loot Piles out of 111"
-11:35:39 "CLEANUP: Deleted 3 Loot Piles out of 53"
-11:37:34 "TIME SYNC: Local Time set to [2013,8,3,19,37]"
-11:37:39 "CLEANUP: Deleted 1 Loot Piles out of 51"
-11:37:53 Server: Object 9:42 not found (message 98)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:43 not found (message 91)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:43 not found (message 91)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:53 Server: Object 9:42 not found (message 99)
-11:37:54 Server: Object 9:42 not found (message 99)
-11:41:37 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-C:1 (Marek) REMOTE with SCAR_H_STD_EGLM_Spect from 23.4097m with 1.45069 dmg"
-11:41:37 "PKILL: Channgg00 was killed by Marek with weapon SCAR_H_STD_EGLM_Spect from 23.4097m"
-11:41:37 Error in expression <_this select 1) }] call RE;
-};
-
-
-
-
-
-
-if(DZE_DeathMsgSide) then {
-[nil, nil, rspa>
-11:41:37   Error position: <DZE_DeathMsgSide) then {
-[nil, nil, rspa>
-11:41:37   Error Undefined variable in expression: dze_deathmsgside
-11:41:37 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
-11:41:37 "PDEATH: Player Died 8896708"
-11:41:38 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-C:1 (Marek) REMOTE with SCAR_H_STD_EGLM_Spect from 21.9025m with 1.45014 dmg"
-11:42:34 "TIME SYNC: Local Time set to [2013,8,3,19,42]"
-11:43:38 Server: Object 6:132 not found (message 99)
-11:43:38 Server: Object 6:133 not found (message 91)
-11:43:38 Server: Object 6:136 not found (message 99)
-11:43:38 Server: Object 6:137 not found (message 91)
-11:43:38 Server: Object 6:139 not found (message 91)
-11:43:38 Server: Object 6:138 not found (message 99)
-11:43:39 Server: Object 6:140 not found (message 99)
-11:43:39 Server: Object 6:141 not found (message 91)
-11:43:39 Server: Object 6:143 not found (message 91)
-11:43:39 Server: Object 6:142 not found (message 99)
-11:43:39 Server: Object 6:145 not found (message 91)
-11:43:39 Server: Object 6:144 not found (message 99)
-11:43:39 Server: Object 6:149 not found (message 91)
-11:45:41 "CLEANUP: Deleted 2 Loot Piles out of 82"
-11:46:04 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
-11:46:46 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
-11:46:50 "CRASHSPAWNER: UH-1Y just exploded at [6243.29,7723.78,6.04416]!, "
-11:46:50 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
-11:46:50 UH1Wreck_DZ: MainGun - unknown animation source mainGun
-11:46:50 UH1Wreck_DZ: Gatling - unknown animation source Gatling
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6245.47,7720.43,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6246.17,7719.93,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6245.75,7727.71,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6243.39,7717.72,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6245.42,7715.26,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6242.23,7729.48,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6251.21,7718.91,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6247.83,7729.53,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6248.74,7731.41,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6236.7,7715.84,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Loot spawn at '[6232.06,7721.67,0]' with loot table 'HeliCrash_No50s'"
-11:46:50 "CRASHSPAWNER: Crash completed! Wreck at: [6243.29,7723.78,0.00152588] - Runtime: 9999 Seconds || Distance from calculated POC: 2246 meters"
-11:47:14 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [221]. Position in debug! [-7239.67,19539.3,0.246216]"
-11:47:15 "get: STRING (8896708), sent: STRING (8896708)"
-11:47:15 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-A:1 (Channgg00) REMOTE, _characterID: 221 at loc [-7239.67,19539.3,0.246216]"
-11:47:15 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [221]. Position in debug! [-7239.67,19539.3,0.246216]"
-11:47:15 Client: Remote object 2:7405 not found
-11:47:15 Client: Remote object 2:7404 not found
-11:47:15 Client: Remote object 9:2 not found
-11:47:34 "CLEANUP: Deleted 1 Animals out of 24"
-11:47:34 "TIME SYNC: Local Time set to [2013,8,3,19,47]"
-11:48:52 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a V3S_Open_TK_EP1 in/at Stary for 2x ItemGoldBar10oz"
-11:48:53 "PUBLISH: Attempt 342dd600# 1065131: arrow_down_large_ep1.p3d REMOTE"
-11:48:53 "HIVE: WRITE: "CHILD:308:3195:V3S_Open_TK_EP1:0:11829:[333,[6292.99,7806.43,0.000152588]]:[]:[]:1:6293078064010522:""
-11:48:54 "HIVE: WRITE: "CHILD:388:6293078064010522:""
-11:48:54 "CUSTOM: Selected "4676""
-11:48:54 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought V3S_Open_TK_EP1 with ID "6293078064010522""
-11:49:07 Server: Object 6:169 not found (message 69)
-11:49:07 Server: Object 6:168 not found (message 69)
-11:49:10 "DELETE: 2f676080# 1062176: mmt.p3d REMOTE Deleted by ID: 4672"
-11:49:10 Client: Object 6:169 (type Type_70) not found.
-11:52:24 Server: Object 6:185 not found (message 99)
-11:52:24 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:25 Server: Object 6:185 not found (message 99)
-11:52:34 "TIME SYNC: Local Time set to [2013,8,3,19,52]"
-11:52:42 "CLEANUP: Deleted 1 Loot Piles out of 129"
-11:53:30 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a HMMWV_DZ in/at Stary for 2x ItemGoldBar10oz"
-11:53:31 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 498816"
-11:54:44 "CLEANUP: Deleted 1 Loot Piles out of 184"
-11:55:46 "CLEANUP: Deleted 1 Loot Piles out of 261"
-11:56:01 "CLEANUP: KILLING A HACKER Channgg00 B 1-1-D:1 (Channgg00) REMOTE IN UH1Wreck"
-11:56:01 "TELEPORT REVERT for player UID#8896708 from [4803.07,2495.64,0.00144577] to [4800.04,2493.91,0.101414], 3 meters, now at [4801.7,2496.2,0.988537]"
-11:56:02 WARNING: Function 'name' - Channgg00 is dead
-11:56:02 "PDEATH: Player Died 8896708"
-11:56:21 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [396]. Position in debug! [-7239.67,19539.3,0.245483]"
-11:56:22 "get: STRING (8896708), sent: STRING (8896708)"
-11:56:22 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-A:1 (Channgg00) REMOTE, _characterID: 396 at loc [-7239.67,19539.3,0.245483]"
-11:56:22 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [396]. Position in debug! [-7239.67,19539.3,0.245483]"
-11:56:37 Server: Object 9:88 not found (message 221)
-11:57:03 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
-11:57:13 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
-11:57:34 "TIME SYNC: Local Time set to [2013,8,3,19,57]"
-11:58:48 "CLEANUP: Deleted 6 Loot Piles out of 261"
-11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
-11:59:35 NetServer: users.get failed when sending to 25086864
-11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
-11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
-11:59:35 NetServer: users.get failed when sending to 25086864
-11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
-11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
-11:59:35 NetServer: users.get failed when sending to 25086864
-11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
-11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
-11:59:35 NetServer: users.get failed when sending to 25086864
-11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
-11:59:35 NetServer::SendMsg: cannot find channel #25086864, users.card=3
-11:59:35 NetServer: users.get failed when sending to 25086864
-11:59:35 Message not sent - error 0, message ID = ffffffff, to 25086864 (Pogranec)
-11:59:35 "get: STRING (166473030), sent: STRING (166473030)"
-11:59:35 "DISCONNECT: Pogranec (166473030) Object: B 1-1-E:1 (Pogranec) REMOTE, _characterID: 393 at loc [6341.06,7676.9,11.0844]"
-11:59:35 Client: Remote object 10:0 not found
-11:59:35 Client: Object 6:258 (type Type_149) not found.
-11:59:47 "CLEANUP: Deleted 12 Loot Piles out of 265"
-12:00:08 "RUNNING EVENT: crash_spawner on [2014,6,30,20,0]"
-12:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
-12:00:08 "CRASHSPAWNER: UH-1H started
-
-g from [10450,-630,1000] to [4527.34,6675.74] NOW!(TIME:10864||LT:HeliCrash_No50s)"
-12:02:35 "TIME SYNC: Local Time set to [2013,8,3,20,2]"
-12:02:35 "CLEANUP: Deleted 5 Animals out of 40"
-12:05:49 "CLEANUP: Deleted 3 Loot Piles out of 257"
-12:07:35 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
-12:08:50 "CLEANUP: Deleted 1 Loot Piles out of 284"
-12:09:44 "CRASHSPAWNER: UH-1H just exploded at [4552.75,6677.59,1.04395]!, "
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4549.15,6679.33,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4548.87,6684.07,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4546.66,6677.02,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4553.52,6670.93,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4551.91,6672.93,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4551.03,6670.01,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4558.77,6685.83,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4550.42,6681.2,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4551.16,6670.2,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4554.36,6685.55,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Loot spawn at '[4547.71,6673.8,0]' with loot table 'HeliCrash_No50s'"
-12:09:44 "CRASHSPAWNER: Crash completed! Wreck at: [4552.75,6677.59,0.217438] - Runtime: 576 Seconds || Distance from calculated POC: 27 meters"
-12:09:49 "CLEANUP: Deleted 4 Loot Piles out of 293"
-12:10:50 "CLEANUP: Deleted 33 Loot Piles out of 301"
-12:11:49 "CLEANUP: Deleted 1 Loot Piles out of 269"
-12:12:34 "Purging player: 342fe040# 1064621: man_survivor.p3d"
-12:12:34 "CLEANUP: Deleted 1 players and 0 zombies out of 9 dead"
-12:12:35 "TIME SYNC: Local Time set to [2013,8,3,20,12]"
-12:13:51 "CLEANUP: Deleted 37 Loot Piles out of 269"
-12:14:49 "CLEANUP: Deleted 15 Loot Piles out of 232"
-12:15:00 "RUNNING EVENT: supply_drop on [2014,6,30,20,15]"
-12:15:50 "CLEANUP: Deleted 73 Loot Piles out of 220"
-12:17:04 Server: Object 6:378 not found (message 91)
-12:17:04 Server: Object 6:377 not found (message 99)
-12:17:35 "TIME SYNC: Local Time set to [2013,8,3,20,17]"
-12:17:48 "CLEANUP: Deleted 1 Loot Piles out of 217"
-12:18:48 "CLEANUP: Deleted 9 Loot Piles out of 216"
-12:19:48 "CLEANUP: Deleted 11 Loot Piles out of 207"
-12:20:46 "CLEANUP: Deleted 2 Loot Piles out of 196"
-12:21:44 "SAFE UNLOCKED: ID:4483 UID:0 BY Marek(199810246)"
-12:22:26 "SAFE LOCKED: ID:4483 UID:0 BY Marek(199810246)"
-12:22:35 "TIME SYNC: Local Time set to [2013,8,3,20,22]"
-12:23:29 Server: Network message 31fdfc is pending
-12:23:29 Server: Network message 31fe2d is pending
-12:23:29 Server: Network message 31fe2e is pending
-12:23:29 Server: Network message 31fe5b is pending
-12:23:29 Server: Network message 31fe5c is pending
-12:23:29 Server: Network message 31fe7e is pending
-12:23:29 Server: Network message 31fe7f is pending
-12:23:29 Server: Network message 31fe80 is pending
-12:23:29 Server: Network message 31fe81 is pending
-12:23:29 Server: Network message 31fe96 is pending
-12:23:29 Server: Network message 31fe97 is pending
-12:23:29 Server: Network message 31fe98 is pending
-12:23:29 Server: Network message 31feb6 is pending
-12:23:29 Server: Network message 31febe is pending
-12:23:29 Server: Network message 31fee8 is pending
-12:23:29 Server: Network message 31fee8 is pending
-12:23:29 Server: Network message 31fee9 is pending
-12:23:29 Server: Network message 31feea is pending
-12:23:29 Server: Network message 31feeb is pending
-12:23:29 Server: Network message 31feec is pending
-12:23:29 Server: Network message 31feed is pending
-12:23:29 Server: Network message 31feee is pending
-12:23:29 Server: Network message 31ff12 is pending
-12:23:29 Server: Network message 31ff84 is pending
-12:23:37 "SAFE UNLOCKED: ID:4483 UID:0 BY Marek(199810246)"
-12:23:46 "CLEANUP: Deleted 1 Loot Piles out of 198"
-12:26:07 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a HMMWV_M1035_DES_EP1 in/at Stary for 4x ItemGoldBar10oz"
-12:26:08 "PUBLISH: Attempt 33589600# 1066277: arrow_down_large_ep1.p3d REMOTE"
-12:26:08 "HIVE: WRITE: "CHILD:308:3195:HMMWV_M1035_DES_EP1:0:9122:[114,[6292.99,7806.43,0.000152588]]:[]:[]:1:6293078064012537:""
-12:26:09 "HIVE: WRITE: "CHILD:388:6293078064012537:""
-12:26:09 "CUSTOM: Selected "4677""
-12:26:09 "PUBLISH: B 1-1-E:1 (Pogranec) REMOTE Bought HMMWV_M1035_DES_EP1 with ID "6293078064012537""
-12:26:15 "SAFE LOCKED: ID:4483 UID:0 BY Marek(199810246)"
-12:26:48 "CLEANUP: Deleted 15 Loot Piles out of 203"
-12:27:35 "TIME SYNC: Local Time set to [2013,8,3,20,27]"
-12:27:36 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4656"
-12:27:36 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89302919823173""
-12:27:47 "CLEANUP: Deleted 4 Loot Piles out of 190"
-12:28:22 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4657"
-12:28:22 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89357919883173""
-12:28:47 "CLEANUP: Deleted 2 Loot Piles out of 189"
-12:29:48 "CLEANUP: Deleted 26 Loot Piles out of 189"
-12:30:02 "RUNNING EVENT: crash_spawner on [2014,6,30,20,30]"
-12:30:02 "CRASHSPAWNER: 100% chance to start a crashing Su-25 with loot table 'MilitarySpecial'"
-12:30:02 "CRASHSPAWNER: Su-25 started
-
-g from [1623.71,218.188,300] to [870.932,10809.3] NOW!(TIME:12657||LT:MilitarySpecial)"
-12:30:47 "CLEANUP: Deleted 1 Loot Piles out of 166"
-12:30:52 Server: Object 6:461 not found (message 98)
-12:30:52 Server: Object 6:462 not found (message 91)
-12:31:17 Server: Object 6:485 not found (message 94)
-12:31:17 Server: Object 6:487 not found (message 70)
-12:31:17 Server: Object 6:486 not found (message 70)
-12:31:17 Server: Object 6:484 not found (message 94)
-12:31:36 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Mi17_Civilian_DZ in/at Any for 1x ItemBriefcase100oz"
-12:31:36 "DELETE: B 1-1-C:1 (Marek) REMOTE Deleted by ID: 4308"
-12:31:48 "CLEANUP: Deleted 1 Loot Piles out of 190"
-12:32:04 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a BAF_Merlin_DZE in/at Any for 2x ItemBriefcase100oz"
-12:32:05 Server: Object 6:493 not found (message 70)
-12:32:05 "PUBLISH: Attempt 34b60800# 1066435: arrow_down_large_ep1.p3d REMOTE"
-12:32:05 "HIVE: WRITE: "CHILD:308:3195:BAF_Merlin_DZE:0:4899:[295,[12072.7,12667.3,0]]:[]:[]:1:120727126673013075:""
-12:32:06 "HIVE: WRITE: "CHILD:388:120727126673013075:""
-12:32:06 "CUSTOM: Selected "4680""
-12:32:06 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought BAF_Merlin_DZE with ID "120727126673013075""
-12:32:13 Server: Object 6:500 not found (message 70)
-12:32:14 Server: Object 6:499 not found (message 70)
-12:32:14 Server: Object 6:508 not found (message 70)
-12:32:34 "Purging player: 3411e040# 1065063: man_survivor.p3d"
-12:32:34 "CLEANUP: Deleted 1 players and 0 zombies out of 6 dead"
-12:32:35 "TIME SYNC: Local Time set to [2013,8,3,20,32]"
-12:32:46 Server: Object 6:513 not found (message 70)
-12:32:46 Server: Object 6:515 not found (message 70)
-12:32:46 Server: Object 6:514 not found (message 70)
-12:32:47 "CRASHSPAWNER: Su-25 just exploded at [1191.93,10784.9,6.62952]!, "
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1195.7,10786.3,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1194.99,10778.8,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1187.98,10791.2,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1183.96,10783.1,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1185.3,10787.4,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1188.51,10780.4,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1196.27,10784.3,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1195.29,10789.9,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1185.78,10784.6,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1193.92,10779.3,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1197.75,10781,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1197.45,10783.8,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Loot spawn at '[1186.15,10782.1,0]' with loot table 'MilitarySpecial'"
-12:32:47 "CRASHSPAWNER: Crash completed! Wreck at: [1192.33,10784.8,0.170349] - Runtime: 165 Seconds || Distance from calculated POC: 325 meters"
-12:33:03 Server: Object 6:540 not found (message 94)
-12:33:03 Server: Object 6:539 not found (message 70)
-12:33:03 Server: Object 6:541 not found (message 70)
-12:33:03 Server: Object 6:538 not found (message 70)
-12:33:11 Server: Object 6:547 not found (message 94)
-12:33:11 Server: Object 6:553 not found (message 94)
-12:33:11 Server: Object 6:554 not found (message 70)
-12:33:11 Server: Object 6:552 not found (message 94)
-12:33:11 Server: Object 6:548 not found (message 70)
-12:33:12 Server: Object 6:560 not found (message 94)
-12:33:12 Server: Object 6:561 not found (message 94)
-12:33:12 Server: Object 6:571 not found (message 94)
-12:33:12 Server: Object 6:569 not found (message 94)
-12:33:13 Server: Object 6:559 not found (message 94)
-12:33:13 Server: Object 6:558 not found (message 94)
-12:33:13 Server: Object 6:565 not found (message 70)
-12:33:13 Server: Object 6:562 not found (message 70)
-12:33:13 Server: Object 6:563 not found (message 70)
-12:33:13 Server: Object 6:564 not found (message 94)
-12:33:13 Server: Object 6:561 not found (message 70)
-12:33:13 Server: Object 6:571 not found (message 70)
-12:33:13 Server: Object 6:570 not found (message 70)
-12:33:13 Server: Object 6:567 not found (message 94)
-12:33:13 Server: Object 6:569 not found (message 70)
-12:33:13 Server: Object 6:560 not found (message 70)
-12:33:13 Server: Object 6:566 not found (message 94)
-12:33:15 Server: Object 6:572 not found (message 99)
-12:33:15 Server: Object 6:573 not found (message 91)
-12:33:36 Server: Object 6:589 not found (message 94)
-12:33:36 Server: Object 6:591 not found (message 70)
-12:33:36 Server: Object 6:590 not found (message 70)
-12:33:36 Server: Object 6:597 not found (message 94)
-12:33:36 Server: Object 6:596 not found (message 70)
-12:33:36 Server: Object 6:593 not found (message 70)
-12:33:36 Server: Object 6:592 not found (message 94)
-12:33:36 Server: Object 6:594 not found (message 70)
-12:33:36 Server: Object 6:595 not found (message 70)
-12:33:45 Server: Object 6:601 not found (message 94)
-12:33:45 Server: Object 6:603 not found (message 70)
-12:33:45 Server: Object 6:602 not found (message 70)
-12:33:46 Server: Object 6:601 not found (message 94)
-12:33:53 Server: Object 6:606 not found (message 98)
-12:33:53 Server: Object 6:607 not found (message 91)
-12:34:11 "[DZMS]: Major SM1 Weapon Cache Mission has Ended."
-12:34:11 Error in expression <veVeh;
-[_vehicle1] ExecVM DZMSSaveVeh;
-[_vehicle2] ExecVM DZMSSaveVeh;
-
-
-[nil,ni>
-12:34:11   Error position: <_vehicle2] ExecVM DZMSSaveVeh;
-
-
-[nil,ni>
-12:34:11   Error Undefined variable in expression: _vehicle2
-12:34:11 File z\addons\dayz_server\EMS\Missions\Major\SM1.sqf, line 48
-12:34:11 Error in expression <bject = _this select 0;
-_class = typeOf _object;
-_dir = getDir _object;
-_pos = g>
-12:34:11   Error position: <_object;
-_dir = getDir _object;
-_pos = g>
-12:34:11   Error Undefined variable in expression: _object
-12:34:11 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
-12:34:51 "CLEANUP: Deleted 1 Loot Piles out of 305"
-12:35:51 "CLEANUP: Deleted 3 Loot Piles out of 305"
-12:36:07 "[DZMS]: Running Major Mission SM6."
-12:36:43 Server: Object 6:618 not found (message 99)
-12:36:43 Server: Object 6:619 not found (message 91)
-12:36:48 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-12:36:52 "CLEANUP: Deleted 4 Loot Piles out of 305"
-12:37:08 Server: Object 6:623 not found (message 91)
-12:37:08 Server: Object 6:622 not found (message 99)
-12:37:35 "TIME SYNC: Local Time set to [2013,8,3,20,37]"
-12:37:55 "CLEANUP: Deleted 66 Loot Piles out of 301"
-12:38:49 Server: Object 6:633 not found (message 91)
-12:38:49 Server: Object 6:632 not found (message 98)
-12:40:04 Client: Object 11:205 (type Type_69) not found.
-12:40:04 Client: Object 11:205 (type Type_70) not found.
-12:40:08 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-12:42:17 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
-12:42:35 "TIME SYNC: Local Time set to [2013,8,3,20,42]"
-12:42:46 "EPOCH SERVERTRADE: Player: Channgg00 (8896708) sold a UAZ_Unarmed_UN_EP1 in/at Stary for 4x ItemGoldBar"
-12:42:46 "DELETE: B 1-1-D:1 (Channgg00) REMOTE Deleted by ID: 162335"
-12:42:57 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-12:43:26 Server: Object 6:636 not found (message 69)
-12:43:26 Server: Object 6:637 not found (message 69)
-12:43:26 WARNING: Function 'name' - Marek is dead
-12:43:26 WARNING: Function 'name' - Marek is dead
-12:43:26 WARNING: Function 'name' - Marek is dead
-12:43:26 WARNING: Function 'name' - Marek is dead
-12:43:26 WARNING: Function 'name' - Marek is dead
-12:43:26 WARNING: Function 'name' - Marek is dead
-12:43:26 WARNING: Function 'name' - Marek is dead
-12:43:26 "PDEATH: Player Died 199810246"
-12:43:30 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-12:43:43 "ERROR: server_playerSync: Cannot Sync Player Marek [382]. Position in debug! [-7239.67,19539.3,0.245514]"
-12:43:44 "get: STRING (199810246), sent: STRING (199810246)"
-12:43:44 "DISCONNECT: Marek (199810246) Object: B 1-1-F:1 (Marek) REMOTE, _characterID: 382 at loc [-7239.67,19539.3,0.245514]"
-12:43:44 "ERROR: server_playerSync: Cannot Sync Player Marek [382]. Position in debug! [-7239.67,19539.3,0.245514]"
-12:43:44 Client: Remote object 6:2 not found
-12:44:03 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-12:44:32 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
-12:45:45 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a SCAR_L_CQC_EGLM_Holo in/at Stary for 5x ItemGoldBar"
-12:45:45 "EPOCH SERVERTRADE: Player: Channgg00 (8896708) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
-12:45:53 Server: Object 6:695 not found (message 94)
-12:45:53 Server: Object 6:694 not found (message 70)
-12:45:53 Server: Object 6:693 not found (message 94)
-12:45:53 Server: Object 6:689 not found (message 94)
-12:45:53 Server: Object 6:690 not found (message 94)
-12:45:53 Server: Object 6:691 not found (message 94)
-12:45:53 Server: Object 6:692 not found (message 94)
-12:45:54 Server: Object 6:698 not found (message 70)
-12:45:54 Server: Object 6:704 not found (message 70)
-12:45:54 Server: Object 6:703 not found (message 70)
-12:45:54 Server: Object 6:701 not found (message 70)
-12:45:54 Server: Object 6:702 not found (message 94)
-12:45:54 Server: Object 6:699 not found (message 94)
-12:45:54 Server: Object 6:700 not found (message 94)
-12:46:20 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
-12:46:43 Server: Object 6:728 not found (message 94)
-12:46:43 Server: Object 6:736 not found (message 70)
-12:46:43 Server: Object 6:735 not found (message 70)
-12:46:43 Server: Object 6:734 not found (message 94)
-12:46:43 Server: Object 6:731 not found (message 94)
-12:46:43 Server: Object 6:729 not found (message 94)
-12:46:43 Server: Object 6:730 not found (message 94)
-12:46:43 Server: Object 6:732 not found (message 94)
-12:46:43 Server: Object 6:733 not found (message 94)
-12:46:43 Server: Object 6:740 not found (message 94)
-12:46:43 Server: Object 6:738 not found (message 70)
-12:46:43 Server: Object 6:748 not found (message 70)
-12:46:43 Server: Object 6:739 not found (message 94)
-12:46:43 Server: Object 6:745 not found (message 70)
-12:46:43 Server: Object 6:744 not found (message 70)
-12:46:43 Server: Object 6:747 not found (message 70)
-12:46:43 Server: Object 6:746 not found (message 70)
-12:46:43 Server: Object 6:737 not found (message 94)
-12:46:43 Server: Object 6:743 not found (message 94)
-12:46:43 Server: Object 6:741 not found (message 94)
-12:46:43 Server: Object 6:742 not found (message 94)
-12:46:43 Server: Object 6:749 not found (message 70)
-12:46:43 Server: Object 6:750 not found (message 94)
-12:46:43 Server: Object 6:753 not found (message 70)
-12:46:43 Server: Object 6:756 not found (message 70)
-12:46:43 Server: Object 6:755 not found (message 70)
-12:46:43 Server: Object 6:754 not found (message 70)
-12:46:43 Server: Object 6:752 not found (message 70)
-12:46:43 Server: Object 6:751 not found (message 70)
-12:47:00 Server: Object 6:784 not found (message 98)
-12:47:00 Server: Object 6:785 not found (message 91)
-12:47:00 Server: Object 6:787 not found (message 91)
-12:47:01 Server: Object 6:791 not found (message 91)
-12:47:01 Server: Object 6:790 not found (message 99)
-12:47:01 Server: Object 6:797 not found (message 94)
-12:47:01 Server: Object 6:796 not found (message 70)
-12:47:01 Server: Object 6:799 not found (message 70)
-12:47:01 Server: Object 6:795 not found (message 94)
-12:47:01 Server: Object 6:798 not found (message 70)
-12:47:01 Server: Object 6:800 not found (message 99)
-12:47:01 Server: Object 6:801 not found (message 91)
-12:47:01 Server: Object 6:807 not found (message 91)
-12:47:02 Server: Object 6:806 not found (message 99)
-12:47:02 Server: Object 6:804 not found (message 99)
-12:47:02 Server: Object 6:806 not found (message 99)
-12:47:02 Server: Object 6:804 not found (message 99)
-12:47:02 Server: Object 6:806 not found (message 99)
-12:47:02 Server: Object 6:806 not found (message 99)
-12:47:02 Server: Object 6:806 not found (message 99)
-12:47:02 Server: Object 6:804 not found (message 99)
-12:47:02 Server: Object 6:806 not found (message 99)
-12:47:02 Server: Object 6:806 not found (message 99)
-12:47:11 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
-12:47:33 "CRASHSPAWNER: Mi-24D just exploded at [10037.5,13575.8,2.43585]!, "
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10038.2,13579.7,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10037.6,13581.4,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10043.1,13573.1,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10028.8,13575.5,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10048.7,13575.8,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10035,13564.5,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10029.8,13570.8,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10035.8,13584.5,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10039,13563.7,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10028.7,13563.9,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10023.8,13580.9,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Loot spawn at '[10054.1,13574.4,0]' with loot table 'MilitarySpecial'"
-12:47:33 "CRASHSPAWNER: Crash completed! Wreck at: [10037.4,13575.8,3.05176e-005] - Runtime: 10043 Seconds || Distance from calculated POC: 3311 meters"
-12:47:35 "TIME SYNC: Local Time set to [2013,8,3,20,47]"
-12:47:36 "CLEANUP: Deleted 14 Animals out of 43"
-12:47:41   found in (217,76).
-12:47:53 "CLEANUP: Deleted 2 Loot Piles out of 371"
-12:48:22 Server: Object 6:827 not found (message 70)
-12:48:22 Server: Object 6:826 not found (message 70)
-12:48:22 Server: Object 6:825 not found (message 94)
-12:48:22 Server: Object 6:821 not found (message 94)
-12:48:22 Server: Object 6:824 not found (message 94)
-12:48:22 Server: Object 6:823 not found (message 70)
-12:48:22 Server: Object 6:822 not found (message 70)
-12:48:22 Server: Object 6:828 not found (message 70)
-12:48:29 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
-12:48:38 Server: Object 6:829 not found (message 94)
-12:48:38 Server: Object 6:830 not found (message 94)
-12:48:38 Server: Object 6:831 not found (message 94)
-12:48:38 Server: Object 6:832 not found (message 70)
-12:48:39 Server: Object 6:836 not found (message 70)
-12:48:47 Server: Object 6:842 not found (message 70)
-12:48:47 Server: Object 6:837 not found (message 70)
-12:48:47 Server: Object 6:843 not found (message 94)
-12:48:47 Server: Object 6:838 not found (message 94)
-12:48:47 Server: Object 6:839 not found (message 94)
-12:48:47 Server: Object 6:840 not found (message 94)
-12:48:47 Server: Object 6:841 not found (message 94)
-12:48:47 Server: Object 6:847 not found (message 94)
-12:48:47 Server: Object 6:846 not found (message 94)
-12:48:47 Server: Object 6:844 not found (message 94)
-12:48:47 Server: Object 6:845 not found (message 94)
-12:48:47 Server: Object 6:848 not found (message 94)
-12:48:47 Server: Object 6:853 not found (message 94)
-12:48:47 Server: Object 6:850 not found (message 70)
-12:48:47 Server: Object 6:852 not found (message 70)
-12:48:47 Server: Object 6:851 not found (message 94)
-12:48:47 Server: Object 6:854 not found (message 70)
-12:48:47 Server: Object 6:849 not found (message 94)
-12:48:47 Server: Object 6:855 not found (message 94)
-12:48:47 Server: Object 6:856 not found (message 70)
-12:48:47 Server: Object 6:857 not found (message 94)
-12:48:54 "CLEANUP: Deleted 1 Loot Piles out of 391"
-12:49:00 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a M40A3 in/at Stary for 6x ItemGoldBar"
-12:49:55 "CLEANUP: Deleted 1 Loot Piles out of 423"
-12:50:00 Server: Object 6:872 not found (message 91)
-12:50:00 Server: Object 6:871 not found (message 99)
-12:50:04 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a m8_sharpshooter in/at Stary for 3x ItemGoldBar"
-12:50:50 Server: Object 6:877 not found (message 94)
-12:50:50 Server: Object 6:879 not found (message 70)
-12:50:50 Server: Object 6:882 not found (message 70)
-12:50:50 Server: Object 6:878 not found (message 70)
-12:50:50 Server: Object 6:881 not found (message 70)
-12:50:50 Server: Object 6:880 not found (message 70)
-12:50:50 Server: Object 6:876 not found (message 70)
-12:50:50 Server: Object 6:884 not found (message 94)
-12:50:50 Server: Object 6:883 not found (message 94)
-12:50:50 Server: Object 6:885 not found (message 70)
-12:50:55 "CLEANUP: Deleted 3 Loot Piles out of 424"
-12:50:56 NAT Negotiation completed
-12:51:08 Server: Object 6:892 not found (message 94)
-12:51:33 Server: Object 6:902 not found (message 70)
-12:51:33 Server: Object 6:903 not found (message 94)
-12:51:33 Server: Object 6:901 not found (message 94)
-12:51:41 Server: Object 6:906 not found (message 98)
-12:51:41 Server: Object 6:907 not found (message 91)
-12:51:52 Server: Object 6:909 not found (message 91)
-12:51:52 Server: Object 6:908 not found (message 99)
-12:52:00 "CLEANUP: Deleted 31 Loot Piles out of 450"
-12:52:35 "TIME SYNC: Local Time set to [2013,8,3,20,52]"
-12:52:56 "CLEANUP: Deleted 19 Loot Piles out of 420"
-12:53:00 "get: STRING (199810246), sent: STRING (199810246)"
-12:53:00 "DISCONNECT: Marek (199810246) Object: B 1-1-C:1 (Marek) REMOTE, _characterID: 398 at loc [6444.37,2570.34,0.00143337]"
-12:53:00 Client: Remote object 6:652 not found
-12:53:01 Client: Object 11:264 (type Type_149) not found.
-12:53:53 "CLEANUP: Deleted 68 Loot Piles out of 363"
-12:54:50 "CLEANUP: Deleted 11 Loot Piles out of 300"
-12:55:31 Client: Object 11:287 (type Type_70) not found.
-12:55:31 Client: Object 11:287 (type Type_69) not found.
-12:55:51 "CLEANUP: Deleted 1 Loot Piles out of 290"
-12:56:51 "CLEANUP: Deleted 1 Loot Piles out of 289"
-12:57:35 "TIME SYNC: Local Time set to [2013,8,3,20,57]"
-12:58:50 "CLEANUP: Deleted 1 Loot Piles out of 288"
-12:59:51 "CLEANUP: Deleted 15 Loot Piles out of 287"
-13:00:06 "RUNNING EVENT: crash_spawner on [2014,6,30,21,0]"
-13:00:06 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
-13:00:06 "CRASHSPAWNER: AV-8B (LGB) started
-
-g from [6986,-630,1000] to [9584.81,2310.76] NOW!(TIME:14460||LT:MilitarySpecial)"
-13:00:51 "CLEANUP: Deleted 5 Loot Piles out of 272"
-13:01:08 Server: Object 9:718 not found (message 70)
-13:01:08 Server: Object 9:719 not found (message 70)
-13:01:13 Client: Object 9:719 (type Type_69) not found.
-13:01:51 "CLEANUP: Deleted 5 Loot Piles out of 267"
-13:02:16 "CRASHSPAWNER: AV-8B (LGB) just exploded at [9507,1974.18,5.94375]!, "
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9503.09,1975.05,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9511.57,1972.56,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9505.81,1980.86,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9513.31,1978.17,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9501.04,1965.99,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9498.03,1977.92,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9514.72,1983.84,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Loot spawn at '[9503.9,1961.45,0]' with loot table 'MilitarySpecial'"
-13:02:16 "CRASHSPAWNER: Crash completed! Wreck at: [9507,1974.2,0] - Runtime: 130 Seconds || Distance from calculated POC: 349 meters"
-13:02:35 "TIME SYNC: Local Time set to [2013,8,3,21,2]"
-13:02:35 "CLEANUP: Deleted 5 Animals out of 42"
-13:02:50 "CLEANUP: Deleted 1 Loot Piles out of 270"
-13:03:50 "CLEANUP: Deleted 2 Loot Piles out of 269"
-13:04:49 "CLEANUP: Deleted 1 Loot Piles out of 268"
-13:05:50 "CLEANUP: Deleted 11 Loot Piles out of 279"
-13:06:41 "EPOCH SERVERTRADE: Player: Channgg00 (8896708) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:06:52 "CLEANUP: Deleted 28 Loot Piles out of 274"
-13:06:56 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:07:07 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:07:17 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:07:27 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:07:35 "TIME SYNC: Local Time set to [2013,8,3,21,7]"
-13:07:37 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:07:48 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:07:51 "CLEANUP: Deleted 39 Loot Piles out of 247"
-13:08:48 "CLEANUP: Deleted 21 Loot Piles out of 210"
-13:09:00 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:09:26 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:09:36 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:09:46 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:09:48 "CLEANUP: Deleted 26 Loot Piles out of 190"
-13:09:56 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:10:07 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:10:17 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:10:27 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:10:37 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:10:46 "CLEANUP: Deleted 2 Loot Piles out of 165"
-13:10:47 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:11:37 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a MortarBucket in/at Any for 5x ItemGoldBar"
-13:11:47 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a MortarBucket in/at Any for 5x ItemGoldBar"
-13:11:48 "CLEANUP: Deleted 27 Loot Piles out of 164"
-13:12:22 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:12:32 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:12:35 "TIME SYNC: Local Time set to [2013,8,3,21,12]"
-13:12:42 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:12:46 "CLEANUP: Deleted 1 Loot Piles out of 138"
-13:12:52 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:13:02 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:13:12 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:13:23 "EPOCH SERVERTRADE: Player: Pogranec (166473030) sold a CinderBlocks in/at Any for 5x ItemGoldBar"
-13:14:46 "CLEANUP: Deleted 5 Loot Piles out of 142"
-13:15:08 "RUNNING EVENT: supply_drop on [2014,6,30,21,15]"
-13:15:46 "CLEANUP: Deleted 1 Loot Piles out of 155"
-13:17:35 "TIME SYNC: Local Time set to [2013,8,3,21,17]"
-13:18:55 Server: Object 9:783 not found (message 91)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:783 not found (message 91)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:55 Server: Object 9:782 not found (message 99)
-13:18:56 Server: Object 9:782 not found (message 99)
-13:20:17 "[DZMS]: Minor SM11 BRDM Crash Mission has Ended."
-13:20:19 "[DZMS]: Running Minor Mission SM10."
-13:22:34 "Purging player: 323d8080# 1063920: ghillie_overall.p3d"
-13:22:34 "CLEANUP: Deleted 1 players and 0 zombies out of 10 dead"
-13:22:35 "TIME SYNC: Local Time set to [2013,8,3,21,22]"
-13:24:47 "CLEANUP: Deleted 1 Loot Piles out of 159"
-13:25:49 "CLEANUP: Deleted 12 Loot Piles out of 159"
-13:26:47 "CLEANUP: Deleted 6 Loot Piles out of 147"
-13:27:35 "TIME SYNC: Local Time set to [2013,8,3,21,27]"
-13:27:46 "CLEANUP: Deleted 1 Loot Piles out of 141"
-13:27:48 "[DZMS]: Minor SM10 Heli Crash Mission has Ended."
-13:27:48 Error in expression <0}; 
-
-
-
-[_vehicle] ExecVM DZMSSaveVeh;
-[_vehicle1] ExecVM DZMSSaveVeh;
-
-
-[nil,ni>
-13:27:48   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
-
-
-[nil,ni>
-13:27:48   Error Undefined variable in expression: _vehicle1
-13:27:48 File z\addons\dayz_server\EMS\Missions\Minor\SM10.sqf, line 36
-13:27:48 Error in expression <bject = _this select 0;
-_class = typeOf _object;
-_dir = getDir _object;
-_pos = g>
-13:27:48   Error position: <_object;
-_dir = getDir _object;
-_pos = g>
-13:27:48   Error Undefined variable in expression: _object
-13:27:48 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
-13:28:10 "[DZMS]: Running Minor Mission SM13."
-13:28:46 "CLEANUP: Deleted 2 Loot Piles out of 142"
-13:29:46 "CLEANUP: Deleted 1 Loot Piles out of 140"
-13:30:00 "RUNNING EVENT: crash_spawner on [2014,6,30,21,30]"
-13:30:00 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
-13:30:00 "CRASHSPAWNER: Mi-17 started
-
-g from [15098,8144,300] to [6173.08,11195.7] NOW!(TIME:16253||LT:HeliCrash_No50s)"
-13:30:46 "CLEANUP: Deleted 1 Loot Piles out of 139"
-13:31:46 "CLEANUP: Deleted 1 Loot Piles out of 139"
-13:32:35 "TIME SYNC: Local Time set to [2013,8,3,21,32]"
-13:32:46 "CLEANUP: Deleted 1 Loot Piles out of 138"
-13:33:46 "CLEANUP: Deleted 3 Loot Piles out of 137"
-13:34:46 "CLEANUP: Deleted 2 Loot Piles out of 135"
-13:35:46 "CLEANUP: Deleted 11 Loot Piles out of 135"
-13:35:57 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
-13:35:57 Error in expression <0}; 
-
-
-
-[_vehicle] ExecVM DZMSSaveVeh;
-[_vehicle1] ExecVM DZMSSaveVeh;
-
-[nil,nil>
-13:35:57   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
-
-[nil,nil>
-13:35:57   Error Undefined variable in expression: _vehicle1
-13:35:57 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
-13:35:57 Error in expression <bject = _this select 0;
-_class = typeOf _object;
-_dir = getDir _object;
-_pos = g>
-13:35:57   Error position: <_object;
-_dir = getDir _object;
-_pos = g>
-13:35:57   Error Undefined variable in expression: _object
-13:35:57 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
-13:36:25 "CRASHSPAWNER: Mi-17 just exploded at [6177.66,11220.8,2.60736]!, "
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6181.09,11218.8,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6178.2,11213.6,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6184.77,11226.1,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6167.2,11217.7,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6174.23,11224.3,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6178.39,11215.6,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6182.02,11220.8,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6183.11,11223.6,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6183.66,11223.5,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6168.37,11225.1,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6185.67,11226.6,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Loot spawn at '[6183,11227.5,0]' with loot table 'HeliCrash_No50s'"
-13:36:25 "CRASHSPAWNER: Crash completed! Wreck at: [6177.66,11220.8,0.0846863] - Runtime: 385 Seconds || Distance from calculated POC: 28 meters"
-13:36:46 "CLEANUP: Deleted 4 Loot Piles out of 136"
-13:36:56 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-B:1 (telconrar) REMOTE with DMR_DZ from 510.366m with 0.917216 dmg"
-13:37:05 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-B:1 (telconrar) REMOTE with DMR_DZ from 515.445m with 0.311032 dmg"
-13:37:09 "[DZMS]: Running Major Mission SM10."
-13:37:35 "TIME SYNC: Local Time set to [2013,8,3,21,37]"
-13:42:35 "TIME SYNC: Local Time set to [2013,8,3,21,42]"
-13:45:46 "CLEANUP: Deleted 1 Loot Piles out of 135"
-13:47:35 "CLEANUP: Deleted 1 Animals out of 29"
-13:47:35 "TIME SYNC: Local Time set to [2013,8,3,21,47]"
-13:52:35 "TIME SYNC: Local Time set to [2013,8,3,21,52]"
-13:53:08 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a ItemVault in/at Stary for 1x ItemBriefcase100oz"
-13:57:35 "TIME SYNC: Local Time set to [2013,8,3,21,57]"
-13:57:48 "CLEANUP: Deleted 1 Loot Piles out of 164"
-13:58:26 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 9.34923m with 0.664296 dmg"
-13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.76787m with 0.66372 dmg"
-13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.64984m with 0.664843 dmg"
-13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.96799m with 0.665146 dmg"
-13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.87355m with 0.664152 dmg"
-13:58:28 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-B:1 (telconrar) REMOTE with DMR_DZ from 9.30429m with 1.47444 dmg"
-13:58:28 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 9.12304m with 0.665257 dmg"
-13:58:28 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-B:1 (telconrar) REMOTE with DMR_DZ from 9.12304m with 1.46793 dmg"
-13:58:29 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 9.09542m with 0.271924 dmg"
-13:58:29 "PKILL: telconrar was killed by Channgg00 with weapon M4SPR from 9.09542m"
-13:58:29 Error in expression <_this select 1) }] call RE;
-};
-
-
-
-
-
-
-if(DZE_DeathMsgSide) then {
-[nil, nil, rspa>
-13:58:29   Error position: <DZE_DeathMsgSide) then {
-[nil, nil, rspa>
-13:58:29   Error Undefined variable in expression: dze_deathmsgside
-13:58:29 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
-13:58:29 "PDEATH: Player Died 120160390"
-13:58:31 "PKILL: Channgg00 was killed by telconrar with weapon DMR_DZ from 9.12304m"
-13:58:31 Error in expression <_this select 1) }] call RE;
-};
-
-
-
-
-
-
-if(DZE_DeathMsgSide) then {
-[nil, nil, rspa>
-13:58:31   Error position: <DZE_DeathMsgSide) then {
-[nil, nil, rspa>
-13:58:31   Error Undefined variable in expression: dze_deathmsgside
-13:58:31 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
-13:58:31 "PDEATH: Player Died 8896708"
-13:58:48 "CLEANUP: Deleted 4 Loot Piles out of 163"
-13:59:04 "ERROR: server_playerSync: Cannot Sync Player telconrar [381]. Position in debug! [-7237.98,19541,0.00143433]"
-13:59:05 "get: STRING (120160390), sent: STRING (120160390)"
-13:59:05 "DISCONNECT: telconrar (120160390) Object: B 1-1-A:1 (telconrar) REMOTE, _characterID: 381 at loc [-7237.98,19541,0.00143433]"
-13:59:05 "ERROR: server_playerSync: Cannot Sync Player telconrar [381]. Position in debug! [-7237.98,19541,0.00143433]"
-13:59:05 Client: Remote object 4:2 not found
-13:59:05 Client: Remote object 4:1576 not found
-13:59:05 Client: Remote object 4:1577 not found
-14:00:03 "RUNNING EVENT: crash_spawner on [2014,6,30,22,0]"
-14:00:03 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
-14:00:03 "CRASHSPAWNER: Mi-24D started
-
-g from [6986,-630,1000] to [4421.68,9926.7] NOW!(TIME:18056||LT:MilitarySpecial)"
-14:00:08 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [397]. Position in debug! [-7238.94,19539.3,0.170013]"
-14:00:09 "get: STRING (8896708), sent: STRING (8896708)"
-14:00:09 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-B:1 (Channgg00) REMOTE, _characterID: 397 at loc [-7238.94,19539.3,0.170013]"
-14:00:09 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [397]. Position in debug! [-7238.94,19539.3,0.170013]"
-14:00:36 Warning: Cleanup player - person 4:1578 not found
-14:02:35 "TIME SYNC: Local Time set to [2013,8,3,22,2]"
-14:02:36 "CLEANUP: Deleted 23 Animals out of 31"
-14:05:26 Server: Object 13:145 not found (message 70)
-14:05:26 Server: Object 13:146 not found (message 94)
-14:05:26 Server: Object 13:147 not found (message 94)
-14:05:52 "CLEANUP: Deleted 1 Loot Piles out of 297"
-14:05:52 Server: Object 13:199 not found (message 94)
-14:05:52 Server: Object 13:198 not found (message 70)
-14:05:52 Server: Object 13:197 not found (message 70)
-14:07:35 "TIME SYNC: Local Time set to [2013,8,3,22,7]"
-14:07:54 "CLEANUP: Deleted 1 Loot Piles out of 325"
+14:21:29 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+14:21:29 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+14:21:29 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+14:21:29 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+14:21:36 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+14:21:36 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+14:21:37 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+14:21:37 "DayZ Epoch: MPframework inited"
+14:22:12 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+14:22:15 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:22:15 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+14:22:15 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:15 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:22:16 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+14:22:17 "Res3tting B!S effects..."
+14:22:17 "[AGN] Starting Trader City Safezone Commander!"
+14:22:17 "Error: Attempting to start AGN products on a server where it should not be!"
+14:22:17 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+14:22:19 "HIVE: Starting"
+14:22:19 "HIVE: trying to get objects"
+14:22:21 "HIVE: found 3156 objects"
+14:22:21 "HIVE: Commence Object Streaming..."
+14:22:24 "HIVE: got 2524 Epoch Objects and 632 Vehicles"
+14:22:27 "Res3tting B!S effects..."
+14:22:38 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+14:22:38 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+14:22:42 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+14:22:42 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+14:23:04 "HIVE: Vehicle Spawn limit reached!"
+14:23:04 "HIVE: Spawning # of Debris: 0"
+14:23:04 "HIVE: Spawning # of Ammo Boxes: 3"
+14:23:04 "HIVE: Spawning # of Veins: 50"
+14:23:04 "Total Number of spawn locations 5"
+14:23:04 "EPOCH EVENTS INIT"
+14:23:04 "DEBUG VEIN: Too many objects at [5163.28,9122.29]"
+14:23:04 "DEBUG VEIN: on road [4797.49,7185.43]"
+14:23:05 "TIME SYNC: Local Time set to [2013,8,3,16,23]"
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+14:23:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+14:23:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+14:23:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+14:24:07 "[DZMS]: Starting DayZ Epoch Mission System."
+14:24:07 "[DZMS]: Relations not found! Using DZMS Relations."
+14:24:07 "[DZMS]: Mission and Extended Configuration Loaded!"
+14:24:07 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+14:24:07 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+14:24:07 "[DZMS]: Mission Functions Script Loaded!"
+14:24:07 "[DZMS]: Major Mission Clock Starting!"
+14:24:07 "[DZMS]: Minor Mission Clock Starting!"
+14:24:07 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+14:24:21 "[DZMS]: Running Minor Mission SM13."
+14:25:14 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+14:25:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:25:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:25:54 "[DZMS]: Running Major Mission SM8."
+14:26:29 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
