@@ -737,3 +737,45 @@ g from [15098,8144,300] to [5737.31,2577.95] NOW!(TIME:2247||LT:Hospital)"
 15:28:56 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [439.221,4602.56,0.00145721]"
 15:28:56 Client: Remote object 7:127 not found
 15:28:56 Client: Object 5:354 (type Type_149) not found.
+15:29:31 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Channgg00(8896708)"
+15:29:37 "CLEANUP: Deleted 1 Loot Piles out of 222"
+15:30:07 "RUNNING EVENT: crash_spawner on [2014,6,30,17,30]"
+15:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+15:30:07 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [3505.87,10729.9] NOW!(TIME:4049||LT:HeliCrash_No50s)"
+15:31:30 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+15:32:34 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:32:38 "CLEANUP: Deleted 2 Loot Piles out of 223"
+15:32:39 No player found for channel 747692160 - message ignored
+15:34:39 "CLEANUP: Deleted 19 Loot Piles out of 222"
+15:35:39 "CLEANUP: Deleted 58 Loot Piles out of 203"
+15:35:47 Server: Object 6:615 not found (message 91)
+15:35:47 Server: Object 6:614 not found (message 98)
+15:36:09 Server: Object 6:616 not found (message 99)
+15:36:09 Server: Object 6:617 not found (message 91)
+15:36:17 "CRASHSPAWNER: UH-60M just exploded at [3540.84,10763.2,3.56995]!, "
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3538.33,10760.1,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3543.18,10766.8,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3537.42,10770.8,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3551.92,10766.5,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3541.78,10755.3,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3536.02,10769,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3533.23,10768.1,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3551.49,10769.2,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Loot spawn at '[3542.78,10772.2,0]' with loot table 'HeliCrash_No50s'"
+15:36:17 "CRASHSPAWNER: Crash completed! Wreck at: [3540.84,10763.2,0.116364] - Runtime: 370 Seconds || Distance from calculated POC: 50 meters"
+15:36:30 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+15:36:38 "CLEANUP: Deleted 69 Loot Piles out of 154"
+15:36:50 Server: Object 6:620 not found (message 98)
+15:36:50 Server: Object 6:621 not found (message 91)
+15:37:11 Server: Object 6:622 not found (message 99)
+15:37:11 Server: Object 6:623 not found (message 91)
+15:37:13 "get: STRING (199810246), sent: STRING (199810246)"
+15:37:13 "LOGOUT IN VEHICLE: Marek at location [8449.07,14267.2,36.7843]"
+15:37:13 "DISCONNECT: Marek (199810246) Object: B 1-1-G:1 (Marek) REMOTE, _characterID: 398 at loc [8449.07,14267.2,36.7843]"
+15:37:13 Client: Remote object 6:2 not found
+15:37:13 Client: Remote object 6:480 not found
+15:37:13 Client: Object 9:16 (type Type_149) not found.
+15:37:34 "CLEANUP: Deleted 2 Loot Piles out of 80"
+15:38:34 "CLEANUP: Deleted 1 Loot Piles out of 78"
