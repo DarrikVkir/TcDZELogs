@@ -494,3 +494,73 @@ g from [1623.71,218.188,300] to [4680.62,11856.9] NOW!(TIME:9061||LT:MilitarySpe
 11:37:53 Server: Object 9:42 not found (message 99)
 11:37:53 Server: Object 9:42 not found (message 99)
 11:37:54 Server: Object 9:42 not found (message 99)
+11:41:37 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-C:1 (Marek) REMOTE with SCAR_H_STD_EGLM_Spect from 23.4097m with 1.45069 dmg"
+11:41:37 "PKILL: Channgg00 was killed by Marek with weapon SCAR_H_STD_EGLM_Spect from 23.4097m"
+11:41:37 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+11:41:37   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+11:41:37   Error Undefined variable in expression: dze_deathmsgside
+11:41:37 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+11:41:37 "PDEATH: Player Died 8896708"
+11:41:38 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-C:1 (Marek) REMOTE with SCAR_H_STD_EGLM_Spect from 21.9025m with 1.45014 dmg"
+11:42:34 "TIME SYNC: Local Time set to [2013,8,3,19,42]"
+11:43:38 Server: Object 6:132 not found (message 99)
+11:43:38 Server: Object 6:133 not found (message 91)
+11:43:38 Server: Object 6:136 not found (message 99)
+11:43:38 Server: Object 6:137 not found (message 91)
+11:43:38 Server: Object 6:139 not found (message 91)
+11:43:38 Server: Object 6:138 not found (message 99)
+11:43:39 Server: Object 6:140 not found (message 99)
+11:43:39 Server: Object 6:141 not found (message 91)
+11:43:39 Server: Object 6:143 not found (message 91)
+11:43:39 Server: Object 6:142 not found (message 99)
+11:43:39 Server: Object 6:145 not found (message 91)
+11:43:39 Server: Object 6:144 not found (message 99)
+11:43:39 Server: Object 6:149 not found (message 91)
+11:45:41 "CLEANUP: Deleted 2 Loot Piles out of 82"
+11:46:04 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+11:46:46 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+11:46:50 "CRASHSPAWNER: UH-1Y just exploded at [6243.29,7723.78,6.04416]!, "
+11:46:50 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+11:46:50 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+11:46:50 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6245.47,7720.43,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6246.17,7719.93,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6245.75,7727.71,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6243.39,7717.72,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6245.42,7715.26,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6242.23,7729.48,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6251.21,7718.91,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6247.83,7729.53,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6248.74,7731.41,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6236.7,7715.84,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Loot spawn at '[6232.06,7721.67,0]' with loot table 'HeliCrash_No50s'"
+11:46:50 "CRASHSPAWNER: Crash completed! Wreck at: [6243.29,7723.78,0.00152588] - Runtime: 9999 Seconds || Distance from calculated POC: 2246 meters"
+11:47:14 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [221]. Position in debug! [-7239.67,19539.3,0.246216]"
+11:47:15 "get: STRING (8896708), sent: STRING (8896708)"
+11:47:15 "DISCONNECT: Channgg00 (8896708) Object: B 1-1-A:1 (Channgg00) REMOTE, _characterID: 221 at loc [-7239.67,19539.3,0.246216]"
+11:47:15 "ERROR: server_playerSync: Cannot Sync Player Channgg00 [221]. Position in debug! [-7239.67,19539.3,0.246216]"
+11:47:15 Client: Remote object 2:7405 not found
+11:47:15 Client: Remote object 2:7404 not found
+11:47:15 Client: Remote object 9:2 not found
+11:47:34 "CLEANUP: Deleted 1 Animals out of 24"
+11:47:34 "TIME SYNC: Local Time set to [2013,8,3,19,47]"
+11:48:52 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a V3S_Open_TK_EP1 in/at Stary for 2x ItemGoldBar10oz"
+11:48:53 "PUBLISH: Attempt 342dd600# 1065131: arrow_down_large_ep1.p3d REMOTE"
+11:48:53 "HIVE: WRITE: "CHILD:308:3195:V3S_Open_TK_EP1:0:11829:[333,[6292.99,7806.43,0.000152588]]:[]:[]:1:6293078064010522:""
+11:48:54 "HIVE: WRITE: "CHILD:388:6293078064010522:""
+11:48:54 "CUSTOM: Selected "4676""
+11:48:54 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought V3S_Open_TK_EP1 with ID "6293078064010522""
+11:49:07 Server: Object 6:169 not found (message 69)
+11:49:07 Server: Object 6:168 not found (message 69)
+11:49:10 "DELETE: 2f676080# 1062176: mmt.p3d REMOTE Deleted by ID: 4672"
+11:49:10 Client: Object 6:169 (type Type_70) not found.
