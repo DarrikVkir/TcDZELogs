@@ -682,3 +682,58 @@ g from [15098,8144,300] to [5737.31,2577.95] NOW!(TIME:2247||LT:Hospital)"
 15:16:40 "CLEANUP: Deleted 1 Loot Piles out of 293"
 15:17:40 "CLEANUP: Deleted 7 Loot Piles out of 295"
 15:18:40 "CLEANUP: Deleted 1 Loot Piles out of 289"
+15:19:32 Server: Object 6:510 not found (message 99)
+15:19:40 "CLEANUP: Deleted 1 Loot Piles out of 288"
+15:19:56 Server: Object 6:519 not found (message 98)
+15:19:56 Server: Object 6:520 not found (message 91)
+15:20:06 "get: STRING (166473030), sent: STRING (166473030)"
+15:20:06 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [425.062,4597.16,0.00147247]"
+15:20:06 Client: Remote object 7:74 not found
+15:20:06 Client: Remote object 7:73 not found
+15:20:06 Client: Remote object 7:76 not found
+15:20:28 Server: Object 6:523 not found (message 94)
+15:20:28 Server: Object 6:522 not found (message 70)
+15:20:28 Server: Object 6:521 not found (message 94)
+15:20:35 Server: Object 7:90 not found (message 70)
+15:20:46 Server: Object 6:528 not found (message 94)
+15:21:30 "TIME SYNC: Local Time set to [2013,8,3,17,21]"
+15:21:39 "get: STRING (166473030), sent: STRING (166473030)"
+15:21:39 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.549,4597.43,0.00146484]"
+15:21:40 Client: Remote object 7:89 not found
+15:21:40 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+15:21:40 "CLEANUP: Deleted 2 Loot Piles out of 293"
+15:22:03 Server: Object 7:103 not found (message 70)
+15:22:05 Server: Object 6:539 not found (message 91)
+15:22:05 Server: Object 6:538 not found (message 99)
+15:22:05 Server: Object 6:540 not found (message 98)
+15:22:05 Server: Object 6:541 not found (message 91)
+15:22:05 Server: Object 6:542 not found (message 99)
+15:22:05 Server: Object 6:543 not found (message 91)
+15:22:05 Server: Object 6:544 not found (message 98)
+15:22:05 Server: Object 6:545 not found (message 91)
+15:22:05 Server: Object 6:546 not found (message 98)
+15:22:05 Server: Object 6:547 not found (message 91)
+15:22:05 Server: Object 6:549 not found (message 91)
+15:22:05 Server: Object 6:548 not found (message 99)
+15:22:40 "CLEANUP: Deleted 1 Loot Piles out of 299"
+15:23:45 "get: STRING (166473030), sent: STRING (166473030)"
+15:23:45 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.599,4597.43,0.00146484]"
+15:23:45 Client: Remote object 7:102 not found
+15:24:10 Server: Object 7:116 not found (message 70)
+15:24:31 Server: Object 6:559 not found (message 94)
+15:24:31 Server: Object 6:558 not found (message 94)
+15:25:15 "get: STRING (166473030), sent: STRING (166473030)"
+15:25:15 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.72,4597.61,0.00144958]"
+15:25:15 Client: Remote object 7:115 not found
+15:25:41 "CLEANUP: Deleted 20 Loot Piles out of 323"
+15:25:43 Server: Object 7:128 not found (message 70)
+15:26:30 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
+15:26:30 "CLEANUP: Deleted 4 Animals out of 27"
+15:26:42 "CLEANUP: Deleted 53 Loot Piles out of 307"
+15:27:39 "CLEANUP: Deleted 28 Loot Piles out of 254"
+15:28:16 "SAFE LOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:28:38 "CLEANUP: Deleted 1 Loot Piles out of 227"
+15:28:56 "get: STRING (166473030), sent: STRING (166473030)"
+15:28:56 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [439.221,4602.56,0.00145721]"
+15:28:56 Client: Remote object 7:127 not found
+15:28:56 Client: Object 5:354 (type Type_149) not found.
