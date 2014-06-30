@@ -860,3 +860,152 @@ g from [1623.71,218.188,300] to [3505.87,10729.9] NOW!(TIME:4049||LT:HeliCrash_N
 15:48:51 Server: Object 12:124 not found (message 99)
 15:48:51 Server: Object 12:127 not found (message 91)
 15:48:51 Server: Object 12:126 not found (message 99)
+15:49:57 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a BAF_Merlin_DZE in/at Unknown Trader City for 2x ItemBriefcase100oz"
+15:50:38 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a BAF_Merlin_DZE in/at Unknown Trader City for 2x ItemBriefcase100oz"
+15:51:02 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a Mi17_Civilian_DZ in/at Unknown Trader City for 2x ItemBriefcase100oz"
+15:51:30 "TIME SYNC: Local Time set to [2013,8,3,17,51]"
+15:51:46 "CLEANUP: Deleted 2 Loot Piles out of 384"
+15:51:59 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a BAF_Merlin_DZE in/at Unknown Trader City for 2x ItemBriefcase100oz"
+15:52:34 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a BAF_Merlin_DZE in/at Unknown Trader City for 2x ItemBriefcase100oz"
+15:52:36 "PUBLISH: Attempt 36d46400# 1067686: arrow_down_large_ep1.p3d REMOTE"
+15:52:36 "HIVE: WRITE: "CHILD:308:3195:BAF_Merlin_DZE:0:5344:[281,[12072.7,12667.3,0]]:[]:[]:1:12072712667305678:""
+15:52:37 "HIVE: WRITE: "CHILD:388:12072712667305678:""
+15:52:37 "CUSTOM: Selected "4690""
+15:52:37 "PUBLISH: B 1-1-D:1 (Pogranec) REMOTE Bought BAF_Merlin_DZE with ID "12072712667305678""
+15:52:58 Client: Object 9:213 (type Type_70) not found.
+15:52:58 Client: Object 9:214 (type Type_70) not found.
+15:54:14 Client: Object 12:147 (type Type_69) not found.
+15:54:14 Client: Object 12:147 (type Type_70) not found.
+15:54:15 "PDEATH: Player Died 199810246"
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:15 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:16 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:17 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:18 Client: Object 12:146 (type Type_70) not found.
+15:54:19 Client: Object 12:146 (type Type_70) not found.
+15:54:19 Client: Object 12:146 (type Type_70) not found.
+15:54:19 Client: Object 12:146 (type Type_70) not found.
+15:54:19 Client: Object 12:146 (type Type_70) not found.
+15:54:19 Client: Object 12:146 (type Type_70) not found.
+15:54:19 Client: Object 12:146 (type Type_70) not found.
+15:54:20 Client: Object 12:146 (type Type_70) not found.
+15:54:20 Client: Object 12:146 (type Type_70) not found.
+15:54:20 Client: Object 12:146 (type Type_70) not found.
+15:54:20 Client: Object 12:146 (type Type_70) not found.
+15:54:20 Client: Object 12:146 (type Type_70) not found.
+15:54:20 Client: Object 12:146 (type Type_70) not found.
+15:54:21 Client: Object 12:146 (type Type_70) not found.
+15:54:21 Client: Object 12:146 (type Type_70) not found.
+15:54:21 Client: Object 12:146 (type Type_70) not found.
+15:54:24 Client: Object 12:146 (type Type_70) not found.
+15:54:24 Client: Object 12:146 (type Type_69) not found.
+15:54:26 Client: Object 12:146 (type Type_70) not found.
+15:54:28 Client: Object 12:146 (type Type_70) not found.
+15:54:29 Client: Object 12:146 (type Type_69) not found.
+15:54:30 Client: Object 12:146 (type Type_70) not found.
+15:54:32 Client: Object 12:146 (type Type_70) not found.
+15:54:34 Client: Object 12:146 (type Type_70) not found.
+15:54:34 Client: Object 12:146 (type Type_69) not found.
+15:54:35 "ERROR: server_playerSync: Cannot Sync Player Marek [398]. Position in debug! [-7239.67,19539.3,0.245819]"
+15:54:36 Client: Object 12:146 (type Type_70) not found.
+15:54:36 "get: STRING (199810246), sent: STRING (199810246)"
+15:54:36 "DISCONNECT: Marek (199810246) Object: B 1-1-A:1 (Marek) REMOTE, _characterID: 398 at loc [-7239.67,19539.3,0.245819]"
+15:54:36 "ERROR: server_playerSync: Cannot Sync Player Marek [398]. Position in debug! [-7239.67,19539.3,0.245819]"
+15:54:36 Client: Remote object 12:2 not found
+15:54:36 Client: Remote object 12:151 not found
+15:54:36 Client: Remote object 12:150 not found
+15:54:36 Client: Remote object 12:146 not found
+15:56:30 "TIME SYNC: Local Time set to [2013,8,3,17,56]"
+15:56:32 "CLEANUP: Deleted 12 Animals out of 64"
+15:57:29 Client: Object 9:259 (type Type_70) not found.
+15:57:29 Client: Object 9:260 (type Type_70) not found.
+15:57:29 Client: Object 9:261 (type Type_70) not found.
+15:57:29 Client: Object 9:262 (type Type_70) not found.
+15:57:34 Server: Object 12:222 not found (message 91)
+15:57:34 Server: Object 12:221 not found (message 99)
+15:57:34 Server: Object 12:226 not found (message 91)
+15:57:34 Server: Object 12:225 not found (message 99)
+15:57:34 Server: Object 12:228 not found (message 91)
+15:57:34 Server: Object 12:230 not found (message 91)
+15:57:34 Server: Object 12:229 not found (message 99)
+15:57:52 NAT Negotiation failed - partner not found
+15:58:07 Server: Object 12:238 not found (message 94)
+15:58:16 Server: Object 12:247 not found (message 70)
+15:58:37 Client: Object 9:280 (type Type_70) not found.
+15:58:37 Client: Object 9:279 (type Type_70) not found.
+15:58:37 Client: Object 9:282 (type Type_70) not found.
+15:58:37 Client: Object 9:281 (type Type_70) not found.
+15:59:07 Client: Object 9:299 (type Type_70) not found.
+15:59:07 Client: Object 9:300 (type Type_70) not found.
+15:59:24 Client: Object 9:301 (type Type_70) not found.
