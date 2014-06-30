@@ -471,3 +471,10 @@ g from [15186,11857,300] to [2723.06,9577.63] NOW!(TIME:7730||LT:MilitarySpecial
  7:49:37 "TIME SYNC: Local Time set to [2013,8,3,21,49]"
  7:50:41 "CLEANUP: Deleted 2 Loot Piles out of 53"
  7:54:37 "TIME SYNC: Local Time set to [2013,8,3,21,54]"
+ 7:59:37 "TIME SYNC: Local Time set to [2013,8,3,21,59]"
+ 8:00:01 "RUNNING EVENT: crash_spawner on [2014,6,30,22,0]"
+ 8:00:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 8:00:01 "CRASHSPAWNER: UH-1H started
+
+g from [6986,-630,1000] to [7982.84,9685.24] NOW!(TIME:11323||LT:HeliCrash_No50s)"
+ 8:04:37 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
