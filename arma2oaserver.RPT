@@ -1580,3 +1580,16 @@ g from [15098,8144,300] to [7767.77,8718.79] NOW!(TIME:7645||LT:MilitarySpecial)
 16:48:50 "DISCONNECT: telconrar (120160390) Object: B 1-1-A:1 (telconrar) REMOTE, _characterID: 400 at loc [11082.3,11115.2,0.00115967]"
 16:48:50 Client: Remote object 3:1655 not found
 16:48:52 Warning: Cleanup player - person 3:1654 not found
+16:51:30 "TIME SYNC: Local Time set to [2013,8,3,18,51]"
+16:51:54 "get: STRING (166473030), sent: STRING (166473030)"
+16:51:54 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 404 at loc [388.243,4591.29,0.00139618]"
+16:51:54 Client: Remote object 14:39 not found
+16:52:36 "CLEANUP: Deleted 1 Loot Piles out of 70"
+16:55:22 "get: STRING (166473030), sent: STRING (166473030)"
+16:55:22 "DISCONNECT: Pogranec (166473030) Object: B 1-1-B:1 (Pogranec) REMOTE, _characterID: 404 at loc [457.823,4607.85,0.00140381]"
+16:55:22 Client: Remote object 14:53 not found
+16:55:23 Warning: Cleanup player - person 14:52 not found
+16:55:36 "CLEANUP: Deleted 1 Loot Piles out of 69"
+16:56:30 "TIME SYNC: Local Time set to [2013,8,3,18,56]"
+16:56:32 "CLEANUP: Deleted 31 Animals out of 31"
+16:57:36 "CLEANUP: Deleted 2 Loot Piles out of 68"
