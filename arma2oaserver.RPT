@@ -326,3 +326,8 @@ g from [15098,8144,300] to [9606.49,8425.74] NOW!(TIME:532||LT:HeliCrash_No50s)"
  5:19:19 Client: Remote object 4:6 not found
  5:19:19 Client: Remote object 4:5 not found
  5:19:20 Warning: Cleanup player - person 4:7 not found
+ 5:19:36 "TIME SYNC: Local Time set to [2013,8,3,19,19]"
+ 5:24:36 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
+ 5:24:37 "CLEANUP: Deleted 17 Animals out of 17"
+ 5:25:43 "CLEANUP: Deleted 64 Loot Piles out of 168"
+ 5:26:39 "CLEANUP: Deleted 2 Loot Piles out of 104"
