@@ -1194,3 +1194,56 @@ _pos = g>
 13:45:46 "CLEANUP: Deleted 1 Loot Piles out of 135"
 13:47:35 "CLEANUP: Deleted 1 Animals out of 29"
 13:47:35 "TIME SYNC: Local Time set to [2013,8,3,21,47]"
+13:52:35 "TIME SYNC: Local Time set to [2013,8,3,21,52]"
+13:53:08 "EPOCH SERVERTRADE: Player: Pogranec (166473030) bought a ItemVault in/at Stary for 1x ItemBriefcase100oz"
+13:57:35 "TIME SYNC: Local Time set to [2013,8,3,21,57]"
+13:57:48 "CLEANUP: Deleted 1 Loot Piles out of 164"
+13:58:26 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 9.34923m with 0.664296 dmg"
+13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.76787m with 0.66372 dmg"
+13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.64984m with 0.664843 dmg"
+13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.96799m with 0.665146 dmg"
+13:58:27 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 8.87355m with 0.664152 dmg"
+13:58:28 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-B:1 (telconrar) REMOTE with DMR_DZ from 9.30429m with 1.47444 dmg"
+13:58:28 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 9.12304m with 0.665257 dmg"
+13:58:28 "PHIT: B 1-1-D:1 (Channgg00) REMOTE was hit by B 1-1-B:1 (telconrar) REMOTE with DMR_DZ from 9.12304m with 1.46793 dmg"
+13:58:29 "PHIT: B 1-1-B:1 (telconrar) REMOTE was hit by B 1-1-D:1 (Channgg00) REMOTE with M4SPR from 9.09542m with 0.271924 dmg"
+13:58:29 "PKILL: telconrar was killed by Channgg00 with weapon M4SPR from 9.09542m"
+13:58:29 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+13:58:29   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+13:58:29   Error Undefined variable in expression: dze_deathmsgside
+13:58:29 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+13:58:29 "PDEATH: Player Died 120160390"
+13:58:31 "PKILL: Channgg00 was killed by telconrar with weapon DMR_DZ from 9.12304m"
+13:58:31 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+13:58:31   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+13:58:31   Error Undefined variable in expression: dze_deathmsgside
+13:58:31 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+13:58:31 "PDEATH: Player Died 8896708"
+13:58:48 "CLEANUP: Deleted 4 Loot Piles out of 163"
+13:59:04 "ERROR: server_playerSync: Cannot Sync Player telconrar [381]. Position in debug! [-7237.98,19541,0.00143433]"
+13:59:05 "get: STRING (120160390), sent: STRING (120160390)"
+13:59:05 "DISCONNECT: telconrar (120160390) Object: B 1-1-A:1 (telconrar) REMOTE, _characterID: 381 at loc [-7237.98,19541,0.00143433]"
+13:59:05 "ERROR: server_playerSync: Cannot Sync Player telconrar [381]. Position in debug! [-7237.98,19541,0.00143433]"
+13:59:05 Client: Remote object 4:2 not found
+13:59:05 Client: Remote object 4:1576 not found
+13:59:05 Client: Remote object 4:1577 not found
