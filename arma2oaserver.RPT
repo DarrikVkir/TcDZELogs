@@ -701,3 +701,128 @@ g from [10450,-630,1000] to [4527.34,6675.74] NOW!(TIME:10864||LT:HeliCrash_No50
 12:28:22 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4657"
 12:28:22 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89357919883173""
 12:28:47 "CLEANUP: Deleted 2 Loot Piles out of 189"
+12:29:48 "CLEANUP: Deleted 26 Loot Piles out of 189"
+12:30:02 "RUNNING EVENT: crash_spawner on [2014,6,30,20,30]"
+12:30:02 "CRASHSPAWNER: 100% chance to start a crashing Su-25 with loot table 'MilitarySpecial'"
+12:30:02 "CRASHSPAWNER: Su-25 started
+
+g from [1623.71,218.188,300] to [870.932,10809.3] NOW!(TIME:12657||LT:MilitarySpecial)"
+12:30:47 "CLEANUP: Deleted 1 Loot Piles out of 166"
+12:30:52 Server: Object 6:461 not found (message 98)
+12:30:52 Server: Object 6:462 not found (message 91)
+12:31:17 Server: Object 6:485 not found (message 94)
+12:31:17 Server: Object 6:487 not found (message 70)
+12:31:17 Server: Object 6:486 not found (message 70)
+12:31:17 Server: Object 6:484 not found (message 94)
+12:31:36 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Mi17_Civilian_DZ in/at Any for 1x ItemBriefcase100oz"
+12:31:36 "DELETE: B 1-1-C:1 (Marek) REMOTE Deleted by ID: 4308"
+12:31:48 "CLEANUP: Deleted 1 Loot Piles out of 190"
+12:32:04 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a BAF_Merlin_DZE in/at Any for 2x ItemBriefcase100oz"
+12:32:05 Server: Object 6:493 not found (message 70)
+12:32:05 "PUBLISH: Attempt 34b60800# 1066435: arrow_down_large_ep1.p3d REMOTE"
+12:32:05 "HIVE: WRITE: "CHILD:308:3195:BAF_Merlin_DZE:0:4899:[295,[12072.7,12667.3,0]]:[]:[]:1:120727126673013075:""
+12:32:06 "HIVE: WRITE: "CHILD:388:120727126673013075:""
+12:32:06 "CUSTOM: Selected "4680""
+12:32:06 "PUBLISH: B 1-1-C:1 (Marek) REMOTE Bought BAF_Merlin_DZE with ID "120727126673013075""
+12:32:13 Server: Object 6:500 not found (message 70)
+12:32:14 Server: Object 6:499 not found (message 70)
+12:32:14 Server: Object 6:508 not found (message 70)
+12:32:34 "Purging player: 3411e040# 1065063: man_survivor.p3d"
+12:32:34 "CLEANUP: Deleted 1 players and 0 zombies out of 6 dead"
+12:32:35 "TIME SYNC: Local Time set to [2013,8,3,20,32]"
+12:32:46 Server: Object 6:513 not found (message 70)
+12:32:46 Server: Object 6:515 not found (message 70)
+12:32:46 Server: Object 6:514 not found (message 70)
+12:32:47 "CRASHSPAWNER: Su-25 just exploded at [1191.93,10784.9,6.62952]!, "
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1195.7,10786.3,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1194.99,10778.8,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1187.98,10791.2,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1183.96,10783.1,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1185.3,10787.4,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1188.51,10780.4,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1196.27,10784.3,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1195.29,10789.9,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1185.78,10784.6,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1193.92,10779.3,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1197.75,10781,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1197.45,10783.8,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Loot spawn at '[1186.15,10782.1,0]' with loot table 'MilitarySpecial'"
+12:32:47 "CRASHSPAWNER: Crash completed! Wreck at: [1192.33,10784.8,0.170349] - Runtime: 165 Seconds || Distance from calculated POC: 325 meters"
+12:33:03 Server: Object 6:540 not found (message 94)
+12:33:03 Server: Object 6:539 not found (message 70)
+12:33:03 Server: Object 6:541 not found (message 70)
+12:33:03 Server: Object 6:538 not found (message 70)
+12:33:11 Server: Object 6:547 not found (message 94)
+12:33:11 Server: Object 6:553 not found (message 94)
+12:33:11 Server: Object 6:554 not found (message 70)
+12:33:11 Server: Object 6:552 not found (message 94)
+12:33:11 Server: Object 6:548 not found (message 70)
+12:33:12 Server: Object 6:560 not found (message 94)
+12:33:12 Server: Object 6:561 not found (message 94)
+12:33:12 Server: Object 6:571 not found (message 94)
+12:33:12 Server: Object 6:569 not found (message 94)
+12:33:13 Server: Object 6:559 not found (message 94)
+12:33:13 Server: Object 6:558 not found (message 94)
+12:33:13 Server: Object 6:565 not found (message 70)
+12:33:13 Server: Object 6:562 not found (message 70)
+12:33:13 Server: Object 6:563 not found (message 70)
+12:33:13 Server: Object 6:564 not found (message 94)
+12:33:13 Server: Object 6:561 not found (message 70)
+12:33:13 Server: Object 6:571 not found (message 70)
+12:33:13 Server: Object 6:570 not found (message 70)
+12:33:13 Server: Object 6:567 not found (message 94)
+12:33:13 Server: Object 6:569 not found (message 70)
+12:33:13 Server: Object 6:560 not found (message 70)
+12:33:13 Server: Object 6:566 not found (message 94)
+12:33:15 Server: Object 6:572 not found (message 99)
+12:33:15 Server: Object 6:573 not found (message 91)
+12:33:36 Server: Object 6:589 not found (message 94)
+12:33:36 Server: Object 6:591 not found (message 70)
+12:33:36 Server: Object 6:590 not found (message 70)
+12:33:36 Server: Object 6:597 not found (message 94)
+12:33:36 Server: Object 6:596 not found (message 70)
+12:33:36 Server: Object 6:593 not found (message 70)
+12:33:36 Server: Object 6:592 not found (message 94)
+12:33:36 Server: Object 6:594 not found (message 70)
+12:33:36 Server: Object 6:595 not found (message 70)
+12:33:45 Server: Object 6:601 not found (message 94)
+12:33:45 Server: Object 6:603 not found (message 70)
+12:33:45 Server: Object 6:602 not found (message 70)
+12:33:46 Server: Object 6:601 not found (message 94)
+12:33:53 Server: Object 6:606 not found (message 98)
+12:33:53 Server: Object 6:607 not found (message 91)
+12:34:11 "[DZMS]: Major SM1 Weapon Cache Mission has Ended."
+12:34:11 Error in expression <veVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+[_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+12:34:11   Error position: <_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+12:34:11   Error Undefined variable in expression: _vehicle2
+12:34:11 File z\addons\dayz_server\EMS\Missions\Major\SM1.sqf, line 48
+12:34:11 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+12:34:11   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+12:34:11   Error Undefined variable in expression: _object
+12:34:11 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+12:34:51 "CLEANUP: Deleted 1 Loot Piles out of 305"
+12:35:51 "CLEANUP: Deleted 3 Loot Piles out of 305"
+12:36:07 "[DZMS]: Running Major Mission SM6."
+12:36:43 Server: Object 6:618 not found (message 99)
+12:36:43 Server: Object 6:619 not found (message 91)
+12:36:48 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+12:36:52 "CLEANUP: Deleted 4 Loot Piles out of 305"
+12:37:08 Server: Object 6:623 not found (message 91)
+12:37:08 Server: Object 6:622 not found (message 99)
+12:37:35 "TIME SYNC: Local Time set to [2013,8,3,20,37]"
+12:37:55 "CLEANUP: Deleted 66 Loot Piles out of 301"
+12:38:49 Server: Object 6:633 not found (message 91)
+12:38:49 Server: Object 6:632 not found (message 98)
