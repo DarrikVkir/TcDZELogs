@@ -647,3 +647,38 @@ g from [15098,8144,300] to [5737.31,2577.95] NOW!(TIME:2247||LT:Hospital)"
 15:09:18 "CRASHSPAWNER: Loot spawn at '[5731.88,2535.77,0]' with loot table 'Hospital'"
 15:09:18 "CRASHSPAWNER: Loot spawn at '[5719.91,2541.81,0]' with loot table 'Hospital'"
 15:09:18 "CRASHSPAWNER: Crash completed! Wreck at: [5727.6,2544.78,-0.106491] - Runtime: 554 Seconds || Distance from calculated POC: 34 meters"
+15:09:36 "CLEANUP: Deleted 5 Loot Piles out of 179"
+15:10:03 "SAFE UNLOCKED: ID:0 UID:459246089048 BY Pogranec(166473030)"
+15:10:21 "TELEPORT REVERT for player UID#199810246 from [12218.2,12586.4,0.270126] to [0,0,0.00154877], 17542 meters, now at [12218.2,12586.4,0.270126]"
+15:11:30 "TIME SYNC: Local Time set to [2013,8,3,17,11]"
+15:11:30 "CLEANUP: Deleted 4 Animals out of 29"
+15:11:36 "CLEANUP: Deleted 15 Loot Piles out of 176"
+15:12:22 Server: Object 6:481 not found (message 94)
+15:12:22 Server: Object 6:482 not found (message 70)
+15:13:40 NAT Negotiation completed
+15:14:01 "get: STRING (166473030), sent: STRING (166473030)"
+15:14:01 "DISCONNECT: Pogranec (166473030) Object: B 1-1-D:1 (Pogranec) REMOTE, _characterID: 393 at loc [424.65,4597.72,0.00144958]"
+15:14:01 Client: Remote object 7:50 not found
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:02 Server: Update of object 7:61 arrived from nonowner
+15:14:30 Server: Object 7:77 not found (message 70)
+15:14:37 "CLEANUP: Deleted 7 Loot Piles out of 181"
+15:14:58 Server: Object 6:491 not found (message 91)
+15:14:58 Server: Object 6:490 not found (message 99)
+15:15:05 "RUNNING EVENT: supply_drop on [2014,6,30,17,15]"
+15:15:38 "CLEANUP: Deleted 1 Loot Piles out of 225"
+15:16:01 Server: Object 6:503 not found (message 91)
+15:16:01 Server: Object 6:502 not found (message 98)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:02 Server: Object 6:504 not found (message 99)
+15:16:09 Server: Object 6:508 not found (message 98)
+15:16:09 Server: Object 6:509 not found (message 91)
+15:16:30 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+15:16:40 "CLEANUP: Deleted 1 Loot Piles out of 293"
+15:17:40 "CLEANUP: Deleted 7 Loot Piles out of 295"
+15:18:40 "CLEANUP: Deleted 1 Loot Piles out of 289"
