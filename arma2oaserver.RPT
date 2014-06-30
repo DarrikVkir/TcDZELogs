@@ -410,3 +410,11 @@ g from [10450,-630,1000] to [11412.5,6722.68] NOW!(TIME:4126||LT:MilitarySpecial
  6:38:38 Client: Remote object 5:2 not found
  6:38:38 Client: Remote object 5:8 not found
  6:38:39 Warning: Cleanup player - person 5:7 not found
+ 6:39:36 "TIME SYNC: Local Time set to [2013,8,3,20,39]"
+ 6:39:36 "CLEANUP: Deleted 4 Animals out of 4"
+ 6:43:07 "get: STRING (120160390), sent: STRING (120160390)"
+ 6:43:07 "DISCONNECT: telconrar (120160390) Object: B 1-1-B:1 (telconrar) REMOTE, _characterID: 381 at loc [9048.96,9294.35,0.00128174]"
+ 6:43:07 Client: Remote object 5:47 not found
+ 6:43:07 Warning: Cleanup player - person 5:46 not found
+ 6:43:09 Warning: Cleanup player - person 5:46 not found
+ 6:44:36 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
