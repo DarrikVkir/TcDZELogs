@@ -654,3 +654,6 @@ g from [6986,-630,1000] to [5177.03,8893.73] NOW!(TIME:11139||LT:MilitarySpecial
 18:02:35 "CRASHSPAWNER: Crash completed! Wreck at: [5478.58,8895.29,0.0262146] - Runtime: 148 Seconds || Distance from calculated POC: 302 meters"
 18:03:21 "TIME SYNC: Local Time set to [2013,8,3,20,3]"
 18:08:21 "TIME SYNC: Local Time set to [2013,8,3,20,8]"
+18:13:21 "TIME SYNC: Local Time set to [2013,8,3,20,13]"
+18:15:07 "RUNNING EVENT: supply_drop on [2014,7,1,20,15]"
+18:18:21 "TIME SYNC: Local Time set to [2013,8,3,20,18]"
