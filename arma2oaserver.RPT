@@ -399,3 +399,30 @@ g from [6993.7,173.053,300] to [5863.02,10409.2] NOW!(TIME:6311||LT:HeliCrash_No
  7:22:20 Server: Object 4:156 not found (message 91)
  7:23:50 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
  7:28:50 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
+ 7:30:02 "RUNNING EVENT: crash_spawner on [2014,7,1,21,30]"
+ 7:30:02 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 7:30:02 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [10450,-630,1000] to [4734.23,8663.02] NOW!(TIME:8103||LT:MilitarySpecial)"
+ 7:31:17 "[DZMS]: Major SM8 C130 Mission has Ended."
+ 7:31:19 "[DZMS]: Running Major Mission SM2."
+ 7:33:36 WARNING: Function 'name' - Marek is dead
+ 7:33:36 "PDEATH: Player Died 199810246"
+ 7:33:50 "TIME SYNC: Local Time set to [2013,8,3,21,33]"
+ 7:33:52 "ERROR: server_playerSync: Cannot Sync Player Marek [403]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 7:33:53 "get: STRING (199810246), sent: STRING (199810246)"
+ 7:33:53 "DISCONNECT: Marek (199810246) Object: B 1-1-A:1 (Marek) REMOTE, _characterID: 403 at loc [-7239.67,19539.3,0.24588]"
+ 7:33:53 "ERROR: server_playerSync: Cannot Sync Player Marek [403]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 7:33:53 Client: Remote object 6:2 not found
+ 7:35:08 Server: Object 6:138 not found (message 91)
+ 7:35:49 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 7:35:57 Server: Object 6:168 not found (message 94)
+ 7:35:57 Server: Object 6:167 not found (message 70)
+ 7:35:57 Server: Object 6:166 not found (message 94)
+ 7:35:57 Server: Object 6:182 not found (message 70)
+ 7:35:57 Server: Object 6:183 not found (message 94)
+ 7:35:57 Server: Object 6:181 not found (message 70)
+ 7:35:57 Server: Object 6:185 not found (message 70)
+ 7:35:57 Server: Object 6:186 not found (message 70)
+ 7:35:57 Server: Object 6:184 not found (message 70)
+ 7:38:50 "TIME SYNC: Local Time set to [2013,8,3,21,38]"
