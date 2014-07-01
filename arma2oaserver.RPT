@@ -391,3 +391,74 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:58:26 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_carbine in/at Stary for 2x ItemGoldBar"
  8:58:28 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M40A3 in/at Stary for 6x ItemGoldBar"
  8:59:01 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_sharpshooter in/at Stary for 3x ItemGoldBar"
+ 8:59:30 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a SCAR_H_CQC_CCO in/at Stary for 6x ItemGoldBar"
+ 8:59:40 "TIME SYNC: Local Time set to [2013,8,3,16,59]"
+ 8:59:44 "Plants texture hack for type picea"
+ 8:59:45 "get: STRING (51878726), sent: STRING (51878726)"
+ 8:59:45 "DISCONNECT: Seyless Butts (51878726) Object: B 1-1-A:1 (Seyless Butts) REMOTE, _characterID: 0 at loc [-7245.98,19534.9,1.18701]"
+ 8:59:45 "ERROR: Cannot Sync Character Seyless Butts as no characterID"
+ 8:59:45 Client: Remote object 8:2 not found
+ 8:59:45 Client: Remote object 6:142 not found
+ 8:59:53 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a SCAR_H_CQC_CCO in/at Stary for 6x ItemGoldBar"
+ 9:00:07 "RUNNING EVENT: crash_spawner on [2014,7,1,17,0]"
+ 9:00:07 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+ 9:00:07 "CRASHSPAWNER: Mi-24D started
+
+g from [1623.71,218.188,300] to [12703.8,3526.95] NOW!(TIME:2063||LT:MilitarySpecial)"
+ 9:00:17 "Plants texture hack for type picea"
+ 9:00:19 "get: STRING (51878726), sent: STRING (51878726)"
+ 9:00:19 "DISCONNECT: Seyless Butts (51878726) Object: B 1-1-E:1 (Seyless Butts) REMOTE, _characterID: 409 at loc [2646.59,1954.25,0.00129843]"
+ 9:00:19 Client: Remote object 8:12 not found
+ 9:00:19 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 9:00:46 "Plants texture hack for type picea"
+ 9:00:47 "get: STRING (51878726), sent: STRING (51878726)"
+ 9:00:47 "DISCONNECT: Seyless Butts (51878726) Object: B 1-1-E:1 (Seyless Butts) REMOTE, _characterID: 409 at loc [2646.59,1954.25,0.000999928]"
+ 9:00:47 Client: Remote object 8:23 not found
+ 9:00:47 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 9:01:10 "Plants texture hack for type picea"
+ 9:01:12 "get: STRING (51878726), sent: STRING (51878726)"
+ 9:01:12 "DISCONNECT: Seyless Butts (51878726) Object: B 1-1-E:1 (Seyless Butts) REMOTE, _characterID: 409 at loc [2646.59,1954.25,0.000999928]"
+ 9:01:12 Client: Remote object 8:34 not found
+ 9:01:12 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 9:01:35 "Plants texture hack for type picea"
+ 9:01:36 "get: STRING (51878726), sent: STRING (51878726)"
+ 9:01:36 "DISCONNECT: Seyless Butts (51878726) Object: B 1-1-E:1 (Seyless Butts) REMOTE, _characterID: 409 at loc [2646.59,1954.25,0.000999928]"
+ 9:01:37 Client: Remote object 8:45 not found
+ 9:01:37 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 9:01:46 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a ItemVault in/at Stary for 1x ItemBriefcase100oz"
+ 9:02:02 "Plants texture hack for type picea"
+ 9:02:04 "get: STRING (51878726), sent: STRING (51878726)"
+ 9:02:04 "DISCONNECT: Seyless Butts (51878726) Object: B 1-1-E:1 (Seyless Butts) REMOTE, _characterID: 409 at loc [2646.59,1954.25,0.000999928]"
+ 9:02:04 Client: Remote object 8:56 not found
+ 9:02:04 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 9:02:35 "Plants texture hack for type picea"
+ 9:02:36 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a SCAR_L_STD_EGLM_RCO in/at Stary for 8x ItemGoldBar"
+ 9:02:38 "get: STRING (51878726), sent: STRING (51878726)"
+ 9:02:38 "DISCONNECT: Seyless Butts (51878726) Object: B 1-1-E:1 (Seyless Butts) REMOTE, _characterID: 409 at loc [2646.59,1954.25,0.00132585]"
+ 9:02:38 Client: Remote object 8:67 not found
+ 9:02:38 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 9:02:41 Warning: Cleanup player - person 8:66 not found
+ 9:03:16 "get: STRING (199810246), sent: STRING (199810246)"
+ 9:03:16 "LOGOUT IN VEHICLE: Marek at location [6343.33,7793.26,1.92157]"
+ 9:03:16 "DISCONNECT: Marek (199810246) Object: B 1-1-B:1 (Marek) REMOTE, _characterID: 406 at loc [6343.33,7793.26,1.92157]"
+ 9:03:16 No player found for channel 581664896 - message ignored
+ 9:03:16 Client: Remote object 6:2 not found
+ 9:03:16 Client: Remote object 6:8 not found
+ 9:04:40 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
+ 9:05:43 "CLEANUP: Deleted 1 Loot Piles out of 63"
+ 9:06:09 Server: Object 9:9 not found (message 70)
+ 9:07:34 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 9:08:32 "CRASHSPAWNER: Mi-24D just exploded at [12728.2,3517.54,1.15447]!, "
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12724.2,3517,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12730.4,3513.69,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12726.7,3524.13,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12722.7,3512.4,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12735.6,3522.19,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12734.2,3525.11,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12728.9,3504.79,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12737.1,3506.43,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12736.7,3509.54,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12727.1,3513.27,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Loot spawn at '[12721.2,3513.48,0]' with loot table 'MilitarySpecial'"
+ 9:08:32 "CRASHSPAWNER: Crash completed! Wreck at: [12728.1,3517.54,-0.652371] - Runtime: 502 Seconds || Distance from calculated POC: 26 meters"
+ 9:08:44 "CLEANUP: Deleted 2 Loot Piles out of 106"
