@@ -586,3 +586,65 @@ g from [1623.71,218.188,300] to [12703.8,3526.95] NOW!(TIME:2063||LT:MilitarySpe
  9:19:20 Server: Object 9:277 not found (message 99)
  9:19:20 Server: Object 9:279 not found (message 99)
  9:19:20 Server: Object 9:280 not found (message 91)
+ 9:19:40 "TIME SYNC: Local Time set to [2013,8,3,17,19]"
+ 9:19:48 "CLEANUP: Deleted 2 Loot Piles out of 241"
+ 9:20:13 Server: Object 9:282 not found (message 99)
+ 9:20:13 Server: Object 9:282 not found (message 99)
+ 9:21:48 "CLEANUP: Deleted 1 Loot Piles out of 241"
+ 9:22:14 Server: Object 9:289 not found (message 99)
+ 9:22:14 Server: Object 9:290 not found (message 91)
+ 9:22:48 "CLEANUP: Deleted 9 Loot Piles out of 241"
+ 9:24:01 Server: Object 9:291 not found (message 98)
+ 9:24:01 Server: Object 9:292 not found (message 91)
+ 9:24:40 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
+ 9:24:43 "[DZMS]: Minor SM10 Heli Crash Mission has Ended."
+ 9:24:43 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 9:24:43   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 9:24:43   Error Undefined variable in expression: _vehicle1
+ 9:24:43 File z\addons\dayz_server\EMS\Missions\Minor\SM10.sqf, line 36
+ 9:24:43 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 9:24:43   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 9:24:43   Error Undefined variable in expression: _object
+ 9:24:43 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 9:24:52 "[DZMS]: Running Minor Mission SM12."
+ 9:25:42 Server: Object 9:293 not found (message 94)
+ 9:25:42 Server: Object 9:294 not found (message 94)
+ 9:25:42 Server: Object 9:298 not found (message 94)
+ 9:26:05 Server: Object 9:311 not found (message 91)
+ 9:26:05 Server: Object 9:310 not found (message 99)
+ 9:26:46 Server: Object 9:312 not found (message 94)
+ 9:26:46 Server: Object 9:313 not found (message 70)
+ 9:26:47 Server: Object 9:319 not found (message 94)
+ 9:26:47 Server: Object 9:318 not found (message 94)
+ 9:26:55 Server: Object 9:328 not found (message 94)
+ 9:26:55 Server: Object 9:325 not found (message 94)
+ 9:26:55 Server: Object 9:324 not found (message 70)
+ 9:26:55 Server: Object 9:326 not found (message 94)
+ 9:26:55 Server: Object 9:323 not found (message 70)
+ 9:26:55 Server: Object 9:327 not found (message 94)
+ 9:27:43 Server: Object 9:333 not found (message 70)
+ 9:27:43 Server: Object 9:332 not found (message 70)
+ 9:27:50 "CLEANUP: Deleted 14 Loot Piles out of 265"
+ 9:28:07 Server: Object 9:352 not found (message 91)
+ 9:28:07 Server: Object 9:351 not found (message 99)
+ 9:28:24 Server: Object 3:331 not found (message 94)
+ 9:28:24 Server: Object 3:338 not found (message 98)
+ 9:28:24 Server: Object 3:339 not found (message 91)
+ 9:28:25 Server: Object 3:347 not found (message 94)
+ 9:28:52 "CLEANUP: Deleted 16 Loot Piles out of 300"
