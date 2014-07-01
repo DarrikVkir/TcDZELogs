@@ -354,3 +354,40 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:44:39 "[DZMS]: Running Minor Mission SM10."
  8:44:40 "TIME SYNC: Local Time set to [2013,8,3,16,44]"
  8:44:40 "CLEANUP: Deleted 3 Animals out of 13"
+ 8:49:40 "TIME SYNC: Local Time set to [2013,8,3,16,49]"
+ 8:50:42 "CLEANUP: Deleted 17 Loot Piles out of 32"
+ 8:52:41 "CLEANUP: Deleted 1 Loot Piles out of 15"
+ 8:53:06 Server: Object 6:95 not found (message 91)
+ 8:53:06 Server: Object 6:96 not found (message 99)
+ 8:53:06 Server: Object 6:97 not found (message 91)
+ 8:53:06 Server: Object 6:99 not found (message 91)
+ 8:53:06 Server: Object 6:98 not found (message 99)
+ 8:53:06 Server: Object 6:101 not found (message 91)
+ 8:53:06 Server: Object 6:103 not found (message 91)
+ 8:53:06 Server: Object 6:102 not found (message 99)
+ 8:53:06 Server: Object 6:105 not found (message 91)
+ 8:53:06 Server: Object 6:104 not found (message 99)
+ 8:53:23 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_full.p3d:shadow(1000)
+ 8:54:04 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 8:54:14 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 8:54:26 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 8:54:38 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 8:54:40 "TIME SYNC: Local Time set to [2013,8,3,16,54]"
+ 8:54:47 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1_Aim in/at Stary for 4x ItemGoldBar"
+ 8:55:00 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+ 8:55:09 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 8:55:24 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 8:55:29 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 8:55:48 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M16A2 in/at Stary for 1x ItemGoldBar"
+ 8:55:54 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
+ 8:56:10 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36C in/at Stary for 2x ItemGoldBar"
+ 8:56:43 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a FN_FAL in/at Stary for 5x ItemGoldBar"
+ 8:56:43 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a bizon_silenced in/at Stary for 5x ItemGoldBar"
+ 8:57:06 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 8:57:29 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+ 8:57:50 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a bizon_silenced in/at Stary for 5x ItemGoldBar"
+ 8:57:54 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 8:58:09 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a G36K_camo in/at Stary for 3x ItemGoldBar"
+ 8:58:26 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_carbine in/at Stary for 2x ItemGoldBar"
+ 8:58:28 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+ 8:59:01 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_sharpshooter in/at Stary for 3x ItemGoldBar"
