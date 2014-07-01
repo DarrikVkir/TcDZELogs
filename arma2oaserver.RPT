@@ -365,3 +365,32 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 15:27:47 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Fishing_Boat in/at Any for 2x ItemGoldBar10oz"
 15:27:47 "DELETE: B 1-1-C:1 (Marek) REMOTE Deleted by ID: 131"
 15:28:20 "TIME SYNC: Local Time set to [2013,8,3,17,28]"
+15:30:04 "RUNNING EVENT: crash_spawner on [2014,7,1,17,30]"
+15:30:04 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+15:30:04 "CRASHSPAWNER: Ural Wreck spawned at [10549.7,15113.4]"
+15:30:04 "CRASHSPAWNER: Loot spawn at '[10548.1,15109.7,0.201218]' with loot table 'Military'"
+15:30:04 "CRASHSPAWNER: Loot spawn at '[10556.1,15116.1,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10557.4,15112.6,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10550.8,15120.2,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10544.6,15115.8,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10543.8,15112.4,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10544.2,15121.5,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10549.3,15124.3,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10538.2,15108.6,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10554.1,15104.5,0.201218]' with loot table 'Military'"
+15:30:05 "CRASHSPAWNER: Loot spawn at '[10545.9,15116.9,0.201218]' with loot table 'Military'"
+15:33:20 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
+15:33:23 "CLEANUP: Deleted 1 Loot Piles out of 61"
+15:33:49 Server: Object 3:256 not found (message 99)
+15:33:49 Server: Object 3:257 not found (message 91)
+15:34:23 "CLEANUP: Deleted 1 Loot Piles out of 60"
+15:34:31 Server: Object 3:264 not found (message 99)
+15:34:31 Server: Object 3:265 not found (message 91)
+15:34:31 Server: Object 3:266 not found (message 99)
+15:34:31 Server: Object 3:267 not found (message 91)
+15:35:23 "CLEANUP: Deleted 3 Loot Piles out of 59"
+15:37:36 Server: Object 3:283 not found (message 91)
+15:37:36 Server: Object 3:282 not found (message 99)
+15:38:20 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
+15:38:23 "CLEANUP: Deleted 2 Loot Piles out of 56"
+15:39:23 "CLEANUP: Deleted 24 Loot Piles out of 54"
