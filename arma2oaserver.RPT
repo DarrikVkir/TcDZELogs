@@ -1180,3 +1180,17 @@ g from [6993.7,173.053,300] to [3342.73,9551.94] NOW!(TIME:9253||LT:MilitarySpec
 11:24:17 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
 11:24:41 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
 11:26:46 "CLEANUP: Deleted 1 Loot Piles out of 37"
+11:29:41 "TIME SYNC: Local Time set to [2013,8,3,19,29]"
+11:30:04 "RUNNING EVENT: crash_spawner on [2014,7,1,19,30]"
+11:30:04 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+11:30:04 "CRASHSPAWNER: AH-1Z started
+
+g from [15098,8144,300] to [7704.13,12413] NOW!(TIME:11056||LT:MilitarySpecial)"
+11:34:41 "TIME SYNC: Local Time set to [2013,8,3,19,34]"
+11:35:47 "CLEANUP: Deleted 3 Loot Piles out of 39"
+11:35:56 "nil player object attempting PV, :["199810246","Marek"]"
+11:35:56 "get: STRING (), sent: STRING (199810246)"
+11:35:56 "DISCONNECT: Marek (199810246) Object: B 1-1-F:1 REMOTE, _characterID: 410 at loc [8935.2,9226.98,0.00146484]"
+11:35:56 Client: Remote object 11:253 not found
+11:35:56 Client: Remote object 11:2 not found
+11:35:57 Warning: Cleanup player - person 11:252 not found
