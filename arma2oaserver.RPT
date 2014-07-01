@@ -936,3 +936,35 @@ g from [6993.7,173.053,300] to [2089.95,2710.41] NOW!(TIME:5659||LT:HeliCrash_No
 10:29:00 "ERROR: server_playerSync: Cannot Sync Player Marek [410]. Position in debug! [-7244.98,19534.3,1.12686]"
 10:29:05 "ERROR: Cannot Sync Character Marek as no characterID"
 10:29:10 "ERROR: Cannot Sync Character Marek as no characterID"
+10:29:41 "TIME SYNC: Local Time set to [2013,8,3,18,29]"
+10:30:09 "RUNNING EVENT: crash_spawner on [2014,7,1,18,30]"
+10:30:09 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+10:30:09 "CRASHSPAWNER: UH-60M MEV started
+
+g from [6993.7,173.053,300] to [2084.36,14611.9] NOW!(TIME:7461||LT:Hospital)"
+10:31:02 Server: Object 11:269 not found (message 91)
+10:31:44 Server: Object 11:285 not found (message 70)
+10:31:44 Server: Object 11:286 not found (message 70)
+10:31:44 Server: Object 11:295 not found (message 70)
+10:31:44 Server: Object 11:294 not found (message 94)
+10:31:44 Server: Object 11:298 not found (message 70)
+10:31:44 Server: Object 11:296 not found (message 94)
+10:31:45 Server: Object 11:295 not found (message 94)
+10:31:45 Server: Object 11:299 not found (message 94)
+10:31:45 Server: Object 11:297 not found (message 94)
+10:31:45 Server: Object 11:298 not found (message 94)
+10:31:45 Server: Object 11:291 not found (message 94)
+10:31:45 Server: Object 11:293 not found (message 94)
+10:33:24 Server: Object 11:304 not found (message 99)
+10:33:24 Server: Object 11:304 not found (message 99)
+10:33:24 Server: Object 11:304 not found (message 99)
+10:33:25 Server: Object 11:304 not found (message 99)
+10:33:25 Server: Object 11:304 not found (message 99)
+10:33:25 Server: Object 11:304 not found (message 99)
+10:33:25 Server: Object 11:304 not found (message 99)
+10:33:25 Server: Object 11:304 not found (message 99)
+10:33:25 Server: Object 11:304 not found (message 99)
+10:33:25 Server: Object 11:304 not found (message 99)
+10:34:41 "TIME SYNC: Local Time set to [2013,8,3,18,34]"
+10:35:50 "CLEANUP: Deleted 3 Loot Piles out of 260"
+10:36:50 "CLEANUP: Deleted 1 Loot Piles out of 257"
