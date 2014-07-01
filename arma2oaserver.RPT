@@ -187,3 +187,114 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 20:28:58 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
 20:28:58 "DayZ Epoch: MPframework inited"
 20:29:27 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+20:29:29 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+20:29:29 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:29:29 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:29:29 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:29:29 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:29:29 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+20:29:30 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+20:29:30 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:29:30 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:29:30 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:29:30 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:29:30 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+20:29:32 "Res3tting B!S effects..."
+20:29:32 "[AGN] Starting Trader City Safezone Commander!"
+20:29:32 "Error: Attempting to start AGN products on a server where it should not be!"
+20:29:32 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+20:29:33 "HIVE: Starting"
+20:29:33 "HIVE: trying to get objects"
+20:29:36 "HIVE: found 3113 objects"
+20:29:36 "HIVE: Commence Object Streaming..."
+20:29:38 "HIVE: got 2494 Epoch Objects and 619 Vehicles"
+20:29:42 "Res3tting B!S effects..."
+20:29:51 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+20:29:51 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+20:29:54 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+20:29:54 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+20:30:15 "HIVE: Vehicle Spawn limit reached!"
+20:30:15 "HIVE: Spawning # of Debris: 0"
+20:30:15 "HIVE: Spawning # of Ammo Boxes: 3"
+20:30:15 "HIVE: Spawning # of Veins: 50"
+20:30:15 "Total Number of spawn locations 5"
+20:30:15 "EPOCH EVENTS INIT"
+20:30:15 "RUNNING EVENT: crash_spawner on [2014,7,1,16,30]"
+20:30:15 "DEBUG VEIN: Too many objects at [5328.06,8271.32]"
+20:30:15 "DEBUG VEIN: Too many objects at [11101.1,8478.51]"
+20:30:16 "DEBUG VEIN: Too many objects at [5169.18,9127.13]"
+20:30:16 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+20:30:16 "CRASHSPAWNER: A-10 started
+
+g from [15098,8144,300] to [3157.72,5594.54] NOW!(TIME:33||LT:MilitarySpecial)"
+20:30:26 "TIME SYNC: Local Time set to [2013,8,3,16,30]"
+20:30:45 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+20:30:45   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:30:45 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+20:30:45   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+20:30:45 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+20:30:45   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+20:30:45 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+20:30:45   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+20:30:45 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+20:30:45   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:30:45   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:31:18 "[DZMS]: Starting DayZ Epoch Mission System."
+20:31:18 "[DZMS]: Relations not found! Using DZMS Relations."
+20:31:18 "[DZMS]: Mission and Extended Configuration Loaded!"
+20:31:18 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+20:31:18 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+20:31:18 "[DZMS]: Mission Functions Script Loaded!"
+20:31:18 "[DZMS]: Major Mission Clock Starting!"
+20:31:18 "[DZMS]: Minor Mission Clock Starting!"
+20:31:18 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+20:31:27 "[DZMS]: Running Minor Mission SM9."
+20:31:50 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+20:32:18 "CRASHSPAWNER: A-10 just exploded at [3166.06,5254.17,2.79532]!, "
+20:32:18 "CRASHSPAWNER: Loot spawn at '[3168.52,5257.32,0]' with loot table 'MilitarySpecial'"
+20:32:18 "CRASHSPAWNER: Loot spawn at '[3164.07,5250.16,0]' with loot table 'MilitarySpecial'"
+20:32:18 "CRASHSPAWNER: Loot spawn at '[3165.95,5259.19,0]' with loot table 'MilitarySpecial'"
+20:32:18 "CRASHSPAWNER: Loot spawn at '[3170.19,5260.63,0]' with loot table 'MilitarySpecial'"
+20:32:18 "CRASHSPAWNER: Loot spawn at '[3170.48,5251.1,0]' with loot table 'MilitarySpecial'"
+20:32:19 "CRASHSPAWNER: Loot spawn at '[3160.56,5250.64,0]' with loot table 'MilitarySpecial'"
+20:32:19 "CRASHSPAWNER: Loot spawn at '[3169.55,5246.03,0]' with loot table 'MilitarySpecial'"
+20:32:19 "CRASHSPAWNER: Loot spawn at '[3162.26,5257.33,0]' with loot table 'MilitarySpecial'"
+20:32:19 "CRASHSPAWNER: Loot spawn at '[3162.07,5259.9,0]' with loot table 'MilitarySpecial'"
+20:32:19 "CRASHSPAWNER: Loot spawn at '[3172.97,5255.77,0]' with loot table 'MilitarySpecial'"
+20:32:19 "CRASHSPAWNER: Loot spawn at '[3167.42,5249.45,0]' with loot table 'MilitarySpecial'"
+20:32:19 "CRASHSPAWNER: Crash completed! Wreck at: [3165.94,5253.86,0.102264] - Runtime: 119 Seconds || Distance from calculated POC: 341 meters"
+20:33:05 "[DZMS]: Running Major Mission SM7."
+20:33:39 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:37:50 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:38:39 "TIME SYNC: Local Time set to [2013,8,3,16,38]"
