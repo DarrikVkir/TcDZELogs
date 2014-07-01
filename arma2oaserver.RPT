@@ -525,3 +525,22 @@ _pos = g>
 16:18:20 "Purging player: 30836040# 1062238: ghillie_overall.p3d"
 16:18:20 "TIME SYNC: Local Time set to [2013,8,3,18,18]"
 16:18:20 "CLEANUP: Deleted 1 players and 0 zombies out of 11 dead"
+16:21:40 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4659"
+16:21:40 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "8937492074383""
+16:22:24 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4658"
+16:22:24 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "8938192019483""
+16:23:20 "TIME SYNC: Local Time set to [2013,8,3,18,23]"
+16:24:17 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4681"
+16:24:17 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89412919953173""
+16:25:20 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4682"
+16:25:20 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89466920024173""
+16:26:40 NAT Negotiation completed
+16:27:30 "get: STRING (120160390), sent: STRING (120160390)"
+16:27:30 "DISCONNECT: telconrar (120160390) Object: B 1-1-B:1 (telconrar) REMOTE, _characterID: 411 at loc [8950.08,9217.96,0.00143433]"
+16:27:30 No player found for channel 740720768 - message ignored
+16:27:30 No player found for channel 740720768 - message ignored
+16:27:30 Client: Remote object 5:2 not found
+16:27:30 Client: Remote object 5:8 not found
+16:28:20 "TIME SYNC: Local Time set to [2013,8,3,18,28]"
+16:28:20 "CLEANUP: Deleted 9 Animals out of 9"
+16:29:23 "CLEANUP: Deleted 1 Loot Piles out of 37"
