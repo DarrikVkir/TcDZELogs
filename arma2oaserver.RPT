@@ -462,3 +462,51 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 15:57:00 Client: Remote object 3:309 not found
 15:58:20 "TIME SYNC: Local Time set to [2013,8,3,17,58]"
 15:58:22 "CLEANUP: Deleted 24 Animals out of 27"
+16:00:08 "RUNNING EVENT: crash_spawner on [2014,7,1,18,0]"
+16:00:08 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+16:00:08 "CRASHSPAWNER: MV-22 started
+
+g from [15186,11857,300] to [10593.2,8353.83] NOW!(TIME:3941||LT:MilitarySpecial)"
+16:02:26 "CLEANUP: Deleted 1 Loot Piles out of 113"
+16:03:20 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
+16:04:00 "CRASHSPAWNER: MV-22 just exploded at [10323.8,8362.35,6.08609]!, "
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10320,8360.95,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10327.6,8359.05,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10320.9,8359.5,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10318,8364.49,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10324.2,8355.75,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10322.6,8369.58,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10327.9,8361.37,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10327.8,8363.27,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10328,8361.61,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10321.9,8354.91,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Loot spawn at '[10327.3,8364.62,0]' with loot table 'MilitarySpecial'"
+16:04:00 "CRASHSPAWNER: Crash completed! Wreck at: [10323.7,8362.27,-0.034668] - Runtime: 232 Seconds || Distance from calculated POC: 271 meters"
+16:05:24 "CLEANUP: Deleted 1 Loot Piles out of 123"
+16:07:41 "[DZMS]: Major SM7 IKEA has Ended."
+16:07:41 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+16:07:41   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+16:07:41   Error Undefined variable in expression: _vehicle1
+16:07:41 File z\addons\dayz_server\EMS\Missions\Major\SM7.sqf, line 46
+16:07:41 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+16:07:41   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+16:07:41   Error Undefined variable in expression: _object
+16:07:41 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+16:08:20 "TIME SYNC: Local Time set to [2013,8,3,18,8]"
+16:08:25 "CLEANUP: Deleted 12 Loot Piles out of 122"
+16:08:54 "[DZMS]: Running Major Mission SM8."
+16:09:25 "CLEANUP: Deleted 3 Loot Piles out of 113"
