@@ -1264,3 +1264,33 @@ g from [15186,11857,300] to [5093.24,4070.8] NOW!(TIME:12858||LT:MilitarySpecial
 12:16:53 "CRASHSPAWNER: Crash completed! Wreck at: [11805.9,14441.7,-0.0347824] - Runtime: 10008 Seconds || Distance from calculated POC: 10106 meters"
 12:19:41 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
 12:24:41 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
+12:29:41 "TIME SYNC: Local Time set to [2013,8,3,20,29]"
+12:29:42 "CLEANUP: Deleted 3 Animals out of 38"
+12:30:00 "RUNNING EVENT: crash_spawner on [2014,7,1,20,30]"
+12:30:00 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+12:30:00 "CRASHSPAWNER: A-10 started
+
+g from [15186,11857,300] to [12578.9,15165.9] NOW!(TIME:14651||LT:MilitarySpecial)"
+12:33:20 "CRASHSPAWNER: A-10 just exploded at [12405.8,14897.2,4.92348]!, "
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12409.8,14897.9,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12403.9,14891.7,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12410.1,14899.1,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12402.5,14901.6,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12404.4,14901.9,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12403,14900.8,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12405.4,14902.5,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12397.9,14899,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12404.8,14890.7,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12408.3,14903.7,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Loot spawn at '[12396.8,14901.6,0]' with loot table 'MilitarySpecial'"
+12:33:20 "CRASHSPAWNER: Crash completed! Wreck at: [12405.7,14897,0.0864258] - Runtime: 200 Seconds || Distance from calculated POC: 329 meters"
+12:34:41 "TIME SYNC: Local Time set to [2013,8,3,20,34]"
+12:36:06 "CLEANUP: Deleted 90 Loot Piles out of 417"
+12:36:57 "CLEANUP: Deleted 1 Loot Piles out of 327"
+12:37:59 "CLEANUP: Deleted 49 Loot Piles out of 355"
+12:38:43 Server: Object 14:70 not found (message 70)
+12:38:43 Server: Object 14:69 not found (message 94)
+12:39:08 Server: Object 14:82 not found (message 91)
+12:39:08 Server: Object 14:81 not found (message 98)
+12:39:08 Server: Object 14:84 not found (message 91)
+12:39:08 Server: Object 14:83 not found (message 99)
