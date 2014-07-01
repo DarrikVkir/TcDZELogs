@@ -625,3 +625,18 @@ g from [6993.7,173.053,300] to [10157.9,7763.05] NOW!(TIME:10706||LT:HeliCrash_N
  1:58:39 "CLEANUP: Deleted 1 Loot Piles out of 146"
  1:58:55 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M24 in/at Stary for 6x ItemGoldBar"
  1:59:17 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M24 in/at Stary for 6x ItemGoldBar"
+ 1:59:40 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 2:00:05 "RUNNING EVENT: crash_spawner on [2014,6,30,22,0]"
+ 2:00:05 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 2:00:05 "CRASHSPAWNER: UH-1H started
+
+g from [15098,8144,300] to [13567.1,11769.4] NOW!(TIME:12509||LT:HeliCrash_No50s)"
+ 2:00:21 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 2:00:29 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+ 2:01:29 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a M4A1_HWS_GL_camo in/at Stary for 4x ItemGoldBar"
+ 2:01:53 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
+ 2:02:20 "EPOCH SERVERTRADE: Player: sokol (112666374) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
+ 2:02:39 "CLEANUP: Deleted 2 Loot Piles out of 154"
+ 2:05:29 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
+ 2:07:39 "CLEANUP: Deleted 6 Loot Piles out of 154"
+ 2:08:40 "CLEANUP: Deleted 32 Loot Piles out of 148"
