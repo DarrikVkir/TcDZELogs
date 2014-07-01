@@ -796,3 +796,15 @@ g from [6993.7,173.053,300] to [14051.3,13918] NOW!(TIME:18337||LT:MilitarySpeci
 20:07:37 "CLEANUP: Deleted 1 Loot Piles out of 327"
 20:08:21 "TIME SYNC: Local Time set to [2013,8,3,22,8]"
 20:08:36 "CLEANUP: Deleted 1 Loot Piles out of 326"
+20:09:37 "CLEANUP: Deleted 1 Loot Piles out of 350"
+20:13:21 "TIME SYNC: Local Time set to [2013,8,3,22,13]"
+20:14:40 "CLEANUP: Deleted 71 Loot Piles out of 367"
+20:15:06 "RUNNING EVENT: supply_drop on [2014,7,1,22,15]"
+20:17:36 "CLEANUP: Deleted 9 Loot Piles out of 296"
+20:18:21 "TIME SYNC: Local Time set to [2013,8,3,22,18]"
+20:18:29 "get: STRING (4486214), sent: STRING (4486214)"
+20:18:29 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 390 at loc [12566.6,12272,0.00115967]"
+20:18:29 Client: Remote object 14:0 not found
+20:18:29 Client: Remote object 14:8 not found
+20:18:33 Warning: Cleanup player - person 14:7 not found
+20:18:36 "CLEANUP: Deleted 28 Loot Piles out of 287"
