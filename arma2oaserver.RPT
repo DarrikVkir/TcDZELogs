@@ -237,3 +237,114 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:27:42 "DISCONNECT: Marek (199810246) Object: B 1-1-C:1 (Marek) REMOTE, _characterID: 406 at loc [4906.01,4267.07,0.000473022]"
  8:27:42 Client: Remote object 4:6 not found
  8:27:42 Client: Remote object 4:5 not found
+ 8:29:40 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 8:30:00 "RUNNING EVENT: crash_spawner on [2014,7,1,16,30]"
+ 8:30:00 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 8:30:00 "CRASHSPAWNER: Ural Wreck spawned at [6950.54,9600.29]"
+ 8:30:00 "CRASHSPAWNER: Loot spawn at '[6947.38,9597.84,0.00250244]' with loot table 'Military'"
+ 8:30:00 "CRASHSPAWNER: Loot spawn at '[6953.37,9603.52,0.00250244]' with loot table 'Military'"
+ 8:30:00 "CRASHSPAWNER: Loot spawn at '[6947.68,9593.61,0.00250244]' with loot table 'Military'"
+ 8:30:00 "CRASHSPAWNER: Loot spawn at '[6947.15,9603.01,0.00250244]' with loot table 'Military'"
+ 8:30:00 "CRASHSPAWNER: Loot spawn at '[6952.81,9595.87,0.00250244]' with loot table 'Military'"
+ 8:30:00 "CRASHSPAWNER: Loot spawn at '[6957.83,9598.36,0.00250244]' with loot table 'Military'"
+ 8:30:01 "CRASHSPAWNER: Loot spawn at '[6954.31,9601.74,0.00250244]' with loot table 'Military'"
+ 8:30:01 "CRASHSPAWNER: Loot spawn at '[6949.65,9596.11,0.00250244]' with loot table 'Military'"
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:30:18 NetServer::SendMsg: cannot find channel #1888875234, users.card=1
+ 8:30:18 NetServer: users.get failed when sending to 1888875234
+ 8:30:18 Message not sent - error 0, message ID = ffffffff, to 1888875234 (Marek)
+ 8:31:58 Server: Object 6:9 not found (message 70)
+ 8:34:05 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:05 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:05 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:05 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:34:06 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:34:40 "TIME SYNC: Local Time set to [2013,8,3,16,34]"
+ 8:35:01 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:35:01 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 8:35:01 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 8:35:01 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 8:35:01 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:35:01   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
