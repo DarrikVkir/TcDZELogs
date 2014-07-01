@@ -305,3 +305,52 @@ g from [15098,8144,300] to [3157.72,5594.54] NOW!(TIME:33||LT:MilitarySpecial)"
 20:57:45 "CLEANUP: Deleted 53 Loot Piles out of 123"
 20:58:39 "TIME SYNC: Local Time set to [2013,8,3,16,58]"
 20:58:42 "CLEANUP: Deleted 18 Loot Piles out of 70"
+20:59:43 "CLEANUP: Deleted 35 Loot Piles out of 52"
+21:00:02 "RUNNING EVENT: crash_spawner on [2014,7,1,17,0]"
+21:00:02 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Ural Wreck spawned at [3985.73,7734.37]"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3985.07,7730.43,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3991.12,7736.94,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3981.73,7734.07,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3991.28,7732.19,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3985.57,7742.58,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3991.48,7744.58,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3977.76,7722.48,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3967.71,7736.49,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3986.84,7713.35,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3978.35,7713.95,0.00137329]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[3978.28,7748.58,0.00137329]' with loot table 'Military'"
+21:03:40 "TIME SYNC: Local Time set to [2013,8,3,17,3]"
+21:03:40 "CLEANUP: Deleted 2 Animals out of 18"
+21:04:41 "CLEANUP: Deleted 1 Loot Piles out of 29"
+21:07:10 "DELETE: B 1-1-C:1 (BluntScopes) REMOTE Deleted by UID: 0"
+21:08:40 "TIME SYNC: Local Time set to [2013,8,3,17,8]"
+21:08:41 "CLEANUP: Deleted 1 Loot Piles out of 33"
+21:09:20 Server: Object 3:516 not found (message 94)
+21:09:20 Server: Object 3:540 not found (message 70)
+21:09:20 Server: Object 3:539 not found (message 94)
+21:09:20 Server: Object 3:536 not found (message 94)
+21:09:20 Server: Object 3:537 not found (message 94)
+21:09:20 Server: Object 3:538 not found (message 94)
+21:09:20 Server: Object 3:541 not found (message 70)
+21:09:20 Server: Object 3:542 not found (message 70)
+21:09:28 Server: Object 3:549 not found (message 70)
+21:09:28 Server: Object 3:555 not found (message 94)
+21:09:28 Server: Object 3:554 not found (message 70)
+21:09:28 Server: Object 3:552 not found (message 94)
+21:09:28 Server: Object 3:557 not found (message 70)
+21:09:28 Server: Object 3:556 not found (message 70)
+21:09:28 Server: Object 3:551 not found (message 94)
+21:09:28 Server: Object 3:553 not found (message 70)
+21:09:28 Server: Object 3:580 not found (message 70)
+21:09:28 Server: Object 3:578 not found (message 94)
+21:09:28 Server: Object 3:579 not found (message 94)
+21:09:28 Server: Object 3:581 not found (message 94)
+21:09:28 Server: Object 3:582 not found (message 94)
+21:09:28 Server: Object 3:583 not found (message 94)
+21:09:28 Server: Object 3:584 not found (message 70)
+21:09:28 Server: Object 3:587 not found (message 70)
+21:09:28 Server: Object 3:586 not found (message 70)
+21:09:28 Server: Object 3:585 not found (message 70)
+21:09:28 Server: Object 3:588 not found (message 94)
+21:09:28 Server: Object 3:589 not found (message 70)
