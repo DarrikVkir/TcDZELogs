@@ -1350,3 +1350,43 @@ g from [15186,11857,300] to [12578.9,15165.9] NOW!(TIME:14651||LT:MilitarySpecia
 12:54:41 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
 12:58:00 "CLEANUP: Deleted 1 Loot Piles out of 353"
 12:59:04 "CLEANUP: Deleted 144 Loot Piles out of 353"
+12:59:41 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+12:59:55 "CLEANUP: Deleted 1 Loot Piles out of 209"
+13:00:03 "RUNNING EVENT: crash_spawner on [2014,7,1,21,0]"
+13:00:03 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+13:00:03 "CRASHSPAWNER: MV-22 started
+
+g from [10450,-630,1000] to [6401.84,3506.73] NOW!(TIME:16454||LT:MilitarySpecial)"
+13:00:55 "CLEANUP: Deleted 30 Loot Piles out of 208"
+13:01:54 "CLEANUP: Deleted 1 Loot Piles out of 178"
+13:03:59 "CRASHSPAWNER: MV-22 just exploded at [6540.72,3705.66,5.15382]!, "
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6544.68,3705.09,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6545.89,3710.96,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6550.42,3710.79,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6538.44,3719.48,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6531.5,3693.21,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6527.79,3699.75,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6532.43,3692.85,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6541.24,3716.05,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Loot spawn at '[6527.9,3710.7,0]' with loot table 'MilitarySpecial'"
+13:03:59 "CRASHSPAWNER: Crash completed! Wreck at: [6540.74,3705.75,-0.0150833] - Runtime: 236 Seconds || Distance from calculated POC: 244 meters"
+13:04:41 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+13:04:54 "CLEANUP: Deleted 1 Loot Piles out of 186"
+13:05:54 "CLEANUP: Deleted 6 Loot Piles out of 185"
+13:06:22 Server: Object 14:337 not found (message 91)
+13:06:22 Server: Object 14:336 not found (message 99)
+13:06:22 Server: Object 14:339 not found (message 91)
+13:06:22 Server: Object 14:338 not found (message 99)
+13:06:22 Server: Object 14:341 not found (message 91)
+13:06:22 Server: Object 14:340 not found (message 99)
+13:06:22 Server: Object 14:344 not found (message 98)
+13:06:22 Server: Object 14:345 not found (message 91)
+13:06:22 Server: Object 14:347 not found (message 91)
+13:06:22 Server: Object 14:346 not found (message 99)
+13:06:22 Server: Object 14:360 not found (message 99)
+13:06:22 Server: Object 14:361 not found (message 91)
+13:06:56 "CLEANUP: Deleted 51 Loot Piles out of 179"
+13:07:52 "CLEANUP: Deleted 1 Loot Piles out of 128"
+13:08:40 Server: Object 14:392 not found (message 99)
+13:08:40 Server: Object 14:393 not found (message 91)
+13:08:56 "CLEANUP: Deleted 10 Loot Piles out of 216"
