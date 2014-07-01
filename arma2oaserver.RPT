@@ -1414,3 +1414,10 @@ g from [10450,-630,1000] to [6401.84,3506.73] NOW!(TIME:16454||LT:MilitarySpecia
 13:16:59 "CLEANUP: Deleted 9 Loot Piles out of 295"
 13:17:58 "CLEANUP: Deleted 2 Loot Piles out of 286"
 13:18:59 "CLEANUP: Deleted 1 Loot Piles out of 288"
+13:19:42 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
+13:23:57 Server: Object 14:540 not found (message 99)
+13:23:57 Server: Object 14:541 not found (message 91)
+13:24:42 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
+13:28:28 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a HMMWV_M998A2_SOV_DES_EP1_DZE in/at Hero Trader for 5x ItemGoldBar10oz"
+13:28:29 "DELETE: B 1-1-C:1 (telconrar) REMOTE Deleted by ID: 4596"
+13:29:05 "CLEANUP: Deleted 89 Loot Piles out of 339"
