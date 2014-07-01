@@ -360,3 +360,43 @@ _pos = g>
 23:55:53 NAT Negotiation completed
 23:56:31 "CLEANUP: Deleted 1 Loot Piles out of 34"
 23:57:31 "CLEANUP: Deleted 2 Loot Piles out of 33"
+ 0:00:07 "RUNNING EVENT: crash_spawner on [2014,6,30,20,0]"
+ 0:00:07 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 0:00:07 "CRASHSPAWNER: Ural Wreck spawned at [8007.94,9830.21]"
+ 0:00:07 "CRASHSPAWNER: Loot spawn at '[8006.37,9833.88,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8000.87,9829.48,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8004.63,9824.56,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8008.38,9838.8,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[7999.98,9825.93,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8012.03,9830.75,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8010.28,9835.09,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8014.81,9828.32,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8010.02,9839.28,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8014.08,9823.12,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8014.9,9827.76,0.00814819]' with loot table 'Military'"
+ 0:00:08 "CRASHSPAWNER: Loot spawn at '[8014.44,9834.89,0.00814819]' with loot table 'Military'"
+ 0:00:28 "TIME SYNC: Local Time set to [2013,8,3,20,0]"
+ 0:05:28 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
+ 0:07:32 "CLEANUP: Deleted 1 Loot Piles out of 44"
+ 0:09:18 "[DZMS]: Major SM2 Crash Site Mission has Ended."
+ 0:09:18 Error in expression <veVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+[_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 0:09:18   Error position: <_vehicle2] ExecVM DZMSSaveVeh;
+
+
+[nil,ni>
+ 0:09:18   Error Undefined variable in expression: _vehicle2
+ 0:09:18 File z\addons\dayz_server\EMS\Missions\Major\SM2.sqf, line 60
+ 0:09:19 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 0:09:19   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 0:09:19   Error Undefined variable in expression: _object
+ 0:09:19 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
