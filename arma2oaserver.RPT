@@ -387,3 +387,11 @@ g from [6993.7,173.053,300] to [5863.02,10409.2] NOW!(TIME:6311||LT:HeliCrash_No
  7:03:50 "TIME SYNC: Local Time set to [2013,8,3,21,3]"
  7:03:53 "CLEANUP: Deleted 2 Loot Piles out of 35"
  7:08:50 "TIME SYNC: Local Time set to [2013,8,3,21,8]"
+ 7:10:53 "CLEANUP: Deleted 2 Loot Piles out of 33"
+ 7:13:11 "SAFE UNLOCKED: ID:4483 UID:0 BY Marek(199810246)"
+ 7:13:50 "TIME SYNC: Local Time set to [2013,8,3,21,13]"
+ 7:14:40 "SAFE LOCKED: ID:4483 UID:0 BY Marek(199810246)"
+ 7:15:00 "RUNNING EVENT: supply_drop on [2014,7,1,21,15]"
+ 7:15:21 Client: Object 4:120 (type Type_69) not found.
+ 7:15:21 Client: Object 4:120 (type Type_70) not found.
+ 7:18:50 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
