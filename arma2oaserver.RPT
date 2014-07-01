@@ -1113,3 +1113,14 @@ g from [6993.7,173.053,300] to [2084.36,14611.9] NOW!(TIME:7461||LT:Hospital)"
 10:58:18 Server: Network message 287b6a is pending
 10:58:18 Server: Network message 287b6b is pending
 10:58:18 Server: Network message 287b7f is pending
+10:59:41 "TIME SYNC: Local Time set to [2013,8,3,18,59]"
+10:59:41 "CLEANUP: Deleted 1 Animals out of 33"
+10:59:46 "CLEANUP: Deleted 1 Loot Piles out of 93"
+11:00:01 "RUNNING EVENT: crash_spawner on [2014,7,1,19,0]"
+11:00:01 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+11:00:01 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [6993.7,173.053,300] to [3342.73,9551.94] NOW!(TIME:9253||LT:MilitarySpecial)"
+11:02:47 "CLEANUP: Deleted 19 Loot Piles out of 93"
+11:03:47 "CLEANUP: Deleted 5 Loot Piles out of 74"
+11:04:41 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
