@@ -462,3 +462,127 @@ g from [1623.71,218.188,300] to [12703.8,3526.95] NOW!(TIME:2063||LT:MilitarySpe
  9:08:32 "CRASHSPAWNER: Loot spawn at '[12721.2,3513.48,0]' with loot table 'MilitarySpecial'"
  9:08:32 "CRASHSPAWNER: Crash completed! Wreck at: [12728.1,3517.54,-0.652371] - Runtime: 502 Seconds || Distance from calculated POC: 26 meters"
  9:08:44 "CLEANUP: Deleted 2 Loot Piles out of 106"
+ 9:09:40 "TIME SYNC: Local Time set to [2013,8,3,17,9]"
+ 9:10:01 "get: STRING (124136006), sent: STRING (124136006)"
+ 9:10:01 "DISCONNECT: John (124136006) Object: B 1-1-D:1 (John) REMOTE, _characterID: 408 at loc [11512.9,3357.48,0.0014863]"
+ 9:10:01 Client: Remote object 7:6 not found
+ 9:10:01 Client: Remote object 7:5 not found
+ 9:10:01 Client: Remote object 7:2 not found
+ 9:10:02 Warning: Cleanup player - person 7:7 not found
+ 9:11:55 "PDEATH: Player Died 199810246"
+ 9:12:13 "ERROR: server_playerSync: Cannot Sync Player Marek [406]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 9:12:14 "get: STRING (199810246), sent: STRING (199810246)"
+ 9:12:14 "DISCONNECT: Marek (199810246) Object: B 1-1-A:1 (Marek) REMOTE, _characterID: 406 at loc [-7239.67,19539.3,0.24588]"
+ 9:12:14 "ERROR: server_playerSync: Cannot Sync Player Marek [406]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 9:12:14 Client: Remote object 9:2 not found
+ 9:12:14 Client: Remote object 9:8 not found
+ 9:12:14 Client: Remote object 9:38 not found
+ 9:12:44 Server: Object 3:236 not found (message 98)
+ 9:12:44 Server: Object 3:237 not found (message 91)
+ 9:12:44 Server: Object 3:238 not found (message 98)
+ 9:12:44 Server: Object 3:239 not found (message 91)
+ 9:12:44 Server: Object 3:241 not found (message 91)
+ 9:12:44 Server: Object 3:242 not found (message 99)
+ 9:12:45 "CLEANUP: Deleted 26 Loot Piles out of 121"
+ 9:12:52 Server: Object 3:226 not found (message 99)
+ 9:13:20 Server: Object 9:55 not found (message 98)
+ 9:13:20 Server: Object 9:59 not found (message 99)
+ 9:13:20 Server: Object 9:60 not found (message 91)
+ 9:13:20 Server: Object 9:56 not found (message 91)
+ 9:13:20 Server: Object 9:57 not found (message 98)
+ 9:13:20 Server: Object 9:58 not found (message 91)
+ 9:14:40 "TIME SYNC: Local Time set to [2013,8,3,17,14]"
+ 9:14:41 "CLEANUP: Deleted 11 Animals out of 22"
+ 9:14:44 "CLEANUP: Deleted 1 Loot Piles out of 97"
+ 9:14:50 No player found for channel 784646272 - message ignored
+ 9:15:01 "RUNNING EVENT: supply_drop on [2014,7,1,17,15]"
+ 9:15:36 Server: Object 9:82 not found (message 94)
+ 9:15:36 Server: Object 9:83 not found (message 94)
+ 9:15:44 "CLEANUP: Deleted 3 Loot Piles out of 107"
+ 9:15:45 Warnings in z\addons\dayz_communityassets\models\mre.p3d:shadow(1000)
+ 9:16:27 Server: Object 9:100 not found (message 94)
+ 9:16:27 Server: Object 9:98 not found (message 94)
+ 9:16:27 Server: Object 9:99 not found (message 94)
+ 9:16:27 Server: Object 9:103 not found (message 70)
+ 9:16:27 Server: Object 9:101 not found (message 94)
+ 9:16:27 Server: Object 9:102 not found (message 94)
+ 9:16:27 Server: Object 9:104 not found (message 94)
+ 9:16:27 Server: Object 9:105 not found (message 94)
+ 9:16:27 Server: Object 9:109 not found (message 70)
+ 9:16:27 Server: Object 9:106 not found (message 94)
+ 9:16:27 Server: Object 9:107 not found (message 94)
+ 9:16:27 Server: Object 9:108 not found (message 94)
+ 9:16:27 Server: Object 9:111 not found (message 70)
+ 9:16:27 Server: Object 9:110 not found (message 94)
+ 9:16:27 Server: Object 9:112 not found (message 94)
+ 9:16:27 Server: Object 9:113 not found (message 70)
+ 9:16:27 Server: Object 9:114 not found (message 94)
+ 9:16:27 Server: Object 9:116 not found (message 94)
+ 9:16:27 Server: Object 9:117 not found (message 70)
+ 9:16:27 Server: Object 9:115 not found (message 94)
+ 9:16:46 "CLEANUP: Deleted 2 Loot Piles out of 146"
+ 9:17:08 Server: Object 9:170 not found (message 94)
+ 9:17:09 Server: Object 9:179 not found (message 94)
+ 9:17:09 Server: Object 9:185 not found (message 70)
+ 9:17:09 Server: Object 9:186 not found (message 94)
+ 9:17:09 Server: Object 9:187 not found (message 94)
+ 9:17:09 Server: Object 9:180 not found (message 70)
+ 9:17:09 Server: Object 9:181 not found (message 94)
+ 9:17:09 Server: Object 9:184 not found (message 70)
+ 9:17:09 Server: Object 9:178 not found (message 94)
+ 9:17:09 Server: Object 9:183 not found (message 70)
+ 9:17:09 Server: Object 9:182 not found (message 94)
+ 9:17:09 Server: Object 9:195 not found (message 94)
+ 9:17:09 Server: Object 9:188 not found (message 70)
+ 9:17:09 Server: Object 9:189 not found (message 94)
+ 9:17:09 Server: Object 9:190 not found (message 94)
+ 9:17:09 Server: Object 9:191 not found (message 94)
+ 9:17:09 Server: Object 9:192 not found (message 94)
+ 9:17:09 Server: Object 9:193 not found (message 94)
+ 9:17:09 Server: Object 9:194 not found (message 94)
+ 9:17:09 Server: Object 9:196 not found (message 94)
+ 9:17:09 Server: Object 9:197 not found (message 94)
+ 9:17:09 Server: Object 9:198 not found (message 94)
+ 9:17:09 Server: Object 9:199 not found (message 70)
+ 9:17:09 Server: Object 9:200 not found (message 70)
+ 9:17:09 Server: Object 9:201 not found (message 70)
+ 9:17:09 Server: Object 9:206 not found (message 94)
+ 9:17:17 Server: Object 9:225 not found (message 99)
+ 9:17:17 Server: Object 9:226 not found (message 91)
+ 9:17:18 Server: Object 9:231 not found (message 99)
+ 9:17:18 Server: Object 9:232 not found (message 91)
+ 9:17:18 Server: Object 9:245 not found (message 70)
+ 9:17:18 Server: Object 9:238 not found (message 94)
+ 9:17:18 Server: Object 9:242 not found (message 70)
+ 9:17:18 Server: Object 9:241 not found (message 70)
+ 9:17:18 Server: Object 9:244 not found (message 70)
+ 9:17:18 Server: Object 9:236 not found (message 94)
+ 9:17:18 Server: Object 9:243 not found (message 94)
+ 9:17:18 Server: Object 9:240 not found (message 94)
+ 9:17:18 Server: Object 9:239 not found (message 70)
+ 9:17:18 Server: Object 9:237 not found (message 94)
+ 9:17:18 Server: Object 9:246 not found (message 99)
+ 9:17:18 Server: Object 9:247 not found (message 91)
+ 9:17:18 Server: Object 9:248 not found (message 99)
+ 9:17:18 Server: Object 9:249 not found (message 91)
+ 9:17:18 Server: Object 9:251 not found (message 91)
+ 9:17:18 Server: Object 9:250 not found (message 99)
+ 9:17:18 Server: Object 9:253 not found (message 91)
+ 9:17:18 Server: Object 9:252 not found (message 99)
+ 9:17:18 Server: Object 9:255 not found (message 91)
+ 9:17:18 Server: Object 9:254 not found (message 98)
+ 9:17:18 Server: Object 9:261 not found (message 94)
+ 9:17:18 Server: Object 9:263 not found (message 70)
+ 9:17:18 Server: Object 9:262 not found (message 94)
+ 9:17:18 Server: Object 9:264 not found (message 98)
+ 9:17:18 Server: Object 9:265 not found (message 91)
+ 9:17:28 Server: Object 9:269 not found (message 94)
+ 9:17:48 "CLEANUP: Deleted 1 Loot Piles out of 242"
+ 9:18:09 Server: Object 9:272 not found (message 98)
+ 9:18:09 Server: Object 9:273 not found (message 91)
+ 9:18:16 Server: Object 9:274 not found (message 70)
+ 9:18:48 "CLEANUP: Deleted 2 Loot Piles out of 242"
+ 9:19:20 Server: Object 9:278 not found (message 91)
+ 9:19:20 Server: Object 9:277 not found (message 99)
+ 9:19:20 Server: Object 9:279 not found (message 99)
+ 9:19:20 Server: Object 9:280 not found (message 91)
