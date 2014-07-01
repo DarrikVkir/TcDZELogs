@@ -744,3 +744,19 @@ g from [1623.71,218.188,300] to [7917,9258.22] NOW!(TIME:16534||LT:Hospital)"
 19:40:21 Client: Remote object 2:7583 not found
 19:43:21 "TIME SYNC: Local Time set to [2013,8,3,21,43]"
 19:48:21 "TIME SYNC: Local Time set to [2013,8,3,21,48]"
+19:53:01 "DELETE: B 1-1-B:1 (BluntScopes) REMOTE Deleted by UID: 0"
+19:53:21 "TIME SYNC: Local Time set to [2013,8,3,21,53]"
+19:53:57 Server: Object 14:69 not found (message 91)
+19:53:57 Server: Object 14:68 not found (message 99)
+19:53:57 Server: Object 14:71 not found (message 91)
+19:53:57 Server: Object 14:70 not found (message 99)
+19:53:57 Server: Object 14:73 not found (message 91)
+19:53:57 Server: Object 14:72 not found (message 99)
+19:54:06 Server: Object 14:122 not found (message 70)
+19:54:06 Server: Object 14:120 not found (message 94)
+19:54:06 Server: Object 14:121 not found (message 94)
+19:54:14 Server: Object 14:148 not found (message 94)
+19:54:14 Server: Object 14:147 not found (message 70)
+19:54:14 Server: Object 14:146 not found (message 94)
+19:56:35 "CLEANUP: Deleted 1 Loot Piles out of 231"
+19:58:21 "TIME SYNC: Local Time set to [2013,8,3,21,58]"
