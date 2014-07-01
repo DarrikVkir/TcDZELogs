@@ -400,3 +400,11 @@ _dir = getDir _object;
 _pos = g>
  0:09:19   Error Undefined variable in expression: _object
  0:09:19 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 0:09:31 "CLEANUP: Deleted 1 Loot Piles out of 43"
+ 0:09:45 "[DZMS]: Running Major Mission SM9."
+ 0:10:28 "TIME SYNC: Local Time set to [2013,8,3,20,10]"
+ 0:12:32 "CLEANUP: Deleted 1 Loot Piles out of 46"
+ 0:14:32 "CLEANUP: Deleted 1 Loot Piles out of 45"
+ 0:15:00 "RUNNING EVENT: supply_drop on [2014,6,30,20,15]"
+ 0:15:28 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
+ 0:15:33 "CLEANUP: Deleted 1 Loot Piles out of 44"
