@@ -529,3 +529,15 @@ _pos = g>
  1:05:29 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
  1:06:36 "CLEANUP: Deleted 1 Loot Piles out of 71"
  1:07:35 "CLEANUP: Deleted 1 Loot Piles out of 70"
+ 1:09:36 "CLEANUP: Deleted 1 Loot Piles out of 69"
+ 1:10:29 "TIME SYNC: Local Time set to [2013,8,3,21,10]"
+ 1:14:35 "CLEANUP: Deleted 2 Loot Piles out of 68"
+ 1:15:08 "RUNNING EVENT: supply_drop on [2014,6,30,21,15]"
+ 1:15:29 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
+ 1:17:35 "CLEANUP: Deleted 2 Loot Piles out of 69"
+ 1:19:15 WARNING: Function 'name' - DarrikVkir [BOOTY] is dead
+ 1:19:15 "PDEATH: Player Died 23206790"
+ 1:19:19 SetFace error: class CfgFaces.GravesHead_EP1.Face04_EP1 not found
+ 1:19:19 Error: Error during SetFace - class CfgFaces.GravesHead_EP1.Face04_EP1 not found
+ 1:19:19 SetFace error: class CfgFaces.GravesHead_EP1.Face04_EP1 not found
+ 1:19:19 Error: Error during SetFace - class CfgFaces.GravesHead_EP1.Face04_EP1 not found
