@@ -486,3 +486,6 @@ g from [15098,8144,300] to [7631.82,7754.69] NOW!(TIME:7221||LT:HeliCrash_No50s)
 22:36:52 "CRASHSPAWNER: Crash completed! Wreck at: [7566.68,7766.67,-0.120544] - Runtime: 402 Seconds || Distance from calculated POC: 66 meters"
 22:37:06 Server: Object 2:7322 not found (message 221)
 22:38:40 "TIME SYNC: Local Time set to [2013,8,3,18,38]"
+22:40:46 "SAFE UNLOCKED: ID:1390 UID:0 BY sokol(112666374)"
+22:43:40 "TIME SYNC: Local Time set to [2013,8,3,18,43]"
+22:48:40 "TIME SYNC: Local Time set to [2013,8,3,18,48]"
