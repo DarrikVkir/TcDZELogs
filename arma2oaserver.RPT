@@ -1005,3 +1005,111 @@ g from [6993.7,173.053,300] to [2084.36,14611.9] NOW!(TIME:7461||LT:Hospital)"
 10:42:57 "CLEANUP: Deleted 183 Loot Piles out of 275"
 10:44:41 "TIME SYNC: Local Time set to [2013,8,3,18,44]"
 10:46:46 "CLEANUP: Deleted 4 Loot Piles out of 97"
+10:49:41 "TIME SYNC: Local Time set to [2013,8,3,18,49]"
+10:49:55 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+10:50:13 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a SVD_des_EP1 in/at Stary for 6x ItemGoldBar"
+10:50:56 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M249_m145_EP1_DZE in/at Stary for 1x ItemGoldBar10oz"
+10:51:18 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a bizon in/at Stary for 5x ItemGoldBar"
+10:51:21 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Sa58V_CCO_EP1 in/at Stary for 4x ItemGoldBar"
+10:51:46 Server: Object 11:479 not found (message 99)
+10:51:46 Server: Object 11:480 not found (message 91)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:48 Server: Object 11:483 not found (message 99)
+10:51:54 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a AK_47_M in/at Stary for 6x ItemGoldBar"
+10:52:12 Server: Object 11:455 not found (message 99)
+10:52:13 Server: Object 11:485 not found (message 98)
+10:52:13 Server: Object 11:486 not found (message 91)
+10:52:19 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36C_camo in/at Stary for 3x ItemGoldBar"
+10:52:25 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
+10:52:39 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M24 in/at Stary for 6x ItemGoldBar"
+10:52:49 "CLEANUP: Deleted 34 Loot Piles out of 127"
+10:52:51 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1_Aim in/at Stary for 4x ItemGoldBar"
+10:53:08 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_compact in/at Stary for 2x ItemGoldBar"
+10:53:10 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M4A1_Aim in/at Stary for 4x ItemGoldBar"
+10:53:39 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_holo_sd in/at Stary for 4x ItemGoldBar"
+10:53:58 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a SCAR_L_STD_EGLM_RCO in/at Stary for 4x ItemGoldBar"
+10:54:20 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
+10:54:20 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+10:54:41 "TIME SYNC: Local Time set to [2013,8,3,18,54]"
+10:54:44 Server: Object 11:497 not found (message 70)
+10:54:44 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
+10:55:15 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a BAF_L85A2_RIS_SUSAT in/at Stary for 3x ItemGoldBar"
+10:55:46 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a SCAR_H_STD_EGLM_Spect in/at Stary for 1x ItemGoldBar10oz"
+10:55:47 "CLEANUP: Deleted 7 Loot Piles out of 99"
+10:58:15 Server: Network message 2877ef is pending
+10:58:15 Server: Network message 2877f0 is pending
+10:58:15 Server: Network message 2877f1 is pending
+10:58:15 Server: Network message 2877fa is pending
+10:58:15 Server: Network message 287806 is pending
+10:58:15 Server: Network message 287807 is pending
+10:58:15 Server: Network message 287808 is pending
+10:58:15 Server: Network message 287809 is pending
+10:58:15 Server: Network message 28780e is pending
+10:58:15 Server: Network message 28780f is pending
+10:58:15 Server: Network message 287810 is pending
+10:58:15 Server: Network message 28781e is pending
+10:58:15 Server: Network message 287826 is pending
+10:58:15 Server: Network message 287827 is pending
+10:58:15 Server: Network message 28782d is pending
+10:58:15 Server: Network message 28782e is pending
+10:58:15 Server: Network message 287839 is pending
+10:58:15 Server: Network message 287865 is pending
+10:58:15 Server: Network message 287866 is pending
+10:58:15 Server: Network message 287867 is pending
+10:58:15 Server: Network message 287868 is pending
+10:58:15 Server: Network message 287874 is pending
+10:58:15 Server: Network message 287882 is pending
+10:58:15 Server: Network message 28788d is pending
+10:58:15 Server: Network message 28789b is pending
+10:58:15 Server: Network message 28789c is pending
+10:58:15 Server: Network message 28789d is pending
+10:58:15 Server: Network message 2878a9 is pending
+10:58:15 Server: Network message 2878aa is pending
+10:58:15 Server: Network message 2878ab is pending
+10:58:15 Server: Network message 2878ab is pending
+10:58:15 Server: Network message 2878ab is pending
+10:58:15 Server: Network message 2878ac is pending
+10:58:15 Server: Network message 2878ad is pending
+10:58:15 Server: Network message 2878ae is pending
+10:58:15 Server: Network message 2878b7 is pending
+10:58:15 Server: Network message 2878d1 is pending
+10:58:15 Server: Network message 2878de is pending
+10:58:15 Server: Network message 2878df is pending
+10:58:15 Server: Network message 2878e8 is pending
+10:58:15 Server: Network message 2878f5 is pending
+10:58:15 Server: Network message 287905 is pending
+10:58:15 Server: Network message 28790f is pending
+10:58:15 Server: Network message 287928 is pending
+10:58:15 Server: Network message 28792e is pending
+10:58:15 Server: Network message 28792f is pending
+10:58:16 Server: Network message 287960 is pending
+10:58:16 Server: Network message 287961 is pending
+10:58:16 Server: Network message 287965 is pending
+10:58:16 Server: Network message 28797c is pending
+10:58:16 Server: Network message 2879d5 is pending
+10:58:16 Server: Network message 2879d6 is pending
+10:58:16 Server: Network message 2879d7 is pending
+10:58:16 Server: Network message 2879d8 is pending
+10:58:16 Server: Network message 2879d9 is pending
+10:58:16 Server: Network message 2879da is pending
+10:58:16 Server: Network message 2879fe is pending
+10:58:16 Server: Network message 287a1a is pending
+10:58:16 Server: Network message 287a33 is pending
+10:58:16 Server: Network message 287a3d is pending
+10:58:17 Server: Network message 287a53 is pending
+10:58:17 Server: Network message 287a5a is pending
+10:58:17 Server: Network message 287a75 is pending
+10:58:17 Server: Network message 287a7f is pending
+10:58:17 Server: Network message 287a8a is pending
+10:58:17 Server: Object 3:949 not found (message 99)
+10:58:18 Server: Network message 287b68 is pending
+10:58:18 Server: Network message 287b69 is pending
+10:58:18 Server: Network message 287b6a is pending
+10:58:18 Server: Network message 287b6b is pending
+10:58:18 Server: Network message 287b7f is pending
