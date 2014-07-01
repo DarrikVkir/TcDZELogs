@@ -735,3 +735,12 @@ g from [1623.71,218.188,300] to [7917,9258.22] NOW!(TIME:16534||LT:Hospital)"
 19:36:09 "CRASHSPAWNER: Crash completed! Wreck at: [7919.05,9309.06,-0.0214233] - Runtime: 366 Seconds || Distance from calculated POC: 52 meters"
 19:37:27 NAT Negotiation completed
 19:38:21 "TIME SYNC: Local Time set to [2013,8,3,21,38]"
+19:40:21 "get: STRING (4486214), sent: STRING (4486214)"
+19:40:21 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-A:1 (BluntScopes) REMOTE, _characterID: 0 at loc [-7244.94,19534.5,1.10648]"
+19:40:21 "ERROR: Cannot Sync Character BluntScopes as no characterID"
+19:40:21 Client: Remote object 13:2 not found
+19:40:21 Client: Remote object 2:7581 not found
+19:40:21 Client: Remote object 2:7582 not found
+19:40:21 Client: Remote object 2:7583 not found
+19:43:21 "TIME SYNC: Local Time set to [2013,8,3,21,43]"
+19:48:21 "TIME SYNC: Local Time set to [2013,8,3,21,48]"
