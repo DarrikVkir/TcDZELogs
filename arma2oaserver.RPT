@@ -710,3 +710,28 @@ g from [1623.71,218.188,300] to [5935.55,9246.79] NOW!(TIME:14733||LT:HeliCrash_
 19:18:21 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
 19:23:21 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
 19:28:21 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
+19:30:02 "RUNNING EVENT: crash_spawner on [2014,7,1,21,30]"
+19:30:02 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+19:30:02 "CRASHSPAWNER: UH-60M MEV started
+
+g from [1623.71,218.188,300] to [7917,9258.22] NOW!(TIME:16534||LT:Hospital)"
+19:33:21 "TIME SYNC: Local Time set to [2013,8,3,21,33]"
+19:34:42 NAT Negotiation completed
+19:35:30 "CLEANUP: Deleted 3 Loot Piles out of 111"
+19:36:08 "CRASHSPAWNER: UH-60M MEV just exploded at [7919.05,9309.06,0.656097]!, "
+19:36:08 "CRASHSPAWNER: Loot spawn at '[7920.54,9305.34,0]' with loot table 'Hospital'"
+19:36:08 "CRASHSPAWNER: Loot spawn at '[7924.47,9303.52,0]' with loot table 'Hospital'"
+19:36:08 "CRASHSPAWNER: Loot spawn at '[7922.67,9313.46,0]' with loot table 'Hospital'"
+19:36:08 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+19:36:08 "CRASHSPAWNER: Loot spawn at '[7920.23,9316.71,0]' with loot table 'Hospital'"
+19:36:08 "CRASHSPAWNER: Loot spawn at '[7920.3,9316.4,0]' with loot table 'Hospital'"
+19:36:08 "CRASHSPAWNER: Loot spawn at '[7927.26,9305.34,0]' with loot table 'Hospital'"
+19:36:09 "CRASHSPAWNER: Loot spawn at '[7908.88,9312.57,0]' with loot table 'Hospital'"
+19:36:09 "CRASHSPAWNER: Loot spawn at '[7925.17,9309.53,0]' with loot table 'Hospital'"
+19:36:09 "CRASHSPAWNER: Loot spawn at '[7923.29,9317.19,0]' with loot table 'Hospital'"
+19:36:09 "CRASHSPAWNER: Loot spawn at '[7914.21,9302.76,0]' with loot table 'Hospital'"
+19:36:09 "CRASHSPAWNER: Loot spawn at '[7927.16,9300.68,0]' with loot table 'Hospital'"
+19:36:09 "CRASHSPAWNER: Loot spawn at '[7932.39,9317.05,0]' with loot table 'Hospital'"
+19:36:09 "CRASHSPAWNER: Crash completed! Wreck at: [7919.05,9309.06,-0.0214233] - Runtime: 366 Seconds || Distance from calculated POC: 52 meters"
+19:37:27 NAT Negotiation completed
+19:38:21 "TIME SYNC: Local Time set to [2013,8,3,21,38]"
