@@ -874,3 +874,65 @@ g from [6993.7,173.053,300] to [2089.95,2710.41] NOW!(TIME:5659||LT:HeliCrash_No
 10:16:45 "CLEANUP: Deleted 3 Loot Piles out of 58"
 10:17:44 "CLEANUP: Deleted 2 Loot Piles out of 55"
 10:18:45 "CLEANUP: Deleted 10 Loot Piles out of 53"
+10:19:40 "TIME SYNC: Local Time set to [2013,8,3,18,19]"
+10:20:44 "CLEANUP: Deleted 2 Loot Piles out of 43"
+10:22:09 Server: Object 11:143 not found (message 94)
+10:22:09 Server: Object 11:144 not found (message 94)
+10:22:09 Server: Object 11:145 not found (message 94)
+10:22:09 Server: Object 11:155 not found (message 70)
+10:22:09 Server: Object 11:153 not found (message 94)
+10:22:09 Server: Object 11:154 not found (message 94)
+10:22:09 Server: Object 11:156 not found (message 94)
+10:22:09 Server: Object 11:157 not found (message 94)
+10:22:09 Server: Object 11:166 not found (message 70)
+10:22:09 Server: Object 11:158 not found (message 70)
+10:22:09 Server: Object 11:159 not found (message 94)
+10:22:09 Server: Object 11:160 not found (message 94)
+10:22:09 Server: Object 11:161 not found (message 94)
+10:22:09 Server: Object 11:162 not found (message 94)
+10:22:09 Server: Object 11:163 not found (message 94)
+10:22:09 Server: Object 11:164 not found (message 94)
+10:22:09 Server: Object 11:165 not found (message 94)
+10:22:09 Server: Object 11:167 not found (message 94)
+10:22:09 Server: Object 11:168 not found (message 94)
+10:22:09 Server: Object 11:169 not found (message 94)
+10:22:09 Server: Object 11:170 not found (message 94)
+10:22:09 Server: Object 11:172 not found (message 70)
+10:22:09 Server: Object 11:171 not found (message 94)
+10:22:10 Server: Object 11:176 not found (message 94)
+10:22:10 Server: Object 11:175 not found (message 94)
+10:22:10 Server: Object 11:177 not found (message 94)
+10:22:10 Server: Object 11:173 not found (message 94)
+10:22:10 Server: Object 11:174 not found (message 94)
+10:22:10 Server: Object 11:180 not found (message 94)
+10:22:10 Server: Object 11:179 not found (message 94)
+10:22:10 Server: Object 11:178 not found (message 94)
+10:22:10 Server: Object 11:181 not found (message 70)
+10:22:10 Server: Object 11:186 not found (message 94)
+10:22:10 Server: Object 11:184 not found (message 94)
+10:22:10 Server: Object 11:185 not found (message 70)
+10:22:10 Server: Object 11:188 not found (message 70)
+10:22:10 Server: Object 11:187 not found (message 70)
+10:22:10 Server: Object 11:182 not found (message 94)
+10:22:10 Server: Object 11:183 not found (message 94)
+10:22:10 Server: Object 11:189 not found (message 94)
+10:22:10 Server: Object 11:190 not found (message 94)
+10:22:10 Server: Object 11:191 not found (message 70)
+10:22:10 Server: Object 11:192 not found (message 70)
+10:22:10 Server: Object 11:193 not found (message 70)
+10:22:26 Server: Object 11:202 not found (message 70)
+10:22:26 Server: Object 11:203 not found (message 94)
+10:22:26 Server: Object 11:204 not found (message 94)
+10:22:26 Server: Object 11:205 not found (message 94)
+10:22:26 Server: Object 11:206 not found (message 94)
+10:22:26 Server: Object 11:215 not found (message 70)
+10:22:26 Server: Object 11:216 not found (message 94)
+10:23:49 "CLEANUP: Deleted 1 Loot Piles out of 225"
+10:24:40 "TIME SYNC: Local Time set to [2013,8,3,18,24]"
+10:24:49 "CLEANUP: Deleted 2 Loot Piles out of 224"
+10:25:32 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
+10:25:49 "CLEANUP: Deleted 5 Loot Piles out of 222"
+10:26:49 "CLEANUP: Deleted 2 Loot Piles out of 221"
+10:29:00 "ERROR: server_playerSync: Cannot Sync Player Marek [410]. Position in debug! [-7244.98,19534.3,1.12686]"
+10:29:05 "ERROR: Cannot Sync Character Marek as no characterID"
+10:29:10 "ERROR: Cannot Sync Character Marek as no characterID"
