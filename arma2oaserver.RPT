@@ -521,3 +521,11 @@ g from [1623.71,218.188,300] to [5875.51,8640.92] NOW!(TIME:8311||LT:MilitarySpe
 12:20:23 "CLEANUP: Deleted 4 Loot Piles out of 77"
 12:25:19 "TIME SYNC: Local Time set to [2013,8,3,20,25]"
 12:25:23 "CLEANUP: Deleted 1 Loot Piles out of 74"
+12:30:03 "RUNNING EVENT: crash_spawner on [2014,7,2,20,30]"
+12:30:03 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+12:30:03 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [10450,-630,1000] to [4450.67,6726.93] NOW!(TIME:10113||LT:MilitarySpecial)"
+12:30:19 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
+12:35:19 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
+12:35:24 "CLEANUP: Deleted 3 Loot Piles out of 78"
