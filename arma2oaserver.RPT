@@ -555,3 +555,7 @@ g from [10450,-630,1000] to [7670.3,4878.34] NOW!(TIME:3755||LT:HeliCrash_No50s)
 15:36:21 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
 15:37:44 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a MH6J_DZ in/at Any for 4x ItemGoldBar10oz"
 15:37:44 "DELETE: B 1-1-D:1 (Marek) REMOTE Deleted by ID: 4332"
+15:39:26 "CLEANUP: Deleted 1 Loot Piles out of 120"
+15:41:21 "TIME SYNC: Local Time set to [2013,8,3,17,41]"
+15:41:26 "CLEANUP: Deleted 1 Loot Piles out of 119"
+15:46:21 "TIME SYNC: Local Time set to [2013,8,3,17,46]"
