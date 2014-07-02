@@ -239,3 +239,7 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  9:43:12 "[DZMS]: Running Minor Mission SM12."
  9:43:27 "[DZMS]: Running Major Mission SM11."
  9:45:18 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 9:49:33 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+ 9:50:18 "TIME SYNC: Local Time set to [2013,8,3,17,50]"
+ 9:51:34 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 9:55:18 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
