@@ -649,3 +649,15 @@ g from [6993.7,173.053,300] to [13512.1,5075.42] NOW!(TIME:11915||LT:MilitarySpe
 13:25:19 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
 13:25:30 "CLEANUP: Deleted 60 Loot Piles out of 218"
 13:26:27 "CLEANUP: Deleted 10 Loot Piles out of 158"
+13:29:42 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+13:30:08 "RUNNING EVENT: crash_spawner on [2014,7,2,21,30]"
+13:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+13:30:08 "CRASHSPAWNER: UH-60M started
+
+g from [15186,11857,300] to [9386.76,15127.5] NOW!(TIME:13717||LT:HeliCrash_No50s)"
+13:30:19 "TIME SYNC: Local Time set to [2013,8,3,21,30]"
+13:31:24 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+13:31:34 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+13:32:21 "ERROR: Cannot Sync Character Marek as no characterID"
+13:35:19 "TIME SYNC: Local Time set to [2013,8,3,21,35]"
+13:38:29 "CLEANUP: Deleted 52 Loot Piles out of 163"
