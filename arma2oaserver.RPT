@@ -538,3 +538,68 @@ g from [10450,-630,1000] to [4450.67,6726.93] NOW!(TIME:10113||LT:MilitarySpecia
 12:51:24 "CLEANUP: Deleted 1 Loot Piles out of 99"
 12:52:24 "CLEANUP: Deleted 4 Loot Piles out of 98"
 12:55:19 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
+13:00:05 "RUNNING EVENT: crash_spawner on [2014,7,2,21,0]"
+13:00:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+13:00:05 "CRASHSPAWNER: Mi-24D started
+
+g from [6993.7,173.053,300] to [13512.1,5075.42] NOW!(TIME:11915||LT:MilitarySpecial)"
+13:00:19 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
+13:04:25 Server: Object 5:85 not found (message 70)
+13:04:50 Server: Object 5:111 not found (message 94)
+13:04:50 Server: Object 5:110 not found (message 70)
+13:04:50 Server: Object 5:115 not found (message 94)
+13:04:50 Server: Object 5:114 not found (message 70)
+13:04:50 Server: Object 5:117 not found (message 70)
+13:04:51 Server: Object 5:121 not found (message 70)
+13:04:51 Server: Object 5:120 not found (message 70)
+13:04:51 Server: Object 5:119 not found (message 70)
+13:04:51 Server: Object 5:118 not found (message 70)
+13:04:51 Server: Object 5:116 not found (message 70)
+13:04:51 Server: Object 5:113 not found (message 70)
+13:04:51 Server: Object 5:123 not found (message 94)
+13:04:51 Server: Object 5:130 not found (message 70)
+13:04:51 Server: Object 5:122 not found (message 70)
+13:04:51 Server: Object 5:128 not found (message 94)
+13:04:51 Server: Object 5:127 not found (message 70)
+13:04:51 Server: Object 5:124 not found (message 94)
+13:04:51 Server: Object 5:129 not found (message 94)
+13:04:51 Server: Object 5:126 not found (message 94)
+13:04:51 Server: Object 5:131 not found (message 70)
+13:04:51 Server: Object 5:132 not found (message 94)
+13:04:51 Server: Object 5:125 not found (message 70)
+13:04:51 Server: Object 5:133 not found (message 94)
+13:04:51 Server: Object 5:134 not found (message 94)
+13:04:51 Server: Object 5:135 not found (message 94)
+13:05:16 Server: Object 5:146 not found (message 99)
+13:05:16 Server: Object 5:147 not found (message 91)
+13:05:17 Server: Object 5:149 not found (message 70)
+13:05:17 Server: Object 5:148 not found (message 70)
+13:05:17 Server: Object 5:152 not found (message 70)
+13:05:17 Server: Object 5:151 not found (message 70)
+13:05:17 Server: Object 5:150 not found (message 70)
+13:05:18 Server: Object 5:151 not found (message 94)
+13:05:19 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
+13:05:25 Server: Object 5:154 not found (message 94)
+13:05:25 Server: Object 5:155 not found (message 70)
+13:05:25 Server: Object 5:153 not found (message 94)
+13:05:28 "CLEANUP: Deleted 22 Loot Piles out of 187"
+13:05:33 Server: Object 5:161 not found (message 70)
+13:05:33 Server: Object 5:162 not found (message 94)
+13:05:33 Server: Object 5:163 not found (message 70)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:43 Server: Object 5:169 not found (message 99)
+13:05:44 Server: Object 5:169 not found (message 99)
+13:05:44 Server: Object 5:169 not found (message 99)
+13:05:44 Server: Object 5:169 not found (message 99)
+13:05:53 Server: Object 5:171 not found (message 98)
+13:05:53 Server: Object 5:172 not found (message 91)
+13:06:06 Server: Object 5:66 not found (message 99)
+13:06:27 "CLEANUP: Deleted 1 Loot Piles out of 175"
+13:07:27 "CLEANUP: Deleted 2 Loot Piles out of 174"
