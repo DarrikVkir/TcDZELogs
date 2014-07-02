@@ -759,3 +759,10 @@ g from [1623.71,218.188,300] to [12907.1,5587.29] NOW!(TIME:18150||LT:MilitarySp
 19:45:58 "CRASHSPAWNER: Crash completed! Wreck at: [7758.42,7426.99,-0.0729065] - Runtime: 10016 Seconds || Distance from calculated POC: 7645 meters"
 19:50:22 "TIME SYNC: Local Time set to [2013,8,3,21,50]"
 19:55:22 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
+20:00:04 "RUNNING EVENT: crash_spawner on [2014,7,2,22,0]"
+20:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+20:00:04 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15186,11857,300] to [5733.17,13914.5] NOW!(TIME:20012||LT:Hospital)"
+20:00:22 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+20:05:22 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
