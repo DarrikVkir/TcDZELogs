@@ -419,3 +419,6 @@ g from [6993.7,173.053,300] to [4938.54,8261.06] NOW!(TIME:4718||LT:MilitarySpec
 11:10:39 Server: Object 4:507 not found (message 70)
 11:15:08 "RUNNING EVENT: supply_drop on [2014,7,2,19,15]"
 11:15:19 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
+11:20:19 "TIME SYNC: Local Time set to [2013,8,3,19,20]"
+11:25:19 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
+11:26:27 "CLEANUP: Deleted 3 Loot Piles out of 313"
