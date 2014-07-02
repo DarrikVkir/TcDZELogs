@@ -243,3 +243,44 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  9:50:18 "TIME SYNC: Local Time set to [2013,8,3,17,50]"
  9:51:34 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
  9:55:18 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
+10:00:00 "RUNNING EVENT: crash_spawner on [2014,7,2,18,0]"
+10:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+10:00:00 "CRASHSPAWNER: UH-1H started
+
+g from [6986,-630,1000] to [3737.75,14269.5] NOW!(TIME:1114||LT:HeliCrash_No50s)"
+10:00:18 "TIME SYNC: Local Time set to [2013,8,3,18,0]"
+10:00:19 "CLEANUP: Deleted 5 Animals out of 5"
+10:02:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:02:38 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:02:39 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:02:39 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:05:18 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
+10:05:20 "CLEANUP: Deleted 13 Loot Piles out of 16"
+10:06:17 "CRASHSPAWNER: UH-1H just exploded at [3750.56,14280.7,3.14374]!, "
+10:06:17 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+10:06:17 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+10:06:17 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3746.71,14281.8,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3754.5,14275.4,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3757.71,14278.8,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3742.73,14272.8,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3750.09,14294,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3754.67,14277.7,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3748.27,14285.9,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3749.1,14275,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3747.07,14272.4,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Loot spawn at '[3749.65,14272.1,0]' with loot table 'HeliCrash_No50s'"
+10:06:18 "CRASHSPAWNER: Crash completed! Wreck at: [3750.56,14280.7,0.0602112] - Runtime: 378 Seconds || Distance from calculated POC: 19 meters"
+10:07:29 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
