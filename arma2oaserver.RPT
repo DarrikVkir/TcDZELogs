@@ -452,3 +452,47 @@ g from [1623.71,218.188,300] to [2535.83,14242.2] NOW!(TIME:151||LT:MilitarySpec
 14:58:33 "DISCONNECT: Marek (199810246) Object: B 1-1-A:1 (Marek) REMOTE, _characterID: 412 at loc [-7239.67,19539.3,0.246155]"
 14:58:33 "ERROR: server_playerSync: Cannot Sync Player Marek [412]. Position in debug! [-7239.67,19539.3,0.246155]"
 14:58:33 Client: Remote object 7:2 not found
+15:00:04 "RUNNING EVENT: crash_spawner on [2014,7,2,17,0]"
+15:00:04 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+15:00:04 "CRASHSPAWNER: MV-22 started
+
+g from [1623.71,218.188,300] to [6271.2,2859.9] NOW!(TIME:1953||LT:MilitarySpecial)"
+15:01:21 "TIME SYNC: Local Time set to [2013,8,3,17,1]"
+15:01:23 "CLEANUP: Deleted 6 Loot Piles out of 30"
+15:01:25 "CLEANUP: Deleted 38 Animals out of 55"
+15:02:22 Server: Object 7:368 not found (message 94)
+15:02:22 Server: Object 7:369 not found (message 94)
+15:02:22 Server: Object 7:370 not found (message 94)
+15:02:22 Server: Object 7:371 not found (message 70)
+15:02:30 Server: Object 7:381 not found (message 91)
+15:02:30 Server: Object 7:380 not found (message 99)
+15:02:30 Server: Object 7:383 not found (message 91)
+15:02:31 Server: Object 7:382 not found (message 99)
+15:02:31 Server: Object 7:385 not found (message 91)
+15:02:31 Server: Object 7:384 not found (message 99)
+15:02:31 Server: Object 7:387 not found (message 91)
+15:02:31 Server: Object 7:386 not found (message 99)
+15:02:31 Server: Object 7:389 not found (message 91)
+15:02:31 Server: Object 7:388 not found (message 99)
+15:02:31 Server: Object 7:391 not found (message 91)
+15:02:31 Server: Object 7:390 not found (message 99)
+15:02:31 Server: Object 7:392 not found (message 99)
+15:02:31 Server: Object 7:393 not found (message 91)
+15:02:31 Server: Object 7:395 not found (message 91)
+15:02:31 Server: Object 7:394 not found (message 99)
+15:03:27 Server: Object 7:401 not found (message 91)
+15:03:27 Server: Object 7:400 not found (message 99)
+15:06:21 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
+15:06:58 "CRASHSPAWNER: MV-22 just exploded at [6092.38,3080.15,7.77027]!, "
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6088.39,3079.84,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6096.71,3075.79,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6100.63,3079.87,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6104.1,3083.14,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6096.5,3081.06,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6087.38,3084.32,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6083.96,3074.55,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6094.79,3074.97,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6089.89,3083.35,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6086.55,3076.28,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Loot spawn at '[6090.79,3085.25,0]' with loot table 'MilitarySpecial'"
+15:06:58 "CRASHSPAWNER: Crash completed! Wreck at: [6092.33,3080.2,-0.00959778] - Runtime: 414 Seconds || Distance from calculated POC: 285 meters"
