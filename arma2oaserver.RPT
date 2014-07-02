@@ -367,3 +367,19 @@ g from [6993.7,173.053,300] to [6075.32,3186.83] NOW!(TIME:2396||LT:HeliCrash_No
 23:13:23 "TIME SYNC: Local Time set to [2013,8,3,19,13]"
 23:15:07 "RUNNING EVENT: supply_drop on [2014,7,2,19,15]"
 23:18:23 "TIME SYNC: Local Time set to [2013,8,3,19,18]"
+23:22:08 "get: STRING (254818886), sent: STRING (254818886)"
+23:22:08 "DISCONNECT: Michael (254818886) Object: B 1-1-E:1 (Michael) REMOTE, _characterID: 314 at loc [13855.3,11718.6,17.708]"
+23:22:08 Client: Remote object 3:8 not found
+23:22:08 "get: STRING (9375302), sent: STRING (9375302)"
+23:22:08 "DISCONNECT: Cripto (9375302) Object: B 1-1-D:1 (Cripto) REMOTE, _characterID: 265 at loc [13860.9,11737.1,18.4149]"
+23:22:08 Client: Remote object 4:8 not found
+23:22:08 Warning: Cleanup player - person 4:7 not found
+23:22:10 Warning: Cleanup player - person 4:7 not found
+23:22:14 Warning: Cleanup player - person 3:7 not found
+23:22:18 "get: STRING (4486214), sent: STRING (4486214)"
+23:22:18 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 390 at loc [13842.8,11773.3,0.000789642]"
+23:22:18 Client: Remote object 5:8 not found
+23:22:22 Warning: Cleanup player - person 5:7 not found
+23:23:23 "TIME SYNC: Local Time set to [2013,8,3,19,23]"
+23:23:27 "CLEANUP: Deleted 38 Animals out of 38"
+23:28:23 "TIME SYNC: Local Time set to [2013,8,3,19,28]"
