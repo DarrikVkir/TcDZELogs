@@ -350,3 +350,8 @@ g from [1623.71,218.188,300] to [2535.83,14242.2] NOW!(TIME:151||LT:MilitarySpec
 14:38:28 "CUSTOM: Selected "4715""
 14:38:28 "PUBLISH: B 1-1-B:1 (Marek) REMOTE Bought GNT_C185U with ID "1207271266730784""
 14:38:54 NAT Negotiation completed
+14:41:21 "TIME SYNC: Local Time set to [2013,8,3,16,41]"
+14:46:21 "TIME SYNC: Local Time set to [2013,8,3,16,46]"
+14:46:22 "CLEANUP: Deleted 1 Animals out of 17"
+14:49:03 Server: Object 7:160 not found (message 91)
+14:49:03 Server: Object 7:159 not found (message 98)
