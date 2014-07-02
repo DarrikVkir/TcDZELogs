@@ -527,3 +527,13 @@ g from [15098,8144,300] to [11102.3,7980.35] NOW!(TIME:10816||LT:HeliCrash_No50s
 23:43:57 "CLEANUP: Deleted 30 Loot Piles out of 361"
 23:47:53 "CLEANUP: Deleted 2 Loot Piles out of 346"
 23:48:40 "TIME SYNC: Local Time set to [2013,8,3,19,48]"
+23:52:53 "CLEANUP: Deleted 6 Loot Piles out of 357"
+23:53:40 "TIME SYNC: Local Time set to [2013,8,3,19,53]"
+23:53:54 "CLEANUP: Deleted 14 Loot Piles out of 414"
+23:54:54 "CLEANUP: Deleted 11 Loot Piles out of 402"
+23:55:07 "TELEPORT REVERT for player UID#112666374 from [6377.1,14239.7,0.0312195] to [-7244.89,19534.3,1.11844], 14615 meters, now at [6377.1,14239.7,0.0312195]"
+23:55:07 "ERROR: Cannot Sync Character sokol as no characterID"
+23:55:29 "TELEPORT REVERT for player UID#112666374 from [6377.1,14239.7,0.0312195] to [-7244.89,19534.3,1.11929], 14615 meters, now at [6377.1,14239.7,0.0312195]"
+23:55:29 SetFace error: class CfgFaces.OharaHead.Face07 not found
+23:55:29 Error: Error during SetFace - class CfgFaces.OharaHead.Face07 not found
+23:58:40 "TIME SYNC: Local Time set to [2013,8,3,19,58]"
