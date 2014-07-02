@@ -694,3 +694,34 @@ g from [15186,11857,300] to [9386.76,15127.5] NOW!(TIME:13717||LT:HeliCrash_No50
 13:56:23 Server: Object 8:349 not found (message 91)
 13:56:27 "CLEANUP: Deleted 1 Loot Piles out of 125"
 13:57:27 "CLEANUP: Deleted 1 Loot Piles out of 124"
+14:00:00 "RUNNING EVENT: crash_spawner on [2014,7,2,22,0]"
+14:00:00 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+14:00:00 "CRASHSPAWNER: A-10 started
+
+g from [6993.7,173.053,300] to [3755.89,6846.78] NOW!(TIME:15509||LT:MilitarySpecial)"
+14:00:19 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+14:00:55 "TELEPORT REVERT for player UID#199810246 from [11445.2,7477.96,15.7126] to [11442.5,7477.41,15.664], 3 meters, now at [11441.5,7477.53,15.6409]"
+14:01:01 "CRASHSPAWNER: A-10 just exploded at [4057.22,6738.23,4.62534]!, "
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4057.14,6742.23,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4062.97,6735.98,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4050.32,6733.11,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4049.15,6736.14,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4065.25,6732.41,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4051.16,6729.11,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4066.31,6731.69,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4053.06,6746.21,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Loot spawn at '[4048.28,6736.66,0]' with loot table 'MilitarySpecial'"
+14:01:01 "CRASHSPAWNER: Crash completed! Wreck at: [4057.26,6738.17,0.00534058] - Runtime: 61 Seconds || Distance from calculated POC: 321 meters"
+14:01:27 "CLEANUP: Deleted 2 Loot Piles out of 134"
+14:02:00 "get: STRING (199810246), sent: STRING (199810246)"
+14:02:00 "DISCONNECT: Marek (199810246) Object: B 1-1-D:1 (Marek) REMOTE, _characterID: 412 at loc [11447,7471.96,15.429]"
+14:02:01 Client: Remote object 8:2 not found
+14:02:01 Client: Remote object 8:235 not found
+14:03:03 Server: Object 8:380 not found (message 70)
+14:05:19 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
+14:05:27 "CLEANUP: Deleted 1 Loot Piles out of 123"
+14:06:27 "CLEANUP: Deleted 1 Loot Piles out of 123"
+14:07:27 "CLEANUP: Deleted 1 Loot Piles out of 122"
+14:07:55 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a HMMWV_M1151_M2_CZ_DES_EP1_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+14:07:55 "DELETE: B 1-1-C:1 (telconrar) REMOTE Deleted by ID: 987630"
+14:08:51 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M4A1_AIM_SD_camo in/at Hero Trader for 5x ItemGoldBar"
