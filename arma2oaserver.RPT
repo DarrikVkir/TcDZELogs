@@ -267,3 +267,86 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 14:29:11 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
 14:29:11 "[DZMS]: Running Major Mission SM4."
 14:29:22 "[DZMS]: Running Minor Mission SM6."
+14:30:01 "RUNNING EVENT: crash_spawner on [2014,7,2,16,30]"
+14:30:01 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+14:30:01 "CRASHSPAWNER: MV-22 started
+
+g from [1623.71,218.188,300] to [2535.83,14242.2] NOW!(TIME:151||LT:MilitarySpecial)"
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:30:37 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:21 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:32:23 NetServer::SendMsg: cannot find channel #716803225, users.card=1
+14:32:23 NetServer: users.get failed when sending to 716803225
+14:32:23 Message not sent - error 0, message ID = ffffffff, to 716803225 (Marek)
+14:34:31 "CRASHSPAWNER: MV-22 just exploded at [2709.46,13974.2,2.9025]!, "
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2712.81,13972,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2713.3,13967.8,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2704.71,13983.2,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2702.13,13973,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2704.34,13978.1,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2704.22,13974.5,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2710.97,13980.7,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2718.28,13978.4,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2713.38,13973.4,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2704.77,13973.7,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2701.05,13975.5,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Loot spawn at '[2715.21,13972.7,0]' with loot table 'MilitarySpecial'"
+14:34:31 "CRASHSPAWNER: Crash completed! Wreck at: [2709.41,13974.4,-0.141754] - Runtime: 270 Seconds || Distance from calculated POC: 324 meters"
+14:36:21 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
+14:38:26 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a GNT_C185U in/at Unknown Trader City for 4x ItemGoldBar10oz"
+14:38:27 "PUBLISH: Attempt 281e8100# 1063300: arrow_down_large_ep1.p3d REMOTE"
+14:38:27 "HIVE: WRITE: "CHILD:308:3195:GNT_C185U:0:3761:[128,[12072.7,12667.3,0]]:[]:[]:1:1207271266730784:""
+14:38:28 "HIVE: WRITE: "CHILD:388:1207271266730784:""
+14:38:28 "CUSTOM: Selected "4715""
+14:38:28 "PUBLISH: B 1-1-B:1 (Marek) REMOTE Bought GNT_C185U with ID "1207271266730784""
+14:38:54 NAT Negotiation completed
