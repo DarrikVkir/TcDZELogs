@@ -623,3 +623,14 @@ g from [15098,8144,300] to [8083.64,13506.6] NOW!(TIME:7349||LT:HeliCrash_No50s)
 16:41:22 "TIME SYNC: Local Time set to [2013,8,3,18,41]"
 16:46:22 "TIME SYNC: Local Time set to [2013,8,3,18,46]"
 16:46:23 "CLEANUP: Deleted 19 Animals out of 40"
+16:51:22 "TIME SYNC: Local Time set to [2013,8,3,18,51]"
+16:51:42 "DELETE: B 1-1-C:1 (telconrar) REMOTE Deleted by ID: 4669"
+16:51:42 "PUBLISH: B 1-1-C:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89391921590173""
+16:52:50 "get: STRING (120160390), sent: STRING (120160390)"
+16:52:50 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [8922.9,9210.3,0.00143433]"
+16:52:50 Client: Remote object 4:6 not found
+16:52:50 Client: Remote object 4:5 not found
+16:52:50 Warning: Cleanup player - person 4:7 not found
+16:52:51 Warning: Cleanup player - person 4:7 not found
+16:53:26 "CLEANUP: Deleted 2 Loot Piles out of 42"
+16:56:22 "TIME SYNC: Local Time set to [2013,8,3,18,56]"
