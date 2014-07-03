@@ -284,3 +284,33 @@ g from [6993.7,173.053,300] to [6805.15,14229.1] NOW!(TIME:1149||LT:MilitarySpec
  7:14:53 "CLEANUP: Deleted 1 Loot Piles out of 17"
  7:15:05 "RUNNING EVENT: supply_drop on [2014,7,3,21,15]"
  7:15:53 "CLEANUP: Deleted 2 Loot Piles out of 23"
+ 7:18:24 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 7:18:24   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 7:18:24 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 7:18:24   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 7:18:24 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 7:18:24   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 7:18:24 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 7:18:24   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 7:18:24 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 7:18:24   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 7:18:25   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 7:19:52 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
+ 7:19:53 "CLEANUP: Deleted 1 Loot Piles out of 21"
+ 7:24:52 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
