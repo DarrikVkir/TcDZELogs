@@ -575,3 +575,7 @@ g from [1623.71,218.188,300] to [936.962,4373.73] NOW!(TIME:13455||LT:MilitarySp
 12:33:12 "CRASHSPAWNER: Loot spawn at '[939.328,4653.02,0]' with loot table 'MilitarySpecial'"
 12:33:12 "CRASHSPAWNER: Crash completed! Wreck at: [937.249,4659.39,0.0130234] - Runtime: 189 Seconds || Distance from calculated POC: 286 meters"
 12:34:38 "TIME SYNC: Local Time set to [2013,8,3,20,34]"
+12:39:38 "TIME SYNC: Local Time set to [2013,8,3,20,39]"
+12:44:38 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
+12:47:11 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:47:31 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
