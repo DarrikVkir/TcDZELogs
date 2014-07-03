@@ -614,3 +614,29 @@ g from [6993.7,173.053,300] to [5639.71,15366.3] NOW!(TIME:15257||LT:HeliCrash_N
 13:06:02 "CRASHSPAWNER: Loot spawn at '[5674.34,15318,0]' with loot table 'HeliCrash_No50s'"
 13:06:02 "CRASHSPAWNER: Crash completed! Wreck at: [5662.28,15317.8,-0.244202] - Runtime: 356 Seconds || Distance from calculated POC: 52 meters"
 13:06:56 "CLEANUP: Deleted 25 Loot Piles out of 318"
+13:09:02 "CLEANUP: Deleted 5 Loot Piles out of 311"
+13:09:38 "TIME SYNC: Local Time set to [2013,8,3,21,9]"
+13:09:57 "CLEANUP: Deleted 49 Loot Piles out of 330"
+13:10:43 "PDEATH: Player Died 253568646"
+13:10:54 "CLEANUP: Deleted 22 Loot Piles out of 282"
+13:11:00 "ERROR: server_playerSync: Cannot Sync Player Vladislav [416]. Position in debug! [-7239.67,19539.3,0.245483]"
+13:11:01 "get: STRING (253568646), sent: STRING (253568646)"
+13:11:01 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 416 at loc [-7239.67,19539.3,0.245483]"
+13:11:01 "ERROR: server_playerSync: Cannot Sync Player Vladislav [416]. Position in debug! [-7239.67,19539.3,0.245483]"
+13:11:01 Client: Remote object 8:2 not found
+13:11:01 Client: Remote object 2:7224 not found
+13:11:01 Client: Remote object 2:7225 not found
+13:11:52 "CLEANUP: Deleted 7 Loot Piles out of 229"
+13:13:54 "CLEANUP: Deleted 44 Loot Piles out of 227"
+13:14:38 "TIME SYNC: Local Time set to [2013,8,3,21,14]"
+13:14:51 "CLEANUP: Deleted 1 Loot Piles out of 183"
+13:15:09 "RUNNING EVENT: supply_drop on [2014,7,3,21,15]"
+13:15:25 "PDEATH: Player Died 253568646"
+13:15:35 "ERROR: server_playerSync: Cannot Sync Player Vladislav [417]. Position in debug! [-7239.78,19539.2,0.261475]"
+13:15:36 "get: STRING (253568646), sent: STRING (253568646)"
+13:15:36 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 417 at loc [-7239.67,19539.3,0.245819]"
+13:15:36 "ERROR: server_playerSync: Cannot Sync Player Vladislav [417]. Position in debug! [-7239.67,19539.3,0.245819]"
+13:15:36 Client: Remote object 2:7467 not found
+13:15:36 Client: Remote object 2:7468 not found
+13:17:39 Server: Object 8:548 not found (message 94)
+13:17:39 Server: Object 8:549 not found (message 94)
