@@ -24133,3 +24133,9 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 23:38:05 "DISCONNECT: jan2430 (76561198128342745) Object: B 1-1-B:1 (jan2430) REMOTE, _characterID: 426 at loc [949.801,2013.17,0.00143003]"
 23:38:05 Client: Remote object 5:2 not found
 23:38:05 Client: Remote object 5:8 not found
+23:39:37 "TIME SYNC: Local Time set to [2013,8,3,19,39]"
+23:40:39 "get: STRING (76561198128342745), sent: STRING (76561198128342745)"
+23:40:39 "DISCONNECT: jan2430 (76561198128342745) Object: B 1-1-B:1 (jan2430) REMOTE, _characterID: 426 at loc [938.537,2240.45,0.00175095]"
+23:40:39 Client: Remote object 6:2 not found
+23:40:39 Client: Remote object 6:8 not found
+23:44:37 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
