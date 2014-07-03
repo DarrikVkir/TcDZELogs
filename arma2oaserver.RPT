@@ -678,3 +678,41 @@ g from [15098,8144,300] to [6107.96,3477.43] NOW!(TIME:9494||LT:HeliCrash_No50s)
 17:05:19 "TIME SYNC: Local Time set to [2013,8,3,19,5]"
 17:05:26 "CLEANUP: Deleted 4 Loot Piles out of 119"
 17:07:25 "CLEANUP: Deleted 2 Loot Piles out of 115"
+17:10:19 "TIME SYNC: Local Time set to [2013,8,3,19,10]"
+17:10:21 "CLEANUP: Deleted 16 Animals out of 37"
+17:12:12 "[DZMS]: Major SM9 Fire Base Mission has Ended."
+17:12:12 Error in expression < <= 30  } count playableunits > 0};
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+17:12:12   Error position: <_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+17:12:12   Error Undefined variable in expression: _vehicle
+17:12:12 File z\addons\dayz_server\EMS\Missions\Major\SM9.sqf, line 43
+17:12:12 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+17:12:12   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+17:12:12   Error Undefined variable in expression: _object
+17:12:12 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+17:12:36 "[DZMS]: Running Major Mission SM6."
+17:15:06 "RUNNING EVENT: supply_drop on [2014,7,3,19,15]"
+17:15:19 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
+17:15:26 "CLEANUP: Deleted 11 Loot Piles out of 124"
+17:15:40 "get: STRING (254102534), sent: STRING (254102534)"
+17:15:40 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 419 at loc [5316.08,8393.78,0.00146484]"
+17:15:40 Client: Remote object 9:6 not found
+17:15:40 Client: Remote object 9:5 not found
+17:15:40 Client: Remote object 9:2 not found
+17:16:26 "CLEANUP: Deleted 15 Loot Piles out of 112"
+17:18:12 SetFace error: class CfgFaces.RodriguezHead.Face01 not found
+17:18:12 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face01 not found
