@@ -360,3 +360,13 @@ g from [6993.7,173.053,300] to [6985.45,7507.57] NOW!(TIME:4743||LT:HeliCrash_No
  8:05:02 "CLEANUP: Deleted 63 Loot Piles out of 233"
  8:05:59 "CLEANUP: Deleted 19 Loot Piles out of 171"
  8:06:58 "CLEANUP: Deleted 7 Loot Piles out of 152"
+ 8:08:58 "CLEANUP: Deleted 1 Loot Piles out of 158"
+ 8:09:52 "TIME SYNC: Local Time set to [2013,8,3,22,9]"
+ 8:09:59 "CLEANUP: Deleted 1 Loot Piles out of 157"
+ 8:14:33 "get: STRING (120160390), sent: STRING (120160390)"
+ 8:14:33 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [6226.13,14254.3,0.00149536]"
+ 8:14:33 Client: Remote object 3:8 not found
+ 8:14:35 Warning: Cleanup player - person 3:7 not found
+ 8:14:52 "TIME SYNC: Local Time set to [2013,8,3,22,14]"
+ 8:14:53 "CLEANUP: Deleted 10 Animals out of 10"
+ 8:15:03 "RUNNING EVENT: supply_drop on [2014,7,3,22,15]"
