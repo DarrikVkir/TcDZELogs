@@ -905,3 +905,14 @@ g from [6986,-630,1000] to [2909.07,8793.02] NOW!(TIME:13088||LT:HeliCrash_No50s
 18:05:19 "CLEANUP: Deleted 2 players and 0 zombies out of 5 dead"
 18:05:19 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
 18:06:27 "CLEANUP: Deleted 15 Loot Piles out of 116"
+18:10:19 "TIME SYNC: Local Time set to [2013,8,3,20,10]"
+18:10:20 "CLEANUP: Deleted 6 Animals out of 28"
+18:10:27 "CLEANUP: Deleted 1 Loot Piles out of 101"
+18:14:27 "CLEANUP: Deleted 2 Loot Piles out of 102"
+18:14:41 SetFace error: class CfgFaces.RodriguezHead.Face01 not found
+18:14:41 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face01 not found
+18:15:04 "RUNNING EVENT: supply_drop on [2014,7,3,20,15]"
+18:15:19 "Purging player: 3461c080# 1068149: man_survivor.p3d"
+18:15:19 "CLEANUP: Deleted 1 players and 0 zombies out of 3 dead"
+18:15:19 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
+18:16:27 "CLEANUP: Deleted 6 Loot Piles out of 101"
