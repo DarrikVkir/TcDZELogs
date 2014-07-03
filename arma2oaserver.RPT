@@ -569,3 +569,28 @@ g from [15186,11857,300] to [876.517,12387.3] NOW!(TIME:5890||LT:HeliCrash_No50s
 16:06:21 "CRASHSPAWNER: Loot spawn at '[960.891,12400.9,0]' with loot table 'HeliCrash_No50s'"
 16:06:21 "CRASHSPAWNER: Crash completed! Wreck at: [953.664,12408.5,0.31308] - Runtime: 381 Seconds || Distance from calculated POC: 86 meters"
 16:07:24 "CLEANUP: Deleted 2 Loot Piles out of 90"
+16:08:24 "CLEANUP: Deleted 9 Loot Piles out of 88"
+16:09:24 "CLEANUP: Deleted 11 Loot Piles out of 79"
+16:09:29 Server: Object 7:375 not found (message 91)
+16:09:29 Server: Object 7:374 not found (message 99)
+16:09:29 Server: Object 7:387 not found (message 91)
+16:09:29 Server: Object 7:386 not found (message 99)
+16:09:29 Server: Object 7:385 not found (message 91)
+16:09:29 Server: Object 7:384 not found (message 99)
+16:09:29 Server: Object 7:388 not found (message 98)
+16:09:29 Server: Object 7:389 not found (message 91)
+16:10:15 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a MH6J_DZ in/at Any for 8x ItemGoldBar10oz"
+16:10:16 "PUBLISH: Attempt 33aa2400# 1066205: arrow_down_large_ep1.p3d REMOTE"
+16:10:16 "HIVE: WRITE: "CHILD:308:3195:MH6J_DZ:0:8473:[4,[12072.7,12667.3,0]]:[]:[]:1:12072712667306509:""
+16:10:17 "HIVE: WRITE: "CHILD:388:12072712667306509:""
+16:10:17 "CUSTOM: Selected "4734""
+16:10:17 "PUBLISH: B 1-1-E:1 (Vladislav) REMOTE Bought MH6J_DZ with ID "12072712667306509""
+16:10:19 "TIME SYNC: Local Time set to [2013,8,3,18,10]"
+16:10:23 "CLEANUP: Deleted 2 Loot Piles out of 80"
+16:10:27 Server: Object 6:360 not found (message 94)
+16:12:24 "CLEANUP: Deleted 6 Loot Piles out of 110"
+16:14:24 "CLEANUP: Deleted 1 Loot Piles out of 104"
+16:15:02 "RUNNING EVENT: supply_drop on [2014,7,3,18,15]"
+16:15:19 "TIME SYNC: Local Time set to [2013,8,3,18,15]"
+16:15:24 "CLEANUP: Deleted 1 Loot Piles out of 110"
+16:16:24 "CLEANUP: Deleted 1 Loot Piles out of 112"
