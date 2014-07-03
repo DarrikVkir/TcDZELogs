@@ -750,3 +750,67 @@ if(DZE_DeathMsgSide) then {
 17:24:26 "CLEANUP: Deleted 1 Loot Piles out of 114"
 17:25:19 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
 17:25:20 "CLEANUP: Deleted 8 Animals out of 33"
+17:30:01 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-E:1 (Vladislav) REMOTE with M240_DZ from 6.00791m with 1.47472 dmg"
+17:30:01 "PKILL: Daelin was killed by Vladislav with weapon M240_DZ from 6.00791m"
+17:30:01 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+17:30:01   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+17:30:01   Error Undefined variable in expression: dze_deathmsgside
+17:30:01 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+17:30:01 "PDEATH: Player Died 254102534"
+17:30:08 "RUNNING EVENT: crash_spawner on [2014,7,3,19,30]"
+17:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+17:30:08 "CRASHSPAWNER: UH-1Y started
+
+g from [6993.7,173.053,300] to [10189.1,8281.03] NOW!(TIME:11296||LT:HeliCrash_No50s)"
+17:30:16 "ERROR: server_playerSync: Cannot Sync Player Daelin [420]. Position in debug! [-7239.67,19539.3,0.245972]"
+17:30:17 "get: STRING (254102534), sent: STRING (254102534)"
+17:30:17 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 420 at loc [-7239.67,19539.3,0.245972]"
+17:30:17 "ERROR: server_playerSync: Cannot Sync Player Daelin [420]. Position in debug! [-7239.67,19539.3,0.245972]"
+17:30:19 "TIME SYNC: Local Time set to [2013,8,3,19,30]"
+17:32:22 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-E:1 (Vladislav) REMOTE with M240_DZ from 61.5464m with 1.3953 dmg"
+17:32:22 "PKILL: Daelin was killed by Vladislav with weapon M240_DZ from 61.5464m"
+17:32:22 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+17:32:22   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+17:32:22   Error Undefined variable in expression: dze_deathmsgside
+17:32:22 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+17:32:22 "PDEATH: Player Died 254102534"
+17:32:39 "ERROR: server_playerSync: Cannot Sync Player Daelin [421]. Position in debug! [-7239.67,19539.3,0.245575]"
+17:32:40 "get: STRING (254102534), sent: STRING (254102534)"
+17:32:40 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 421 at loc [-7239.67,19539.3,0.245575]"
+17:32:40 "ERROR: server_playerSync: Cannot Sync Player Daelin [421]. Position in debug! [-7239.67,19539.3,0.245575]"
+17:34:27 "CLEANUP: Deleted 1 Loot Piles out of 136"
+17:35:19 "TIME SYNC: Local Time set to [2013,8,3,19,35]"
+17:35:27 "CLEANUP: Deleted 4 Loot Piles out of 135"
+17:35:28 "PDEATH: Player Died 254102534"
+17:35:47 "ERROR: server_playerSync: Cannot Sync Player Daelin [422]. Position in debug! [-7239.67,19539.3,0.245819]"
+17:35:48 "get: STRING (254102534), sent: STRING (254102534)"
+17:35:48 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 422 at loc [-7239.67,19539.3,0.245819]"
+17:35:48 "ERROR: server_playerSync: Cannot Sync Player Daelin [422]. Position in debug! [-7239.67,19539.3,0.245819]"
+17:35:48 Client: Remote object 10:249 not found
+17:35:48 Client: Remote object 10:248 not found
+17:35:48 Warning: Cleanup player - person 10:250 not found
+17:36:35 "get: STRING (253568646), sent: STRING (253568646)"
+17:36:35 "DISCONNECT: Vladislav (253568646) Object: B 1-1-E:1 (Vladislav) REMOTE, _characterID: 418 at loc [5333.81,2082.28,0.00143862]"
+17:36:35 Client: Remote object 7:0 not found
+17:36:35 Client: Remote object 7:94 not found
+17:36:35 Warning: Cleanup player - person 7:93 not found
