@@ -341,3 +341,51 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 14:25:12 Server: Object 3:70 not found (message 99)
 14:25:12 Server: Object 3:70 not found (message 99)
 14:25:18 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:15 Server: Object 3:115 not found (message 99)
+14:29:16 Server: Object 3:115 not found (message 99)
+14:29:16 Server: Object 3:115 not found (message 99)
+14:29:16 Server: Object 3:115 not found (message 99)
+14:29:53 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+14:30:00 "RUNNING EVENT: crash_spawner on [2014,7,3,16,30]"
+14:30:00 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+14:30:00 "CRASHSPAWNER: A-10 started
+
+g from [15098,8144,300] to [1339.88,12170.2] NOW!(TIME:493||LT:MilitarySpecial)"
+14:30:18 "TIME SYNC: Local Time set to [2013,8,3,16,30]"
+14:33:53 "CRASHSPAWNER: A-10 just exploded at [1552.07,11956.3,5.95697]!, "
+14:33:53 "CRASHSPAWNER: Loot spawn at '[1548.21,11955.2,0]' with loot table 'MilitarySpecial'"
+14:33:53 "CRASHSPAWNER: Loot spawn at '[1556.97,11960,0]' with loot table 'MilitarySpecial'"
+14:33:53 "CRASHSPAWNER: Loot spawn at '[1561,11953.8,0]' with loot table 'MilitarySpecial'"
+14:33:53 "CRASHSPAWNER: Loot spawn at '[1548.64,11954.1,0]' with loot table 'MilitarySpecial'"
+14:33:53 "CRASHSPAWNER: Loot spawn at '[1547.94,11953.8,0]' with loot table 'MilitarySpecial'"
+14:33:53 "CRASHSPAWNER: Loot spawn at '[1552.4,11947.7,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Loot spawn at '[1550.91,11963.1,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Loot spawn at '[1550.64,11948.6,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Loot spawn at '[1544.56,11953.6,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Loot spawn at '[1551.64,11947.3,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Loot spawn at '[1541.56,11951.2,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Loot spawn at '[1548.97,11964.7,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Loot spawn at '[1557.01,11954.8,0]' with loot table 'MilitarySpecial'"
+14:33:54 "CRASHSPAWNER: Crash completed! Wreck at: [1552.24,11956.2,0.0382385] - Runtime: 233 Seconds || Distance from calculated POC: 302 meters"
+14:35:18 "TIME SYNC: Local Time set to [2013,8,3,16,35]"
+14:36:38 Server: Object 3:194 not found (message 91)
+14:36:38 Server: Object 3:193 not found (message 99)
+14:36:38 Server: Object 3:196 not found (message 91)
+14:36:38 Server: Object 3:195 not found (message 99)
+14:36:39 Server: Object 3:199 not found (message 99)
+14:36:39 Server: Object 3:200 not found (message 91)
+14:37:05 Server: Object 5:112 not found (message 91)
+14:37:42 Server: Object 5:238 not found (message 70)
+14:37:42 Server: Object 5:237 not found (message 70)
