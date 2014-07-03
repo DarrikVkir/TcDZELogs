@@ -1026,3 +1026,10 @@ g from [15098,8144,300] to [4041.22,11215.4] NOW!(TIME:18485||LT:MilitarySpecial
 19:46:52 "CRASHSPAWNER: Crash completed! Wreck at: [7394.26,6586.39,-0.125732] - Runtime: 10003 Seconds || Distance from calculated POC: 3372 meters"
 19:50:20 "TIME SYNC: Local Time set to [2013,8,3,21,50]"
 19:55:20 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
+20:00:02 "RUNNING EVENT: crash_spawner on [2014,7,3,22,0]"
+20:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+20:00:02 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [4276.92,9548.11] NOW!(TIME:20287||LT:HeliCrash_No50s)"
+20:00:20 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+20:05:20 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
