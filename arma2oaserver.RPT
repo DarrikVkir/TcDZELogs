@@ -704,3 +704,52 @@ g from [1623.71,218.188,300] to [10449.3,9241.01] NOW!(TIME:17050||LT:MilitarySp
 13:54:44 "[DZMS]: Running Minor Mission SM8."
 13:54:50 "CLEANUP: Deleted 9 Loot Piles out of 163"
 13:56:50 "CLEANUP: Deleted 4 Loot Piles out of 155"
+13:59:35 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a M24_des_EP1 in/at Stary for 6x ItemGoldBar"
+13:59:38 "TIME SYNC: Local Time set to [2013,8,3,21,59]"
+14:00:03 "RUNNING EVENT: crash_spawner on [2014,7,3,22,0]"
+14:00:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+14:00:03 "CRASHSPAWNER: UH-1Y started
+
+g from [15186,11857,300] to [5044.14,7873.34] NOW!(TIME:18852||LT:HeliCrash_No50s)"
+14:00:19 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a M4A3_CCO_EP1 in/at Stary for 5x ItemGoldBar"
+14:01:10 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a m240_scoped_EP1_DZE in/at Stary for 6x ItemGoldBar"
+14:04:16 Server: Object 8:942 not found (message 98)
+14:04:16 Server: Object 8:943 not found (message 91)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 98)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:943 not found (message 91)
+14:04:16 Server: Object 8:943 not found (message 91)
+14:04:16 Server: Object 8:943 not found (message 91)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:16 Server: Object 8:942 not found (message 99)
+14:04:17 Server: Object 8:942 not found (message 99)
+14:04:17 Server: Object 8:942 not found (message 99)
+14:04:17 Server: Object 8:942 not found (message 99)
+14:04:17 Server: Object 8:942 not found (message 99)
+14:04:17 Server: Object 8:942 not found (message 99)
+14:04:17 Server: Object 8:942 not found (message 99)
+14:04:39 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
+14:04:57 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a DZ_Backpack_EP1 in/at Stary for 4x ItemGoldBar"
+14:05:18 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a ItemGPS in/at Stary for 1x ItemGoldBar"
+14:05:50 "CLEANUP: Deleted 2 Loot Piles out of 172"
+14:06:52 "CLEANUP: Deleted 28 Loot Piles out of 170"
+14:07:08 "CRASHSPAWNER: UH-1Y just exploded at [5057.47,7882.65,-0.44281]!, "
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5053.49,7882.25,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5058.39,7875.1,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5060.24,7878,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5052.67,7888,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5054.92,7875.22,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5064.81,7882.37,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5062.64,7883.59,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5057.66,7877.65,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5055.22,7888.35,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Loot spawn at '[5063.09,7886.45,0]' with loot table 'HeliCrash_No50s'"
+14:07:08 "CRASHSPAWNER: Crash completed! Wreck at: [5057.47,7882.65,-0.0655823] - Runtime: 425 Seconds || Distance from calculated POC: 17 meters"
+14:08:08 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a HandGrenade_west in/at Stary for 2x ItemGoldBar"
