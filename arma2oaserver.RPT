@@ -992,3 +992,11 @@ _pos = g>
 18:50:20 "TIME SYNC: Local Time set to [2013,8,3,20,50]"
 18:55:20 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
 18:55:21 "CLEANUP: Deleted 24 Animals out of 24"
+19:00:08 "RUNNING EVENT: crash_spawner on [2014,7,3,21,0]"
+19:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+19:00:08 "CRASHSPAWNER: UH-60M started
+
+g from [15186,11857,300] to [1023.13,7578.81] NOW!(TIME:16693||LT:HeliCrash_No50s)"
+19:00:20 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
+19:04:28 "CLEANUP: Deleted 1 Loot Piles out of 102"
+19:05:20 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
