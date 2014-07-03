@@ -504,3 +504,10 @@ g from [6986,-630,1000] to [7748.57,4781.71] NOW!(TIME:9587||LT:HeliCrash_No50s)
  1:18:24 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
  1:23:24 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
  1:28:24 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
+ 1:30:05 "RUNNING EVENT: crash_spawner on [2014,7,2,21,30]"
+ 1:30:05 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 1:30:05 "CRASHSPAWNER: AH-1Z started
+
+g from [10450,-630,1000] to [1255.73,3736.03] NOW!(TIME:11390||LT:MilitarySpecial)"
+ 1:33:24 "TIME SYNC: Local Time set to [2013,8,3,21,33]"
+ 1:38:24 "TIME SYNC: Local Time set to [2013,8,3,21,38]"
