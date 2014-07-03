@@ -525,3 +525,17 @@ g from [1623.71,218.188,300] to [4031.02,10989.1] NOW!(TIME:4097||LT:MilitarySpe
 15:47:03 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a M16A2 in/at Stary for 1x ItemGoldBar"
 15:47:25 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a AKS_74_U in/at Stary for 1x ItemGoldBar"
 15:48:15 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+15:48:35 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a Skin_Survivor2_DZ in/at Stary for 1x ItemGoldBar"
+15:48:45 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a Skin_Survivor2_DZ in/at Stary for 1x ItemGoldBar"
+15:49:23 "CLEANUP: Deleted 2 Loot Piles out of 98"
+15:50:19 "TIME SYNC: Local Time set to [2013,8,3,17,50]"
+15:51:38 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a HMMWV_DZ in/at Stary for 2x ItemGoldBar10oz"
+15:51:38 "DELETE: B 1-1-E:1 (Vladislav) REMOTE Deleted by ID: 190825"
+15:52:44 Server: Object 7:238 not found (message 99)
+15:52:44 Server: Object 7:239 not found (message 91)
+15:54:38 Server: Object 6:257 not found (message 91)
+15:54:38 Server: Object 6:256 not found (message 99)
+15:54:38 Server: Object 6:258 not found (message 99)
+15:54:38 Server: Object 6:259 not found (message 91)
+15:55:19 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
+15:57:24 "CLEANUP: Deleted 2 Loot Piles out of 107"
