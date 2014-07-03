@@ -421,3 +421,12 @@ g from [15098,8144,300] to [1339.88,12170.2] NOW!(TIME:493||LT:MilitarySpecial)"
 14:45:19 "TIME SYNC: Local Time set to [2013,8,3,16,45]"
 14:46:24 "CLEANUP: Deleted 14 Loot Piles out of 185"
 14:47:21 Server: Object 3:263 not found (message 94)
+14:48:24 "CLEANUP: Deleted 3 Loot Piles out of 209"
+14:50:11 "ERROR: server_playerSync: Cannot Sync Player Daelin [419]. Position in debug! [-7245.06,19534.4,1.13254]"
+14:50:11 SetFace error: class CfgFaces.RodriguezHead.Face01 not found
+14:50:11 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face01 not found
+14:50:19 "TIME SYNC: Local Time set to [2013,8,3,16,50]"
+14:50:25 "CLEANUP: Deleted 23 Loot Piles out of 209"
+14:51:23 "CLEANUP: Deleted 6 Loot Piles out of 185"
+14:55:19 "TIME SYNC: Local Time set to [2013,8,3,16,55]"
+14:55:19 "CLEANUP: Deleted 5 Animals out of 11"
