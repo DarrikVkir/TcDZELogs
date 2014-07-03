@@ -890,3 +890,18 @@ if(DZE_DeathMsgSide) then {
 17:55:24 "get: STRING (254102534), sent: STRING (254102534)"
 17:55:24 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 424 at loc [-7239.67,19539.3,0.245575]"
 17:55:24 "ERROR: server_playerSync: Cannot Sync Player Daelin [424]. Position in debug! [-7239.67,19539.3,0.245575]"
+18:00:03 "RUNNING EVENT: crash_spawner on [2014,7,3,20,0]"
+18:00:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+18:00:03 "CRASHSPAWNER: UH-1H started
+
+g from [6986,-630,1000] to [2909.07,8793.02] NOW!(TIME:13088||LT:HeliCrash_No50s)"
+18:00:19 "TIME SYNC: Local Time set to [2013,8,3,20,0]"
+18:00:32 "CLEANUP: Deleted 31 Loot Piles out of 261"
+18:01:30 "CLEANUP: Deleted 2 Loot Piles out of 230"
+18:03:30 "CLEANUP: Deleted 18 Loot Piles out of 228"
+18:04:33 "CLEANUP: Deleted 94 Loot Piles out of 210"
+18:05:19 "Purging player: 34748080# 1067620: man_survivor.p3d"
+18:05:19 "Purging player: 244b8080# 1068134: man_survivor.p3d"
+18:05:19 "CLEANUP: Deleted 2 players and 0 zombies out of 5 dead"
+18:05:19 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
+18:06:27 "CLEANUP: Deleted 15 Loot Piles out of 116"
