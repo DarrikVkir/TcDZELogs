@@ -314,3 +314,28 @@ g from [6993.7,173.053,300] to [6805.15,14229.1] NOW!(TIME:1149||LT:MilitarySpec
  7:19:52 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
  7:19:53 "CLEANUP: Deleted 1 Loot Piles out of 21"
  7:24:52 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
+ 7:29:52 "TIME SYNC: Local Time set to [2013,8,3,21,29]"
+ 7:30:07 "RUNNING EVENT: crash_spawner on [2014,7,3,21,30]"
+ 7:30:07 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 7:30:07 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [6993.7,173.053,300] to [4019.66,8707.61] NOW!(TIME:2951||LT:MilitarySpecial)"
+ 7:34:11 "CRASHSPAWNER: AV-8B (LGB) just exploded at [3977.58,8934.73,4.25946]!, "
+ 7:34:11 "CRASHSPAWNER: Loot spawn at '[3979.16,8938.41,0]' with loot table 'MilitarySpecial'"
+ 7:34:11 "CRASHSPAWNER: Loot spawn at '[3981.4,8928.75,0]' with loot table 'MilitarySpecial'"
+ 7:34:11 "CRASHSPAWNER: Loot spawn at '[3983.9,8942.81,0]' with loot table 'MilitarySpecial'"
+ 7:34:11 "CRASHSPAWNER: Loot spawn at '[3976.88,8938.78,0]' with loot table 'MilitarySpecial'"
+ 7:34:11 "CRASHSPAWNER: Loot spawn at '[3980.39,8937.69,0]' with loot table 'MilitarySpecial'"
+ 7:34:11 "CRASHSPAWNER: Loot spawn at '[3979.08,8928.95,0]' with loot table 'MilitarySpecial'"
+ 7:34:11 "CRASHSPAWNER: Loot spawn at '[3974.13,8930.21,0]' with loot table 'MilitarySpecial'"
+ 7:34:12 "CRASHSPAWNER: Loot spawn at '[3973.56,8935.31,0]' with loot table 'MilitarySpecial'"
+ 7:34:12 "CRASHSPAWNER: Loot spawn at '[3983.96,8930.24,0]' with loot table 'MilitarySpecial'"
+ 7:34:12 "CRASHSPAWNER: Crash completed! Wreck at: [3977.55,8934.72,0.00210571] - Runtime: 244 Seconds || Distance from calculated POC: 231 meters"
+ 7:34:52 "TIME SYNC: Local Time set to [2013,8,3,21,34]"
+ 7:35:07 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 7:35:24 Server: Object 3:180 not found (message 94)
+ 7:35:24 Server: Object 3:181 not found (message 94)
+ 7:35:24 Server: Object 3:182 not found (message 94)
+ 7:35:56 "CLEANUP: Deleted 1 Loot Piles out of 112"
+ 7:35:58 Server: Object 3:238 not found (message 99)
+ 7:35:58 Server: Object 3:239 not found (message 91)
