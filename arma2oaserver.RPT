@@ -294,3 +294,11 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:57:42 Client: Remote object 4:5 not found
  8:57:42 Client: Remote object 4:2 not found
  8:57:44 Warning: Cleanup player - person 4:7 not found
+ 8:59:37 "TIME SYNC: Local Time set to [2013,8,3,16,59]"
+ 9:00:09 "RUNNING EVENT: crash_spawner on [2014,7,3,17,0]"
+ 9:00:09 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+ 9:00:09 "CRASHSPAWNER: UH-1Y started
+
+g from [6986,-630,1000] to [4660.55,7092.9] NOW!(TIME:868||LT:HeliCrash_No50s)"
+ 9:04:37 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
+ 9:04:37 "CLEANUP: Deleted 5 Animals out of 5"
