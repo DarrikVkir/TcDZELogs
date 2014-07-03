@@ -579,3 +579,16 @@ g from [1623.71,218.188,300] to [936.962,4373.73] NOW!(TIME:13455||LT:MilitarySp
 12:44:38 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
 12:47:11 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
 12:47:31 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:49:38 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+12:49:41 Server: Object 8:124 not found (message 94)
+12:49:41 Server: Object 8:126 not found (message 94)
+12:49:41 Server: Object 8:125 not found (message 94)
+12:50:12 Server: Object 8:178 not found (message 91)
+12:50:12 Server: Object 8:180 not found (message 91)
+12:50:12 Server: Object 8:179 not found (message 99)
+12:50:50 "CLEANUP: Deleted 1 Loot Piles out of 191"
+12:51:40 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 4670"
+12:51:40 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89446921660173""
+12:52:35 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:54:38 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+12:57:33 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
