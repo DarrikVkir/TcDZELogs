@@ -640,3 +640,20 @@ g from [6993.7,173.053,300] to [5639.71,15366.3] NOW!(TIME:15257||LT:HeliCrash_N
 13:15:36 Client: Remote object 2:7468 not found
 13:17:39 Server: Object 8:548 not found (message 94)
 13:17:39 Server: Object 8:549 not found (message 94)
+13:18:26 NAT Negotiation completed
+13:19:30 "get: STRING (120160390), sent: STRING (120160390)"
+13:19:30 "DISCONNECT: telconrar (120160390) Object: B 1-1-B:1 (telconrar) REMOTE, _characterID: 411 at loc [386.976,14168.8,0.00137329]"
+13:19:30 Client: Remote object 5:2 not found
+13:19:30 Client: Remote object 5:8 not found
+13:19:30 Warning: Cleanup player - person 5:7 not found
+13:19:33 Warning: Cleanup player - person 5:7 not found
+13:19:38 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
+13:19:40 "CLEANUP: Deleted 31 Animals out of 38"
+13:19:51 "CLEANUP: Deleted 6 Loot Piles out of 219"
+13:20:52 "CLEANUP: Deleted 11 Loot Piles out of 219"
+13:21:50 "CLEANUP: Deleted 1 Loot Piles out of 208"
+13:22:51 "CLEANUP: Deleted 10 Loot Piles out of 207"
+13:24:38 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
+13:24:51 "CLEANUP: Deleted 2 Loot Piles out of 206"
+13:25:50 "CLEANUP: Deleted 6 Loot Piles out of 204"
+13:26:50 "CLEANUP: Deleted 9 Loot Piles out of 198"
