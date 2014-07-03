@@ -1,0 +1,882 @@
+
+
+=====================================================================
+== C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-CFwBi.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+=====================================================================
+Exe timestamp: 2014/06/01 10:01:31
+Current time:  2014/07/03 20:19:28
+
+Version 1.63.112555
+Item STR_EPOCH_BULK_DESC_MP5SD listed twice
+Item STR_ACTIONS_BUILD listed twice
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by Ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by Ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by Ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Obsolete class Animations defined in bin\config.bin/RscCompass/
+Obsolete class Animations defined in bin\config.bin/RscWatch/
+23:27:20 Server error: Player without identity Logicz (id 1551591212)
+23:27:53 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+23:27:53 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+23:27:53 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+23:27:54 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+23:27:54 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+23:28:03 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+23:28:04 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+23:28:04 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+23:28:04 "DayZ Epoch: MPframework inited"
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 No player found for channel 151863360 - message ignored
+23:28:39 Client: Remote object 2:11 not found
+23:28:40 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+23:28:41 Creation of object B 1-1-A failed, state LOGGED IN
+23:28:41 Creation of object B 1-1-A:<Empty main subgroup> failed, state LOGGED IN
+23:28:41 Client: Nonnetwork object 230e1300.
+23:28:41 Client: Nonnetwork object 230c5300.
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:41 Ref to nonnetwork object 22e7f200# 1055741: usvehicleammo.p3d
+23:28:43 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+23:28:43 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+23:28:43 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+23:28:43 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+23:28:43 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+23:28:43 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+23:28:44 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+23:28:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+23:28:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+23:28:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+23:28:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241af200# 1056989: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241add00# 1056990: usspecialweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Ref to nonnetwork object 241ad600# 1056991: usbasicweapons.p3d
+23:28:44 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+23:28:46 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+23:28:47 Creation of object Agent 0x22d00080 failed, state LOGGED IN
+23:28:47 Creation of object Agent 0x22ff2080 failed, state LOGGED IN
+23:28:47 Creation of object Agent 0x23c0a080 failed, state LOGGED IN
+23:28:47 Creation of object Agent 0x23c14080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x23c1e080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x23c28080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22bf6080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c00080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c0e080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c20080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c2a080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c3c080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c46080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c50080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c62080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x22c70080 failed, state LOGGED IN
+23:28:48 Creation of object Agent 0x24b70080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x24b7a080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x24b84080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x24b8e080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x24b98080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x24ba2080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x24bac080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x282b0080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x282ba080 failed, state LOGGED IN
+23:28:49 Creation of object Agent 0x282c4080 failed, state LOGGED IN
+23:28:49 Ref to nonnetwork object 23e9cf00# 1057601: panelak3.p3d
+23:28:49 Ref to nonnetwork object 23e9c800# 1057602: panelak3.p3d
+23:28:49 Ref to nonnetwork object 23d26b00# 1057714: panelak2.p3d
+23:28:49 Ref to nonnetwork object 23d26400# 1057715: panelak2.p3d
+23:28:49 Ref to nonnetwork object 23d25d00# 1057716: panelak2.p3d
+23:28:49 Ref to nonnetwork object 23cf9600# 1057783: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cf8f00# 1057784: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cf8800# 1057785: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cf8100# 1057786: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd7900# 1057787: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd7200# 1057788: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd6b00# 1057789: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd6400# 1057790: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd5d00# 1057791: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd5600# 1057792: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd4f00# 1057793: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd4800# 1057794: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd4100# 1057795: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23ccf900# 1057796: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23ccf200# 1057797: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cceb00# 1057798: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cce400# 1057799: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23ccdd00# 1057800: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23ccd600# 1057801: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cccf00# 1057802: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23ccc100# 1057804: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd3900# 1057805: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd3200# 1057806: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd2b00# 1057807: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object 23cd2400# 1057808: asc_lampa_sidlconc.p3d
+23:28:49 Ref to nonnetwork object Agent 0x22d00080
+23:28:49 Ref to nonnetwork object Agent 0x22ff2080
+23:28:49 Ref to nonnetwork object 255f5d00# 1058705: smalltable.p3d
+23:28:49 Ref to nonnetwork object Agent 0x23c0a080
+23:28:49 Ref to nonnetwork object Agent 0x23c14080
+23:28:49 Ref to nonnetwork object Agent 0x23c1e080
+23:28:49 Ref to nonnetwork object Agent 0x23c28080
+23:28:49 Ref to nonnetwork object Agent 0x22bf6080
+23:28:49 Ref to nonnetwork object Agent 0x22c00080
+23:28:49 Ref to nonnetwork object 25176400# 1058738: camonet_east_var1.p3d
+23:28:49 Ref to nonnetwork object 25174800# 1058742: ch_mod_c.p3d
+23:28:49 Ref to nonnetwork object 25167900# 1058744: table.p3d
+23:28:49 Ref to nonnetwork object 25167200# 1058745: chair.p3d
+23:28:49 Ref to nonnetwork object 25166b00# 1058746: table.p3d
+23:28:49 Ref to nonnetwork object 2514dd00# 1058764: smalltable.p3d
+23:28:49 Ref to nonnetwork object 2514d600# 1058765: water_pipe_ep1.p3d
+23:28:49 Ref to nonnetwork object Agent 0x22c0e080
+23:28:49 Ref to nonnetwork object Agent 0x22c20080
+23:28:49 Ref to nonnetwork object Agent 0x22c2a080
+23:28:49 Ref to nonnetwork object Agent 0x22c3c080
+23:28:49 Ref to nonnetwork object Agent 0x22c46080
+23:28:49 Ref to nonnetwork object Agent 0x22c50080
+23:28:49 Ref to nonnetwork object Agent 0x22c62080
+23:28:49 Ref to nonnetwork object Agent 0x22c70080
+23:28:49 Ref to nonnetwork object Agent 0x24b70080
+23:28:49 Ref to nonnetwork object Agent 0x24b7a080
+23:28:49 Ref to nonnetwork object Agent 0x24b84080
+23:28:49 Ref to nonnetwork object 24d35600# 1058799: info_board_ep1.p3d
+23:28:49 Ref to nonnetwork object 24d34f00# 1058800: info_board_ep1.p3d
+23:28:49 Ref to nonnetwork object 24d34800# 1058801: info_board_ep1.p3d
+23:28:49 Ref to nonnetwork object Agent 0x24b8e080
+23:28:49 Ref to nonnetwork object 24cee400# 1058811: camonetb_east.p3d
+23:28:49 Ref to nonnetwork object 24cec800# 1058815: table.p3d
+23:28:49 Ref to nonnetwork object 24cec100# 1058816: chair.p3d
+23:28:49 Ref to nonnetwork object Agent 0x24b98080
+23:28:49 Ref to nonnetwork object 24c6f900# 1058819: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6f200# 1058820: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6eb00# 1058821: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6e400# 1058822: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6dd00# 1058823: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6d600# 1058824: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6cf00# 1058825: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6c800# 1058826: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object 24c6c100# 1058827: asc_lampa_old.p3d
+23:28:49 Ref to nonnetwork object Agent 0x24ba2080
+23:28:49 Ref to nonnetwork object Agent 0x24bac080
+23:28:49 Ref to nonnetwork object 24bf6400# 1058835: chair.p3d
+23:28:49 Ref to nonnetwork object 24bf5d00# 1058836: table.p3d
+23:28:49 Ref to nonnetwork object Agent 0x282b0080
+23:28:49 Ref to nonnetwork object Agent 0x282ba080
+23:28:49 Ref to nonnetwork object Agent 0x282c4080
+23:28:49 "Res3tting B!S effects..."
+23:28:49 "[AGN] Starting Trader City Safezone Commander!"
+23:28:49 "Error: Attempting to start AGN products on a server where it should not be!"
+23:28:49 "HIVE: Starting"
+23:28:49 "HIVE: trying to get objects"
+23:28:51 "HIVE: found 2964 objects"
+23:28:51 "HIVE: Commence Object Streaming..."
+23:28:52 "HIVE: got 2370 Epoch Objects and 594 Vehicles"
+23:28:52 Ref to nonnetwork object 2848f200# 1058892: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848f200# 1058892: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848f200# 1058892: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848f200# 1058892: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848eb00# 1058893: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848eb00# 1058893: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848eb00# 1058893: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848eb00# 1058893: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848e400# 1058894: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848e400# 1058894: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848e400# 1058894: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848e400# 1058894: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848dd00# 1058895: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848dd00# 1058895: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848dd00# 1058895: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848dd00# 1058895: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848d600# 1058896: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848d600# 1058896: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848d600# 1058896: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848d600# 1058896: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2848cf00# 1058897: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848cf00# 1058897: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848cf00# 1058897: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848cf00# 1058897: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848c800# 1058898: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848c800# 1058898: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848c800# 1058898: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848c800# 1058898: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848c100# 1058899: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848c100# 1058899: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848c100# 1058899: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848c100# 1058899: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848b900# 1058900: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848b900# 1058900: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848b900# 1058900: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848b900# 1058900: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2848b200# 1058901: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848b200# 1058901: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848b200# 1058901: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848b200# 1058901: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848ab00# 1058902: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2848ab00# 1058902: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2848ab00# 1058902: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2848ab00# 1058902: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2848a400# 1058903: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848a400# 1058903: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848a400# 1058903: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2848a400# 1058903: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489d00# 1058904: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489d00# 1058904: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489d00# 1058904: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489d00# 1058904: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489600# 1058905: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489600# 1058905: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489600# 1058905: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28489600# 1058905: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28488f00# 1058906: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28488f00# 1058906: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28488f00# 1058906: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28488f00# 1058906: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 28488800# 1058907: half_floor.p3d
+23:28:52 Ref to nonnetwork object 28488800# 1058907: half_floor.p3d
+23:28:52 Ref to nonnetwork object 28488800# 1058907: half_floor.p3d
+23:28:52 Ref to nonnetwork object 28488800# 1058907: half_floor.p3d
+23:28:52 Ref to nonnetwork object 28488100# 1058908: half_floor.p3d
+23:28:52 Ref to nonnetwork object 28488100# 1058908: half_floor.p3d
+23:28:52 Ref to nonnetwork object 28488100# 1058908: half_floor.p3d
+23:28:52 Ref to nonnetwork object 28488100# 1058908: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f900# 1058909: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f900# 1058909: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f900# 1058909: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f900# 1058909: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f200# 1058910: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f200# 1058910: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f200# 1058910: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846f200# 1058910: half_floor.p3d
+23:28:52 Ref to nonnetwork object 2846eb00# 1058911: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2846eb00# 1058911: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2846eb00# 1058911: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2846eb00# 1058911: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2846e400# 1058912: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846e400# 1058912: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846e400# 1058912: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846e400# 1058912: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846dd00# 1058913: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846dd00# 1058913: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846dd00# 1058913: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846dd00# 1058913: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846d600# 1058914: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846d600# 1058914: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846d600# 1058914: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846d600# 1058914: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846cf00# 1058915: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846cf00# 1058915: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846cf00# 1058915: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846cf00# 1058915: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2846c800# 1058916: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2846c800# 1058916: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2846c800# 1058916: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2846c800# 1058916: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2846c100# 1058917: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2846c100# 1058917: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2846c100# 1058917: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2846c100# 1058917: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28463900# 1058918: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28463900# 1058918: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28463900# 1058918: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28463900# 1058918: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28462400# 1058919: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28462400# 1058919: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28462400# 1058919: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28462400# 1058919: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2844dd00# 1058920: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844dd00# 1058920: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844dd00# 1058920: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844dd00# 1058920: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844f200# 1058921: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844f200# 1058921: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844f200# 1058921: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844f200# 1058921: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844c800# 1058922: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844c800# 1058922: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844c800# 1058922: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844c800# 1058922: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844b900# 1058923: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2844b900# 1058923: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2844b900# 1058923: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2844b900# 1058923: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2844b200# 1058924: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2844b200# 1058924: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2844b200# 1058924: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2844b200# 1058924: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2844ab00# 1058925: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844ab00# 1058925: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844ab00# 1058925: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844ab00# 1058925: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2844a400# 1058926: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2844a400# 1058926: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2844a400# 1058926: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2844a400# 1058926: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28449d00# 1058927: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28449d00# 1058927: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28449d00# 1058927: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28449d00# 1058927: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28449600# 1058928: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28449600# 1058928: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28449600# 1058928: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28449600# 1058928: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28448f00# 1058929: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28448f00# 1058929: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28448f00# 1058929: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28448f00# 1058929: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28448800# 1058930: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28448800# 1058930: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28448800# 1058930: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28448800# 1058930: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28437200# 1058931: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 28437200# 1058931: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 28437200# 1058931: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 28437200# 1058931: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 28434100# 1058932: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28434100# 1058932: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28434100# 1058932: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28434100# 1058932: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2843b900# 1058933: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 2843b900# 1058933: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 2843b900# 1058933: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 2843b900# 1058933: wood_stairs_sans.p3d
+23:28:52 Ref to nonnetwork object 2843b200# 1058934: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2843b200# 1058934: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2843b200# 1058934: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2843b200# 1058934: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 2843ab00# 1058935: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2843ab00# 1058935: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2843ab00# 1058935: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2843ab00# 1058935: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2843a400# 1058936: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2843a400# 1058936: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2843a400# 1058936: large_wall.p3d
+23:28:52 Ref to nonnetwork object 2843a400# 1058936: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439d00# 1058937: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439d00# 1058937: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439d00# 1058937: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439d00# 1058937: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439600# 1058938: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439600# 1058938: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439600# 1058938: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28439600# 1058938: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28438f00# 1058939: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438f00# 1058939: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438f00# 1058939: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438f00# 1058939: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438800# 1058940: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438800# 1058940: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438800# 1058940: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438800# 1058940: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438100# 1058941: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438100# 1058941: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438100# 1058941: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28438100# 1058941: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f900# 1058942: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f900# 1058942: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f900# 1058942: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f900# 1058942: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f200# 1058943: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f200# 1058943: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f200# 1058943: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842f200# 1058943: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842eb00# 1058944: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842eb00# 1058944: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842eb00# 1058944: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842eb00# 1058944: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842e400# 1058945: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842e400# 1058945: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842e400# 1058945: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842e400# 1058945: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842dd00# 1058946: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842dd00# 1058946: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842dd00# 1058946: small_wall.p3d
+23:28:52 Ref to nonnetwork object 2842dd00# 1058946: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28431d00# 1058947: third_wall.p3d
+23:28:52 Ref to nonnetwork object 28431d00# 1058947: third_wall.p3d
+23:28:52 Ref to nonnetwork object 28431d00# 1058947: third_wall.p3d
+23:28:52 Ref to nonnetwork object 28431d00# 1058947: third_wall.p3d
+23:28:52 Ref to nonnetwork object 28431600# 1058948: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28431600# 1058948: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28431600# 1058948: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28431600# 1058948: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 28430f00# 1058949: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430f00# 1058949: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430f00# 1058949: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430f00# 1058949: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430800# 1058950: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430800# 1058950: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430800# 1058950: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430800# 1058950: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430100# 1058951: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430100# 1058951: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430100# 1058951: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 28430100# 1058951: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f900# 1058952: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f900# 1058952: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f900# 1058952: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f900# 1058952: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f200# 1058953: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f200# 1058953: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f200# 1058953: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841f200# 1058953: cinder_wall_full.p3d
+23:28:52 Ref to nonnetwork object 2841eb00# 1058954: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841eb00# 1058954: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841eb00# 1058954: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841eb00# 1058954: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841e400# 1058955: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841e400# 1058955: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841e400# 1058955: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841e400# 1058955: cinder_wall_half.p3d
+23:28:52 Ref to nonnetwork object 2841c800# 1058956: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2841c800# 1058956: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2841c800# 1058956: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2841c800# 1058956: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2841c100# 1058957: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2841c100# 1058957: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2841c100# 1058957: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2841c100# 1058957: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f900# 1058958: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f900# 1058958: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f900# 1058958: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f900# 1058958: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f200# 1058959: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f200# 1058959: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f200# 1058959: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840f200# 1058959: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840eb00# 1058960: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840eb00# 1058960: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840eb00# 1058960: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840eb00# 1058960: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840e400# 1058961: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840e400# 1058961: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840e400# 1058961: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840e400# 1058961: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840dd00# 1058962: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840dd00# 1058962: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840dd00# 1058962: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840dd00# 1058962: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840d600# 1058963: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840d600# 1058963: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840d600# 1058963: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840d600# 1058963: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840cf00# 1058964: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840cf00# 1058964: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840cf00# 1058964: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840cf00# 1058964: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c800# 1058965: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c800# 1058965: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c800# 1058965: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c800# 1058965: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c100# 1058966: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c100# 1058966: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c100# 1058966: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 2840c100# 1058966: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 28407900# 1058967: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 28407900# 1058967: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 28407900# 1058967: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 28407900# 1058967: metal_floor.p3d
+23:28:52 Ref to nonnetwork object 28407200# 1058968: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28407200# 1058968: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28407200# 1058968: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28407200# 1058968: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28406b00# 1058969: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28406b00# 1058969: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28406b00# 1058969: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28406b00# 1058969: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28406400# 1058970: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28406400# 1058970: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28406400# 1058970: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28406400# 1058970: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405d00# 1058971: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405d00# 1058971: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405d00# 1058971: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405d00# 1058971: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405600# 1058972: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405600# 1058972: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405600# 1058972: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28405600# 1058972: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28404f00# 1058973: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28404f00# 1058973: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28404f00# 1058973: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28404f00# 1058973: large_wall.p3d
+23:28:52 Ref to nonnetwork object 28404800# 1058974: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28404800# 1058974: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28404800# 1058974: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28404800# 1058974: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28404100# 1058975: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28404100# 1058975: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28404100# 1058975: small_wall.p3d
+23:28:52 Ref to nonnetwork object 28404100# 1058975: small_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff900# 1058976: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff900# 1058976: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff900# 1058976: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff900# 1058976: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff200# 1058977: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff200# 1058977: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff200# 1058977: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283ff200# 1058977: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283feb00# 1058978: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283feb00# 1058978: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283feb00# 1058978: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283feb00# 1058978: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283fe400# 1058979: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283fe400# 1058979: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283fe400# 1058979: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283fe400# 1058979: large_wall.p3d
+23:28:52 Ref to nonnetwork object 283fdd00# 1058980: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fdd00# 1058980: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fdd00# 1058980: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fdd00# 1058980: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fd600# 1058981: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fd600# 1058981: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fd600# 1058981: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fd600# 1058981: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fcf00# 1058982: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fcf00# 1058982: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fcf00# 1058982: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fcf00# 1058982: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fc800# 1058983: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fc800# 1058983: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fc800# 1058983: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fc800# 1058983: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fc100# 1058984: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fc100# 1058984: wood_floor.p3d
+23:28:52 Ref to nonnetwork object 283fc100# 1058984: wood_floor.p3d
+23:28:
