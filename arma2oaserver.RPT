@@ -493,3 +493,21 @@ g from [15186,11857,300] to [7993.39,8301.24] NOW!(TIME:2295||LT:MilitarySpecial
 15:26:22 "CLEANUP: Deleted 1 Loot Piles out of 79"
 15:27:22 "CLEANUP: Deleted 1 Loot Piles out of 78"
 15:27:24 "[DZMS]: Major SM5 Medical Ural Mission has Ended."
+15:28:44 "[DZMS]: Running Major Mission SM4."
+15:29:23 "CLEANUP: Deleted 27 Loot Piles out of 81"
+15:30:08 "RUNNING EVENT: crash_spawner on [2014,7,3,17,30]"
+15:30:08 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+15:30:08 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [4031.02,10989.1] NOW!(TIME:4097||LT:MilitarySpecial)"
+15:30:19 "TIME SYNC: Local Time set to [2013,8,3,17,30]"
+15:32:22 "CLEANUP: Deleted 1 Loot Piles out of 54"
+15:33:22 "CLEANUP: Deleted 3 Loot Piles out of 53"
+15:34:22 "CLEANUP: Deleted 1 Loot Piles out of 50"
+15:35:19 "TIME SYNC: Local Time set to [2013,8,3,17,35]"
+15:35:21 "CLEANUP: Deleted 3 Loot Piles out of 49"
+15:36:22 "CLEANUP: Deleted 2 Loot Piles out of 46"
+15:37:18 Server: Object 7:152 not found (message 98)
+15:37:18 Server: Object 7:153 not found (message 91)
+15:37:18 Server: Object 7:155 not found (message 91)
+15:37:18 Server: Object 7:161 not found (message 91)
