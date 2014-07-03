@@ -753,3 +753,22 @@ g from [15186,11857,300] to [5044.14,7873.34] NOW!(TIME:18852||LT:HeliCrash_No50
 14:07:08 "CRASHSPAWNER: Loot spawn at '[5063.09,7886.45,0]' with loot table 'HeliCrash_No50s'"
 14:07:08 "CRASHSPAWNER: Crash completed! Wreck at: [5057.47,7882.65,-0.0655823] - Runtime: 425 Seconds || Distance from calculated POC: 17 meters"
 14:08:08 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a HandGrenade_west in/at Stary for 2x ItemGoldBar"
+14:08:41 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a VolhaLimo_TK_CIV_EP1 in/at Stary for 2x ItemGoldBar"
+14:08:41 "PUBLISH: Attempt 35f68100# 1069678: arrow_down_large_ep1.p3d REMOTE"
+14:08:41 "HIVE: WRITE: "CHILD:308:3195:VolhaLimo_TK_CIV_EP1:0:4791:[94,[6292.99,7806.43,0.000152588]]:[]:[]:1:6293078064019464:""
+14:08:42 "HIVE: WRITE: "CHILD:388:6293078064019464:""
+14:08:42 "CUSTOM: Selected "4733""
+14:08:42 "PUBLISH: B 1-1-C:1 (Vladislav) REMOTE Bought VolhaLimo_TK_CIV_EP1 with ID "6293078064019464""
+14:09:39 "TIME SYNC: Local Time set to [2013,8,3,22,9]"
+14:12:24 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a Sa58V_CCO_EP1 in/at Stary for 4x ItemGoldBar"
+14:13:12 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a 1Rnd_HE_M203 in/at Stary for 2x ItemGoldBar"
+14:13:22 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a 1Rnd_HE_M203 in/at Stary for 2x ItemGoldBar"
+14:14:39 "TIME SYNC: Local Time set to [2013,8,3,22,14]"
+14:15:04 "RUNNING EVENT: supply_drop on [2014,7,3,22,15]"
+14:15:51 "CLEANUP: Deleted 12 Loot Piles out of 184"
+14:16:47 NetServer::SendMsg: cannot find channel #753563224, users.card=0
+14:16:47 NetServer: users.get failed when sending to 753563224
+14:16:47 Message not sent - error 0, message ID = ffffffff, to 753563224 (Vladislav)
+14:16:47 "get: STRING (253568646), sent: STRING (253568646)"
+14:16:47 "DISCONNECT: Vladislav (253568646) Object: B 1-1-C:1 (Vladislav) REMOTE, _characterID: 418 at loc [5889.23,8119.9,0.00170898]"
+14:16:47 Client: Remote object 8:512 not found
