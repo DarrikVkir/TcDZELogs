@@ -252,3 +252,8 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  6:43:47 Error: Bone rightshoulder doesn't exist in some skeleton 
  6:44:51 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
  6:45:05 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 6:49:51 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+ 6:51:30 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 6:51:58 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+ 6:54:51 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+ 6:55:38 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
