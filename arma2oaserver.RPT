@@ -716,3 +716,37 @@ _pos = g>
 17:16:26 "CLEANUP: Deleted 15 Loot Piles out of 112"
 17:18:12 SetFace error: class CfgFaces.RodriguezHead.Face01 not found
 17:18:12 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face01 not found
+17:18:25 "CLEANUP: Deleted 2 Loot Piles out of 98"
+17:19:25 "CLEANUP: Deleted 1 Loot Piles out of 96"
+17:20:19 "TIME SYNC: Local Time set to [2013,8,3,19,20]"
+17:20:23 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-E:1 (Vladislav) REMOTE with M240_DZ from 7.9856m with 1.47188 dmg"
+17:20:23 "PKILL: Daelin was killed by Vladislav with weapon M240_DZ from 7.9856m"
+17:20:23 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+17:20:23   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+17:20:23   Error Undefined variable in expression: dze_deathmsgside
+17:20:23 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+17:20:23 "PDEATH: Player Died 254102534"
+17:20:29 SetFace error: class CfgFaces.RodriguezHead.Face01 not found
+17:20:29 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face01 not found
+17:20:29 SetFace error: class CfgFaces.RodriguezHead.Face01 not found
+17:20:29 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face01 not found
+17:20:43 "ERROR: server_playerSync: Cannot Sync Player Daelin [419]. Position in debug! [-7239.67,19539.3,0.245483]"
+17:20:44 "get: STRING (254102534), sent: STRING (254102534)"
+17:20:44 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 419 at loc [-7239.67,19539.3,0.245483]"
+17:20:44 "ERROR: server_playerSync: Cannot Sync Player Daelin [419]. Position in debug! [-7239.67,19539.3,0.245483]"
+17:20:44 Client: Remote object 10:2 not found
+17:21:25 "CLEANUP: Deleted 1 Loot Piles out of 95"
+17:22:26 "CLEANUP: Deleted 5 Loot Piles out of 103"
+17:24:26 "CLEANUP: Deleted 1 Loot Piles out of 114"
+17:25:19 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
+17:25:20 "CLEANUP: Deleted 8 Animals out of 33"
