@@ -550,3 +550,84 @@ g from [1623.71,218.188,300] to [3290.93,4492.08] NOW!(TIME:2726||LT:HeliCrash_N
  4:53:31 "TIME SYNC: Local Time set to [2013,8,3,18,53]"
  4:56:34 "CLEANUP: Deleted 8 Loot Piles out of 65"
  4:57:34 "CLEANUP: Deleted 7 Loot Piles out of 57"
+ 4:58:31 "TIME SYNC: Local Time set to [2013,8,3,18,58]"
+ 4:58:33 "CLEANUP: Deleted 7 Loot Piles out of 50"
+ 4:59:33 "CLEANUP: Deleted 1 Loot Piles out of 43"
+ 5:00:09 "RUNNING EVENT: crash_spawner on [2014,7,4,19,0]"
+ 5:00:09 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 5:00:09 "CRASHSPAWNER: MV-22 started
+
+g from [6993.7,173.053,300] to [7594.84,14239.4] NOW!(TIME:4528||LT:MilitarySpecial)"
+ 5:00:34 "CLEANUP: Deleted 12 Loot Piles out of 42"
+ 5:01:20 Server: Object 4:931 not found (message 91)
+ 5:01:20 Server: Object 4:930 not found (message 99)
+ 5:01:43 Server: Object 4:932 not found (message 99)
+ 5:01:43 Server: Object 4:933 not found (message 91)
+ 5:01:49 Server: Object 4:934 not found (message 98)
+ 5:01:49 Server: Object 4:935 not found (message 91)
+ 5:02:16 Server: Object 4:950 not found (message 99)
+ 5:02:16 Server: Object 4:951 not found (message 91)
+ 5:02:16 Server: Object 4:958 not found (message 98)
+ 5:02:16 Server: Object 4:959 not found (message 91)
+ 5:02:16 Server: Object 4:960 not found (message 99)
+ 5:02:16 Server: Object 4:961 not found (message 91)
+ 5:02:16 Server: Object 4:963 not found (message 91)
+ 5:02:16 Server: Object 4:962 not found (message 98)
+ 5:02:16 Server: Object 4:965 not found (message 91)
+ 5:02:16 Server: Object 4:964 not found (message 99)
+ 5:02:24 Server: Object 4:972 not found (message 94)
+ 5:02:24 Server: Object 4:977 not found (message 70)
+ 5:02:24 Server: Object 4:976 not found (message 70)
+ 5:02:24 Server: Object 4:975 not found (message 70)
+ 5:02:24 Server: Object 4:974 not found (message 70)
+ 5:02:24 Server: Object 4:973 not found (message 70)
+ 5:02:24 Server: Object 4:978 not found (message 94)
+ 5:02:24 Server: Object 4:982 not found (message 70)
+ 5:02:24 Server: Object 4:981 not found (message 70)
+ 5:02:24 Server: Object 4:980 not found (message 70)
+ 5:02:24 Server: Object 4:979 not found (message 70)
+ 5:02:24 Server: Object 4:984 not found (message 70)
+ 5:02:24 Server: Object 4:983 not found (message 70)
+ 5:02:24 Server: Object 4:985 not found (message 94)
+ 5:02:24 Server: Object 4:986 not found (message 94)
+ 5:02:24 Server: Object 4:987 not found (message 94)
+ 5:02:24 Server: Object 4:988 not found (message 94)
+ 5:02:24 Server: Object 4:989 not found (message 94)
+ 5:02:24 Server: Object 4:990 not found (message 94)
+ 5:02:24 Server: Object 4:991 not found (message 94)
+ 5:02:24 Server: Object 4:992 not found (message 94)
+ 5:02:24 Server: Object 4:993 not found (message 94)
+ 5:02:24 Server: Object 4:994 not found (message 94)
+ 5:02:24 Server: Object 4:995 not found (message 94)
+ 5:02:25 Server: Object 4:996 not found (message 94)
+ 5:02:25 Server: Object 4:997 not found (message 94)
+ 5:02:45 Server: Object 4:1000 not found (message 91)
+ 5:02:45 Server: Object 4:999 not found (message 99)
+ 5:02:58 "CRASHSPAWNER: MV-22 just exploded at [7393.82,14389.2,4.00848]!, "
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7396.25,14386,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7401.12,14386.4,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7394.59,14399.7,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7392.81,14402.3,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7406.03,14394.2,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7396.27,14400.8,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7402.07,14381.4,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7400.88,14396.7,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Loot spawn at '[7404.07,14384.7,0]' with loot table 'MilitarySpecial'"
+ 5:02:58 "CRASHSPAWNER: Crash completed! Wreck at: [7393.83,14389,-0.0709229] - Runtime: 169 Seconds || Distance from calculated POC: 257 meters"
+ 5:03:31 "TIME SYNC: Local Time set to [2013,8,3,19,3]"
+ 5:04:34 Server: Object 4:1004 not found (message 91)
+ 5:04:34 Server: Object 4:1003 not found (message 99)
+ 5:04:34 Server: Object 4:1005 not found (message 99)
+ 5:04:34 Server: Object 4:1006 not found (message 91)
+ 5:04:34 Server: Object 4:1007 not found (message 98)
+ 5:04:34 Server: Object 4:1008 not found (message 91)
+ 5:04:50 Server: Object 4:1017 not found (message 70)
+ 5:04:50 Server: Object 4:1016 not found (message 70)
+ 5:07:27 Server: Object 4:1039 not found (message 91)
+ 5:07:27 Server: Object 4:1038 not found (message 99)
+ 5:07:39 Server: Object 4:1043 not found (message 91)
+ 5:07:39 Server: Object 4:1042 not found (message 98)
+ 5:07:51 Server: Object 4:1022 not found (message 99)
+ 5:08:31 "Purging player: 2fff4080# 1062129: ghillie_overall.p3d"
+ 5:08:31 "CLEANUP: Deleted 1 players and 0 zombies out of 1 dead"
+ 5:08:31 "TIME SYNC: Local Time set to [2013,8,3,19,8]"
