@@ -291,3 +291,44 @@ g from [1623.71,218.188,300] to [9073.95,8762.76] NOW!(TIME:464||LT:HeliCrash_No
  8:36:13 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
  8:36:34 "[DZMS]: Minor SM4 Crash Site Mission has Ended."
  8:36:50 "[DZMS]: Running Minor Mission SM1."
+ 8:39:09 Server: Object 5:129 not found (message 98)
+ 8:39:09 Server: Object 5:130 not found (message 91)
+ 8:39:09 Server: Object 5:132 not found (message 91)
+ 8:39:09 Server: Object 5:136 not found (message 91)
+ 8:39:09 Server: Object 5:135 not found (message 99)
+ 8:39:09 Server: Object 5:139 not found (message 98)
+ 8:39:09 Server: Object 5:140 not found (message 91)
+ 8:40:33 "CRASHSPAWNER: Mi-17 just exploded at [9104.42,8885.71,2.96603]!, "
+ 8:40:33 "CRASHSPAWNER: Loot spawn at '[9100.42,8885.67,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:33 "CRASHSPAWNER: Loot spawn at '[9109.02,8884.4,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:33 "CRASHSPAWNER: Loot spawn at '[9106.18,8894.18,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:33 "CRASHSPAWNER: Loot spawn at '[9109.12,8889.63,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:33 "CRASHSPAWNER: Loot spawn at '[9097.36,8891.95,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:33 "CRASHSPAWNER: Loot spawn at '[9104.55,8895.65,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Loot spawn at '[9099.47,8881.46,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Loot spawn at '[9096.13,8884.79,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Loot spawn at '[9100.34,8891.44,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Loot spawn at '[9097.42,8888.38,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Loot spawn at '[9098.79,8891.72,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Loot spawn at '[9109.06,8886.02,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Loot spawn at '[9106.45,8881.11,0]' with loot table 'HeliCrash_No50s'"
+ 8:40:34 "CRASHSPAWNER: Crash completed! Wreck at: [9104.43,8885.73,-0.283264] - Runtime: 629 Seconds || Distance from calculated POC: 131 meters"
+ 8:41:13 "TIME SYNC: Local Time set to [2013,8,3,16,41]"
+ 8:42:11 Server: Object 3:114 not found (message 98)
+ 8:42:11 Server: Object 3:115 not found (message 91)
+ 8:42:11 Server: Object 3:117 not found (message 91)
+ 8:42:11 Server: Object 3:116 not found (message 99)
+ 8:42:12 Server: Object 3:118 not found (message 99)
+ 8:42:12 Server: Object 3:119 not found (message 91)
+ 8:42:12 Server: Object 3:124 not found (message 98)
+ 8:42:12 Server: Object 3:125 not found (message 91)
+ 8:43:53 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 8:44:07 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 8:44:36 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+ 8:44:48 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 8:44:57 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a M24_des_EP1 in/at Stary for 6x ItemGoldBar"
+ 8:46:13 "TIME SYNC: Local Time set to [2013,8,3,16,46]"
+ 8:46:17 "CLEANUP: Deleted 18 Loot Piles out of 88"
+ 8:47:16 "CLEANUP: Deleted 1 Loot Piles out of 72"
+ 8:47:23 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartVRotor in/at Stary for 5x ItemGoldBar"
+ 8:47:50 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartEngine in/at Stary for 5x ItemGoldBar"
