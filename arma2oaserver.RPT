@@ -460,3 +460,47 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 20:46:18 "DISCONNECT: Anwatch [BOOTY] (117139718) Object: B 1-1-C:1 (Anwatch [BOOTY]) REMOTE, _characterID: 339 at loc [3584.01,9406.4,0.00131226]"
 20:46:18 Client: Remote object 3:8 not found
 20:47:08 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+20:49:29 "SAFE UNLOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+20:49:30 Server: Object 4:14 not found (message 94)
+20:49:30 Server: Object 4:12 not found (message 94)
+20:49:30 Server: Object 4:13 not found (message 94)
+20:49:30 Server: Object 4:15 not found (message 94)
+20:49:30 Server: Object 4:16 not found (message 94)
+20:49:56 "MAINTAIN AREA BY Anwatch [BOOTY] - 126 Objects at [3607.38,9461.75,0.00143433]"
+20:50:33 "SAFE LOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+20:52:08 "TIME SYNC: Local Time set to [2013,8,3,16,52]"
+20:53:41 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:56:53 "get: STRING (117139718), sent: STRING (117139718)"
+20:56:53 "DISCONNECT: Anwatch [BOOTY] (117139718) Object: B 1-1-B:1 (Anwatch [BOOTY]) REMOTE, _characterID: 339 at loc [3592.04,9424.25,0.0015564]"
+20:56:53 Client: Remote object 4:6 not found
+20:56:53 Client: Remote object 4:5 not found
+20:56:53 Client: Remote object 4:2 not found
+20:56:54 Warning: Cleanup player - person 4:7 not found
+20:57:08 "TIME SYNC: Local Time set to [2013,8,3,16,57]"
