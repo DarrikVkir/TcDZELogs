@@ -24139,3 +24139,6 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 23:40:39 Client: Remote object 6:2 not found
 23:40:39 Client: Remote object 6:8 not found
 23:44:37 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
+23:49:37 "TIME SYNC: Local Time set to [2013,8,3,19,49]"
+23:49:38 "CLEANUP: Deleted 6 Animals out of 6"
+23:54:37 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
