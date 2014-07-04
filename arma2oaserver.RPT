@@ -432,3 +432,66 @@ g from [10450,-630,1000] to [5091.7,12114.8] NOW!(TIME:7522||LT:HeliCrash_No50s)
 18:17:04 "CRASHSPAWNER: Loot spawn at '[3276.71,11276.9,0]' with loot table 'MilitarySpecial'"
 18:17:04 "CRASHSPAWNER: Loot spawn at '[3281.93,11275.2,0]' with loot table 'MilitarySpecial'"
 18:17:04 "CRASHSPAWNER: Crash completed! Wreck at: [3275.89,11271.4,-0.00570679] - Runtime: 10013 Seconds || Distance from calculated POC: 1525 meters"
+18:18:39 "TIME SYNC: Local Time set to [2013,8,3,20,18]"
+18:20:45 "CLEANUP: Deleted 5 Loot Piles out of 90"
+18:21:31 "[DZMS]: Minor SM7 Weapon Cache Mission has Ended."
+18:21:34 "[DZMS]: Running Minor Mission SM13."
+18:22:45 "CLEANUP: Deleted 4 Loot Piles out of 87"
+18:23:39 "TIME SYNC: Local Time set to [2013,8,3,20,23]"
+18:23:48 "CLEANUP: Deleted 2 Loot Piles out of 83"
+18:24:36 Server: Object 5:99 not found (message 98)
+18:24:36 Server: Object 5:100 not found (message 91)
+18:24:36 Server: Object 5:101 not found (message 98)
+18:24:36 Server: Object 5:102 not found (message 91)
+18:24:36 Server: Object 5:104 not found (message 91)
+18:24:36 Server: Object 5:103 not found (message 98)
+18:24:36 Server: Object 5:106 not found (message 91)
+18:24:36 Server: Object 5:105 not found (message 99)
+18:24:36 Server: Object 5:107 not found (message 99)
+18:24:36 Server: Object 5:108 not found (message 91)
+18:24:36 Server: Object 5:110 not found (message 91)
+18:24:36 Server: Object 5:109 not found (message 98)
+18:24:36 Server: Object 5:112 not found (message 91)
+18:24:36 Server: Object 5:111 not found (message 99)
+18:24:36 Server: Object 5:114 not found (message 91)
+18:24:36 Server: Object 5:113 not found (message 99)
+18:24:36 Server: Object 5:116 not found (message 91)
+18:24:36 Server: Object 5:115 not found (message 99)
+18:24:37 Server: Object 5:117 not found (message 99)
+18:24:37 Server: Object 5:118 not found (message 91)
+18:24:37 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-C:1 (Vladislav) REMOTE with HMMWV DZ from 0m with 0.0735797 dmg"
+18:24:37 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:24:37   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:24:37   Error Undefined variable in expression: _weapon
+18:24:37 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:24:37 Server: Object 5:120 not found (message 91)
+18:24:37 Server: Object 5:119 not found (message 99)
+18:24:37 Server: Object 5:121 not found (message 98)
+18:24:37 Server: Object 5:122 not found (message 91)
+18:24:37 Server: Object 5:123 not found (message 98)
+18:24:37 Server: Object 5:124 not found (message 91)
+18:24:37 Server: Object 5:126 not found (message 91)
+18:24:37 Server: Object 5:125 not found (message 99)
+18:24:37 Server: Object 5:127 not found (message 99)
+18:24:37 Server: Object 5:128 not found (message 91)
+18:24:37 Server: Object 5:130 not found (message 91)
+18:24:37 Server: Object 5:129 not found (message 99)
+18:25:45 "CLEANUP: Deleted 2 Loot Piles out of 96"
+18:26:45 "CLEANUP: Deleted 2 Loot Piles out of 94"
+18:27:27 Server: Object 5:186 not found (message 91)
+18:27:27 Server: Object 5:185 not found (message 99)
+18:27:28 Server: Object 5:188 not found (message 91)
+18:27:28 Server: Object 5:187 not found (message 99)
+18:27:45 "CLEANUP: Deleted 1 Loot Piles out of 92"
+18:28:10 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+18:28:12 Server: Object 6:118 not found (message 94)
+18:28:12 Server: Object 6:135 not found (message 70)
+18:28:12 Server: Object 6:133 not found (message 94)
+18:28:12 Server: Object 6:134 not found (message 94)
