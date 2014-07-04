@@ -495,3 +495,26 @@ _we>
 18:28:12 Server: Object 6:135 not found (message 70)
 18:28:12 Server: Object 6:133 not found (message 94)
 18:28:12 Server: Object 6:134 not found (message 94)
+18:28:39 "TIME SYNC: Local Time set to [2013,8,3,20,28]"
+18:28:46 "CLEANUP: Deleted 3 Loot Piles out of 137"
+18:29:46 "CLEANUP: Deleted 2 Loot Piles out of 140"
+18:30:04 "RUNNING EVENT: crash_spawner on [2014,7,4,20,30]"
+18:30:04 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+18:30:04 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [15098,8144,300] to [5601.07,14014.4] NOW!(TIME:11116||LT:MilitarySpecial)"
+18:30:17 Server: Object 6:151 not found (message 99)
+18:30:17 Server: Object 6:152 not found (message 91)
+18:30:47 "CLEANUP: Deleted 2 Loot Piles out of 138"
+18:32:45 "CRASHSPAWNER: AV-8B (LGB) just exploded at [5299.13,13896.9,5.92316]!, "
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5296.82,13893.6,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5302.55,13903.1,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5303.03,13893.1,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5291.71,13897.9,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5297.29,13905.3,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5298.96,13902.1,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5307.25,13893.2,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Loot spawn at '[5300.02,13885.6,0]' with loot table 'MilitarySpecial'"
+18:32:45 "CRASHSPAWNER: Crash completed! Wreck at: [5298.96,13896.9,0.046875] - Runtime: 161 Seconds || Distance from calculated POC: 327 meters"
+18:33:39 "TIME SYNC: Local Time set to [2013,8,3,20,33]"
+18:36:47 "CLEANUP: Deleted 2 Loot Piles out of 160"
