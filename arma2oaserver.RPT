@@ -24218,3 +24218,10 @@ g from [10450,-630,1000] to [7284.93,14087.8] NOW!(TIME:5335||LT:MilitarySpecial
  1:15:01 "RUNNING EVENT: supply_drop on [2014,7,3,21,15]"
  1:19:38 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
  1:24:38 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
+ 1:29:38 "TIME SYNC: Local Time set to [2013,8,3,21,29]"
+ 1:30:02 "RUNNING EVENT: crash_spawner on [2014,7,3,21,30]"
+ 1:30:02 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 1:30:02 "CRASHSPAWNER: AH-1Z started
+
+g from [15186,11857,300] to [13553.2,11861] NOW!(TIME:7135||LT:MilitarySpecial)"
+ 1:34:38 "TIME SYNC: Local Time set to [2013,8,3,21,34]"
