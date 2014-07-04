@@ -736,3 +736,14 @@ g from [6993.7,173.053,300] to [2552.79,14030.7] NOW!(TIME:13058||LT:MilitarySpe
 12:24:48 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 5440257319143"
 12:26:15 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
 12:26:26 "CLEANUP: Deleted 2 Loot Piles out of 176"
+12:30:07 "RUNNING EVENT: crash_spawner on [2014,7,4,20,30]"
+12:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+12:30:07 "CRASHSPAWNER: UH-1H started
+
+g from [15186,11857,300] to [5470.28,15301.5] NOW!(TIME:14861||LT:HeliCrash_No50s)"
+12:31:15 "TIME SYNC: Local Time set to [2013,8,3,20,31]"
+12:34:48 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:35:27 "CLEANUP: Deleted 8 Loot Piles out of 195"
+12:36:15 "TIME SYNC: Local Time set to [2013,8,3,20,36]"
+12:37:19 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:37:28 "CLEANUP: Deleted 1 Loot Piles out of 190"
