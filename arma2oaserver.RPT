@@ -1041,3 +1041,81 @@ g from [15186,11857,300] to [942.36,15391.6] NOW!(TIME:18458||LT:HeliCrash_No50s
 13:56:15 "TIME SYNC: Local Time set to [2013,8,3,21,56]"
 13:56:17 "CLEANUP: Deleted 6 Animals out of 60"
 13:57:31 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a UH1H_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+13:58:28 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a UH1H_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+13:58:28 "DELETE: B 1-1-D:1 (telconrar) REMOTE Deleted by ID: 65520"
+14:00:01 "RUNNING EVENT: crash_spawner on [2014,7,4,22,0]"
+14:00:01 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+14:00:01 "CRASHSPAWNER: A-10 started
+
+g from [15186,11857,300] to [4226.61,7616.74] NOW!(TIME:20252||LT:MilitarySpecial)"
+14:01:15 "TIME SYNC: Local Time set to [2013,8,3,22,1]"
+14:01:32 "CLEANUP: Deleted 3 Loot Piles out of 200"
+14:02:57 "CRASHSPAWNER: A-10 just exploded at [4278.98,7323.98,5.00284]!, "
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4280.67,7320.36,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4271.99,7324.93,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4276.63,7319.87,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4274.28,7322.28,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4285.48,7324.05,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4271.94,7326.5,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4288.46,7326.83,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4277.67,7331.93,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4277.71,7334.67,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4285.67,7314.22,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4293.56,7329.88,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4284,7324.06,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Loot spawn at '[4284.7,7329.88,0]' with loot table 'MilitarySpecial'"
+14:02:57 "CRASHSPAWNER: Crash completed! Wreck at: [4278.97,7323.98,3.05176e-005] - Runtime: 176 Seconds || Distance from calculated POC: 297 meters"
+14:04:36 "TELEPORT REVERT for player UID#199810246 from [11484.9,10517.6,0.355896] to [11492.5,10525.6,0.000976563], 11 meters, now at [11484.9,10517.6,0.355896]"
+14:05:02 "TELEPORT REVERT for player UID#199810246 from [11485.4,10516.2,0.304825] to [11492.2,10525,0.00088501], 11 meters, now at [11485.4,10516.2,0.304825]"
+14:05:21 "TELEPORT REVERT for player UID#199810246 from [11486,10514.7,0.33638] to [11491.9,10524.2,0.000656128], 11 meters, now at [11486,10514.7,0.33638]"
+14:05:22 "nil player object attempting PV, :["120160390","telconrar"]"
+14:05:22 "get: STRING (), sent: STRING (120160390)"
+14:05:22 "DISCONNECT: telconrar (120160390) Object: B 1-1-D:1 REMOTE, _characterID: 411 at loc [11469.8,10552.9,0.00213623]"
+14:05:22 Client: Remote object 9:2 not found
+14:05:22 Server: Object 9:8 not found (message 89)
+14:05:24 Warning: Cleanup player - person 9:7 not found
+14:05:27 Server: Object 9:8 not found (message 89)
+14:05:32 Server: Object 9:8 not found (message 89)
+14:05:33 "TELEPORT REVERT for player UID#199810246 from [11486.3,10514,0.306732] to [11491.8,10523.8,0.000762939], 11 meters, now at [11486.3,10514,0.306732]"
+14:05:37 Server: Object 9:8 not found (message 89)
+14:05:42 Server: Object 9:8 not found (message 89)
+14:05:45 "TELEPORT REVERT for player UID#199810246 from [11486.7,10513.2,0.306885] to [11491.6,10523.4,0.000793457], 11 meters, now at [11486.7,10513.2,0.306885]"
+14:05:47 Server: Object 9:8 not found (message 89)
+14:05:52 Server: Object 9:8 not found (message 89)
+14:05:57 Server: Object 9:8 not found (message 89)
+14:06:02 Server: Object 9:8 not found (message 89)
+14:06:04 "TELEPORT REVERT for player UID#199810246 from [11487.1,10512.5,0.326004] to [11491.3,10523,0.000778198], 11 meters, now at [11487.1,10512.5,0.326004]"
+14:06:07 Server: Object 9:8 not found (message 89)
+14:06:12 Server: Object 9:8 not found (message 89)
+14:06:15 "TIME SYNC: Local Time set to [2013,8,3,22,6]"
+14:06:17 Server: Object 9:8 not found (message 89)
+14:06:22 Server: Object 9:8 not found (message 89)
+14:06:27 Server: Object 9:8 not found (message 89)
+14:06:32 Server: Object 9:8 not found (message 89)
+14:06:34 "get: STRING (199810246), sent: STRING (199810246)"
+14:06:34 "DISCONNECT: Marek (199810246) Object: B 1-1-F:1 (Marek) REMOTE, _characterID: 414 at loc [11474.1,10548.3,0.00201416]"
+14:06:34 Client: Remote object 11:2 not found
+14:06:34 Client: Remote object 11:8 not found
+14:06:35 Warning: Cleanup player - person 11:7 not found
+14:06:37 Server: Object 9:8 not found (message 89)
+14:06:42 Server: Object 9:8 not found (message 89)
+14:06:47 Server: Object 9:8 not found (message 89)
+14:06:52 Server: Object 9:8 not found (message 89)
+14:06:57 Server: Object 9:8 not found (message 89)
+14:07:02 Server: Object 9:8 not found (message 89)
+14:07:07 Server: Object 9:8 not found (message 89)
+14:07:12 Server: Object 9:8 not found (message 89)
+14:07:17 Server: Object 9:8 not found (message 89)
+14:07:22 Server: Object 9:8 not found (message 89)
+14:07:27 Server: Object 9:8 not found (message 89)
+14:07:32 Server: Object 9:8 not found (message 89)
+14:07:37 Server: Object 9:8 not found (message 89)
+14:07:42 Server: Object 9:8 not found (message 89)
+14:07:47 Server: Object 9:8 not found (message 89)
+14:07:52 Server: Object 9:8 not found (message 89)
+14:07:57 Server: Object 9:8 not found (message 89)
+14:08:02 Server: Object 9:8 not found (message 89)
+14:08:07 Server: Object 9:8 not found (message 89)
+14:08:12 Server: Object 9:8 not found (message 89)
+14:08:17 Server: Object 9:8 not found (message 89)
+14:08:22 Server: Object 9:8 not found (message 89)
