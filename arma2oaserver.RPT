@@ -837,3 +837,32 @@ g from [10450,-630,1000] to [8231.45,15405.3] NOW!(TIME:15320||LT:HeliCrash_No50
  8:07:22 Server: Object 5:1230 not found (message 70)
  8:07:22 Server: Object 5:1252 not found (message 70)
  8:07:22 Server: Object 5:1251 not found (message 70)
+ 8:08:32 "TIME SYNC: Local Time set to [2013,8,3,22,8]"
+ 8:08:41 "CLEANUP: Deleted 2 Loot Piles out of 209"
+ 8:09:41 "CLEANUP: Deleted 2 Loot Piles out of 207"
+ 8:10:41 "CLEANUP: Deleted 3 Loot Piles out of 205"
+ 8:11:41 "CLEANUP: Deleted 3 Loot Piles out of 201"
+ 8:12:42 "CLEANUP: Deleted 12 Loot Piles out of 198"
+ 8:13:32 "TIME SYNC: Local Time set to [2013,8,3,22,13]"
+ 8:13:41 "CLEANUP: Deleted 1 Loot Piles out of 186"
+ 8:15:04 "RUNNING EVENT: supply_drop on [2014,7,4,22,15]"
+ 8:15:41 "CLEANUP: Deleted 2 Loot Piles out of 194"
+ 8:15:45 "CRASHSPAWNER: UH-1H just exploded at [8242.68,15345.7,5.02203]!, "
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8244.84,15342.3,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8239.71,15341.4,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8235.7,15350,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8242.43,15353.8,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8240.39,15334.5,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8228.68,15340.5,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8249.67,15348.6,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8245.26,15356.2,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Loot spawn at '[8240.73,15353.6,0]' with loot table 'HeliCrash_No50s'"
+ 8:15:45 "CRASHSPAWNER: Crash completed! Wreck at: [8242.68,15345.7,-0.271591] - Runtime: 942 Seconds || Distance from calculated POC: 61 meters"
+ 8:16:41 "CLEANUP: Deleted 1 Loot Piles out of 201"
+ 8:17:41 "CLEANUP: Deleted 2 Loot Piles out of 200"
+ 8:18:04 "get: STRING (120160390), sent: STRING (120160390)"
+ 8:18:04 "DISCONNECT: telconrar (120160390) Object: B 1-1-B:1 (telconrar) REMOTE, _characterID: 411 at loc [2852.82,2597.39,0.00164032]"
+ 8:18:04 Client: Remote object 5:2 not found
+ 8:18:04 Client: Remote object 5:8 not found
+ 8:18:04 Warning: Cleanup player - person 5:7 not found
+ 8:18:06 Warning: Cleanup player - person 5:7 not found
