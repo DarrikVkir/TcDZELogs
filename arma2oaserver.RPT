@@ -621,3 +621,18 @@ g from [1623.71,218.188,300] to [12117.7,12381.1] NOW!(TIME:12919||LT:HeliCrash_
 19:27:09 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a M24_des_EP1 in/at Stary for 6x ItemGoldBar"
 19:27:28 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
 19:27:51 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+19:28:40 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
+19:28:45 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+19:29:07 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+19:29:30 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+19:29:54 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
+19:30:00 "RUNNING EVENT: crash_spawner on [2014,7,4,21,30]"
+19:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+19:30:00 "CRASHSPAWNER: UH-60M started
+
+g from [15186,11857,300] to [5609.37,7424.02] NOW!(TIME:14711||LT:HeliCrash_No50s)"
+19:30:11 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+19:32:48 "CLEANUP: Deleted 16 Loot Piles out of 136"
+19:33:40 "TIME SYNC: Local Time set to [2013,8,3,21,33]"
+19:37:41 Client: Object 8:304 (type Type_69) not found.
+19:37:41 Client: Object 8:304 (type Type_70) not found.
