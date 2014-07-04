@@ -1179,3 +1179,31 @@ g from [1623.71,218.188,300] to [10296.1,6047.83] NOW!(TIME:8203||LT:MilitarySpe
 23:18:14 "CLEANUP: Deleted 1 Loot Piles out of 63"
 23:18:22 Server: Object 6:788 not found (message 98)
 23:18:22 Server: Object 6:789 not found (message 91)
+23:18:38 Server: Object 6:790 not found (message 99)
+23:18:38 Server: Object 6:791 not found (message 91)
+23:21:15 "CLEANUP: Deleted 1 Loot Piles out of 73"
+23:21:43 Server: Object 8:194 not found (message 70)
+23:21:43 Server: Object 8:193 not found (message 70)
+23:21:45 Client: Object 8:182 (type Type_70) not found.
+23:21:45 Client: Object 8:181 (type Type_70) not found.
+23:21:45 Client: Object 8:183 (type Type_70) not found.
+23:21:45 Client: Object 8:184 (type Type_70) not found.
+23:21:46 Client: Object 8:188 (type Type_70) not found.
+23:21:46 Client: Object 8:187 (type Type_70) not found.
+23:22:09 "TIME SYNC: Local Time set to [2013,8,3,19,22]"
+23:24:28 Client: Object 8:239 (type Type_70) not found.
+23:24:28 Client: Object 8:240 (type Type_70) not found.
+23:24:29 Client: Object 8:241 (type Type_70) not found.
+23:24:29 Client: Object 8:242 (type Type_70) not found.
+23:24:33 Client: Object 8:249 (type Type_70) not found.
+23:24:33 Client: Object 8:250 (type Type_70) not found.
+23:24:35 Client: Object 8:253 (type Type_70) not found.
+23:24:35 Client: Object 8:254 (type Type_70) not found.
+23:24:39 Client: Object 8:261 (type Type_70) not found.
+23:24:39 Client: Object 8:262 (type Type_70) not found.
+23:24:46 Client: Object 8:275 (type Type_70) not found.
+23:24:46 Client: Object 8:276 (type Type_70) not found.
+23:25:11 Client: Object 8:285 (type Type_70) not found.
+23:25:11 Client: Object 8:286 (type Type_70) not found.
+23:27:09 "TIME SYNC: Local Time set to [2013,8,3,19,27]"
+23:27:15 "CLEANUP: Deleted 2 Loot Piles out of 78"
