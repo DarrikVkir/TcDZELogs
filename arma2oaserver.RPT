@@ -747,3 +747,42 @@ g from [15186,11857,300] to [5470.28,15301.5] NOW!(TIME:14861||LT:HeliCrash_No50
 12:36:15 "TIME SYNC: Local Time set to [2013,8,3,20,36]"
 12:37:19 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
 12:37:28 "CLEANUP: Deleted 1 Loot Piles out of 190"
+12:40:21 "CRASHSPAWNER: UH-1H just exploded at [5510.12,15262.7,1.44586]!, "
+12:40:21 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+12:40:21 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+12:40:21 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5507.99,15266.1,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5507.42,15256.3,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5516.87,15259.7,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5516.12,15259.5,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5512.12,15272.4,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5514.93,15258.3,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5501.17,15262.9,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5519.24,15266.9,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Loot spawn at '[5518.17,15272.7,0]' with loot table 'HeliCrash_No50s'"
+12:40:21 "CRASHSPAWNER: Crash completed! Wreck at: [5510.12,15262.7,0.261902] - Runtime: 613 Seconds || Distance from calculated POC: 60 meters"
+12:40:34 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:41:15 "TIME SYNC: Local Time set to [2013,8,3,20,41]"
+12:41:17 Server: Object 2:7509 not found (message 221)
+12:42:17 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:42:27 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:42:41 "PDEATH: Player Died 254102534"
+12:42:45 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+12:42:58 "ERROR: server_playerSync: Cannot Sync Player Daelin [430]. Position in debug! [-7239.67,19539.3,0.245575]"
+12:42:59 "get: STRING (254102534), sent: STRING (254102534)"
+12:42:59 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 430 at loc [-7239.67,19539.3,0.245575]"
+12:42:59 "ERROR: server_playerSync: Cannot Sync Player Daelin [430]. Position in debug! [-7239.67,19539.3,0.245575]"
+12:42:59 Client: Remote object 8:2 not found
+12:44:03 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543735754863133"
+12:44:47 Server: Object 8:111 not found (message 70)
+12:45:05 Server: Object 8:130 not found (message 94)
+12:45:05 Server: Object 8:129 not found (message 70)
+12:45:36 "CLEANUP: Deleted 61 Loot Piles out of 266"
+12:46:15 "TIME SYNC: Local Time set to [2013,8,3,20,46]"
+12:46:21 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54347575527223"
+12:46:28 Server: Object 8:240 not found (message 91)
+12:46:28 Server: Object 8:239 not found (message 99)
+12:46:29 Server: Object 8:248 not found (message 91)
+12:46:34 "CLEANUP: Deleted 3 Loot Piles out of 270"
+12:47:52 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+12:47:53 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
