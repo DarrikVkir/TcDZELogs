@@ -558,3 +558,32 @@ g from [1623.71,218.188,300] to [8023.98,15380] NOW!(TIME:2807||LT:HeliCrash_No5
 21:57:08 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
 21:57:39 "MAINTAIN AREA BY Cripto - 665 Objects at [13855.7,11772.3,0.00123739]"
 21:58:29 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:58:59 "get: STRING (9375302), sent: STRING (9375302)"
+21:58:59 "DISCONNECT: Cripto (9375302) Object: B 1-1-B:1 (Cripto) REMOTE, _characterID: 265 at loc [13853.2,11707.1,0.00169516]"
+21:58:59 Client: Remote object 5:2 not found
+21:58:59 Client: Remote object 5:8 not found
+21:58:59 Warning: Cleanup player - person 5:7 not found
+21:59:06 Warning: Cleanup player - person 5:7 not found
+22:00:05 "RUNNING EVENT: crash_spawner on [2014,7,4,18,0]"
+22:00:05 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+22:00:05 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [10450,-630,1000] to [5827.96,12114.6] NOW!(TIME:4609||LT:MilitarySpecial)"
+22:02:08 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+22:02:08 "CLEANUP: Deleted 5 Animals out of 5"
+22:02:22 "CRASHSPAWNER: AV-8B (LGB) just exploded at [5716.8,12349.1,4.97325]!, "
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5716.45,12353.1,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5714.56,12342.2,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5714.53,12339.7,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5724.55,12358.1,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5712.84,12340.5,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5707.12,12340.9,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5712.23,12344.8,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5722.29,12355.8,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5726.86,12342.1,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5709.08,12345.3,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5724.59,12354,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5713.59,12355.8,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Crash completed! Wreck at: [5716.79,12349.2,0.00448608] - Runtime: 137 Seconds || Distance from calculated POC: 260 meters"
+22:04:16 Server: Object 6:9 not found (message 70)
+22:07:08 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
