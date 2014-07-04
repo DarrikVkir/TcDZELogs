@@ -1099,3 +1099,57 @@ g from [1623.71,218.188,300] to [11698.4,14481] NOW!(TIME:6411||LT:HeliCrash_No5
 22:57:42 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
 22:57:59 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
 22:58:16 "CLEANUP: Deleted 6 Loot Piles out of 155"
+22:58:38 Server: Object 6:717 not found (message 91)
+22:58:38 Server: Object 6:716 not found (message 99)
+22:59:31 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+22:59:50 Server: Object 6:718 not found (message 98)
+22:59:50 Server: Object 6:719 not found (message 91)
+22:59:57 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+23:00:01 "RUNNING EVENT: crash_spawner on [2014,7,4,19,0]"
+23:00:01 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+23:00:01 "CRASHSPAWNER: Mi-24D started
+
+g from [1623.71,218.188,300] to [10296.1,6047.83] NOW!(TIME:8203||LT:MilitarySpecial)"
+23:00:06 Server: Object 6:721 not found (message 91)
+23:00:06 Server: Object 6:720 not found (message 98)
+23:00:16 "CLEANUP: Deleted 32 Loot Piles out of 149"
+23:00:20 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+23:00:22 Server: Object 6:722 not found (message 99)
+23:00:23 Server: Object 6:723 not found (message 91)
+23:00:40 Server: Object 6:726 not found (message 99)
+23:00:40 Server: Object 6:727 not found (message 91)
+23:00:51 "MAINTAIN AREA BY Miss Rachel  - 80 Objects at [9491.92,14344.5,0.00143433]"
+23:01:06 Server: Object 8:61 not found (message 91)
+23:01:06 Server: Object 8:60 not found (message 99)
+23:01:07 Server: Object 8:64 not found (message 98)
+23:01:07 Server: Object 8:65 not found (message 91)
+23:01:07 Server: Object 8:70 not found (message 98)
+23:01:07 Server: Object 8:71 not found (message 91)
+23:01:07 Server: Object 8:74 not found (message 98)
+23:01:07 Server: Object 8:75 not found (message 91)
+23:01:16 "CLEANUP: Deleted 18 Loot Piles out of 118"
+23:01:57 Server: Object 6:729 not found (message 91)
+23:01:57 Server: Object 6:728 not found (message 99)
+23:02:08 "TIME SYNC: Local Time set to [2013,8,3,19,2]"
+23:02:09 "CLEANUP: Deleted 5 Animals out of 27"
+23:02:15 "CLEANUP: Deleted 6 Loot Piles out of 100"
+23:02:28 Server: Object 6:730 not found (message 98)
+23:02:28 Server: Object 6:731 not found (message 91)
+23:02:34 Server: Object 6:733 not found (message 91)
+23:02:35 Server: Object 6:732 not found (message 99)
+23:02:52 Server: Object 6:737 not found (message 91)
+23:02:52 Server: Object 6:736 not found (message 98)
+23:03:15 "CLEANUP: Deleted 7 Loot Piles out of 94"
+23:05:05 Server: Object 6:753 not found (message 91)
+23:05:05 Server: Object 6:752 not found (message 99)
+23:05:14 "CLEANUP: Deleted 8 Loot Piles out of 87"
+23:05:26 Server: Object 6:755 not found (message 91)
+23:05:26 Server: Object 6:754 not found (message 99)
+23:06:36 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+23:06:54 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+23:07:08 "TIME SYNC: Local Time set to [2013,8,3,19,7]"
+23:07:14 "CLEANUP: Deleted 7 Loot Piles out of 81"
+23:07:31 Server: Object 6:761 not found (message 91)
+23:07:31 Server: Object 6:760 not found (message 99)
+23:07:57 Server: Object 6:763 not found (message 91)
+23:07:57 Server: Object 6:762 not found (message 99)
