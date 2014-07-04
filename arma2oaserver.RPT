@@ -669,3 +669,12 @@ g from [10450,-630,1000] to [7067.41,8087.03] NOW!(TIME:11256||LT:HeliCrash_No50
 11:48:14 "get: STRING (254102534), sent: STRING (254102534)"
 11:48:14 "DISCONNECT: Daelin (254102534) Object: B 1-1-C:1 (Daelin) REMOTE, _characterID: 430 at loc [2230.74,8150.28,0.208099]"
 11:48:14 Client: Remote object 3:833 not found
+11:49:21 "CLEANUP: Deleted 1 Loot Piles out of 120"
+11:50:22 "CLEANUP: Deleted 21 Loot Piles out of 121"
+11:51:14 "TIME SYNC: Local Time set to [2013,8,3,19,51]"
+11:51:21 "CLEANUP: Deleted 5 Loot Piles out of 101"
+11:56:14 "Purging player: 33f1e040# 1066273: man_survivor.p3d"
+11:56:14 "Purging player: 14e8a040# 1066206: man_survivor.p3d"
+11:56:14 "CLEANUP: Deleted 2 players and 0 zombies out of 2 dead"
+11:56:14 "TIME SYNC: Local Time set to [2013,8,3,19,56]"
+11:56:15 "CLEANUP: Deleted 6 Animals out of 28"
