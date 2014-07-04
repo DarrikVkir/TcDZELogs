@@ -693,3 +693,13 @@ g from [15186,11857,300] to [5609.37,7424.02] NOW!(TIME:14711||LT:HeliCrash_No50
 19:54:49 "CLEANUP: Deleted 23 Loot Piles out of 129"
 19:56:25 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a LadaLM in/at Stary for 2x ItemGoldBar"
 19:56:26 "DELETE: B 1-1-D:1 (Anwatch [BOOTY]) REMOTE Deleted by ID: 4369"
+19:58:40 "TIME SYNC: Local Time set to [2013,8,3,21,58]"
+20:00:02 "RUNNING EVENT: crash_spawner on [2014,7,4,22,0]"
+20:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+20:00:02 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [1651.09,7718.64] NOW!(TIME:16513||LT:HeliCrash_No50s)"
+20:00:06 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a SUV_Green in/at Stary for 5x ItemGoldBar"
+20:00:06 "DELETE: B 1-1-D:1 (Anwatch [BOOTY]) REMOTE Deleted by ID: 4749"
+20:03:40 "TIME SYNC: Local Time set to [2013,8,3,22,3]"
+20:07:51 "CLEANUP: Deleted 14 Loot Piles out of 193"
