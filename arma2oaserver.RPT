@@ -877,3 +877,90 @@ g from [15186,11857,300] to [5470.28,15301.5] NOW!(TIME:14861||LT:HeliCrash_No50
 13:16:15 "TIME SYNC: Local Time set to [2013,8,3,21,16]"
 13:16:32 "CLEANUP: Deleted 4 Loot Piles out of 243"
 13:17:33 "CLEANUP: Deleted 1 Loot Piles out of 241"
+13:18:32 "CLEANUP: Deleted 7 Loot Piles out of 240"
+13:19:14 Server: Network message 6eaa3c is pending
+13:19:14 Server: Network message 6eaa3d is pending
+13:19:14 Server: Network message 6eaa3e is pending
+13:19:14 Server: Network message 6eaa3f is pending
+13:19:14 Server: Network message 6eaa40 is pending
+13:19:14 Server: Network message 6eaacd is pending
+13:19:14 Server: Network message 6eaaff is pending
+13:19:14 Server: Network message 6eab00 is pending
+13:19:14 Server: Network message 6eab1f is pending
+13:19:14 Server: Network message 6eab20 is pending
+13:19:14 Server: Network message 6eab21 is pending
+13:19:14 Server: Network message 6eab64 is pending
+13:19:14 Server: Network message 6eab65 is pending
+13:19:14 Server: Network message 6eab66 is pending
+13:19:14 Server: Network message 6eab67 is pending
+13:19:15 Server: Network message 6eabc5 is pending
+13:19:15 Server: Network message 6eabef is pending
+13:19:15 Server: Network message 6eabef is pending
+13:19:15 Server: Network message 6eabf0 is pending
+13:19:15 Server: Network message 6eac21 is pending
+13:19:15 Server: Network message 6eac21 is pending
+13:19:15 Server: Network message 6eac22 is pending
+13:19:15 Server: Network message 6eac22 is pending
+13:19:15 Server: Network message 6eac23 is pending
+13:19:15 Server: Network message 6eac23 is pending
+13:19:15 Server: Network message 6eac24 is pending
+13:19:15 Server: Network message 6eac25 is pending
+13:19:15 Server: Network message 6eac26 is pending
+13:19:15 Server: Network message 6eac27 is pending
+13:19:15 Server: Network message 6eac27 is pending
+13:19:15 Server: Network message 6eac60 is pending
+13:19:31 "CLEANUP: Deleted 2 Loot Piles out of 234"
+13:19:40 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54322574491942"
+13:19:40 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54322574491942""
+13:20:00 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:20:00 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54426574206223""
+13:20:14 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:20:14 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoor with ID "54426574206223""
+13:20:22 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:20:22 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54426574206223""
+13:20:31 "CLEANUP: Deleted 4 Loot Piles out of 237"
+13:20:32 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:20:32 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoor with ID "54426574206223""
+13:20:41 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:20:41 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54426574206223""
+13:20:51 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:20:51 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoor with ID "54426574206223""
+13:21:00 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:21:00 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54426574206223""
+13:21:09 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:21:09 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoor with ID "54426574206223""
+13:21:15 "TIME SYNC: Local Time set to [2013,8,3,21,21]"
+13:21:18 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:21:18 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54426574206223""
+13:21:25 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:21:25 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoor with ID "54426574206223""
+13:21:31 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:21:31 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54426574206223""
+13:21:31 "CLEANUP: Deleted 1 Loot Piles out of 235"
+13:21:40 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:21:40 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoor with ID "54426574206223""
+13:21:44 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54426574206223"
+13:21:44 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded Land_DZE_LargeWoodDoorLocked with ID "54426574206223""
+13:22:32 "CLEANUP: Deleted 5 Loot Piles out of 234"
+13:23:07 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a UH1H_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+13:23:07 "DELETE: B 1-1-D:1 (telconrar) REMOTE Deleted by ID: 839881"
+13:23:31 "CLEANUP: Deleted 2 Loot Piles out of 229"
+13:23:45 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a HMMWV_M998A2_SOV_DES_EP1_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+13:23:46 "PUBLISH: Attempt 32853900# 1069812: arrow_down_large_ep1.p3d REMOTE"
+13:23:46 "HIVE: WRITE: "CHILD:308:3195:HMMWV_M998A2_SOV_DES_EP1_DZE:0:3841:[218,[12915.7,12760.7,0.00296021]]:[]:[]:1:129157127607018296:""
+13:23:47 "HIVE: WRITE: "CHILD:388:129157127607018296:""
+13:23:47 "CUSTOM: Selected "4917""
+13:23:47 "PUBLISH: B 1-1-D:1 (telconrar) REMOTE Bought HMMWV_M998A2_SOV_DES_EP1_DZE with ID "129157127607018296""
+13:24:31 "CLEANUP: Deleted 1 Loot Piles out of 228"
+13:25:31 "CLEANUP: Deleted 2 Loot Piles out of 227"
+13:26:15 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
+13:26:33 "CLEANUP: Deleted 1 Loot Piles out of 228"
+13:27:07 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543135743830313"
+13:27:20 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543475740630313"
+13:27:33 "CLEANUP: Deleted 1 Loot Piles out of 237"
+13:27:37 Client: Object 4:1591 (type Type_70) not found.
+13:27:37 Client: Object 4:1590 (type Type_70) not found.
+13:27:38 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543805737530133"
+13:27:59 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 544145734330133"
+13:28:18 Server: Object 8:450 not found (message 91)
+13:28:18 Server: Object 8:449 not found (message 99)
