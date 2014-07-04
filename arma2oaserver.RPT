@@ -1025,3 +1025,19 @@ g from [15186,11857,300] to [942.36,15391.6] NOW!(TIME:18458||LT:HeliCrash_No50s
 13:46:06 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded CinderWallDoorLocked_DZ with ID "544105758830133""
 13:46:15 "TIME SYNC: Local Time set to [2013,8,3,21,46]"
 13:47:36 "CLEANUP: Deleted 10 Loot Piles out of 287"
+13:48:36 "CLEANUP: Deleted 15 Loot Piles out of 281"
+13:50:34 "CLEANUP: Deleted 1 Loot Piles out of 269"
+13:51:15 "TIME SYNC: Local Time set to [2013,8,3,21,51]"
+13:51:35 "CLEANUP: Deleted 2 Loot Piles out of 274"
+13:51:51 "[DZMS]: Major SM10 UH1H Mission has Ended."
+13:52:35 "CLEANUP: Deleted 3 Loot Piles out of 273"
+13:53:11 "[DZMS]: Running Major Mission SM9."
+13:54:03 "nil player object attempting PV, :["23206790","DarrikVkir [BOOTY]"]"
+13:54:03 "get: STRING (), sent: STRING (23206790)"
+13:54:03 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-E:1 REMOTE, _characterID: 405 at loc [5429.82,5744.23,0.00143433]"
+13:54:03 Client: Remote object 10:2 not found
+13:54:03 Client: Remote object 10:8 not found
+13:54:03 Warning: Cleanup player - person 10:7 not found
+13:56:15 "TIME SYNC: Local Time set to [2013,8,3,21,56]"
+13:56:17 "CLEANUP: Deleted 6 Animals out of 60"
+13:57:31 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a UH1H_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
