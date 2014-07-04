@@ -553,3 +553,8 @@ g from [1623.71,218.188,300] to [8023.98,15380] NOW!(TIME:2807||LT:HeliCrash_No5
 21:45:18 "CRASHSPAWNER: Loot spawn at '[8037.87,15390.9,0]' with loot table 'HeliCrash_No50s'"
 21:45:18 "CRASHSPAWNER: Crash completed! Wreck at: [8044.48,15397.1,0.524673] - Runtime: 915 Seconds || Distance from calculated POC: 28 meters"
 21:47:08 "TIME SYNC: Local Time set to [2013,8,3,17,47]"
+21:52:08 "TIME SYNC: Local Time set to [2013,8,3,17,52]"
+21:57:07 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:57:08 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
+21:57:39 "MAINTAIN AREA BY Cripto - 665 Objects at [13855.7,11772.3,0.00123739]"
+21:58:29 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
