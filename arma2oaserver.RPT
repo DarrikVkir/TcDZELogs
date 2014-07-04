@@ -285,3 +285,11 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 g from [10450,-630,1000] to [4321.99,12379] NOW!(TIME:324||LT:MilitarySpecial)"
 15:30:58 Server: Object 4:9 not found (message 70)
 15:33:38 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
+15:38:38 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
+15:43:39 "TIME SYNC: Local Time set to [2013,8,3,17,43]"
+15:45:17 "TELEPORT REVERT for player UID#199810246 from [12070.6,12672.1,-0.011673] to [12071.5,12661.5,0.00143433], 11 meters, now at [12070.6,12672.1,-0.011673]"
+15:46:23 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a C130J_US_EP1 in/at Unknown Trader City for 2x ItemBriefcase100oz"
+15:46:23 "DELETE: B 1-1-D:1 (Marek) REMOTE Deleted by ID: 4806"
+15:47:11 Server: Object 4:108 not found (message 70)
+15:47:11 Server: Object 4:106 not found (message 94)
+15:47:11 Server: Object 4:107 not found (message 94)
