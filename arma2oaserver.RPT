@@ -423,3 +423,114 @@ g from [15186,11857,300] to [5448.88,2105.49] NOW!(TIME:925||LT:MilitarySpecial)
  4:26:23 Server: Object 4:592 not found (message 70)
  4:26:39 Server: Object 4:594 not found (message 70)
  4:26:39 Server: Object 4:593 not found (message 70)
+ 4:28:31 "TIME SYNC: Local Time set to [2013,8,3,18,28]"
+ 4:28:40 Server: Object 4:599 not found (message 98)
+ 4:28:40 Server: Object 4:600 not found (message 91)
+ 4:29:36 Server: Object 4:602 not found (message 91)
+ 4:29:36 Server: Object 4:601 not found (message 99)
+ 4:29:36 Server: Object 4:604 not found (message 91)
+ 4:29:36 Server: Object 4:603 not found (message 99)
+ 4:29:36 Server: Object 4:606 not found (message 91)
+ 4:29:36 Server: Object 4:605 not found (message 99)
+ 4:29:36 Server: Object 4:608 not found (message 91)
+ 4:29:36 Server: Object 4:607 not found (message 99)
+ 4:29:36 Server: Object 4:609 not found (message 98)
+ 4:29:36 Server: Object 4:610 not found (message 91)
+ 4:29:44 Server: Object 4:614 not found (message 70)
+ 4:29:44 Server: Object 4:615 not found (message 70)
+ 4:29:44 Server: Object 4:611 not found (message 94)
+ 4:29:44 Server: Object 4:612 not found (message 94)
+ 4:29:44 Server: Object 4:613 not found (message 70)
+ 4:30:06 "RUNNING EVENT: crash_spawner on [2014,7,4,18,30]"
+ 4:30:06 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 4:30:06 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [3290.93,4492.08] NOW!(TIME:2726||LT:HeliCrash_No50s)"
+ 4:30:52 Server: Object 4:616 not found (message 98)
+ 4:30:52 Server: Object 4:617 not found (message 91)
+ 4:30:53 Server: Object 4:363 not found (message 99)
+ 4:30:58 Server: Object 4:618 not found (message 98)
+ 4:30:58 Server: Object 4:619 not found (message 91)
+ 4:31:10 Server: Object 4:623 not found (message 91)
+ 4:31:10 Server: Object 4:622 not found (message 99)
+ 4:31:28 Server: Object 4:628 not found (message 98)
+ 4:31:28 Server: Object 4:629 not found (message 91)
+ 4:31:34 Server: Object 4:631 not found (message 91)
+ 4:31:34 Server: Object 4:630 not found (message 98)
+ 4:31:40 Server: Object 4:633 not found (message 91)
+ 4:31:40 Server: Object 4:632 not found (message 98)
+ 4:32:22 Server: Object 4:635 not found (message 91)
+ 4:32:22 Server: Object 4:634 not found (message 99)
+ 4:32:45 Server: Object 4:640 not found (message 99)
+ 4:32:45 Server: Object 4:641 not found (message 91)
+ 4:33:02 Server: Object 4:642 not found (message 98)
+ 4:33:02 Server: Object 4:643 not found (message 91)
+ 4:33:14 Server: Object 4:647 not found (message 91)
+ 4:33:14 Server: Object 4:646 not found (message 99)
+ 4:33:15 Server: Object 4:624 not found (message 99)
+ 4:33:18 "PDEATH: Player Died 4486214"
+ 4:33:19 "TELEPORT REVERT for player UID#4486214 from [9487.79,13771.2,1.33011] to [9500.04,13758.9,0.0018692], 18 meters, now at [9487.79,13771.2,1.33011]"
+ 4:33:31 "TIME SYNC: Local Time set to [2013,8,3,18,33]"
+ 4:33:37 Server: Object 4:649 not found (message 70)
+ 4:33:37 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [390]. Position in debug! [-7239.67,19539.3,0.245911]"
+ 4:33:38 "get: STRING (4486214), sent: STRING (4486214)"
+ 4:33:38 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-A:1 (BluntScopes) REMOTE, _characterID: 390 at loc [-7239.67,19539.3,0.245911]"
+ 4:33:38 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [390]. Position in debug! [-7239.67,19539.3,0.245911]"
+ 4:33:38 Server: Update of object 4:44 arrived from nonowner
+ 4:33:38 Warning: Cleanup player - person 4:648 not found
+ 4:35:18 "CRASHSPAWNER: UH-60M just exploded at [3302.29,4501.05,3.18384]!, "
+ 4:35:18 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 4:35:18 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 4:35:18 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3300.14,4497.67,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3297.75,4501.84,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3300.72,4496.53,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3295.06,4500.22,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3300.45,4494.06,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3312.86,4501.76,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3295.77,4489.76,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Loot spawn at '[3296.14,4510.82,0]' with loot table 'HeliCrash_No50s'"
+ 4:35:18 "CRASHSPAWNER: Crash completed! Wreck at: [3302.29,4501.05,-0.14682] - Runtime: 312 Seconds || Distance from calculated POC: 16 meters"
+ 4:35:38 "CLEANUP: Deleted 68 Loot Piles out of 171"
+ 4:36:22 Server: Object 4:665 not found (message 98)
+ 4:36:22 Server: Object 4:666 not found (message 91)
+ 4:36:23 Server: Object 4:667 not found (message 99)
+ 4:36:23 Server: Object 4:668 not found (message 91)
+ 4:36:23 Server: Object 4:671 not found (message 70)
+ 4:36:23 Server: Object 4:670 not found (message 70)
+ 4:36:23 Server: Object 4:669 not found (message 70)
+ 4:36:23 Server: Object 4:672 not found (message 70)
+ 4:36:23 Server: Object 4:674 not found (message 91)
+ 4:36:23 Server: Object 4:673 not found (message 99)
+ 4:36:23 Server: Object 4:676 not found (message 91)
+ 4:36:23 Server: Object 4:675 not found (message 99)
+ 4:36:23 Server: Object 4:678 not found (message 91)
+ 4:36:23 Server: Object 4:677 not found (message 99)
+ 4:36:23 Server: Object 4:680 not found (message 91)
+ 4:36:23 Server: Object 4:679 not found (message 99)
+ 4:36:23 Server: Object 4:682 not found (message 91)
+ 4:36:23 Server: Object 4:681 not found (message 99)
+ 4:36:23 Server: Object 4:685 not found (message 70)
+ 4:36:23 Server: Object 4:687 not found (message 91)
+ 4:36:23 Server: Object 4:686 not found (message 99)
+ 4:36:23 Server: Object 4:683 not found (message 94)
+ 4:36:23 Server: Object 4:684 not found (message 70)
+ 4:36:23 Server: Object 4:689 not found (message 91)
+ 4:36:23 Server: Object 4:688 not found (message 99)
+ 4:36:23 Server: Object 4:691 not found (message 91)
+ 4:36:23 Server: Object 4:690 not found (message 99)
+ 4:36:23 Server: Object 4:693 not found (message 91)
+ 4:36:23 Server: Object 4:692 not found (message 99)
+ 4:36:36 "CLEANUP: Deleted 33 Loot Piles out of 111"
+ 4:37:14 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 4:37:14 Server: Object 4:705 not found (message 94)
+ 4:37:23 Server: Object 4:709 not found (message 98)
+ 4:37:23 Server: Object 4:710 not found (message 91)
+ 4:37:23 Server: Object 4:712 not found (message 91)
+ 4:37:23 Server: Object 4:711 not found (message 98)
+ 4:37:23 Server: Object 4:714 not found (message 91)
+ 4:37:23 Server: Object 4:713 not found (message 99)
+ 4:37:30 Server: Object 4:715 not found (message 70)
+ 4:37:31 Server: Object 4:716 not found (message 98)
+ 4:37:31 Server: Object 4:717 not found (message 91)
+ 4:38:04 Server: Object 4:724 not found (message 94)
