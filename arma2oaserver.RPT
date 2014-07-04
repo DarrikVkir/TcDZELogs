@@ -24249,3 +24249,6 @@ g from [1623.71,218.188,300] to [12606.4,8985.06] NOW!(TIME:8936||LT:MilitarySpe
  2:05:06 "CRASHSPAWNER: Loot spawn at '[12340.8,8988.08,0]' with loot table 'MilitarySpecial'"
  2:05:06 "CRASHSPAWNER: Loot spawn at '[12339.1,8982.89,0]' with loot table 'MilitarySpecial'"
  2:05:06 "CRASHSPAWNER: Crash completed! Wreck at: [12336.3,8989.29,0] - Runtime: 304 Seconds || Distance from calculated POC: 271 meters"
+ 2:09:38 "TIME SYNC: Local Time set to [2013,8,3,22,9]"
+ 2:14:38 "TIME SYNC: Local Time set to [2013,8,3,22,14]"
+ 2:15:03 "RUNNING EVENT: supply_drop on [2014,7,3,22,15]"
