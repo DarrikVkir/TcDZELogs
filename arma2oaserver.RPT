@@ -721,3 +721,18 @@ g from [6993.7,173.053,300] to [2552.79,14030.7] NOW!(TIME:13058||LT:MilitarySpe
 12:17:53 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
 12:17:54 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
 12:18:11 Server: Object 10:20 not found (message 70)
+12:18:24 Server: Network message 4d09b5 is pending
+12:18:24 Server: Network message 4d09b6 is pending
+12:18:24 Server: Network message 4d09eb is pending
+12:18:24 Server: Network message 4d09ec is pending
+12:18:24 Server: Network message 4d0a19 is pending
+12:18:24 Server: Network message 4d0a1a is pending
+12:18:24 Server: Network message 4d0a1b is pending
+12:18:24 Server: Network message 4d0a8e is pending
+12:18:25 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+12:18:25 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Build."
+12:18:41 "MAINTAIN AREA BY DarrikVkir [BOOTY] - 125 Objects at [5433.61,5746.17,0.00137329]"
+12:21:15 "TIME SYNC: Local Time set to [2013,8,3,20,21]"
+12:24:48 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 5440257319143"
+12:26:15 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
+12:26:26 "CLEANUP: Deleted 2 Loot Piles out of 176"
