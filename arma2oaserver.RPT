@@ -381,3 +381,32 @@ g from [6986,-630,1000] to [4666.29,5671.94] NOW!(TIME:2266||LT:MilitarySpecial)
  9:26:14 "TIME SYNC: Local Time set to [2013,8,3,17,26]"
  9:26:15 "CLEANUP: Deleted 2 Animals out of 48"
  9:26:16 "CLEANUP: Deleted 7 Loot Piles out of 36"
+ 9:29:08 "[DZMS]: Minor SM1 Hunting Party Mission has Ended."
+ 9:29:26 "[DZMS]: Running Minor Mission SM13."
+ 9:30:00 "RUNNING EVENT: crash_spawner on [2014,7,4,17,30]"
+ 9:30:00 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Ural Wreck spawned at [5050.52,5451.32]"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5046.59,5450.62,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5049.92,5445.78,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5054.45,5448.32,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5049.58,5444.84,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5051.2,5455.91,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5045.3,5446.92,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5047.05,5461.07,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5052.11,5456.43,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5053.2,5444.85,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5058.68,5450.4,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5045.25,5445.2,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5043.88,5452.2,0.015686]' with loot table 'Military'"
+ 9:30:00 "CRASHSPAWNER: Loot spawn at '[5049.02,5455.57,0.015686]' with loot table 'Military'"
+ 9:30:16 "CLEANUP: Deleted 1 Loot Piles out of 47"
+ 9:31:14 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+ 9:35:07 Client: Object 4:460 (type Type_70) not found.
+ 9:35:07 Client: Object 4:461 (type Type_70) not found.
+ 9:36:14 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+ 9:36:16 "CLEANUP: Deleted 2 Loot Piles out of 46"
+ 9:37:32 "get: STRING (120160390), sent: STRING (120160390)"
+ 9:37:32 "DISCONNECT: telconrar (120160390) Object: B 1-1-D:1 (telconrar) REMOTE, _characterID: 411 at loc [11119.3,12853,0.00106812]"
+ 9:37:32 Client: Remote object 5:2 not found
+ 9:37:32 Client: Remote object 5:8 not found
+ 9:37:37 Warning: Cleanup player - person 5:7 not found
