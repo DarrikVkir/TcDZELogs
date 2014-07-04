@@ -634,3 +634,20 @@ g from [10450,-630,1000] to [5827.96,12114.6] NOW!(TIME:4609||LT:MilitarySpecial
 22:17:08 "TIME SYNC: Local Time set to [2013,8,3,18,17]"
 22:17:58 Server: Object 6:131 not found (message 98)
 22:17:58 Server: Object 6:132 not found (message 91)
+22:19:41 "get: STRING (4486214), sent: STRING (4486214)"
+22:19:41 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 427 at loc [9508.31,13785.7,0.000930786]"
+22:19:41 Client: Remote object 6:0 not found
+22:19:41 Client: Remote object 6:8 not found
+22:22:08 "TIME SYNC: Local Time set to [2013,8,3,18,22]"
+22:23:14 Server: Object 6:149 not found (message 70)
+22:25:33 Server: Object 6:156 not found (message 99)
+22:25:33 Server: Object 6:157 not found (message 91)
+22:26:47 Server: Object 6:173 not found (message 91)
+22:26:47 Server: Object 6:172 not found (message 99)
+22:27:05 Server: Object 6:179 not found (message 91)
+22:27:05 Server: Object 6:178 not found (message 98)
+22:27:08 "TIME SYNC: Local Time set to [2013,8,3,18,27]"
+22:27:36 Server: Object 6:180 not found (message 98)
+22:27:36 Server: Object 6:181 not found (message 91)
+22:28:16 Server: Object 6:190 not found (message 99)
+22:28:16 Server: Object 6:191 not found (message 91)
