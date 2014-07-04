@@ -636,3 +636,42 @@ g from [15186,11857,300] to [5609.37,7424.02] NOW!(TIME:14711||LT:HeliCrash_No50
 19:33:40 "TIME SYNC: Local Time set to [2013,8,3,21,33]"
 19:37:41 Client: Object 8:304 (type Type_69) not found.
 19:37:41 Client: Object 8:304 (type Type_70) not found.
+19:38:40 "TIME SYNC: Local Time set to [2013,8,3,21,38]"
+19:38:40 "SAFE UNLOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+19:38:41 Server: Object 8:308 not found (message 70)
+19:38:41 Server: Object 8:306 not found (message 94)
+19:38:41 Server: Object 8:307 not found (message 94)
+19:38:41 Server: Object 8:310 not found (message 70)
+19:38:41 Server: Object 8:309 not found (message 94)
+19:38:49 "CLEANUP: Deleted 24 Loot Piles out of 120"
+19:39:55 "SAFE LOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+19:40:47 "CLEANUP: Deleted 1 Loot Piles out of 96"
+19:41:47 "CLEANUP: Deleted 2 Loot Piles out of 95"
+19:42:26 "SAFE UNLOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+19:42:27 Server: Object 8:323 not found (message 94)
+19:42:27 Server: Object 8:321 not found (message 94)
+19:42:27 Server: Object 8:322 not found (message 94)
+19:42:27 Server: Object 8:324 not found (message 94)
+19:42:27 Server: Object 8:325 not found (message 94)
+19:42:47 "CLEANUP: Deleted 2 Loot Piles out of 93"
+19:42:51 "SAFE LOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+19:43:40 "TIME SYNC: Local Time set to [2013,8,3,21,43]"
+19:44:47 "CLEANUP: Deleted 1 Loot Piles out of 91"
+19:47:01 "CRASHSPAWNER: UH-1H just exploded at [2562.11,10660.9,1.83432]!, "
+19:47:01 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+19:47:01 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+19:47:01 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2558.24,10661.9,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2557.83,10656.1,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2553.66,10664.8,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2563.64,10671.5,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2556.91,10660.1,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2568.47,10662.7,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2568.41,10662.3,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2568.98,10657.9,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2571.88,10665.5,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2572.18,10658.3,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2558.98,10654.2,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Loot spawn at '[2562.36,10667.9,0]' with loot table 'HeliCrash_No50s'"
+19:47:01 "CRASHSPAWNER: Crash completed! Wreck at: [2562.11,10660.9,-0.0737305] - Runtime: 10012 Seconds || Distance from calculated POC: 1257 meters"
+19:48:05 "EPOCH SERVERTRADE: Player: Anwatch [BOOTY] (117139718) sold a m240_scoped_EP1_DZE in/at Stary for 6x ItemGoldBar"
