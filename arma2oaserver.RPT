@@ -590,3 +590,64 @@ _pos = g>
 11:16:41 "get: STRING (254102534), sent: STRING (254102534)"
 11:16:41 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 425 at loc [-7239.67,19539.3,0.246155]"
 11:16:41 "ERROR: server_playerSync: Cannot Sync Player Daelin [425]. Position in debug! [-7239.67,19539.3,0.246155]"
+11:19:21 "CLEANUP: Deleted 2 Loot Piles out of 123"
+11:20:21 "CLEANUP: Deleted 5 Loot Piles out of 121"
+11:21:14 "TIME SYNC: Local Time set to [2013,8,3,19,21]"
+11:22:21 "CLEANUP: Deleted 27 Loot Piles out of 116"
+11:22:49 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with DMR_DZ from 17.9863m with 1.45153 dmg"
+11:23:04 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with DMR_DZ from 3.82994m with 1.47676 dmg"
+11:23:10 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 8.66396m with 0.258563 dmg"
+11:23:10 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 8.66396m with 0.258142 dmg"
+11:23:10 "PKILL: Daelin was killed by Vladislav with weapon UZI_SD_EP1 from 8.66396m"
+11:23:10 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+11:23:10   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+11:23:10   Error Undefined variable in expression: dze_deathmsgside
+11:23:10 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+11:23:10 "PDEATH: Player Died 254102534"
+11:23:10 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 8.66396m with 0.257218 dmg"
+11:23:20 "CLEANUP: Deleted 1 Loot Piles out of 89"
+11:23:26 "ERROR: server_playerSync: Cannot Sync Player Daelin [428]. Position in debug! [-7239.67,19539.3,0.245483]"
+11:23:26 "get: STRING (254102534), sent: STRING (254102534)"
+11:23:26 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 428 at loc [-7239.67,19539.3,0.245483]"
+11:23:26 "ERROR: server_playerSync: Cannot Sync Player Daelin [428]. Position in debug! [-7239.67,19539.3,0.245483]"
+11:25:26 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with DMR_DZ from 4.06056m with 1.47781 dmg"
+11:25:32 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 3.11062m with 0.260846 dmg"
+11:25:32 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 3.11062m with 0.260847 dmg"
+11:25:32 "PKILL: Daelin was killed by Vladislav with weapon UZI_SD_EP1 from 3.11062m"
+11:25:32 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+11:25:32   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+11:25:32   Error Undefined variable in expression: dze_deathmsgside
+11:25:32 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+11:25:32 "PDEATH: Player Died 254102534"
+11:25:32 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 3.11062m with 0.260848 dmg"
+11:25:32 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 3.11062m with 0.260848 dmg"
+11:25:32 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 3.11062m with 0.260849 dmg"
+11:25:32 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 3.11062m with 0.26085 dmg"
+11:25:32 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with UZI_SD_EP1 from 3.11062m with 0.260834 dmg"
+11:25:51 "ERROR: server_playerSync: Cannot Sync Player Daelin [429]. Position in debug! [-7239.67,19539.3,0.245728]"
+11:25:52 "get: STRING (254102534), sent: STRING (254102534)"
+11:25:52 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 429 at loc [-7239.67,19539.3,0.245728]"
+11:25:52 "ERROR: server_playerSync: Cannot Sync Player Daelin [429]. Position in debug! [-7239.67,19539.3,0.245728]"
+11:26:14 "TIME SYNC: Local Time set to [2013,8,3,19,26]"
+11:26:16 "CLEANUP: Deleted 24 Animals out of 42"
+11:27:20 "CLEANUP: Deleted 1 Loot Piles out of 87"
