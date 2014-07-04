@@ -786,3 +786,33 @@ g from [15186,11857,300] to [5470.28,15301.5] NOW!(TIME:14861||LT:HeliCrash_No50
 12:46:34 "CLEANUP: Deleted 3 Loot Piles out of 270"
 12:47:52 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
 12:47:53 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+12:48:34 "CLEANUP: Deleted 2 Loot Piles out of 275"
+12:49:35 "CLEANUP: Deleted 1 Loot Piles out of 289"
+12:49:42 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54380575518313"
+12:49:42 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded CinderWall_DZ with ID "54380575518313""
+12:50:03 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543555752463132"
+12:50:03 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded CinderWall_DZ with ID "543555752463132""
+12:50:25 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543555752463132"
+12:50:35 "CLEANUP: Deleted 1 Loot Piles out of 289"
+12:50:38 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 543085755116133"
+12:50:38 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded CinderWall_DZ with ID "543085755116133""
+12:50:56 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54309575122843"
+12:50:56 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded CinderWall_DZ with ID "54309575122843""
+12:51:15 "TIME SYNC: Local Time set to [2013,8,3,20,51]"
+12:51:35 "CLEANUP: Deleted 2 Loot Piles out of 290"
+12:51:58 "DELETE: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE Deleted by UID: 54347575527223"
+12:51:58 "PUBLISH: B 1-1-E:1 (DarrikVkir [BOOTY]) REMOTE upgraded CinderWallDoorSmall_DZ with ID "54347575527223""
+12:52:35 "CLEANUP: Deleted 1 Loot Piles out of 288"
+12:53:35 "CLEANUP: Deleted 1 Loot Piles out of 291"
+12:55:34 "CLEANUP: Deleted 2 Loot Piles out of 292"
+12:56:15 "TIME SYNC: Local Time set to [2013,8,3,20,56]"
+12:56:16 "CLEANUP: Deleted 5 Animals out of 46"
+12:56:24 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a Skin_GUE_Soldier_Sniper_DZ in/at Bandit Trader for 2x ItemGoldBar"
+12:56:54 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a Skin_GUE_Soldier_Sniper_DZ in/at Bandit Trader for 2x ItemGoldBar"
+12:57:28 Server: Object 10:195 not found (message 70)
+12:57:30 Server: Object 4:1513 not found (message 99)
+12:57:30 "Player is Null FAILED: Exiting, player sync: <NULL-object>"
+12:57:32 Server: Object 11:60 not found (message 99)
+12:57:32 Server: Object 11:60 not found (message 99)
+12:57:35 "CLEANUP: Deleted 1 Loot Piles out of 295"
+12:58:23 Server: Object 4:1519 not found (message 99)
