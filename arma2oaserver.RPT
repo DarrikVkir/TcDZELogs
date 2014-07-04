@@ -666,3 +666,7 @@ g from [6993.7,173.053,300] to [5775.67,9574.51] NOW!(TIME:8122||LT:HeliCrash_No
  6:08:31 "TIME SYNC: Local Time set to [2013,8,3,20,8]"
  6:13:31 "TIME SYNC: Local Time set to [2013,8,3,20,13]"
  6:15:04 "RUNNING EVENT: supply_drop on [2014,7,4,20,15]"
+ 6:18:31 "TIME SYNC: Local Time set to [2013,8,3,20,18]"
+ 6:22:44 Server: Object 5:86 not found (message 91)
+ 6:22:44 Server: Object 5:85 not found (message 99)
+ 6:23:31 "TIME SYNC: Local Time set to [2013,8,3,20,23]"
