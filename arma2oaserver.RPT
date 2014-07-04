@@ -254,3 +254,84 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  3:48:30 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
  3:53:17 Server: Object 4:40 not found (message 99)
  3:53:30 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
+ 3:58:30 "TIME SYNC: Local Time set to [2013,8,3,17,58]"
+ 3:58:39 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 3:58:39 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 3:58:39 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 3:58:39 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 3:58:39 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 3:58:39   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 3:58:40 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+ 3:58:41 Server: Object 4:82 not found (message 98)
+ 3:58:41 Server: Object 4:83 not found (message 91)
+ 3:58:41 Server: Object 4:87 not found (message 91)
+ 3:58:41 Server: Object 4:86 not found (message 99)
+ 3:58:41 Server: Object 4:89 not found (message 91)
+ 3:58:41 Server: Object 4:92 not found (message 98)
+ 3:58:41 Server: Object 4:93 not found (message 91)
+ 3:58:41 Server: Object 4:95 not found (message 91)
+ 3:58:41 Server: Object 4:94 not found (message 99)
+ 3:58:41 Server: Object 4:97 not found (message 91)
+ 3:58:41 Server: Object 4:99 not found (message 91)
+ 3:58:41 Server: Object 4:98 not found (message 99)
+ 3:58:41 Server: Object 4:101 not found (message 91)
+ 3:58:41 Server: Object 4:100 not found (message 99)
+ 3:58:56 Server: Object 4:145 not found (message 70)
+ 3:58:57 Server: Object 4:147 not found (message 70)
+ 3:58:57 Server: Object 4:148 not found (message 94)
+ 3:58:57 Server: Object 4:150 not found (message 94)
+ 3:58:57 Server: Object 4:151 not found (message 70)
+ 3:58:57 Server: Object 4:152 not found (message 70)
+ 3:58:57 Server: Object 4:149 not found (message 70)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:169 not found (message 91)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:38 Server: Object 4:168 not found (message 99)
+ 3:59:39 Server: Object 4:91 not found (message 91)
+ 4:00:05 "RUNNING EVENT: crash_spawner on [2014,7,4,18,0]"
+ 4:00:05 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 4:00:05 "CRASHSPAWNER: MV-22 started
+
+g from [15186,11857,300] to [5448.88,2105.49] NOW!(TIME:925||LT:MilitarySpecial)"
+ 4:02:55 "CRASHSPAWNER: MV-22 just exploded at [5714.15,2034.54,5.08111]!, "
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5715.16,2038.41,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5719.87,2036.42,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5708.9,2027.41,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5722.04,2029.62,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5716.73,2043.15,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5722.47,2043.77,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5706.82,2034.44,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5719.53,2026.07,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5711.57,2044.02,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5718.59,2040.49,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5718.02,2031.82,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Crash completed! Wreck at: [5714.15,2034.57,-0.00136232] - Runtime: 170 Seconds || Distance from calculated POC: 275 meters"
+ 4:03:31 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
