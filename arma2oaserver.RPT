@@ -1045,3 +1045,57 @@ g from [1623.71,218.188,300] to [11698.4,14481] NOW!(TIME:6411||LT:HeliCrash_No5
 22:47:10 Server: Object 6:635 not found (message 70)
 22:47:29 Server: Object 6:638 not found (message 99)
 22:47:29 Server: Object 6:639 not found (message 91)
+22:49:11 Server: Object 6:640 not found (message 98)
+22:49:11 Server: Object 6:641 not found (message 91)
+22:49:19 "CLEANUP: Deleted 11 Loot Piles out of 351"
+22:49:32 Server: Object 6:642 not found (message 99)
+22:49:32 Server: Object 6:643 not found (message 91)
+22:50:15 Server: Object 6:646 not found (message 94)
+22:50:15 Server: Object 6:648 not found (message 94)
+22:50:15 Server: Object 6:649 not found (message 94)
+22:50:15 Server: Object 6:650 not found (message 70)
+22:50:15 Server: Object 6:651 not found (message 94)
+22:50:15 Server: Object 6:652 not found (message 70)
+22:50:15 Server: Object 6:653 not found (message 70)
+22:51:19 "CLEANUP: Deleted 20 Loot Piles out of 348"
+22:52:08 "TIME SYNC: Local Time set to [2013,8,3,18,52]"
+22:52:10 Server: Object 6:657 not found (message 70)
+22:52:24 "CLEANUP: Deleted 116 Loot Piles out of 332"
+22:52:33 Server: Object 6:671 not found (message 94)
+22:52:33 Server: Object 6:670 not found (message 94)
+22:52:33 Server: Object 6:676 not found (message 94)
+22:52:33 Server: Object 6:680 not found (message 70)
+22:52:33 Server: Object 6:679 not found (message 70)
+22:52:33 Server: Object 6:678 not found (message 70)
+22:52:33 Server: Object 6:677 not found (message 70)
+22:52:33 Server: Object 6:673 not found (message 94)
+22:52:33 Server: Object 6:672 not found (message 94)
+22:52:33 Server: Object 6:675 not found (message 70)
+22:52:33 Server: Object 6:674 not found (message 70)
+22:52:45 "get: STRING (76561198122210030), sent: STRING (76561198122210030)"
+22:52:45 "DISCONNECT: Miss Rachel  (76561198122210030) Object: B 1-1-C:1 (Miss Rachel ) REMOTE, _characterID: 432 at loc [7357.32,2255.44,0.000869989]"
+22:52:45 Client: Remote object 7:6 not found
+22:52:45 Client: Remote object 7:5 not found
+22:52:45 Client: Remote object 7:2 not found
+22:52:45 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+22:53:19 "CLEANUP: Deleted 77 Loot Piles out of 227"
+22:53:56 Server: Object 6:684 not found (message 98)
+22:53:56 Server: Object 6:685 not found (message 91)
+22:54:00 Server: Object 6:486 not found (message 99)
+22:54:14 Server: Object 6:690 not found (message 98)
+22:54:14 Server: Object 6:691 not found (message 91)
+22:54:26 Server: Object 6:694 not found (message 98)
+22:54:26 Server: Object 6:695 not found (message 91)
+22:54:42 Server: Object 6:697 not found (message 91)
+22:54:42 Server: Object 6:696 not found (message 98)
+22:54:54 Server: Object 6:700 not found (message 98)
+22:54:54 Server: Object 6:701 not found (message 91)
+22:56:13 Server: Object 6:706 not found (message 99)
+22:56:13 Server: Object 6:707 not found (message 91)
+22:57:08 "TIME SYNC: Local Time set to [2013,8,3,18,57]"
+22:57:20 Server: Object 6:710 not found (message 98)
+22:57:20 Server: Object 6:711 not found (message 91)
+22:57:37 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+22:57:42 "SAFE UNLOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+22:57:59 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+22:58:16 "CLEANUP: Deleted 6 Loot Piles out of 155"
