@@ -335,3 +335,38 @@ g from [15186,11857,300] to [5448.88,2105.49] NOW!(TIME:925||LT:MilitarySpecial)
  4:02:55 "CRASHSPAWNER: Loot spawn at '[5718.02,2031.82,0]' with loot table 'MilitarySpecial'"
  4:02:55 "CRASHSPAWNER: Crash completed! Wreck at: [5714.15,2034.57,-0.00136232] - Runtime: 170 Seconds || Distance from calculated POC: 275 meters"
  4:03:31 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
+ 4:08:31 "TIME SYNC: Local Time set to [2013,8,3,18,8]"
+ 4:09:35 "CLEANUP: Deleted 14 Loot Piles out of 145"
+ 4:11:34 "CLEANUP: Deleted 1 Loot Piles out of 131"
+ 4:12:34 "CLEANUP: Deleted 1 Loot Piles out of 130"
+ 4:13:31 "TIME SYNC: Local Time set to [2013,8,3,18,13]"
+ 4:14:34 "CLEANUP: Deleted 1 Loot Piles out of 129"
+ 4:14:55 Server: Object 4:355 not found (message 98)
+ 4:14:55 Server: Object 4:356 not found (message 91)
+ 4:14:56 Server: Object 4:365 not found (message 99)
+ 4:14:56 Server: Object 4:366 not found (message 91)
+ 4:15:04 Server: Object 4:381 not found (message 94)
+ 4:15:04 Server: Object 4:378 not found (message 94)
+ 4:15:04 Server: Object 4:379 not found (message 94)
+ 4:15:04 Server: Object 4:380 not found (message 94)
+ 4:15:04 Server: Object 4:382 not found (message 70)
+ 4:15:04 Server: Object 4:414 not found (message 94)
+ 4:15:05 "RUNNING EVENT: supply_drop on [2014,7,4,18,15]"
+ 4:15:12 Server: Object 4:435 not found (message 98)
+ 4:15:12 Server: Object 4:434 not found (message 70)
+ 4:15:12 Server: Object 4:436 not found (message 91)
+ 4:15:12 Server: Object 4:437 not found (message 99)
+ 4:15:12 Server: Object 4:438 not found (message 91)
+ 4:15:13 Server: Object 4:449 not found (message 70)
+ 4:15:13 Server: Object 4:448 not found (message 94)
+ 4:15:13 Server: Object 4:444 not found (message 70)
+ 4:15:13 Server: Object 4:447 not found (message 70)
+ 4:15:13 Server: Object 4:446 not found (message 70)
+ 4:15:13 Server: Object 4:445 not found (message 70)
+ 4:15:13 Server: Object 4:451 not found (message 91)
+ 4:15:13 Server: Object 4:450 not found (message 99)
+ 4:15:13 Server: Object 4:458 not found (message 70)
+ 4:18:19 Server: Object 4:523 not found (message 98)
+ 4:18:19 Server: Object 4:524 not found (message 91)
+ 4:18:19 Server: Object 4:526 not found (message 91)
+ 4:18:19 Server: Object 4:525 not found (message 99)
