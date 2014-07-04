@@ -282,3 +282,12 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:24:18 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
  8:25:27 "[DZMS]: Running Major Mission SM6."
  8:26:13 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 8:30:05 "RUNNING EVENT: crash_spawner on [2014,7,4,16,30]"
+ 8:30:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 8:30:05 "CRASHSPAWNER: Mi-17 started
+
+g from [1623.71,218.188,300] to [9073.95,8762.76] NOW!(TIME:464||LT:HeliCrash_No50s)"
+ 8:31:13 "TIME SYNC: Local Time set to [2013,8,3,16,31]"
+ 8:36:13 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
+ 8:36:34 "[DZMS]: Minor SM4 Crash Site Mission has Ended."
+ 8:36:50 "[DZMS]: Running Minor Mission SM1."
