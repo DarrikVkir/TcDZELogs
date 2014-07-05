@@ -490,3 +490,23 @@ g from [15186,11857,300] to [12413.8,12906.2] NOW!(TIME:9627||LT:HeliCrash_No50s
  6:57:14 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 947651433021327"
  6:57:14 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "947651433021327""
  6:58:15 "TIME SYNC: Local Time set to [2013,8,3,20,58]"
+ 7:00:00 "RUNNING EVENT: crash_spawner on [2014,7,5,21,0]"
+ 7:00:00 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 7:00:00 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [3681.1,7097.26] NOW!(TIME:11419||LT:HeliCrash_No50s)"
+ 7:00:11 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 9463114346387117"
+ 7:00:11 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "9463114346387117""
+ 7:00:43 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 946061434141117"
+ 7:00:43 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "946061434141117""
+ 7:02:00 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 94619143500122207"
+ 7:02:00 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "94619143500122207""
+ 7:03:11 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 94570143525109207"
+ 7:03:11 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "94570143525109207""
+ 7:03:15 "TIME SYNC: Local Time set to [2013,8,3,21,3]"
+ 7:07:33 Server: Object 4:218 not found (message 70)
+ 7:07:33 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 9440914351439117"
+ 7:07:33 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "9440914351439117""
+ 7:08:04 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 9443414356398117"
+ 7:08:04 "PUBLISH: B 1-1-B:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "9443414356398117""
+ 7:08:15 "TIME SYNC: Local Time set to [2013,8,3,21,8]"
