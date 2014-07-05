@@ -1517,3 +1517,26 @@ g from [15098,8144,300] to [3692.59,4916.94] NOW!(TIME:10006||LT:MilitarySpecial
 23:58:10 Client: Object 8:552 (type Type_70) not found.
 23:58:10 Client: Object 8:551 (type Type_70) not found.
 23:58:16 "CLEANUP: Deleted 12 Loot Piles out of 63"
+ 0:00:09 "RUNNING EVENT: crash_spawner on [2014,7,4,20,0]"
+ 0:00:09 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 0:00:09 "CRASHSPAWNER: MV-22 started
+
+g from [6986,-630,1000] to [4150.53,3005.5] NOW!(TIME:11810||LT:MilitarySpecial)"
+ 0:02:09 "TIME SYNC: Local Time set to [2013,8,3,20,2]"
+ 0:03:03 "[DZMS]: Minor SM5 HMMWV Crash Mission has Ended."
+ 0:03:07 "[DZMS]: Running Minor Mission SM12."
+ 0:06:15 "CLEANUP: Deleted 1 Loot Piles out of 53"
+ 0:06:43 "CRASHSPAWNER: MV-22 just exploded at [4331.9,3066.23,5.04768]!, "
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4328.26,3067.9,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4334.59,3062.96,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4337.09,3070.5,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4332.29,3056.41,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4332.39,3059.26,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4330.31,3061.07,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4327.59,3060.47,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Loot spawn at '[4327.92,3067.47,0]' with loot table 'MilitarySpecial'"
+ 0:06:43 "CRASHSPAWNER: Crash completed! Wreck at: [4331.91,3066.31,-0.0102196] - Runtime: 394 Seconds || Distance from calculated POC: 191 meters"
+ 0:07:05 Client: Object 8:599 (type Type_70) not found.
+ 0:07:09 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
+ 0:07:16 "CLEANUP: Deleted 2 Loot Piles out of 60"
+ 0:08:16 "CLEANUP: Deleted 1 Loot Piles out of 58"
