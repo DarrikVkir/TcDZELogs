@@ -604,3 +604,38 @@ if(DZE_DeathMsgSide) then {
 16:55:37 "CLEANUP: Deleted 29 Loot Piles out of 193"
 16:56:36 "CLEANUP: Deleted 26 Loot Piles out of 169"
 16:57:35 "CLEANUP: Deleted 9 Loot Piles out of 144"
+16:58:35 "CLEANUP: Deleted 14 Loot Piles out of 137"
+16:59:29 "TIME SYNC: Local Time set to [2013,8,3,18,59]"
+17:00:02 "RUNNING EVENT: crash_spawner on [2014,7,5,19,0]"
+17:00:02 "CRASHSPAWNER: 100% chance to start a crashing Su-25 with loot table 'MilitarySpecial'"
+17:00:02 "CRASHSPAWNER: Su-25 started
+
+g from [6993.7,173.053,300] to [2360.01,6794.88] NOW!(TIME:8966||LT:MilitarySpecial)"
+17:00:35 "CLEANUP: Deleted 1 Loot Piles out of 125"
+17:01:20 "DELETE: B 1-1-C:1 (Vladislav) REMOTE Deleted by UID: 0"
+17:02:51 "CRASHSPAWNER: Su-25 just exploded at [2647.96,6801.42,5.86487]!, "
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2649.59,6797.77,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2649.15,6809.01,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2657.6,6801.63,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2641.89,6797.48,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2652.96,6808.77,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2655.23,6811.69,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2660.9,6802.23,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Loot spawn at '[2642.97,6802.78,0]' with loot table 'MilitarySpecial'"
+17:02:52 "CRASHSPAWNER: Crash completed! Wreck at: [2647.96,6801.57,0.0158386] - Runtime: 169 Seconds || Distance from calculated POC: 288 meters"
+17:04:14 Server: Object 8:98 not found (message 69)
+17:04:14 Server: Object 8:97 not found (message 69)
+17:04:15 Client: Object 8:98 (type Type_70) not found.
+17:04:15 "PDEATH: Player Died 254102534"
+17:04:29 "Purging player: 32826040# 1062407: ghillie_overall.p3d"
+17:04:29 "Purging player: 25822040# 1062423: ghillie_top.p3d"
+17:04:29 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
+17:04:29 "CLEANUP: Deleted 2 players and 0 zombies out of 8 dead"
+17:04:30 "CLEANUP: Deleted 11 Animals out of 24"
+17:04:30 "ERROR: server_playerSync: Cannot Sync Player Daelin [443]. Position in debug! [-7239.67,19539.3,0.245728]"
+17:04:31 "get: STRING (254102534), sent: STRING (254102534)"
+17:04:31 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 443 at loc [-7239.67,19539.3,0.245728]"
+17:04:31 "ERROR: server_playerSync: Cannot Sync Player Daelin [443]. Position in debug! [-7239.67,19539.3,0.245728]"
+17:04:31 Client: Remote object 8:2 not found
+17:06:36 "CLEANUP: Deleted 11 Loot Piles out of 153"
+17:07:35 "CLEANUP: Deleted 9 Loot Piles out of 142"
