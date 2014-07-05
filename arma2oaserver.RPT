@@ -345,3 +345,17 @@ g from [1623.71,218.188,300] to [3563.61,2402.24] NOW!(TIME:1768||LT:HeliCrash_N
 15:18:19 Server: Object 4:271 not found (message 91)
 15:18:19 Server: Object 4:273 not found (message 91)
 15:18:19 Server: Object 4:272 not found (message 99)
+15:18:23 Server: Object 4:222 not found (message 99)
+15:18:30 "CLEANUP: Deleted 1 Loot Piles out of 55"
+15:19:27 "DELETE: B 1-1-B:1 (Vladislav) REMOTE Deleted by UID: 0"
+15:19:28 "TIME SYNC: Local Time set to [2013,8,3,17,19]"
+15:19:30 "CLEANUP: Deleted 3 Loot Piles out of 69"
+15:22:31 "CLEANUP: Deleted 25 Loot Piles out of 66"
+15:23:08 "DELETE: B 1-1-C:1 (Daelin) REMOTE Deleted by UID: 0"
+15:24:28 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
+15:24:29 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+15:24:37 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+15:24:45 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+15:24:54 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+15:25:57 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a ItemFuelBarrel in/at Stary for 2x ItemGoldBar"
+15:26:17 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a ItemJerrycan in/at Stary for 4x ItemSilverBar"
