@@ -298,3 +298,12 @@ g from [15186,11857,300] to [9267.83,4084.69] NOW!(TIME:1388||LT:HeliCrash_No50s
 22:03:23 Server: Object 3:101 not found (message 91)
 22:05:51 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
 22:07:52 "CLEANUP: Deleted 2 Loot Piles out of 8"
+22:08:52 "CLEANUP: Deleted 1 Loot Piles out of 6"
+22:10:21 "get: STRING (4486214), sent: STRING (4486214)"
+22:10:21 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 427 at loc [7432.41,15046.5,-6.10352e-005]"
+22:10:21 Client: Remote object 3:8 not found
+22:10:23 Warning: Cleanup player - person 3:7 not found
+22:10:51 "TIME SYNC: Local Time set to [2013,8,3,18,10]"
+22:10:52 "CLEANUP: Deleted 9 Animals out of 9"
+22:15:06 "RUNNING EVENT: supply_drop on [2014,7,5,18,15]"
+22:15:51 "TIME SYNC: Local Time set to [2013,8,3,18,15]"
