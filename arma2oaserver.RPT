@@ -620,3 +620,32 @@ g from [1623.71,218.188,300] to [7251.04,7227.35] NOW!(TIME:11174||LT:HeliCrash_
 12:56:09 "CLEANUP: Deleted 4 Loot Piles out of 112"
 12:57:01 "TIME SYNC: Local Time set to [2013,8,3,20,57]"
 12:57:09 "CLEANUP: Deleted 1 Loot Piles out of 108"
+12:59:10 "CLEANUP: Deleted 15 Loot Piles out of 108"
+13:00:04 "RUNNING EVENT: crash_spawner on [2014,7,5,21,0]"
+13:00:04 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+13:00:04 "CRASHSPAWNER: AH-1Z started
+
+g from [15098,8144,300] to [9866.18,1868.62] NOW!(TIME:12976||LT:MilitarySpecial)"
+13:00:09 "CLEANUP: Deleted 11 Loot Piles out of 93"
+13:00:58 Server: Object 6:518 not found (message 98)
+13:00:58 Server: Object 6:519 not found (message 91)
+13:01:09 "CLEANUP: Deleted 5 Loot Piles out of 82"
+13:02:01 Server: Object 8:139 not found (message 91)
+13:02:01 Server: Object 8:138 not found (message 99)
+13:02:01 Server: Object 8:142 not found (message 98)
+13:02:01 Server: Object 8:143 not found (message 91)
+13:02:01 "TIME SYNC: Local Time set to [2013,8,3,21,2]"
+13:02:09 "CLEANUP: Deleted 3 Loot Piles out of 77"
+13:04:09 "CLEANUP: Deleted 3 Loot Piles out of 81"
+13:05:10 "CLEANUP: Deleted 4 Loot Piles out of 106"
+13:05:17 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a HMMWV_DES_EP1 in/at Stary for 2x ItemGoldBar10oz"
+13:05:17 "DELETE: B 1-1-B:1 (Vladislav) REMOTE Deleted by ID: 77300"
+13:06:09 "CLEANUP: Deleted 1 Loot Piles out of 102"
+13:06:38 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+13:06:49 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+13:06:58 "EPOCH SERVERTRADE: Player: Daelin (254102534) sold a 200Rnd_556x45_M249 in/at Stary for 2x ItemGoldBar"
+13:07:01 "TIME SYNC: Local Time set to [2013,8,3,21,7]"
+13:07:09 "CLEANUP: Deleted 2 Loot Piles out of 102"
+13:07:31 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+13:07:41 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+13:08:21 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
