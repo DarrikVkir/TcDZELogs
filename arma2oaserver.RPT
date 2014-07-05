@@ -739,3 +739,56 @@ g from [1623.71,218.188,300] to [12778.8,12418.3] NOW!(TIME:12570||LT:HeliCrash_
 18:03:35 "CLEANUP: Deleted 1 Loot Piles out of 64"
 18:04:29 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
 18:07:16 NAT Negotiation completed
+18:09:29 "TIME SYNC: Local Time set to [2013,8,3,20,9]"
+18:09:35 "CLEANUP: Deleted 2 Loot Piles out of 62"
+18:09:46 Server: Object 4:1878 not found (message 91)
+18:09:46 Server: Object 4:1877 not found (message 99)
+18:09:46 Server: Object 4:1886 not found (message 91)
+18:09:58 "CRASHSPAWNER: UH-1H just exploded at [12776.4,12424.4,2.26797]!, "
+18:09:58 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+18:09:58 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+18:09:58 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12777.3,12428.3,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12783,12422.2,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12774.5,12429.9,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12774.2,12417.7,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12775.1,12413.9,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12771.4,12427.3,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12769.5,12429.3,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Loot spawn at '[12774.2,12413.6,0]' with loot table 'HeliCrash_No50s'"
+18:09:58 "CRASHSPAWNER: Crash completed! Wreck at: [12776.4,12424.4,0.0141907] - Runtime: 590 Seconds || Distance from calculated POC: 7 meters"
+18:10:00 Server: Object 2:7433 not found (message 275)
+18:10:35 "CLEANUP: Deleted 1 Loot Piles out of 71"
+18:12:36 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartGeneric in/at Stary for 2x ItemGoldBar"
+18:13:17 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartGeneric in/at Stary for 2x ItemGoldBar"
+18:13:53 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:14:02 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:14:02 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartEngine in/at Stary for 5x ItemGoldBar"
+18:14:11 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:14:20 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:14:29 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:14:29 "TIME SYNC: Local Time set to [2013,8,3,20,14]"
+18:14:34 "get: STRING (257407622), sent: STRING (257407622)"
+18:14:34 "DISCONNECT: Leo (257407622) Object: B 1-1-F:1 (Leo) REMOTE, _characterID: 447 at loc [9620,2242.9,0.00101852]"
+18:14:34 Client: Remote object 9:6 not found
+18:14:34 Client: Remote object 9:2 not found
+18:14:34 Client: Remote object 9:5 not found
+18:14:37 "CLEANUP: Deleted 1 Loot Piles out of 118"
+18:14:37 Warning: Cleanup player - person 9:7 not found
+18:14:38 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:14:46 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:14:55 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:15:00 "RUNNING EVENT: supply_drop on [2014,7,5,20,15]"
+18:15:04 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:15:46 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:15:55 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:16:04 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:16:11 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 100Rnd_762x54_PK in/at Stary for 2x ItemGoldBar"
+18:16:12 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:16:21 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:16:30 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:16:39 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:16:47 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:16:56 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:17:05 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:17:14 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
