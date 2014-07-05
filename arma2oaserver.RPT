@@ -753,3 +753,13 @@ g from [6993.7,173.053,300] to [4061.31,14303.9] NOW!(TIME:14778||LT:HeliCrash_N
 13:57:01 "CLEANUP: Deleted 5 Animals out of 16"
 13:57:01 "CLEANUP: Deleted 1 players and 0 zombies out of 13 dead"
 13:57:02 "TIME SYNC: Local Time set to [2013,8,3,21,57]"
+14:00:00 "RUNNING EVENT: crash_spawner on [2014,7,5,22,0]"
+14:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+14:00:00 "CRASHSPAWNER: UH-1H started
+
+g from [15098,8144,300] to [6008.95,7251.65] NOW!(TIME:16571||LT:HeliCrash_No50s)"
+14:02:02 "TIME SYNC: Local Time set to [2013,8,3,22,2]"
+14:04:11 "CLEANUP: Deleted 2 Loot Piles out of 82"
+14:06:10 "CLEANUP: Deleted 1 Loot Piles out of 80"
+14:07:02 "TIME SYNC: Local Time set to [2013,8,3,22,7]"
+14:07:10 "CLEANUP: Deleted 4 Loot Piles out of 79"
