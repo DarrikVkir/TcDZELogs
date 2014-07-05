@@ -696,3 +696,17 @@ _we>
 13:18:00 "DISCONNECT: Daelin (254102534) Object: B 1-1-C:1 (Daelin) REMOTE, _characterID: 431 at loc [7065.51,9415.06,0.00128174]"
 13:18:00 Client: Remote object 8:2 not found
 13:18:00 Client: Remote object 8:8 not found
+13:18:39 Server: Object 8:211 not found (message 70)
+13:18:39 Server: Object info 2:7497 not found during Changing Owner
+13:18:39 Server: Object info 2:7494 not found during Changing Owner
+13:18:39 Server: Object 6:625 not found (message 94)
+13:19:31 "PDEATH: Player Died 253568646"
+13:19:49 "ERROR: server_playerSync: Cannot Sync Player Vladislav [441]. Position in debug! [-7239.67,19539.3,0.245575]"
+13:19:50 "get: STRING (253568646), sent: STRING (253568646)"
+13:19:50 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 441 at loc [-7239.67,19539.3,0.245575]"
+13:19:50 "ERROR: server_playerSync: Cannot Sync Player Vladislav [441]. Position in debug! [-7239.67,19539.3,0.245575]"
+13:22:02 "TIME SYNC: Local Time set to [2013,8,3,21,22]"
+13:23:10 "CLEANUP: Deleted 7 Loot Piles out of 117"
+13:25:11 "CLEANUP: Deleted 27 Loot Piles out of 111"
+13:27:02 "TIME SYNC: Local Time set to [2013,8,3,21,27]"
+13:27:02 "CLEANUP: Deleted 18 Animals out of 26"
