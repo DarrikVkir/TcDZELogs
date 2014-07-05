@@ -577,3 +577,10 @@ g from [15098,8144,300] to [3681.1,7097.26] NOW!(TIME:11419||LT:HeliCrash_No50s)
  7:53:14 "CLEANUP: Deleted 3 Animals out of 3"
  7:53:15 "TIME SYNC: Local Time set to [2013,8,3,21,53]"
  7:58:15 "TIME SYNC: Local Time set to [2013,8,3,21,58]"
+ 8:00:05 "RUNNING EVENT: crash_spawner on [2014,7,5,22,0]"
+ 8:00:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 8:00:05 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [8083.29,6476.91] NOW!(TIME:15023||LT:Hospital)"
+ 8:03:15 "TIME SYNC: Local Time set to [2013,8,3,22,3]"
+ 8:08:15 "TIME SYNC: Local Time set to [2013,8,3,22,8]"
