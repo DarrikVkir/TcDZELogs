@@ -325,3 +325,23 @@ g from [1623.71,218.188,300] to [3563.61,2402.24] NOW!(TIME:1768||LT:HeliCrash_N
 15:04:06 "DELETE: B 1-1-B:1 (Vladislav) REMOTE Deleted by ID: 423960"
 15:04:28 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
 15:04:30 "CLEANUP: Deleted 3 Loot Piles out of 35"
+15:09:28 "TIME SYNC: Local Time set to [2013,8,3,17,9]"
+15:10:08 Server: Object 4:206 not found (message 98)
+15:10:08 Server: Object 4:207 not found (message 91)
+15:10:08 Server: Object 4:209 not found (message 91)
+15:10:08 Server: Object 4:221 not found (message 91)
+15:10:08 Server: Object 4:220 not found (message 99)
+15:14:28 "TIME SYNC: Local Time set to [2013,8,3,17,14]"
+15:14:30 "CLEANUP: Deleted 1 Loot Piles out of 34"
+15:14:47 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a HMMWV_M1151_M2_CZ_DES_EP1_DZE in/at Bandit Trader for 1x ItemBriefcase100oz"
+15:14:47 "DELETE: B 1-1-B:1 (Vladislav) REMOTE Deleted by ID: 134332"
+15:15:03 "RUNNING EVENT: supply_drop on [2014,7,5,17,15]"
+15:18:19 Server: Object 4:268 not found (message 70)
+15:18:19 Server: Object 4:269 not found (message 94)
+15:18:19 Server: Object 4:267 not found (message 94)
+15:18:19 Server: Object 4:266 not found (message 94)
+15:18:19 Server: Object 4:265 not found (message 70)
+15:18:19 Server: Object 4:270 not found (message 98)
+15:18:19 Server: Object 4:271 not found (message 91)
+15:18:19 Server: Object 4:273 not found (message 91)
+15:18:19 Server: Object 4:272 not found (message 99)
