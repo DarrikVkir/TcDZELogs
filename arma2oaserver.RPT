@@ -278,3 +278,23 @@ g from [15098,8144,300] to [13353.5,13001.8] NOW!(TIME:381||LT:HeliCrash_No50s)"
  9:30:36 Server: Object 3:130 not found (message 91)
  9:32:00 "TIME SYNC: Local Time set to [2013,8,3,17,32]"
  9:37:00 "TIME SYNC: Local Time set to [2013,8,3,17,37]"
+ 9:42:00 "TIME SYNC: Local Time set to [2013,8,3,17,42]"
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 9:46:31 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 9:47:00 "TIME SYNC: Local Time set to [2013,8,3,17,47]"
+ 9:47:06 "CLEANUP: Deleted 14 Loot Piles out of 189"
+ 9:48:05 "CLEANUP: Deleted 6 Loot Piles out of 175"
