@@ -351,3 +351,19 @@ g from [15098,8144,300] to [7448.56,8739.65] NOW!(TIME:2183||LT:MilitarySpecial)
 10:07:48 "get: STRING (253568646), sent: STRING (253568646)"
 10:07:48 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 435 at loc [-7239.67,19539.3,0.245483]"
 10:07:48 "ERROR: server_playerSync: Cannot Sync Player Vladislav [435]. Position in debug! [-7239.67,19539.3,0.245483]"
+10:09:58 "PDEATH: Player Died 253568646"
+10:10:07 "ERROR: server_playerSync: Cannot Sync Player Vladislav [436]. Position in debug! [-7239.83,19539.2,0.269836]"
+10:10:07 "get: STRING (253568646), sent: STRING (253568646)"
+10:10:07 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 436 at loc [-7239.75,19539.2,0.257446]"
+10:10:07 "ERROR: server_playerSync: Cannot Sync Player Vladislav [436]. Position in debug! [-7239.75,19539.2,0.257446]"
+10:10:48 Server: Object 3:649 not found (message 70)
+10:10:48 Server: Object 3:648 not found (message 94)
+10:10:48 Server: Object 3:646 not found (message 94)
+10:10:48 Server: Object 3:647 not found (message 94)
+10:11:24 NAT Negotiation completed
+10:12:01 "TIME SYNC: Local Time set to [2013,8,3,18,12]"
+10:12:02 "CLEANUP: Deleted 19 Animals out of 28"
+10:13:15 Server: Object 3:767 not found (message 70)
+10:15:08 "RUNNING EVENT: supply_drop on [2014,7,5,18,15]"
+10:17:01 "TIME SYNC: Local Time set to [2013,8,3,18,17]"
+10:17:08 "CLEANUP: Deleted 8 Loot Piles out of 245"
