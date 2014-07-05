@@ -306,3 +306,48 @@ g from [15098,8144,300] to [13353.5,13001.8] NOW!(TIME:381||LT:HeliCrash_No50s)"
  9:54:03 "CLEANUP: Deleted 13 Loot Piles out of 43"
  9:57:00 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
  9:58:02 "CLEANUP: Deleted 2 Loot Piles out of 38"
+ 9:59:02 "CLEANUP: Deleted 10 Loot Piles out of 36"
+10:00:02 "CLEANUP: Deleted 3 Loot Piles out of 26"
+10:00:05 "RUNNING EVENT: crash_spawner on [2014,7,5,18,0]"
+10:00:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+10:00:05 "CRASHSPAWNER: Mi-24D started
+
+g from [15098,8144,300] to [7448.56,8739.65] NOW!(TIME:2183||LT:MilitarySpecial)"
+10:02:01 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+10:02:02 "CLEANUP: Deleted 2 Loot Piles out of 23"
+10:03:02 "CLEANUP: Deleted 9 Loot Piles out of 21"
+10:03:50 "PDEATH: Player Died 253568646"
+10:04:17 "ERROR: server_playerSync: Cannot Sync Player Vladislav [434]. Position in debug! [-7239.67,19539.3,0.245972]"
+10:04:18 "get: STRING (253568646), sent: STRING (253568646)"
+10:04:18 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 434 at loc [-7239.67,19539.3,0.245972]"
+10:04:18 "ERROR: server_playerSync: Cannot Sync Player Vladislav [434]. Position in debug! [-7239.67,19539.3,0.245972]"
+10:05:02 "CLEANUP: Deleted 1 Loot Piles out of 12"
+10:06:13 "CRASHSPAWNER: Mi-24D just exploded at [7428.64,8654.5,1.06329]!, "
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7429.07,8658.47,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7423.85,8649.99,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7435.16,8651.35,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7436.91,8660.56,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7439.1,8661.06,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7426.79,8660.65,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7420.72,8655.78,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7431.14,8650.87,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Loot spawn at '[7432.79,8654.51,0]' with loot table 'MilitarySpecial'"
+10:06:13 "CRASHSPAWNER: Crash completed! Wreck at: [7428.63,8654.53,-0.000946045] - Runtime: 367 Seconds || Distance from calculated POC: 88 meters"
+10:06:27 Server: Object 3:460 not found (message 94)
+10:06:35 Server: Object 3:478 not found (message 70)
+10:06:35 Server: Object 3:480 not found (message 91)
+10:06:35 Server: Object 3:479 not found (message 99)
+10:06:36 Server: Object 3:482 not found (message 91)
+10:06:36 Server: Object 3:481 not found (message 99)
+10:06:36 Server: Object 3:484 not found (message 91)
+10:06:53 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+10:07:01 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
+10:07:02 Server: Object 3:532 not found (message 70)
+10:07:02 Server: Object 3:531 not found (message 70)
+10:07:02 Server: Object 3:530 not found (message 70)
+10:07:02 Server: Object 3:534 not found (message 70)
+10:07:37 "PDEATH: Player Died 253568646"
+10:07:47 "ERROR: server_playerSync: Cannot Sync Player Vladislav [435]. Position in debug! [-7239.8,19539.2,0.265228]"
+10:07:48 "get: STRING (253568646), sent: STRING (253568646)"
+10:07:48 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 435 at loc [-7239.67,19539.3,0.245483]"
+10:07:48 "ERROR: server_playerSync: Cannot Sync Player Vladislav [435]. Position in debug! [-7239.67,19539.3,0.245483]"
