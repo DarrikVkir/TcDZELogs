@@ -579,3 +579,28 @@ if(DZE_DeathMsgSide) then {
 16:47:54 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-C:1 (Vladislav) REMOTE with MeleeMachete from 2.24296m with 0.185202 dmg"
 16:47:54 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-C:1 (Vladislav) REMOTE with MeleeMachete from 2.24296m with 0.185205 dmg"
 16:47:54 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-C:1 (Vladislav) REMOTE with MeleeMachete from 2.24296m with 0.18521 dmg"
+16:48:25 Client: Object 5:815 (type Type_69) not found.
+16:48:25 Client: Object 5:815 (type Type_70) not found.
+16:49:29 "TIME SYNC: Local Time set to [2013,8,3,18,49]"
+16:50:07 "get: STRING (254102534), sent: STRING (254102534)"
+16:50:07 "LOGOUT IN VEHICLE: Daelin at location [12997.6,9962.24,1.50119]"
+16:50:07 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 443 at loc [12997.6,9962.24,1.50119]"
+16:50:07 Client: Remote object 5:679 not found
+16:52:16 Server: Object 4:1202 not found (message 98)
+16:52:16 Server: Object 4:1203 not found (message 91)
+16:52:17 Server: Object 4:1214 not found (message 98)
+16:52:17 Server: Object 4:1215 not found (message 91)
+16:54:19 Server: Object 5:678 not found (message 189)
+16:54:19 Server: Object 5:678 not found (message 189)
+16:54:28 Server: Object 5:678 not found (message 189)
+16:54:28 Server: Object 5:678 not found (message 189)
+16:54:28 Server: Object 5:678 not found (message 189)
+16:54:28 Server: Object 5:678 not found (message 189)
+16:54:28 Server: Object 5:678 not found (message 189)
+16:54:29 Server: Object 5:678 not found (message 189)
+16:54:29 Server: Object 5:678 not found (message 189)
+16:54:29 "TIME SYNC: Local Time set to [2013,8,3,18,54]"
+16:54:35 "CLEANUP: Deleted 1 Loot Piles out of 149"
+16:55:37 "CLEANUP: Deleted 29 Loot Piles out of 193"
+16:56:36 "CLEANUP: Deleted 26 Loot Piles out of 169"
+16:57:35 "CLEANUP: Deleted 9 Loot Piles out of 144"
