@@ -866,3 +866,16 @@ g from [10450,-630,1000] to [8212.16,9828.44] NOW!(TIME:16165||LT:MilitarySpecia
 19:09:29 "TIME SYNC: Local Time set to [2013,8,3,21,9]"
 19:14:29 "TIME SYNC: Local Time set to [2013,8,3,21,14]"
 19:15:06 "RUNNING EVENT: supply_drop on [2014,7,5,21,15]"
+19:18:58 "get: STRING (254102534), sent: STRING (254102534)"
+19:18:58 "DISCONNECT: Daelin (254102534) Object: B 1-1-D:1 (Daelin) REMOTE, _characterID: 446 at loc [2223.22,8174.3,0.00143433]"
+19:18:58 Client: Remote object 8:475 not found
+19:18:59 Warning: Cleanup player - person 8:474 not found
+19:19:01 "nil player object attempting PV, :["253568646","Vladislav"]"
+19:19:01 "get: STRING (), sent: STRING (253568646)"
+19:19:01 "DISCONNECT: Vladislav (253568646) Object: B 1-1-E:1 REMOTE, _characterID: 444 at loc [2236.01,8146.09,2.36127]"
+19:19:01 Client: Remote object 4:1796 not found
+19:19:01 Client: Remote object 4:1795 not found
+19:19:05 Warning: Cleanup player - person 4:1797 not found
+19:19:29 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
+19:19:31 "CLEANUP: Deleted 30 Animals out of 30"
+19:24:29 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
