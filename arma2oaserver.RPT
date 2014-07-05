@@ -298,3 +298,9 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 14:44:21 Client: Remote object 4:6 not found
 14:44:21 Client: Remote object 4:5 not found
 14:44:28 "TIME SYNC: Local Time set to [2013,8,3,16,44]"
+14:49:28 "TIME SYNC: Local Time set to [2013,8,3,16,49]"
+14:49:29 "CLEANUP: Deleted 8 Animals out of 8"
+14:53:42 Server: Object 4:93 not found (message 70)
+14:54:28 "TIME SYNC: Local Time set to [2013,8,3,16,54]"
+14:55:29 "CLEANUP: Deleted 13 Loot Piles out of 19"
+14:57:49 Server: Object 5:48 not found (message 70)
