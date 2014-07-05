@@ -388,3 +388,50 @@ g from [6993.7,173.053,300] to [5007.58,14940.1] NOW!(TIME:3570||LT:MilitarySpec
 15:54:28 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
 15:57:23 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a MTVR_DES_EP1 in/at Stary for 1x ItemGoldBar10oz"
 15:57:23 "DELETE: B 1-1-B:1 (Vladislav) REMOTE Deleted by ID: 4598"
+15:59:28 "TIME SYNC: Local Time set to [2013,8,3,17,59]"
+15:59:35 "CLEANUP: Deleted 54 Loot Piles out of 106"
+15:59:55 Server: Object 5:332 not found (message 70)
+15:59:55 Server: Object 5:334 not found (message 70)
+15:59:55 Server: Object 5:335 not found (message 94)
+15:59:55 Server: Object 5:338 not found (message 70)
+15:59:55 Server: Object 5:337 not found (message 70)
+15:59:55 Server: Object 5:336 not found (message 94)
+15:59:55 Server: Object 5:339 not found (message 70)
+15:59:55 Server: Object 5:340 not found (message 94)
+15:59:55 Server: Object 5:342 not found (message 70)
+15:59:55 Server: Object 5:341 not found (message 94)
+15:59:55 Server: Object 5:344 not found (message 70)
+15:59:55 Server: Object 5:343 not found (message 70)
+15:59:55 Server: Object 5:345 not found (message 94)
+15:59:55 Server: Object 5:349 not found (message 70)
+15:59:55 Server: Object 5:348 not found (message 94)
+15:59:55 Server: Object 5:347 not found (message 94)
+15:59:55 Server: Object 5:346 not found (message 94)
+16:00:06 "RUNNING EVENT: crash_spawner on [2014,7,5,18,0]"
+16:00:06 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+16:00:06 "CRASHSPAWNER: Ural Wreck spawned at [12765.5,13258.4]"
+16:00:06 "CRASHSPAWNER: Loot spawn at '[12767.2,13262,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12768.4,13265.5,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12769.4,13250.2,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12761.5,13261.9,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12760.6,13263.2,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12760.1,13257.1,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12762.4,13266.4,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12765.4,13266.7,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12769.5,13250.2,0.00896454]' with loot table 'Military'"
+16:00:07 "CRASHSPAWNER: Loot spawn at '[12761.1,13263.9,0.00896454]' with loot table 'Military'"
+16:03:33 "CLEANUP: Deleted 7 Loot Piles out of 101"
+16:04:28 "TIME SYNC: Local Time set to [2013,8,3,18,4]"
+16:04:33 "CLEANUP: Deleted 6 Loot Piles out of 94"
+16:05:56 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-B:1 (Vladislav) REMOTE with Pickup (PK) AL from 0m with 0.436009 dmg"
+16:05:56 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+16:05:56   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+16:05:56   Error Undefined variable in expression: _weapon
+16:05:56 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
