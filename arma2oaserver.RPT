@@ -532,3 +532,16 @@ g from [15098,8144,300] to [3681.1,7097.26] NOW!(TIME:11419||LT:HeliCrash_No50s)
  7:17:07 "CRASHSPAWNER: Crash completed! Wreck at: [3109.26,8537.55,-6.10352e-005] - Runtime: 10017 Seconds || Distance from calculated POC: 5213 meters"
  7:17:29 Server: Object 2:7143 not found (message 221)
  7:18:15 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
+ 7:23:15 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
+ 7:24:00 "get: STRING (254102534), sent: STRING (254102534)"
+ 7:24:00 "DISCONNECT: Daelin (254102534) Object: B 1-1-C:1 (Daelin) REMOTE, _characterID: 431 at loc [2230.55,8148.35,0.115814]"
+ 7:24:00 Client: Remote object 5:2 not found
+ 7:24:00 Client: Remote object 5:8 not found
+ 7:24:00 Warning: Cleanup player - person 5:7 not found
+ 7:24:01 Warning: Cleanup player - person 5:7 not found
+ 7:24:29 "get: STRING (253568646), sent: STRING (253568646)"
+ 7:24:29 "DISCONNECT: Vladislav (253568646) Object: B 1-1-D:1 (Vladislav) REMOTE, _characterID: 434 at loc [11833.9,3386.9,0.0015505]"
+ 7:24:29 Client: Remote object 6:0 not found
+ 7:24:29 Client: Remote object 6:8 not found
+ 7:24:29 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 7:28:15 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
