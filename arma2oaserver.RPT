@@ -730,3 +730,12 @@ g from [6993.7,173.053,300] to [2360.01,6794.88] NOW!(TIME:8966||LT:MilitarySpec
 17:55:46 "HIVE: WRITE: "CHILD:388:1617777733012645:""
 17:55:47 "CUSTOM: Selected "5017""
 17:55:47 "PUBLISH: B 1-1-E:1 (Vladislav) REMOTE Bought Pickup_PK_TK_GUE_EP1_DZE with ID "1617777733012645""
+17:59:29 "TIME SYNC: Local Time set to [2013,8,3,19,59]"
+18:00:08 "RUNNING EVENT: crash_spawner on [2014,7,5,20,0]"
+18:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+18:00:08 "CRASHSPAWNER: UH-1H started
+
+g from [1623.71,218.188,300] to [12778.8,12418.3] NOW!(TIME:12570||LT:HeliCrash_No50s)"
+18:03:35 "CLEANUP: Deleted 1 Loot Piles out of 64"
+18:04:29 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
+18:07:16 NAT Negotiation completed
