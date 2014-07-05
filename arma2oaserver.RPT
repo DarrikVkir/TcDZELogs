@@ -442,3 +442,22 @@ g from [1623.71,218.188,300] to [12293.3,14006.3] NOW!(TIME:7825||LT:MilitarySpe
  6:23:15 "TIME SYNC: Local Time set to [2013,8,3,20,23]"
  6:23:16 "CLEANUP: Deleted 19 Animals out of 19"
  6:28:15 "TIME SYNC: Local Time set to [2013,8,3,20,28]"
+ 6:28:59 Server: Object 4:9 not found (message 70)
+ 6:30:08 "RUNNING EVENT: crash_spawner on [2014,7,5,20,30]"
+ 6:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 6:30:08 "CRASHSPAWNER: UH-60M started
+
+g from [15186,11857,300] to [12413.8,12906.2] NOW!(TIME:9627||LT:HeliCrash_No50s)"
+ 6:33:15 "TIME SYNC: Local Time set to [2013,8,3,20,33]"
+ 6:34:14 "DELETE: <null> Deleted by UID: 0"
+ 6:34:14 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 6:34:14   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 6:34:14   Error Undefined variable in expression: _activatingplayer
+ 6:34:14 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 6:35:44 "DELETE: B 1-1-B:1 (Miss Rachel ) REMOTE Deleted by UID: 9495114348230207"
+ 6:38:14 "CLEANUP: Deleted 2 Animals out of 5"
+ 6:38:15 "TIME SYNC: Local Time set to [2013,8,3,20,38]"
