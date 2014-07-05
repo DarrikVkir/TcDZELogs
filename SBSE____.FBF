@@ -1,0 +1,727 @@
+
+
+=====================================================================
+== C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-pPLRy.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+=====================================================================
+Exe timestamp: 2014/06/01 10:01:31
+Current time:  2014/07/04 20:19:52
+
+Version 1.63.112555
+Item STR_EPOCH_BULK_DESC_MP5SD listed twice
+Item STR_ACTIONS_BUILD listed twice
+Item STR_EQUIP_NAME_41 listed twice
+Item STR_EQUIP_DESC_41 listed twice
+Updating base class ->NonStrategic, by Ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by Ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by Ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class ->PistolCore, by ca\weapons\config.bin/cfgWeapons/Pistol/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->Default, by ca\weapons\config.bin/cfgWeapons/ItemCore/
+Updating base class ->Citizen, by ca\characters2\config.bin/CfgVehicles/Citizen1/
+Updating base class ->SkodaBase, by ca\wheeled\config.bin/CfgVehicles/car_sedan/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_Fire/
+Updating base class ->House, by ca\misc3\config.bin/CfgVehicles/Land_A_tent/
+Updating base class ->Camp_base, by ca\misc3\config.bin/CfgVehicles/ACamp/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Cannot delete class CA_DebriefingInfo, it is referenced somewhere (used as a base class probably).
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_villager1/
+Updating base class zZombie_Base->zZombie_new_Base, by z\addons\dayz_code\config.bin/CfgVehicles/z_worker1/
+Updating base class Soldier_Crew_PMC->Soldier_Bodyguard_M4_PMC, by z\addons\dayz_code\config.bin/CfgVehicles/SurvivorW2_DZ/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class HouseBase->, by z\addons\dayz_code\config.bin/CfgVehicles/House/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class MeleeHatchet->MeleeWeapon, by z\addons\dayz_code\config.bin/CfgWeapons/MeleeCrowbar/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class Hatchet_Swing->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/crowbar_swing/
+Updating base class CA_Magazine->Melee_Swing, by z\addons\dayz_code\config.bin/CfgMagazines/Hatchet_Swing/
+Updating base class ->Plane, by ca\air2\mv22\config.bin/CfgVehicles/MV22/
+Updating base class ViewOptics->, by ca\air2\uh1y\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class ->HouseBase, by ca\misc_e\config.bin/CfgVehicles/House/
+Updating base class ->Land_CamoNet_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNet_EAST_EP1/
+Updating base class ->Land_CamoNetB_EAST, by ca\misc_e\config.bin/CfgVehicles/Land_CamoNetB_EAST_EP1/
+Updating base class ->Sign_1L_Noentry, by ca\misc_e\config.bin/CfgVehicles/Sign_1L_Noentry_EP1/
+Updating base class ->Sign_circle, by ca\misc_e\config.bin/CfgVehicles/Helper_Base_EP1/
+Updating base class ->Rifle, by ca\weapons_baf\config.bin/cfgWeapons/BAF_AS50_scoped/
+Updating base class ->Rifle, by ca\weapons_e\config.bin/cfgWeapons/M60A4_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_EP1/
+Updating base class ->M249, by ca\weapons_e\config.bin/cfgWeapons/M249_m145_EP1/
+Updating base class ->m107, by ca\weapons_e\m107\config.bin/CfgWeapons/m107_TWS_EP1/
+Updating base class ->M240, by ca\weapons_e\m240\config.bin/CfgWeapons/m240_scoped_EP1/
+Updating base class ->V3S_Base, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Base_EP1/
+Updating base class ->V3S_Base_EP1, by ca\wheeled_e\v3s\config.bin/CfgVehicles/V3S_Refuel_TK_GUE_EP1/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+Updating base class ->Helicopter, by ca\air_e\ah6j\config.bin/CfgVehicles/AH6_Base_EP1/
+Updating base class ->Plane, by ca\air_e\an2\config.bin/CfgVehicles/An2_Base_EP1/
+Updating base class ->CH47_base_EP1, by ca\air_e\ch47\config.bin/CfgVehicles/CH_47F_EP1/
+Updating base class ViewOptics->, by ca\air_e\uh1h\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Crew_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_TL_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_M4_PMC/
+Updating base class ->Soldier_Base_PMC, by ca\characters_pmc\config.bin/cfgVehicles/Soldier_Bodyguard_AA12_PMC/
+Updating base class ->BAF_Soldier_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_W/
+Updating base class ->BAF_Soldier_L_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_L_W/
+Updating base class ->BAF_Soldier_Officer_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_Officer_W/
+Updating base class ->BAF_Soldier_SniperH_MTP, by ca\characters_w_baf\config.bin/CfgVehicles/BAF_Soldier_SniperH_W/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_UN_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_UN_EP1/
+Updating base class ->M113Ambul_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113Ambul_TK_EP1/
+Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M113_TK_EP1/
+Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
+Obsolete class Animations defined in bin\config.bin/RscCompass/
+Obsolete class Animations defined in bin\config.bin/RscWatch/
+20:42:12 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+20:42:12 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+20:42:12 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+20:42:12 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+20:42:21 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+20:42:21 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+20:42:22 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+20:42:22 "DayZ Epoch: MPframework inited"
+20:42:53 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+20:42:55 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+20:42:55 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:42:55 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:42:55 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:42:55 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+20:42:55 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+20:42:56 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+20:42:56 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:42:56 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:42:56 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:42:56 ca\misc\sphere2.p3d: No geometry and no visual shape
+20:42:57 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+20:42:58 "Res3tting B!S effects..."
+20:42:58 "[AGN] Starting Trader City Safezone Commander!"
+20:42:58 "Error: Attempting to start AGN products on a server where it should not be!"
+20:42:58 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+20:43:00 "HIVE: Starting"
+20:43:00 "HIVE: trying to get objects"
+20:43:02 "HIVE: found 3032 objects"
+20:43:02 "HIVE: Commence Object Streaming..."
+20:43:05 "HIVE: got 2363 Epoch Objects and 669 Vehicles"
+20:43:09 "Res3tting B!S effects..."
+20:43:18 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+20:43:19 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+20:43:22 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+20:43:22 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+20:43:46 "HIVE: Vehicle Spawn limit reached!"
+20:43:46 "HIVE: Spawning # of Debris: 0"
+20:43:46 "HIVE: Spawning # of Ammo Boxes: 3"
+20:43:46 "HIVE: Spawning # of Veins: 50"
+20:43:46 "Total Number of spawn locations 5"
+20:43:46 "EPOCH EVENTS INIT"
+20:43:46 "DEBUG VEIN: on road [3785.09,5943.53]"
+20:43:47 "DEBUG VEIN: Too many objects at [6218.43,9039.7]"
+20:43:48 "TIME SYNC: Local Time set to [2013,8,3,16,43]"
+20:43:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:43:55 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:43:55 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone leftshoulder doesn't exist in some skeleton 
+20:43:56 Error: Bone rightshoulder doesn't exist in some skeleton 
+20:44:47 "[DZMS]: Starting DayZ Epoch Mission System."
+20:44:47 "[DZMS]: Relations not found! Using DZMS Relations."
+20:44:47 "[DZMS]: Mission and Extended Configuration Loaded!"
+20:44:47 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+20:44:47 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+20:44:47 "[DZMS]: Mission Functions Script Loaded!"
+20:44:47 "[DZMS]: Major Mission Clock Starting!"
+20:44:47 "[DZMS]: Minor Mission Clock Starting!"
+20:44:47 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+20:44:56 "[DZMS]: Running Minor Mission SM5."
+20:45:52 "[DZMS]: Running Major Mission SM9."
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 NetServer::SendMsg: cannot find channel #777982002, users.card=0
+20:46:18 NetServer: users.get failed when sending to 777982002
+20:46:18 Message not sent - error 0, message ID = ffffffff, to 777982002 (Anwatch [BOOTY])
+20:46:18 "get: STRING (117139718), sent: STRING (117139718)"
+20:46:18 "DISCONNECT: Anwatch [BOOTY] (117139718) Object: B 1-1-C:1 (Anwatch [BOOTY]) REMOTE, _characterID: 339 at loc [3584.01,9406.4,0.00131226]"
+20:46:18 Client: Remote object 3:8 not found
+20:47:08 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+20:49:29 "SAFE UNLOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+20:49:30 Server: Object 4:14 not found (message 94)
+20:49:30 Server: Object 4:12 not found (message 94)
+20:49:30 Server: Object 4:13 not found (message 94)
+20:49:30 Server: Object 4:15 not found (message 94)
+20:49:30 Server: Object 4:16 not found (message 94)
+20:49:56 "MAINTAIN AREA BY Anwatch [BOOTY] - 126 Objects at [3607.38,9461.75,0.00143433]"
+20:50:33 "SAFE LOCKED: ID:327 UID:0 BY Anwatch [BOOTY](117139718)"
+20:52:08 "TIME SYNC: Local Time set to [2013,8,3,16,52]"
+20:53:41 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+20:54:26 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+20:54:26   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:54:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:56:53 "get: STRING (117139718), sent: STRING (117139718)"
+20:56:53 "DISCONNECT: Anwatch [BOOTY] (117139718) Object: B 1-1-B:1 (Anwatch [BOOTY]) REMOTE, _characterID: 339 at loc [3592.04,9424.25,0.0015564]"
+20:56:53 Client: Remote object 4:6 not found
+20:56:53 Client: Remote object 4:5 not found
+20:56:53 Client: Remote object 4:2 not found
+20:56:54 Warning: Cleanup player - person 4:7 not found
+20:57:08 "TIME SYNC: Local Time set to [2013,8,3,16,57]"
+21:00:01 "RUNNING EVENT: crash_spawner on [2014,7,4,17,0]"
+21:00:01 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+21:00:01 "CRASHSPAWNER: Ural Wreck spawned at [12404.2,15370.1]"
+21:00:01 "CRASHSPAWNER: Loot spawn at '[12407.2,15372.7,0.0721588]' with loot table 'Military'"
+21:00:01 "CRASHSPAWNER: Loot spawn at '[12409.7,15365.3,0.0721588]' with loot table 'Military'"
+21:00:01 "CRASHSPAWNER: Loot spawn at '[12399.1,15363.1,0.0721588]' with loot table 'Military'"
+21:00:01 "CRASHSPAWNER: Loot spawn at '[12405.1,15365,0.0721588]' with loot table 'Military'"
+21:00:01 "CRASHSPAWNER: Loot spawn at '[12405.4,15365,0.0721588]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[12407.2,15366.6,0.0721588]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[12411.3,15374.1,0.0721588]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[12399.7,15381.1,0.0721588]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[12414.3,15358.7,0.0721588]' with loot table 'Military'"
+21:00:02 "CRASHSPAWNER: Loot spawn at '[12413.3,15379.2,0.0721588]' with loot table 'Military'"
+21:02:08 "TIME SYNC: Local Time set to [2013,8,3,17,2]"
+21:02:08 "CLEANUP: Deleted 5 Animals out of 5"
+21:07:08 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
+21:07:10 "CLEANUP: Deleted 14 Loot Piles out of 36"
+21:12:08 "TIME SYNC: Local Time set to [2013,8,3,17,12]"
+21:14:09 "CLEANUP: Deleted 10 Loot Piles out of 22"
+21:15:02 "RUNNING EVENT: supply_drop on [2014,7,4,17,15]"
+21:17:08 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
+21:20:09 "CLEANUP: Deleted 4 Loot Piles out of 12"
+21:22:08 "TIME SYNC: Local Time set to [2013,8,3,17,22]"
+21:27:08 "TIME SYNC: Local Time set to [2013,8,3,17,27]"
+21:30:03 "RUNNING EVENT: crash_spawner on [2014,7,4,17,30]"
+21:30:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+21:30:03 "CRASHSPAWNER: UH-1H started
+
+g from [1623.71,218.188,300] to [8023.98,15380] NOW!(TIME:2807||LT:HeliCrash_No50s)"
+21:32:08 "TIME SYNC: Local Time set to [2013,8,3,17,32]"
+21:37:08 "TIME SYNC: Local Time set to [2013,8,3,17,37]"
+21:42:08 "TIME SYNC: Local Time set to [2013,8,3,17,42]"
+21:45:18 "CRASHSPAWNER: UH-1H just exploded at [8044.48,15397.1,5.68884]!, "
+21:45:18 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+21:45:18 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+21:45:18 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8046.28,15400.7,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8042.9,15392.4,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8037.6,15391.6,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8048.04,15402.5,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8036.62,15396.2,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8043.2,15405.1,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8043.47,15402.2,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8049.44,15389.7,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8037.06,15397.6,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8045.36,15387.7,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Loot spawn at '[8037.87,15390.9,0]' with loot table 'HeliCrash_No50s'"
+21:45:18 "CRASHSPAWNER: Crash completed! Wreck at: [8044.48,15397.1,0.524673] - Runtime: 915 Seconds || Distance from calculated POC: 28 meters"
+21:47:08 "TIME SYNC: Local Time set to [2013,8,3,17,47]"
+21:52:08 "TIME SYNC: Local Time set to [2013,8,3,17,52]"
+21:57:07 "SAFE UNLOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:57:08 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
+21:57:39 "MAINTAIN AREA BY Cripto - 665 Objects at [13855.7,11772.3,0.00123739]"
+21:58:29 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
+21:58:59 "get: STRING (9375302), sent: STRING (9375302)"
+21:58:59 "DISCONNECT: Cripto (9375302) Object: B 1-1-B:1 (Cripto) REMOTE, _characterID: 265 at loc [13853.2,11707.1,0.00169516]"
+21:58:59 Client: Remote object 5:2 not found
+21:58:59 Client: Remote object 5:8 not found
+21:58:59 Warning: Cleanup player - person 5:7 not found
+21:59:06 Warning: Cleanup player - person 5:7 not found
+22:00:05 "RUNNING EVENT: crash_spawner on [2014,7,4,18,0]"
+22:00:05 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+22:00:05 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [10450,-630,1000] to [5827.96,12114.6] NOW!(TIME:4609||LT:MilitarySpecial)"
+22:02:08 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+22:02:08 "CLEANUP: Deleted 5 Animals out of 5"
+22:02:22 "CRASHSPAWNER: AV-8B (LGB) just exploded at [5716.8,12349.1,4.97325]!, "
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5716.45,12353.1,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5714.56,12342.2,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5714.53,12339.7,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5724.55,12358.1,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5712.84,12340.5,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5707.12,12340.9,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5712.23,12344.8,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5722.29,12355.8,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5726.86,12342.1,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5709.08,12345.3,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5724.59,12354,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Loot spawn at '[5713.59,12355.8,0]' with loot table 'MilitarySpecial'"
+22:02:23 "CRASHSPAWNER: Crash completed! Wreck at: [5716.79,12349.2,0.00448608] - Runtime: 137 Seconds || Distance from calculated POC: 260 meters"
+22:04:16 Server: Object 6:9 not found (message 70)
+22:07:08 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
+22:11:42 Server: Object 6:65 not found (message 91)
+22:11:42 Server: Object 6:64 not found (message 99)
+22:11:42 Server: Object 6:67 not found (message 91)
+22:11:42 Server: Object 6:66 not found (message 99)
+22:11:43 Server: Object 6:71 not found (message 91)
+22:11:43 Server: Object 6:70 not found (message 99)
+22:11:43 Server: Object 6:73 not found (message 91)
+22:11:43 Server: Object 6:72 not found (message 99)
+22:11:43 Server: Object 6:75 not found (message 91)
+22:11:43 Server: Object 6:74 not found (message 99)
+22:11:43 Server: Object 6:77 not found (message 91)
+22:11:43 Server: Object 6:76 not found (message 99)
+22:11:43 Server: Object 6:78 not found (message 98)
+22:11:43 Server: Object 6:79 not found (message 91)
+22:11:43 Server: Object 6:80 not found (message 98)
+22:11:43 Server: Object 6:81 not found (message 91)
+22:11:43 Server: Object 6:82 not found (message 99)
+22:11:43 Server: Object 6:83 not found (message 91)
+22:11:59 Server: Object 6:84 not found (message 99)
+22:11:59 Server: Object 6:85 not found (message 91)
+22:12:08 "TIME SYNC: Local Time set to [2013,8,3,18,12]"
+22:12:31 Server: Object 6:88 not found (message 98)
+22:12:31 Server: Object 6:89 not found (message 91)
+22:12:37 Server: Object 6:42 not found (message 99)
+22:12:43 Server: Object 6:92 not found (message 98)
+22:12:43 Server: Object 6:93 not found (message 91)
+22:12:54 Server: Object 6:94 not found (message 98)
+22:12:54 Server: Object 6:95 not found (message 91)
+22:13:39 Server: Object 6:102 not found (message 98)
+22:13:39 Server: Object 6:103 not found (message 91)
+22:13:45 Server: Object 6:104 not found (message 99)
+22:13:45 Server: Object 6:105 not found (message 91)
+22:14:07 Server: Object 6:110 not found (message 99)
+22:14:07 Server: Object 6:111 not found (message 91)
+22:14:31 Server: Object 6:117 not found (message 91)
+22:14:31 Server: Object 6:116 not found (message 99)
+22:14:47 Server: Object 6:118 not found (message 98)
+22:14:47 Server: Object 6:119 not found (message 91)
+22:15:06 "RUNNING EVENT: supply_drop on [2014,7,4,18,15]"
+22:15:48 Server: Object 6:120 not found (message 98)
+22:15:48 Server: Object 6:121 not found (message 91)
+22:15:59 Server: Object 6:123 not found (message 91)
+22:15:59 Server: Object 6:122 not found (message 99)
+22:16:41 Server: Object 6:124 not found (message 70)
+22:17:08 "TIME SYNC: Local Time set to [2013,8,3,18,17]"
+22:17:58 Server: Object 6:131 not found (message 98)
+22:17:58 Server: Object 6:132 not found (message 91)
+22:19:41 "get: STRING (4486214), sent: STRING (4486214)"
+22:19:41 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 427 at loc [9508.31,13785.7,0.000930786]"
+22:19:41 Client: Remote object 6:0 not found
+22:19:41 Client: Remote object 6:8 not found
+22:22:08 "TIME SYNC: Local Time set to [2013,8,3,18,22]"
+22:23:14 Server: Object 6:149 not found (message 70)
+22:25:33 Server: Object 6:156 not found (message 99)
+22:25:33 Server: Object 6:157 not found (message 91)
+22:26:47 Server: Object 6:173 not found (message 91)
+22:26:47 Server: Object 6:172 not found (message 99)
+22:27:05 Server: Object 6:179 not found (message 91)
+22:27:05 Server: Object 6:178 not found (message 98)
+22:27:08 "TIME SYNC: Local Time set to [2013,8,3,18,27]"
+22:27:36 Server: Object 6:180 not found (message 98)
+22:27:36 Server: Object 6:181 not found (message 91)
+22:28:16 Server: Object 6:190 not found (message 99)
+22:28:16 Server: Object 6:191 not found (message 91)
+22:28:49 Server: Object 6:206 not found (message 91)
+22:28:49 Server: Object 6:205 not found (message 99)
+22:28:49 Server: Object 6:208 not found (message 91)
+22:28:49 Server: Object 6:207 not found (message 99)
+22:28:49 Server: Object 6:210 not found (message 91)
+22:28:49 Server: Object 6:209 not found (message 99)
+22:28:49 Server: Object 6:212 not found (message 91)
+22:28:49 Server: Object 6:211 not found (message 98)
+22:28:49 Server: Object 6:214 not found (message 91)
+22:28:49 Server: Object 6:213 not found (message 99)
+22:28:49 Server: Object 6:215 not found (message 99)
+22:28:49 Server: Object 6:216 not found (message 91)
+22:28:49 Server: Object 6:217 not found (message 99)
+22:28:49 Server: Object 6:218 not found (message 91)
+22:29:37 Server: Object 6:219 not found (message 98)
+22:29:37 Server: Object 6:220 not found (message 91)
+22:29:49 Server: Object 6:223 not found (message 99)
+22:29:49 Server: Object 6:224 not found (message 91)
+22:30:00 Server: Object 6:228 not found (message 91)
+22:30:00 Server: Object 6:227 not found (message 98)
+22:30:00 Server: Object 6:229 not found (message 98)
+22:30:01 Server: Object 6:230 not found (message 91)
+22:30:08 "RUNNING EVENT: crash_spawner on [2014,7,4,18,30]"
+22:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+22:30:08 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [11698.4,14481] NOW!(TIME:6411||LT:HeliCrash_No50s)"
+22:30:17 Server: Object 6:234 not found (message 94)
+22:30:17 Server: Object 6:236 not found (message 94)
+22:30:17 Server: Object 6:238 not found (message 70)
+22:30:17 Server: Object 6:237 not found (message 94)
+22:30:17 Server: Object 6:239 not found (message 94)
+22:30:17 Server: Object 6:242 not found (message 94)
+22:30:17 Server: Object 6:240 not found (message 70)
+22:30:17 Server: Object 6:241 not found (message 94)
+22:30:17 Server: Object 6:243 not found (message 70)
+22:30:17 Server: Object 6:244 not found (message 70)
+22:30:17 Server: Object 6:245 not found (message 70)
+22:30:17 Server: Object 6:246 not found (message 94)
+22:30:17 Server: Object 6:247 not found (message 94)
+22:30:17 Server: Object 6:250 not found (message 94)
+22:30:17 Server: Object 6:249 not found (message 94)
+22:30:17 Server: Object 6:248 not found (message 94)
+22:30:17 Server: Object 6:251 not found (message 70)
+22:30:17 Server: Object 6:253 not found (message 94)
+22:30:17 Server: Object 6:254 not found (message 70)
+22:30:17 Server: Object 6:255 not found (message 70)
+22:30:17 Server: Object 6:252 not found (message 94)
+22:30:17 Server: Object 6:256 not found (message 70)
+22:30:17 Server: Object 6:257 not found (message 94)
+22:30:17 Server: Object 6:258 not found (message 94)
+22:30:17 Server: Object 6:259 not found (message 70)
+22:30:17 Server: Object 6:260 not found (message 94)
+22:30:17 Server: Object 6:261 not found (message 70)
+22:30:17 Server: Object 6:262 not found (message 70)
+22:30:17 Server: Object 6:263 not found (message 94)
+22:30:17 Server: Object 6:264 not found (message 94)
+22:30:17 Server: Object 6:265 not found (message 70)
+22:30:17 Server: Object 6:266 not found (message 70)
+22:30:17 Server: Object 6:267 not found (message 94)
+22:30:17 Server: Object 6:269 not found (message 94)
+22:30:17 Server: Object 6:268 not found (message 94)
+22:30:25 Server: Object 6:271 not found (message 91)
+22:30:25 Server: Object 6:270 not found (message 99)
+22:30:26 Server: Object 6:272 not found (message 99)
+22:30:26 Server: Object 6:273 not found (message 91)
+22:30:42 Server: Object 6:280 not found (message 94)
+22:30:42 Server: Object 6:281 not found (message 70)
+22:30:42 Server: Object 6:288 not found (message 94)
+22:30:42 Server: Object 6:287 not found (message 70)
+22:30:50 Server: Object 6:290 not found (message 70)
+22:30:50 Server: Object 6:291 not found (message 70)
+22:30:50 Server: Object 6:289 not found (message 70)
+22:30:50 Server: Object 6:292 not found (mes
