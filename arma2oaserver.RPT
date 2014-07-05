@@ -431,3 +431,11 @@ g from [1623.71,218.188,300] to [12293.3,14006.3] NOW!(TIME:7825||LT:MilitarySpe
  6:01:42 "CRASHSPAWNER: Crash completed! Wreck at: [12282.7,13862.7,0.00930023] - Runtime: 96 Seconds || Distance from calculated POC: 145 meters"
  6:03:14 "TIME SYNC: Local Time set to [2013,8,3,20,3]"
  6:08:15 "TIME SYNC: Local Time set to [2013,8,3,20,8]"
+ 6:11:12 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 6:13:15 "TIME SYNC: Local Time set to [2013,8,3,20,13]"
+ 6:13:34 "get: STRING (120160390), sent: STRING (120160390)"
+ 6:13:34 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [8924.28,9210.35,0.00143433]"
+ 6:13:34 Client: Remote object 3:8 not found
+ 6:13:35 Warning: Cleanup player - person 3:7 not found
+ 6:15:07 "RUNNING EVENT: supply_drop on [2014,7,5,20,15]"
+ 6:18:15 "TIME SYNC: Local Time set to [2013,8,3,20,18]"
