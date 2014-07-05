@@ -792,3 +792,7 @@ g from [1623.71,218.188,300] to [12778.8,12418.3] NOW!(TIME:12570||LT:HeliCrash_
 18:16:56 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
 18:17:05 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
 18:17:14 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a PartGlass in/at Stary for 1x ItemGoldBar"
+18:18:37 "CLEANUP: Deleted 2 Loot Piles out of 119"
+18:19:29 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
+18:19:29 "CLEANUP: Deleted 3 Animals out of 22"
+18:24:29 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
