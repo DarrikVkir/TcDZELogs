@@ -675,3 +675,11 @@ g from [6993.7,173.053,300] to [2360.01,6794.88] NOW!(TIME:8966||LT:MilitarySpec
 17:17:48 "HIVE: WRITE: "CHILD:388:120727126673010213:""
 17:17:48 "CUSTOM: Selected "5016""
 17:17:48 "PUBLISH: B 1-1-C:1 (Vladislav) REMOTE Bought BAF_Merlin_DZE with ID "120727126673010213""
+17:18:38 "CLEANUP: Deleted 2 Loot Piles out of 225"
+17:19:29 "TIME SYNC: Local Time set to [2013,8,3,19,19]"
+17:19:30 "CLEANUP: Deleted 8 Animals out of 32"
+17:20:44 Server: Object 8:232 not found (message 99)
+17:21:41 "CLEANUP: Deleted 4 Loot Piles out of 372"
+17:22:42 "CLEANUP: Deleted 18 Loot Piles out of 369"
+17:24:29 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
+17:26:35 "ERROR: server_playerSync: Cannot Sync Player Daelin [446]. Position in debug! [-7244.94,19534.5,1.10648]"
