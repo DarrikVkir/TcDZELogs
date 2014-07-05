@@ -710,3 +710,11 @@ _we>
 13:25:11 "CLEANUP: Deleted 27 Loot Piles out of 111"
 13:27:02 "TIME SYNC: Local Time set to [2013,8,3,21,27]"
 13:27:02 "CLEANUP: Deleted 18 Animals out of 26"
+13:30:07 "RUNNING EVENT: crash_spawner on [2014,7,5,21,30]"
+13:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+13:30:07 "CRASHSPAWNER: UH-1Y started
+
+g from [6993.7,173.053,300] to [4061.31,14303.9] NOW!(TIME:14778||LT:HeliCrash_No50s)"
+13:31:10 "CLEANUP: Deleted 2 Loot Piles out of 100"
+13:32:02 "TIME SYNC: Local Time set to [2013,8,3,21,32]"
+13:37:02 "TIME SYNC: Local Time set to [2013,8,3,21,37]"
