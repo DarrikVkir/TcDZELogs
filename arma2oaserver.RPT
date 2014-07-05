@@ -649,3 +649,50 @@ g from [15098,8144,300] to [9866.18,1868.62] NOW!(TIME:12976||LT:MilitarySpecial
 13:07:31 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
 13:07:41 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
 13:08:21 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+13:08:31 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+13:08:41 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+13:09:19 "ERROR: Cannot Sync Character Vladislav as no characterID"
+13:10:10 "CLEANUP: Deleted 2 Loot Piles out of 105"
+13:10:29 "CRASHSPAWNER: UH-60M MEV just exploded at [10606.3,5896.18,1.3931]!, "
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10608.4,5899.58,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10610.6,5899.23,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10605.4,5887.12,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10607.4,5885.37,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10612.2,5886.86,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10607.8,5905.13,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10599.9,5884.97,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10617.2,5889.88,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10599.4,5881.75,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10590.4,5886.87,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10604.2,5903.15,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Loot spawn at '[10615.5,5893.32,0]' with loot table 'Hospital'"
+13:10:29 "CRASHSPAWNER: Crash completed! Wreck at: [10606.3,5896.18,0.390564] - Runtime: 6021 Seconds || Distance from calculated POC: 7106 meters"
+13:10:39 "PHIT: B 1-1-C:1 (Daelin) REMOTE was hit by B 1-1-A:1 (Vladislav) REMOTE with HMMWV GPK (M2) AL from 0m with 0.0719909 dmg"
+13:10:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+13:10:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+13:10:39   Error Undefined variable in expression: _weapon
+13:10:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+13:11:10 "CLEANUP: Deleted 3 Loot Piles out of 115"
+13:12:01 "TIME SYNC: Local Time set to [2013,8,3,21,12]"
+13:12:08 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+13:12:10 "CLEANUP: Deleted 2 Loot Piles out of 112"
+13:12:17 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+13:14:10 "CLEANUP: Deleted 2 Loot Piles out of 111"
+13:15:06 "RUNNING EVENT: supply_drop on [2014,7,5,21,15]"
+13:16:10 "CLEANUP: Deleted 1 Loot Piles out of 109"
+13:17:02 "TIME SYNC: Local Time set to [2013,8,3,21,17]"
+13:17:57 "nil player object attempting PV, :["253568646","Vladislav"]"
+13:17:57 "get: STRING (), sent: STRING (253568646)"
+13:17:57 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 REMOTE, _characterID: 441 at loc [7085.94,9399.37,0.00134277]"
+13:17:57 Client: Remote object 6:592 not found
+13:18:00 "get: STRING (254102534), sent: STRING (254102534)"
+13:18:00 "DISCONNECT: Daelin (254102534) Object: B 1-1-C:1 (Daelin) REMOTE, _characterID: 431 at loc [7065.51,9415.06,0.00128174]"
+13:18:00 Client: Remote object 8:2 not found
+13:18:00 Client: Remote object 8:8 not found
