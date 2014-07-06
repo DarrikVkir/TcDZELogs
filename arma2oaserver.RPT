@@ -774,3 +774,43 @@ g from [15098,8144,300] to [11665.6,10228.2] NOW!(TIME:10666||LT:MilitarySpecial
  5:30:45 "CRASHSPAWNER: Crash completed! Wreck at: [11627.1,9899.15,0.00104904] - Runtime: 37 Seconds || Distance from calculated POC: 334 meters"
  5:31:15 "TIME SYNC: Local Time set to [2013,8,3,19,31]"
  5:36:15 "TIME SYNC: Local Time set to [2013,8,3,19,36]"
+ 5:40:15 "CRASHSPAWNER: UH-60M MEV just exploded at [3080.86,15085.9,0.260864]!, "
+ 5:40:15 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 5:40:15 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 5:40:15 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3076.86,15086.1,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3083.75,15089.2,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3085.36,15085.4,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3078.83,15093.8,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3079.95,15092.1,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3075.05,15088.4,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3084.54,15083.1,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3082.09,15078.3,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Loot spawn at '[3085.18,15086.9,0]' with loot table 'Hospital'"
+ 5:40:15 "CRASHSPAWNER: Crash completed! Wreck at: [3080.86,15085.9,0.294495] - Runtime: 6013 Seconds || Distance from calculated POC: 10111 meters"
+ 5:40:25 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+ 5:40:25 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 5:40:25   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 5:40:25   Error Undefined variable in expression: _vehicle1
+ 5:40:25 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+ 5:40:25 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 5:40:25   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 5:40:25   Error Undefined variable in expression: _object
+ 5:40:25 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 5:41:15 "TIME SYNC: Local Time set to [2013,8,3,19,41]"
+ 5:41:25 "[DZMS]: Running Major Mission SM12."
+ 5:46:15 "TIME SYNC: Local Time set to [2013,8,3,19,46]"
