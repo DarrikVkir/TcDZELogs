@@ -894,3 +894,28 @@ _we>
 g from [15098,8144,300] to [8849.17,8403.88] NOW!(TIME:14881||LT:MilitarySpecial)"
 12:30:47 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
 12:35:47 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
+12:40:25 "get: STRING (254102534), sent: STRING (254102534)"
+12:40:25 "LOGOUT IN VEHICLE: Daelin at location [7077.01,6587.62,1.89899]"
+12:40:25 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 465 at loc [7077.01,6587.62,1.89899]"
+12:40:25 Client: Remote object 15:6 not found
+12:40:25 Client: Remote object 15:5 not found
+12:40:25 Client: Remote object 15:2 not found
+12:40:47 "CLEANUP: Deleted 5 Animals out of 9"
+12:40:47 "TIME SYNC: Local Time set to [2013,8,3,20,40]"
+12:43:12 "CRASHSPAWNER: AH-1Z just exploded at [7050.97,9664.95,3.21158]!, "
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7052.88,9668.47,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7055.67,9663.16,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7052.63,9671.23,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7056.51,9662.86,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7058.12,9668.21,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7042.65,9668.11,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7041.26,9661.81,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7038.71,9661.48,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Loot spawn at '[7053.29,9661.03,0]' with loot table 'MilitarySpecial'"
+12:43:12 "CRASHSPAWNER: Crash completed! Wreck at: [7050.98,9664.96,-0.000488281] - Runtime: 6185 Seconds || Distance from calculated POC: 74 meters"
+12:45:47 "TIME SYNC: Local Time set to [2013,8,3,20,45]"
+12:47:35 Server: Object 17:113 not found (message 91)
+12:47:35 Server: Object 17:112 not found (message 99)
+12:47:35 Server: Object 17:115 not found (message 91)
+12:47:35 Server: Object 17:114 not found (message 98)
+12:47:57 "CLEANUP: Deleted 3 Loot Piles out of 113"
