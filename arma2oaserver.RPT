@@ -407,3 +407,18 @@ g from [15098,8144,300] to [11690.5,7157.68] NOW!(TIME:3104||LT:HeliCrash_No50s)
 19:46:42 "TIME SYNC: Local Time set to [2013,8,3,21,46]"
 19:46:44 "CLEANUP: Deleted 1 Loot Piles out of 37"
 19:47:44 "CLEANUP: Deleted 2 Loot Piles out of 36"
+19:48:44 "CLEANUP: Deleted 6 Loot Piles out of 34"
+19:49:44 "CLEANUP: Deleted 1 Loot Piles out of 28"
+19:50:10 "get: STRING (9375302), sent: STRING (9375302)"
+19:50:10 "DISCONNECT: Cripto (9375302) Object: B 1-1-D:1 (Cripto) REMOTE, _characterID: 265 at loc [13861.6,11739.7,18.4574]"
+19:50:10 Client: Remote object 4:8 not found
+19:50:10 Warning: Cleanup player - person 4:7 not found
+19:50:14 Warning: Cleanup player - person 4:7 not found
+19:50:17 "get: STRING (15791622), sent: STRING (15791622)"
+19:50:17 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-C:1 (Kmhuey) REMOTE, _characterID: 389 at loc [13843.9,11718.2,16.542]"
+19:50:17 Client: Remote object 3:8 not found
+19:50:19 Warning: Cleanup player - person 3:7 not found
+19:51:42 "TIME SYNC: Local Time set to [2013,8,3,21,51]"
+19:51:44 "CLEANUP: Deleted 9 Loot Piles out of 20"
+19:56:42 "TIME SYNC: Local Time set to [2013,8,3,21,56]"
+19:56:44 "CLEANUP: Deleted 26 Animals out of 26"
