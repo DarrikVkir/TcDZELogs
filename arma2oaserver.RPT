@@ -583,3 +583,14 @@ if(DZE_DeathMsgSide) then {
 10:18:10 Client: Object 3:896 (type Type_70) not found.
 10:18:14 Client: Object 3:899 (type Type_70) not found.
 10:18:14 Client: Object 3:898 (type Type_70) not found.
+10:20:46 "TIME SYNC: Local Time set to [2013,8,3,18,20]"
+10:22:51 "CLEANUP: Deleted 3 Loot Piles out of 98"
+10:23:23 Client: Object 3:954 (type Type_70) not found.
+10:23:23 Client: Object 3:953 (type Type_70) not found.
+10:23:23 Client: Object 3:956 (type Type_70) not found.
+10:23:23 Client: Object 3:955 (type Type_70) not found.
+10:25:46 "TIME SYNC: Local Time set to [2013,8,3,18,25]"
+10:25:51 "CLEANUP: Deleted 5 Loot Piles out of 95"
+10:26:07 "DELETE: B 1-1-C:1 (Vladislav) REMOTE Deleted by UID: 22306815461320"
+10:26:07 "PUBLISH: B 1-1-C:1 (Vladislav) REMOTE upgraded Land_DZE_GarageWoodDoor with ID "22306815461320""
+10:26:51 "CLEANUP: Deleted 4 Loot Piles out of 90"
