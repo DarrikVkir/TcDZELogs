@@ -235,3 +235,70 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:23:37 "[DZMS]: Running Major Mission SM6."
  8:23:54 "[DZMS]: Running Minor Mission SM6."
  8:25:46 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 8:28:42 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:28:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 8:28:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 8:28:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 8:28:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:28:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 8:30:08 "RUNNING EVENT: crash_spawner on [2014,7,6,16,30]"
+ 8:30:08 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 8:30:08 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [6993.7,173.053,300] to [11331.8,7553.29] NOW!(TIME:492||LT:MilitarySpecial)"
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:30:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:30:46 "TIME SYNC: Local Time set to [2013,8,3,16,30]"
+ 8:34:09 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 8:34:18 "CRASHSPAWNER: AV-8B (LGB) just exploded at [11081.4,7664.92,4.60049]!, "
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11084.2,7667.79,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11080.9,7658.54,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11077.7,7668.97,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11076.9,7659.68,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11084.3,7668.06,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11079.6,7660.42,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11077.7,7669.79,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11075.5,7669.37,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11086.5,7656.95,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11075.4,7666.79,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11086.1,7657.5,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11086.7,7664.95,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Loot spawn at '[11078,7662.63,0]' with loot table 'MilitarySpecial'"
+ 8:34:18 "CRASHSPAWNER: Crash completed! Wreck at: [11081.5,7664.92,0.00537109] - Runtime: 250 Seconds || Distance from calculated POC: 276 meters"
+ 8:35:46 "TIME SYNC: Local Time set to [2013,8,3,16,35]"
+ 8:36:35 "TELEPORT REVERT for player UID#254102534 from [6669.26,2629.39,46.5771] to [6670.08,2632.17,0.00143909], 47 meters, now at [6669.26,2629.39,46.5771]"
