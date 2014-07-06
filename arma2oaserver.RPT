@@ -1021,3 +1021,15 @@ g from [10450,-630,1000] to [1284,7430.82] NOW!(TIME:18476||LT:HeliCrash_No50s)"
 13:37:02 Client: Remote object 23:6 not found
 13:37:02 Client: Remote object 23:5 not found
 13:37:02 Client: Remote object 23:2 not found
+13:39:47 "get: STRING (253568646), sent: STRING (253568646)"
+13:39:47 "DISCONNECT: Vladislav (253568646) Object: B 1-1-B:1 (Vladislav) REMOTE, _characterID: 444 at loc [2775.31,8080.8,0.00128174]"
+13:39:47 Client: Remote object 24:2 not found
+13:39:47 Client: Remote object 24:8 not found
+13:40:19 "get: STRING (254102534), sent: STRING (254102534)"
+13:40:19 "DISCONNECT: Daelin (254102534) Object: B 1-1-C:1 (Daelin) REMOTE, _characterID: 465 at loc [2775.29,8080.96,0.00180054]"
+13:40:19 Client: Remote object 25:2 not found
+13:40:19 Client: Remote object 25:8 not found
+13:40:21 Warning: Cleanup player - person 25:7 not found
+13:40:46 "CLEANUP: Deleted 3 Animals out of 3"
+13:40:47 "TIME SYNC: Local Time set to [2013,8,3,21,40]"
+13:45:47 "TIME SYNC: Local Time set to [2013,8,3,21,45]"
