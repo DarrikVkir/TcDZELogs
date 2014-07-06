@@ -352,3 +352,29 @@ g from [15186,11857,300] to [919.991,4609.51] NOW!(TIME:1301||LT:HeliCrash_No50s
 19:26:11 Server: Object 3:192 not found (message 91)
 19:26:42 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
 19:26:42 "CLEANUP: Deleted 1 Animals out of 22"
+19:28:28 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+19:30:08 "RUNNING EVENT: crash_spawner on [2014,7,6,21,30]"
+19:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+19:30:08 "CRASHSPAWNER: UH-60M started
+
+g from [15098,8144,300] to [11690.5,7157.68] NOW!(TIME:3104||LT:HeliCrash_No50s)"
+19:30:44 "CLEANUP: Deleted 1 Loot Piles out of 43"
+19:31:42 "TIME SYNC: Local Time set to [2013,8,3,21,31]"
+19:32:44 "CLEANUP: Deleted 1 Loot Piles out of 51"
+19:35:44 "CLEANUP: Deleted 2 Loot Piles out of 50"
+19:36:10 "[DZMS]: Minor SM6 Ural Crash Mission has Ended."
+19:36:37 "[DZMS]: Running Minor Mission SM2."
+19:36:42 "TIME SYNC: Local Time set to [2013,8,3,21,36]"
+19:37:15 Client: Object 4:270 (type Type_70) not found.
+19:37:15 Client: Object 4:269 (type Type_70) not found.
+19:37:15 Client: Object 4:270 (type Type_70) not found.
+19:37:15 Client: Object 4:271 (type Type_70) not found.
+19:37:15 Client: Object 4:273 (type Type_70) not found.
+19:37:15 Client: Object 4:274 (type Type_70) not found.
+19:37:16 Client: Object 4:275 (type Type_70) not found.
+19:37:16 Client: Object 4:276 (type Type_70) not found.
+19:37:16 Client: Object 4:277 (type Type_70) not found.
+19:37:16 Client: Object 4:279 (type Type_70) not found.
+19:37:16 Client: Object 4:280 (type Type_70) not found.
+19:37:16 Client: Object 4:281 (type Type_70) not found.
+19:37:16 Client: Object 4:282 (type Type_70) not found.
