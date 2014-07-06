@@ -311,3 +311,44 @@ g from [15186,11857,300] to [919.991,4609.51] NOW!(TIME:1301||LT:HeliCrash_No50s
 19:16:00 "[DZMS]: Running Major Mission SM12."
 19:16:42 "TIME SYNC: Local Time set to [2013,8,3,21,16]"
 19:16:44 "CLEANUP: Deleted 22 Loot Piles out of 35"
+19:21:42 "TIME SYNC: Local Time set to [2013,8,3,21,21]"
+19:22:43 "CLEANUP: Deleted 1 Loot Piles out of 13"
+19:24:40 Client: Object 4:207 (type Type_70) not found.
+19:24:40 Client: Object 4:208 (type Type_70) not found.
+19:24:41 Client: Object 4:209 (type Type_70) not found.
+19:24:41 Client: Object 4:210 (type Type_70) not found.
+19:24:56 Client: Object 4:217 (type Type_70) not found.
+19:24:56 Client: Object 4:218 (type Type_70) not found.
+19:24:57 Client: Object 4:221 (type Type_70) not found.
+19:24:57 Client: Object 4:222 (type Type_70) not found.
+19:24:57 Client: Object 4:223 (type Type_70) not found.
+19:24:57 Client: Object 4:224 (type Type_70) not found.
+19:26:10 Server: Object 3:161 not found (message 99)
+19:26:10 Server: Object 3:162 not found (message 91)
+19:26:10 Server: Object 3:164 not found (message 91)
+19:26:10 Server: Object 3:167 not found (message 98)
+19:26:10 Server: Object 3:168 not found (message 91)
+19:26:11 Server: Object 3:171 not found (message 99)
+19:26:11 Server: Object 3:172 not found (message 91)
+19:26:11 Server: Object 3:173 not found (message 98)
+19:26:11 Server: Object 3:174 not found (message 91)
+19:26:11 Server: Object 3:176 not found (message 91)
+19:26:11 Server: Object 3:175 not found (message 99)
+19:26:11 Server: Object 3:177 not found (message 98)
+19:26:11 Server: Object 3:178 not found (message 91)
+19:26:11 Server: Object 3:179 not found (message 98)
+19:26:11 Server: Object 3:180 not found (message 91)
+19:26:11 Server: Object 3:182 not found (message 91)
+19:26:11 Server: Object 3:181 not found (message 98)
+19:26:11 Server: Object 3:184 not found (message 91)
+19:26:11 Server: Object 3:183 not found (message 98)
+19:26:11 Server: Object 3:186 not found (message 91)
+19:26:11 Server: Object 3:185 not found (message 99)
+19:26:11 Server: Object 3:188 not found (message 91)
+19:26:11 Server: Object 3:187 not found (message 99)
+19:26:11 Server: Object 3:189 not found (message 99)
+19:26:11 Server: Object 3:190 not found (message 91)
+19:26:11 Server: Object 3:191 not found (message 98)
+19:26:11 Server: Object 3:192 not found (message 91)
+19:26:42 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
+19:26:42 "CLEANUP: Deleted 1 Animals out of 22"
