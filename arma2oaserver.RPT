@@ -558,3 +558,28 @@ if(DZE_DeathMsgSide) then {
 10:07:41 Client: Object 3:708 (type Type_70) not found.
 10:07:43 Client: Object 3:724 (type Type_70) not found.
 10:07:43 Client: Object 3:725 (type Type_70) not found.
+10:09:26 "PDEATH: Player Died 254102534"
+10:09:39 "ERROR: server_playerSync: Cannot Sync Player Daelin [455]. Position in debug! [-7239.67,19539.3,0.246216]"
+10:09:40 "get: STRING (254102534), sent: STRING (254102534)"
+10:09:40 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 455 at loc [-7239.67,19539.3,0.246216]"
+10:09:40 "ERROR: server_playerSync: Cannot Sync Player Daelin [455]. Position in debug! [-7239.67,19539.3,0.246216]"
+10:09:40 Warning: Cleanup player - person 4:901 not found
+10:10:46 "TIME SYNC: Local Time set to [2013,8,3,18,10]"
+10:10:48 "CLEANUP: Deleted 14 Animals out of 38"
+10:12:50 "CLEANUP: Deleted 1 Loot Piles out of 61"
+10:15:08 "RUNNING EVENT: supply_drop on [2014,7,6,18,15]"
+10:15:46 "TIME SYNC: Local Time set to [2013,8,3,18,15]"
+10:17:05 Client: Object 3:854 (type Type_70) not found.
+10:17:05 Client: Object 3:855 (type Type_70) not found.
+10:17:05 Client: Object 3:858 (type Type_70) not found.
+10:17:05 Client: Object 3:859 (type Type_70) not found.
+10:18:02 Client: Object 3:879 (type Type_70) not found.
+10:18:02 Client: Object 3:878 (type Type_70) not found.
+10:18:03 Client: Object 3:883 (type Type_70) not found.
+10:18:03 Client: Object 3:882 (type Type_70) not found.
+10:18:05 Client: Object 3:891 (type Type_70) not found.
+10:18:05 Client: Object 3:890 (type Type_70) not found.
+10:18:10 Client: Object 3:897 (type Type_70) not found.
+10:18:10 Client: Object 3:896 (type Type_70) not found.
+10:18:14 Client: Object 3:899 (type Type_70) not found.
+10:18:14 Client: Object 3:898 (type Type_70) not found.
