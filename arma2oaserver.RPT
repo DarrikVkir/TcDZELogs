@@ -663,3 +663,13 @@ g from [10450,-630,1000] to [11494,9499.58] NOW!(TIME:5260||LT:Hospital)"
  4:01:15 "TIME SYNC: Local Time set to [2013,8,3,18,1]"
  4:04:25 "ERROR: server_playerSync: Cannot Sync Player LippityLapse [449]. Position in debug! [-7244.91,19535.3,1.05563]"
  4:06:15 "TIME SYNC: Local Time set to [2013,8,3,18,6]"
+ 4:11:15 "TIME SYNC: Local Time set to [2013,8,3,18,11]"
+ 4:12:21 "CLEANUP: Deleted 1 Loot Piles out of 174"
+ 4:15:03 "RUNNING EVENT: supply_drop on [2014,7,6,18,15]"
+ 4:16:13 "get: STRING (255540422), sent: STRING (255540422)"
+ 4:16:13 "COMBAT LOGGED: LippityLapse (6282.27) at location [4570.79,2630.36,0.00149441]"
+ 4:16:13 "SET UNCONCIOUSNESS: LippityLapse"
+ 4:16:13 "DISCONNECT: LippityLapse (255540422) Object: B 1-1-C:1 (LippityLapse) REMOTE, _characterID: 449 at loc [4570.79,2630.36,0.00149441]"
+ 4:16:13 Client: Remote object 6:2 not found
+ 4:16:13 Client: Remote object 6:8 not found
+ 4:16:15 "TIME SYNC: Local Time set to [2013,8,3,18,16]"
