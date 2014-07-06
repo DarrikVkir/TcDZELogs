@@ -633,3 +633,19 @@ g from [6986,-630,1000] to [10542.5,7700.37] NOW!(TIME:3468||LT:MilitarySpecial)
  3:37:45 Server: Object 3:1059 not found (message 99)
  3:38:18 Server: Object 3:757 not found (message 70)
  3:38:21 "CLEANUP: Deleted 45 Loot Piles out of 151"
+ 3:39:55 Server: Object 3:1065 not found (message 98)
+ 3:39:55 Server: Object 3:1066 not found (message 91)
+ 3:40:19 "CLEANUP: Deleted 5 Loot Piles out of 106"
+ 3:41:15 "TIME SYNC: Local Time set to [2013,8,3,17,41]"
+ 3:41:18 "CLEANUP: Deleted 2 Loot Piles out of 101"
+ 3:41:39 Server: Object 3:1067 not found (message 94)
+ 3:41:40 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 3:41:40 "get: STRING (), sent: STRING (4486214)"
+ 3:41:40 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 REMOTE, _characterID: 427 at loc [13864.3,11743.6,0.001158]"
+ 3:41:40 Server: Update of object 3:556 arrived from nonowner
+ 3:41:40 Client: Remote object 3:8 not found
+ 3:41:42 Warning: Cleanup player - person 3:7 not found
+ 3:42:19 "CLEANUP: Deleted 14 Loot Piles out of 92"
+ 3:43:20 "CLEANUP: Deleted 52 Loot Piles out of 78"
+ 3:44:17 "CLEANUP: Deleted 2 Loot Piles out of 26"
+ 3:46:15 "TIME SYNC: Local Time set to [2013,8,3,17,46]"
