@@ -252,3 +252,41 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 18:41:53 "SAFE LOCKED: ID:111 UID:0 BY Kmhuey(15791622)"
 18:46:21 "SAFE UNLOCKED: ID:4517 UID:0 BY Kmhuey(15791622)"
 18:46:42 "TIME SYNC: Local Time set to [2013,8,3,20,46]"
+18:48:33 "SAFE LOCKED: ID:4517 UID:0 BY Kmhuey(15791622)"
+18:51:42 "TIME SYNC: Local Time set to [2013,8,3,20,51]"
+18:56:00 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+18:56:00   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+18:56:00 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+18:56:00   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+18:56:00 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+18:56:00   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+18:56:00 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+18:56:00   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+18:56:00 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+18:56:00   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+18:56:00   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+18:56:01 Server: Object 4:68 not found (message 99)
+18:56:01 Server: Object 4:69 not found (message 91)
+18:56:01 Server: Object 4:73 not found (message 91)
+18:56:01 Server: Object 4:72 not found (message 99)
+18:56:01 Server: Object 4:75 not found (message 91)
+18:56:01 Server: Object 4:74 not found (message 99)
+18:56:01 Server: Object 4:82 not found (message 98)
+18:56:01 Server: Object 4:83 not found (message 91)
+18:56:42 "TIME SYNC: Local Time set to [2013,8,3,20,56]"
