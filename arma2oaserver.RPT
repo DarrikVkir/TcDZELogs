@@ -919,3 +919,30 @@ g from [15098,8144,300] to [8849.17,8403.88] NOW!(TIME:14881||LT:MilitarySpecial
 12:47:35 Server: Object 17:115 not found (message 91)
 12:47:35 Server: Object 17:114 not found (message 98)
 12:47:57 "CLEANUP: Deleted 3 Loot Piles out of 113"
+12:48:28 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+12:48:37 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+12:48:45 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+12:48:46 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartGeneric in/at Stary for 2x ItemGoldBar"
+12:48:54 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+12:48:57 "CLEANUP: Deleted 1 Loot Piles out of 111"
+12:49:02 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a PartEngine in/at Stary for 5x ItemGoldBar"
+12:49:03 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a ItemSodaCoke in/at Stary for 2x ItemSilverBar"
+12:49:38 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+12:49:45 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a FoodCanSardines in/at Stary for 2x ItemSilverBar"
+12:49:46 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+12:49:54 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a FoodCanSardines in/at Stary for 2x ItemSilverBar"
+12:50:17 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a FoodCanPasta in/at Stary for 2x ItemSilverBar"
+12:50:25 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a FoodCanPasta in/at Stary for 2x ItemSilverBar"
+12:50:47 "TIME SYNC: Local Time set to [2013,8,3,20,50]"
+12:50:54 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a FoodCanBakedBeans in/at Stary for 2x ItemSilverBar"
+12:50:57 "CLEANUP: Deleted 3 Loot Piles out of 115"
+12:55:47 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
+12:56:30 "get: STRING (254102534), sent: STRING (254102534)"
+12:56:30 "COMBAT LOGGED: Daelin (16487.8) at location [3822.67,7618.35,0.00143433]"
+12:56:30 "SET UNCONCIOUSNESS: Daelin"
+12:56:30 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 465 at loc [3822.67,7618.35,0.00143433]"
+12:56:30 Client: Remote object 18:6 not found
+12:56:30 Client: Remote object 18:5 not found
+12:56:30 Client: Remote object 18:2 not found
+12:57:17 "[DZMS]: Minor SM6 Ural Crash Mission has Ended."
+12:57:31 "[DZMS]: Running Minor Mission SM3."
