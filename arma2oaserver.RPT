@@ -451,3 +451,110 @@ _pos = g>
  9:55:46 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
  9:56:49 "CLEANUP: Deleted 1 Loot Piles out of 51"
  9:57:49 "CLEANUP: Deleted 5 Loot Piles out of 50"
+ 9:59:49 "CLEANUP: Deleted 8 Loot Piles out of 45"
+10:00:06 "RUNNING EVENT: crash_spawner on [2014,7,6,18,0]"
+10:00:06 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+10:00:06 "CRASHSPAWNER: A-10 started
+
+g from [15098,8144,300] to [5613.03,10204.9] NOW!(TIME:5888||LT:MilitarySpecial)"
+10:00:46 "TIME SYNC: Local Time set to [2013,8,3,18,0]"
+10:00:49 "CLEANUP: Deleted 3 Loot Piles out of 37"
+10:01:44 "DELETE: B 1-1-C:1 (Vladislav) REMOTE Deleted by ID: 4819"
+10:01:44 "PUBLISH: B 1-1-C:1 (Vladislav) REMOTE upgraded Land_DZE_GarageWoodDoor with ID "22306815461320""
+10:02:05 "DELETE: B 1-1-C:1 (Vladislav) REMOTE Deleted by UID: 22306815461320"
+10:02:05 "PUBLISH: B 1-1-C:1 (Vladislav) REMOTE upgraded Land_DZE_GarageWoodDoorLocked with ID "22306815461320""
+10:02:45 "CRASHSPAWNER: A-10 just exploded at [5429.1,10413.3,5.42236]!, "
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5430.59,10417.1,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5424.9,10415.3,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5436.38,10412,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5430.19,10424.2,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5435.17,10412.3,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5433.22,10411.7,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5432.65,10408.3,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5430.96,10406.3,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5431.16,10409,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5425.28,10418.7,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Loot spawn at '[5430.12,10422.3,0]' with loot table 'MilitarySpecial'"
+10:02:45 "CRASHSPAWNER: Crash completed! Wreck at: [5429.1,10413.3,0.0050354] - Runtime: 159 Seconds || Distance from calculated POC: 279 meters"
+10:02:50 "PKILL: Daelin was killed by Vladislav with weapon M9SD from 11.0866m"
+10:02:50 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+10:02:50   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+10:02:50   Error Undefined variable in expression: dze_deathmsgside
+10:02:50 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+10:02:50 "PDEATH: Player Died 254102534"
+10:03:10 "ERROR: server_playerSync: Cannot Sync Player Daelin [454]. Position in debug! [-7239.67,19539.3,0.245514]"
+10:03:11 "get: STRING (254102534), sent: STRING (254102534)"
+10:03:11 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 454 at loc [-7239.67,19539.3,0.245514]"
+10:03:11 "ERROR: server_playerSync: Cannot Sync Player Daelin [454]. Position in debug! [-7239.67,19539.3,0.245514]"
+10:03:11 Client: Remote object 4:812 not found
+10:03:11 Client: Remote object 4:811 not found
+10:03:50 "CLEANUP: Deleted 1 Loot Piles out of 49"
+10:04:49 "CLEANUP: Deleted 1 Loot Piles out of 48"
+10:05:41 Server: Object 4:865 not found (message 91)
+10:05:41 Server: Object 4:864 not found (message 99)
+10:05:46 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
+10:05:50 "CLEANUP: Deleted 2 Loot Piles out of 55"
+10:07:08 Client: Object 3:575 (type Type_70) not found.
+10:07:08 Client: Object 3:574 (type Type_70) not found.
+10:07:09 Client: Object 3:577 (type Type_70) not found.
+10:07:09 Client: Object 3:576 (type Type_70) not found.
+10:07:10 Client: Object 3:583 (type Type_70) not found.
+10:07:10 Client: Object 3:582 (type Type_70) not found.
+10:07:10 Client: Object 3:585 (type Type_70) not found.
+10:07:10 Client: Object 3:584 (type Type_70) not found.
+10:07:16 Client: Object 3:598 (type Type_70) not found.
+10:07:16 Client: Object 3:599 (type Type_70) not found.
+10:07:17 Client: Object 3:603 (type Type_70) not found.
+10:07:17 Client: Object 3:602 (type Type_70) not found.
+10:07:24 Client: Object 3:623 (type Type_70) not found.
+10:07:24 Client: Object 3:622 (type Type_70) not found.
+10:07:26 Client: Object 3:631 (type Type_70) not found.
+10:07:26 Client: Object 3:630 (type Type_70) not found.
+10:07:26 Client: Object 3:633 (type Type_70) not found.
+10:07:26 Client: Object 3:632 (type Type_70) not found.
+10:07:31 Client: Object 3:641 (type Type_70) not found.
+10:07:31 Client: Object 3:640 (type Type_70) not found.
+10:07:32 Client: Object 3:643 (type Type_70) not found.
+10:07:32 Client: Object 3:642 (type Type_70) not found.
+10:07:33 Client: Object 3:645 (type Type_70) not found.
+10:07:33 Client: Object 3:644 (type Type_70) not found.
+10:07:33 Client: Object 3:646 (type Type_70) not found.
+10:07:33 Client: Object 3:647 (type Type_70) not found.
+10:07:33 Client: Object 3:648 (type Type_70) not found.
+10:07:33 Client: Object 3:649 (type Type_70) not found.
+10:07:33 Client: Object 3:648 (type Type_70) not found.
+10:07:33 Client: Object 3:649 (type Type_70) not found.
+10:07:34 Client: Object 3:652 (type Type_70) not found.
+10:07:34 Client: Object 3:653 (type Type_70) not found.
+10:07:34 Client: Object 3:654 (type Type_70) not found.
+10:07:34 Client: Object 3:655 (type Type_70) not found.
+10:07:34 Client: Object 3:656 (type Type_70) not found.
+10:07:34 Client: Object 3:657 (type Type_70) not found.
+10:07:34 Client: Object 3:658 (type Type_70) not found.
+10:07:34 Client: Object 3:659 (type Type_70) not found.
+10:07:35 Client: Object 3:662 (type Type_70) not found.
+10:07:35 Client: Object 3:663 (type Type_70) not found.
+10:07:35 Client: Object 3:664 (type Type_70) not found.
+10:07:35 Client: Object 3:665 (type Type_70) not found.
+10:07:36 Client: Object 3:668 (type Type_70) not found.
+10:07:36 Client: Object 3:669 (type Type_70) not found.
+10:07:37 Client: Object 3:681 (type Type_70) not found.
+10:07:37 Client: Object 3:680 (type Type_70) not found.
+10:07:38 Client: Object 3:685 (type Type_70) not found.
+10:07:38 Client: Object 3:684 (type Type_70) not found.
+10:07:38 Client: Object 3:686 (type Type_70) not found.
+10:07:38 Client: Object 3:687 (type Type_70) not found.
+10:07:41 Client: Object 3:709 (type Type_70) not found.
+10:07:41 Client: Object 3:708 (type Type_70) not found.
+10:07:43 Client: Object 3:724 (type Type_70) not found.
+10:07:43 Client: Object 3:725 (type Type_70) not found.
