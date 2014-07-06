@@ -503,3 +503,16 @@ _we>
 23:27:46 Server: Object 5:456 not found (message 99)
 23:27:46 Server: Object 5:459 not found (message 91)
 23:28:18 "CLEANUP: Deleted 1 Loot Piles out of 332"
+23:30:05 "RUNNING EVENT: crash_spawner on [2014,7,6,19,30]"
+23:30:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+23:30:05 "CRASHSPAWNER: UH-60M started
+
+g from [15098,8144,300] to [7879.01,13752.2] NOW!(TIME:4095||LT:HeliCrash_No50s)"
+23:30:07 "TIME SYNC: Local Time set to [2013,8,3,19,30]"
+23:30:18 "CLEANUP: Deleted 1 Loot Piles out of 337"
+23:35:07 "TIME SYNC: Local Time set to [2013,8,3,19,35]"
+23:35:08 "Purging player: 2a91c080# 1061538: man_survivor.p3d"
+23:35:08 "CLEANUP: Deleted 1 players and 0 zombies out of 17 dead"
+23:35:19 "CLEANUP: Deleted 4 Loot Piles out of 346"
+23:36:20 "CLEANUP: Deleted 29 Loot Piles out of 365"
+23:38:20 "CLEANUP: Deleted 1 Loot Piles out of 343"
