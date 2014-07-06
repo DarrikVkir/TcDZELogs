@@ -655,3 +655,11 @@ g from [6986,-630,1000] to [10542.5,7700.37] NOW!(TIME:3468||LT:MilitarySpecial)
  3:56:33 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
  3:57:12 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
  3:58:17 "CLEANUP: Deleted 1 Loot Piles out of 25"
+ 4:00:01 "RUNNING EVENT: crash_spawner on [2014,7,6,18,0]"
+ 4:00:01 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 4:00:01 "CRASHSPAWNER: UH-60M MEV started
+
+g from [10450,-630,1000] to [11494,9499.58] NOW!(TIME:5260||LT:Hospital)"
+ 4:01:15 "TIME SYNC: Local Time set to [2013,8,3,18,1]"
+ 4:04:25 "ERROR: server_playerSync: Cannot Sync Player LippityLapse [449]. Position in debug! [-7244.91,19535.3,1.05563]"
+ 4:06:15 "TIME SYNC: Local Time set to [2013,8,3,18,6]"
