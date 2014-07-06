@@ -372,3 +372,119 @@ _pos = g>
 23:06:05 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
 23:07:11 "CLEANUP: Deleted 20 Loot Piles out of 72"
 23:07:22 "[DZMS]: Running Major Mission SM2."
+23:10:07 "TIME SYNC: Local Time set to [2013,8,3,19,10]"
+23:10:10 "CLEANUP: Deleted 31 Animals out of 39"
+23:11:50 "PHIT: B 1-1-B:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Kmhuey) REMOTE with MTVR from 0m with 0.301906 dmg"
+23:11:50 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+23:11:50   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+23:11:50   Error Undefined variable in expression: _weapon
+23:11:50 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+23:12:10 "CLEANUP: Deleted 1 Loot Piles out of 57"
+23:13:05 "CRASHSPAWNER: UH-1H just exploded at [4327.16,5780.22,3.82248]!, "
+23:13:05 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+23:13:05 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+23:13:05 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4330.36,5782.61,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4319.39,5780.44,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4334.15,5773.72,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4321.51,5774.33,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4325.59,5788.71,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4326.61,5788.75,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4335.92,5774.71,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4328.43,5773.73,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4332.93,5772.17,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4331.61,5790.15,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Loot spawn at '[4340.84,5783.44,0]' with loot table 'HeliCrash_No50s'"
+23:13:05 "CRASHSPAWNER: Crash completed! Wreck at: [4327.16,5780.22,0.155975] - Runtime: 782 Seconds || Distance from calculated POC: 223 meters"
+23:13:10 "CLEANUP: Deleted 1 Loot Piles out of 67"
+23:14:46 Server: Object 5:221 not found (message 70)
+23:14:46 Server: Object 5:218 not found (message 94)
+23:14:46 Server: Object 5:219 not found (message 94)
+23:14:46 Server: Object 5:220 not found (message 94)
+23:14:46 Server: Object 5:222 not found (message 94)
+23:14:46 Server: Object 5:223 not found (message 94)
+23:14:46 Server: Object 5:224 not found (message 94)
+23:14:46 Server: Object 5:225 not found (message 94)
+23:14:46 Server: Object 5:226 not found (message 94)
+23:14:46 Server: Object 5:227 not found (message 94)
+23:15:03 "RUNNING EVENT: supply_drop on [2014,7,6,19,15]"
+23:15:07 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
+23:15:26 Server: Object 5:237 not found (message 70)
+23:15:26 Server: Object 5:236 not found (message 94)
+23:15:26 Server: Object 5:235 not found (message 94)
+23:15:26 Server: Object 5:245 not found (message 70)
+23:15:26 Server: Object 5:249 not found (message 94)
+23:15:26 Server: Object 5:246 not found (message 94)
+23:15:26 Server: Object 5:247 not found (message 94)
+23:15:26 Server: Object 5:248 not found (message 94)
+23:15:26 Server: Object 5:250 not found (message 94)
+23:15:26 Server: Object 5:251 not found (message 70)
+23:15:26 Server: Object 5:252 not found (message 70)
+23:15:26 Server: Object 5:253 not found (message 94)
+23:15:34 Server: Object 4:506 not found (message 94)
+23:15:34 Server: Object 4:505 not found (message 70)
+23:15:34 Server: Object 4:504 not found (message 70)
+23:15:34 Server: Object 4:503 not found (message 94)
+23:15:34 Server: Object 4:508 not found (message 94)
+23:15:34 Server: Object 4:507 not found (message 94)
+23:15:35 Server: Object 5:260 not found (message 94)
+23:15:35 Server: Object 5:261 not found (message 94)
+23:15:35 Server: Object 5:271 not found (message 70)
+23:15:35 Server: Object 5:270 not found (message 70)
+23:15:42 Server: Object 4:531 not found (message 94)
+23:15:42 Server: Object 4:537 not found (message 94)
+23:15:42 Server: Object 4:536 not found (message 70)
+23:15:42 Server: Object 4:535 not found (message 70)
+23:15:42 Server: Object 4:532 not found (message 94)
+23:15:42 Server: Object 4:533 not found (message 94)
+23:15:42 Server: Object 4:534 not found (message 94)
+23:15:51 Server: Object 5:294 not found (message 70)
+23:15:51 Server: Object 5:289 not found (message 94)
+23:15:51 Server: Object 5:293 not found (message 70)
+23:15:51 Server: Object 5:292 not found (message 70)
+23:15:51 Server: Object 5:291 not found (message 70)
+23:15:51 Server: Object 5:290 not found (message 70)
+23:15:51 Server: Object 5:288 not found (message 70)
+23:15:51 Server: Object 5:287 not found (message 70)
+23:15:51 Server: Object 5:302 not found (message 94)
+23:15:51 Server: Object 5:308 not found (message 91)
+23:15:51 Server: Object 5:307 not found (message 99)
+23:15:51 Server: Object 5:301 not found (message 94)
+23:15:51 Server: Object 5:306 not found (message 70)
+23:15:51 Server: Object 5:305 not found (message 70)
+23:15:51 Server: Object 5:304 not found (message 70)
+23:15:51 Server: Object 5:303 not found (message 70)
+23:15:51 Server: Object 5:298 not found (message 70)
+23:15:51 Server: Object 5:300 not found (message 70)
+23:15:51 Server: Object 5:299 not found (message 70)
+23:15:51 Server: Object 5:295 not found (message 70)
+23:15:51 Server: Object 5:297 not found (message 70)
+23:15:51 Server: Object 5:296 not found (message 70)
+23:15:51 Server: Object 5:310 not found (message 91)
+23:15:51 Server: Object 5:309 not found (message 99)
+23:15:51 Server: Object 5:312 not found (message 91)
+23:15:51 Server: Object 5:311 not found (message 99)
+23:15:51 Server: Object 5:314 not found (message 91)
+23:15:51 Server: Object 5:313 not found (message 98)
+23:15:51 Server: Object 5:316 not found (message 91)
+23:15:51 Server: Object 5:317 not found (message 98)
+23:15:51 Server: Object 5:315 not found (message 98)
+23:15:51 Server: Object 5:318 not found (message 91)
+23:15:51 Server: Object 5:319 not found (message 98)
+23:15:51 Server: Object 5:320 not found (message 91)
+23:15:51 Server: Object 5:322 not found (message 91)
+23:15:51 Server: Object 5:321 not found (message 99)
+23:17:10 Server: Object 4:572 not found (message 94)
+23:17:10 Server: Object 4:571 not found (message 70)
+23:17:10 Server: Object 4:569 not found (message 70)
+23:17:10 Server: Object 4:570 not found (message 70)
+23:17:58 Server: Object 4:604 not found (message 70)
+23:17:58 Server: Object 4:603 not found (message 70)
+23:17:58 Server: Object 4:602 not found (message 70)
