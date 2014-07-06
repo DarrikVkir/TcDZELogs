@@ -720,3 +720,24 @@ g from [15186,11857,300] to [6987.07,9627.01] NOW!(TIME:9483||LT:MilitarySpecial
 11:06:09 "CUSTOM: Selected "5038""
 11:06:09 "PUBLISH: B 1-1-C:1 (Vladislav) REMOTE Bought ATV_CZ_EP1 with ID "6293078064010125""
 11:06:54 "CLEANUP: Deleted 18 Loot Piles out of 127"
+11:09:29 Server: Object 5:396 not found (message 70)
+11:09:29 Server: Object 5:404 not found (message 70)
+11:09:51 Server: Object 5:486 not found (message 91)
+11:09:51 Server: Object 5:485 not found (message 98)
+11:09:52 Server: Object 5:497 not found (message 94)
+11:09:52 Server: Object 5:498 not found (message 70)
+11:09:52 Server: Object 5:496 not found (message 94)
+11:09:52 Server: Object 5:500 not found (message 91)
+11:09:52 Server: Object 5:499 not found (message 99)
+11:10:47 "TIME SYNC: Local Time set to [2013,8,3,19,10]"
+11:10:48 "CLEANUP: Deleted 17 Animals out of 49"
+11:11:07 "DELETE: B 1-1-C:1 (Vladislav) REMOTE Deleted by UID: 0"
+11:11:11 "TELEPORT REVERT for player UID#254102534 from [10490.9,2362.01,2.85324] to [-7245.31,19534.9,1.12006], 24690 meters, now at [10490.9,2362.01,2.85324]"
+11:13:17 "get: STRING (254102534), sent: STRING (254102534)"
+11:13:17 "DISCONNECT: Daelin (254102534) Object: B 1-1-D:1 (Daelin) REMOTE, _characterID: 464 at loc [10488.5,2357.73,0.353241]"
+11:13:17 Client: Remote object 5:522 not found
+11:15:07 "RUNNING EVENT: supply_drop on [2014,7,6,19,15]"
+11:15:46 "Purging player: 2aa82040# 1065461: man_survivor.p3d"
+11:15:46 "CLEANUP: Deleted 1 players and 0 zombies out of 10 dead"
+11:15:47 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
+11:15:56 "CLEANUP: Deleted 2 Loot Piles out of 216"
