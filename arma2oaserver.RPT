@@ -1067,3 +1067,74 @@ _>
  7:53:18 "SAFE UNLOCKED: ID:4951 UID:0 BY Daelin(254102534)"
  7:54:05 "SAFE LOCKED: ID:4951 UID:0 BY Daelin(254102534)"
  7:56:16 "TIME SYNC: Local Time set to [2013,8,3,21,56]"
+ 7:58:23 "SAFE UNLOCKED: ID:4951 UID:0 BY Daelin(254102534)"
+ 7:59:49 "SAFE LOCKED: ID:4951 UID:0 BY Daelin(254102534)"
+ 8:00:03 "RUNNING EVENT: crash_spawner on [2014,7,6,22,0]"
+ 8:00:03 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+ 8:00:03 "CRASHSPAWNER: A-10 started
+
+g from [6993.7,173.053,300] to [7685.29,15159.5] NOW!(TIME:19657||LT:MilitarySpecial)"
+ 8:01:11 "SAFE UNLOCKED: ID:4951 UID:0 BY Vladislav(253568646)"
+ 8:01:16 "TIME SYNC: Local Time set to [2013,8,3,22,1]"
+ 8:02:29 "SAFE LOCKED: ID:4951 UID:0 BY Vladislav(253568646)"
+ 8:03:16 "CRASHSPAWNER: A-10 just exploded at [7536.64,14994.5,4.26978]!, "
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7535.68,14990.6,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7541.22,14991.4,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7531.7,14995.3,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7539.74,14999.2,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7539.41,14990.8,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7543.85,14994.4,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7532.07,14995.2,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7533.47,14988.4,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7542.79,15002,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Loot spawn at '[7549.04,14999.3,0]' with loot table 'MilitarySpecial'"
+ 8:03:16 "CRASHSPAWNER: Crash completed! Wreck at: [7536.88,14994.5,0.0540771] - Runtime: 193 Seconds || Distance from calculated POC: 230 meters"
+ 8:03:28 "CLEANUP: Deleted 1 Loot Piles out of 159"
+ 8:06:16 "TIME SYNC: Local Time set to [2013,8,3,22,6]"
+ 8:07:03 "PHIT: B 1-1-E:1 (Daelin) REMOTE was hit by B 1-1-F:1 (Vladislav) REMOTE with Pickup (PK) AL from 0m with 0.0979988 dmg"
+ 8:07:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 8:07:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 8:07:03   Error Undefined variable in expression: _weapon
+ 8:07:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 8:07:04 "PHIT: B 1-1-E:1 (Daelin) REMOTE was hit by B 1-1-F:1 (Vladislav) REMOTE with Pickup (PK) AL from 0m with 0.231267 dmg"
+ 8:07:04 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 8:07:04   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 8:07:04   Error Undefined variable in expression: _weapon
+ 8:07:04 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 8:07:07 Client: Object 9:111 (type Type_70) not found.
+ 8:07:07 Client: Object 9:111 (type Type_69) not found.
+ 8:07:08 "PKILL: Daelin was killed by Vladislav with weapon Pickup (PK) AL from 0m"
+ 8:07:08 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 8:07:08   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 8:07:08   Error Undefined variable in expression: dze_deathmsgside
+ 8:07:08 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 8:07:08 "PDEATH: Player Died 254102534"
+ 8:07:25 "ERROR: server_playerSync: Cannot Sync Player Daelin [446]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 8:07:26 "get: STRING (254102534), sent: STRING (254102534)"
+ 8:07:26 "DISCONNECT: Daelin (254102534) Object: B 1-1-G:1 (Daelin) REMOTE, _characterID: 446 at loc [-7239.67,19539.3,0.246155]"
+ 8:07:26 "ERROR: server_playerSync: Cannot Sync Player Daelin [446]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 8:07:26 Client: Remote object 10:2 not found
