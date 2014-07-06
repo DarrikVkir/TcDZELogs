@@ -667,3 +667,56 @@ g from [10450,-630,1000] to [6596.72,10118.3] NOW!(TIME:7681||LT:MilitarySpecial
 10:56:14 Client: Remote object 2:7183 not found
 10:56:14 Client: Remote object 2:7184 not found
 10:56:52 "CLEANUP: Deleted 2 Loot Piles out of 84"
+10:59:01 "PDEATH: Player Died 254102534"
+10:59:17 "ERROR: server_playerSync: Cannot Sync Player Daelin [460]. Position in debug! [-7239.67,19539.3,0.246216]"
+10:59:18 "get: STRING (254102534), sent: STRING (254102534)"
+10:59:18 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 460 at loc [-7239.67,19539.3,0.246216]"
+10:59:18 "ERROR: server_playerSync: Cannot Sync Player Daelin [460]. Position in debug! [-7239.67,19539.3,0.246216]"
+10:59:18 Client: Remote object 2:7187 not found
+10:59:18 Client: Remote object 2:7188 not found
+10:59:52 "CLEANUP: Deleted 2 Loot Piles out of 83"
+11:00:04 "RUNNING EVENT: crash_spawner on [2014,7,6,19,0]"
+11:00:04 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+11:00:04 "CRASHSPAWNER: AH-1Z started
+
+g from [15186,11857,300] to [6987.07,9627.01] NOW!(TIME:9483||LT:MilitarySpecial)"
+11:00:36 WARNING: Function 'name' - Daelin is dead
+11:00:36 "PDEATH: Player Died 254102534"
+11:00:47 "TIME SYNC: Local Time set to [2013,8,3,19,0]"
+11:00:52 "ERROR: server_playerSync: Cannot Sync Player Daelin [461]. Position in debug! [-7239.67,19539.3,0.245514]"
+11:00:52 "CLEANUP: Deleted 1 Loot Piles out of 81"
+11:00:53 "get: STRING (254102534), sent: STRING (254102534)"
+11:00:53 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 461 at loc [-7239.67,19539.3,0.245514]"
+11:00:53 "ERROR: server_playerSync: Cannot Sync Player Daelin [461]. Position in debug! [-7239.67,19539.3,0.245514]"
+11:00:53 Client: Remote object 2:7191 not found
+11:00:53 Client: Remote object 2:7192 not found
+11:01:53 "CLEANUP: Deleted 1 Loot Piles out of 83"
+11:02:10 Server: Object 5:285 not found (message 94)
+11:02:10 Server: Object 5:287 not found (message 70)
+11:02:10 Server: Object 5:288 not found (message 94)
+11:03:33 "PDEATH: Player Died 254102534"
+11:03:49 "ERROR: server_playerSync: Cannot Sync Player Daelin [462]. Position in debug! [-7239.67,19539.3,0.245514]"
+11:03:50 "get: STRING (254102534), sent: STRING (254102534)"
+11:03:50 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 462 at loc [-7239.67,19539.3,0.245514]"
+11:03:50 "ERROR: server_playerSync: Cannot Sync Player Daelin [462]. Position in debug! [-7239.67,19539.3,0.245514]"
+11:03:50 Client: Remote object 2:7202 not found
+11:03:50 Client: Remote object 2:7203 not found
+11:04:49 "DELETE: B 1-1-C:1 (Vladislav) REMOTE Deleted by UID: 0"
+11:05:35 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a ATV_US_EP1 in/at Stary for 2x ItemGoldBar"
+11:05:44 WARNING: Function 'name' - Daelin is dead
+11:05:44 "PDEATH: Player Died 254102534"
+11:05:47 "TIME SYNC: Local Time set to [2013,8,3,19,5]"
+11:05:54 "CLEANUP: Deleted 6 Loot Piles out of 132"
+11:05:57 "ERROR: server_playerSync: Cannot Sync Player Daelin [463]. Position in debug! [-7239.67,19539.3,0.245728]"
+11:05:57 "get: STRING (254102534), sent: STRING (254102534)"
+11:05:57 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 463 at loc [-7239.67,19539.3,0.245728]"
+11:05:57 "ERROR: server_playerSync: Cannot Sync Player Daelin [463]. Position in debug! [-7239.67,19539.3,0.245728]"
+11:05:57 Client: Remote object 2:7206 not found
+11:05:57 Client: Remote object 2:7207 not found
+11:06:06 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a ATV_CZ_EP1 in/at Stary for 2x ItemGoldBar"
+11:06:07 "PUBLISH: Attempt 338c0f00# 1066687: arrow_down_large_ep1.p3d REMOTE"
+11:06:07 "HIVE: WRITE: "CHILD:308:3195:ATV_CZ_EP1:0:6690:[280,[6292.99,7806.43,0.000152588]]:[]:[]:1:6293078064010125:""
+11:06:08 "HIVE: WRITE: "CHILD:388:6293078064010125:""
+11:06:09 "CUSTOM: Selected "5038""
+11:06:09 "PUBLISH: B 1-1-C:1 (Vladislav) REMOTE Bought ATV_CZ_EP1 with ID "6293078064010125""
+11:06:54 "CLEANUP: Deleted 18 Loot Piles out of 127"
