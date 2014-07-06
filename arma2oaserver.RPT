@@ -601,3 +601,35 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  3:26:37 Server: Object 3:949 not found (message 98)
  3:27:22 "CLEANUP: Deleted 15 Loot Piles out of 251"
  3:28:21 "CLEANUP: Deleted 2 Loot Piles out of 236"
+ 3:29:21 "CLEANUP: Deleted 3 Loot Piles out of 234"
+ 3:30:09 "RUNNING EVENT: crash_spawner on [2014,7,6,17,30]"
+ 3:30:09 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 3:30:09 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [6986,-630,1000] to [10542.5,7700.37] NOW!(TIME:3468||LT:MilitarySpecial)"
+ 3:30:21 "CLEANUP: Deleted 1 Loot Piles out of 231"
+ 3:31:15 "TIME SYNC: Local Time set to [2013,8,3,17,31]"
+ 3:31:21 "CLEANUP: Deleted 1 Loot Piles out of 230"
+ 3:32:22 "CLEANUP: Deleted 13 Loot Piles out of 229"
+ 3:33:21 "CLEANUP: Deleted 22 Loot Piles out of 216"
+ 3:34:22 "CLEANUP: Deleted 51 Loot Piles out of 194"
+ 3:36:15 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+ 3:36:33 Server: Object 3:1055 not found (message 94)
+ 3:36:33 "CRASHSPAWNER: Ka-52 (black) just exploded at [10544.9,7696.68,1.44643]!, "
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10547.7,7699.53,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10540.5,7697.73,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10547,7700.18,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10550,7694.23,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10550.7,7694.75,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10544.4,7702.12,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10539.2,7696.96,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10538.9,7689.82,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10549.3,7696.34,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Loot spawn at '[10549.7,7699.94,0]' with loot table 'MilitarySpecial'"
+ 3:36:33 "CRASHSPAWNER: Crash completed! Wreck at: [10545.1,7696.7,-0.0432739] - Runtime: 384 Seconds || Distance from calculated POC: 5 meters"
+ 3:37:19 Server: Object 3:1058 not found (message 70)
+ 3:37:20 "CLEANUP: Deleted 4 Loot Piles out of 154"
+ 3:37:45 Server: Object 3:1060 not found (message 91)
+ 3:37:45 Server: Object 3:1059 not found (message 99)
+ 3:38:18 Server: Object 3:757 not found (message 70)
+ 3:38:21 "CLEANUP: Deleted 45 Loot Piles out of 151"
