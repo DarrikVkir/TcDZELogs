@@ -1049,3 +1049,21 @@ g from [6993.7,173.053,300] to [8463.37,12289.1] NOW!(TIME:17855||LT:MilitarySpe
  7:46:53 "CRASHSPAWNER: Loot spawn at '[10314.3,7672.98,0]' with loot table 'MilitarySpecial'"
  7:46:53 "CRASHSPAWNER: Loot spawn at '[10311.5,7675.27,0]' with loot table 'MilitarySpecial'"
  7:46:53 "CRASHSPAWNER: Crash completed! Wreck at: [10310,7665.46,-0.00639343] - Runtime: 10004 Seconds || Distance from calculated POC: 2586 meters"
+ 7:49:54 Error in expression <l"];
+
+_wounded 	= _this select 0;
+
+if (!local _wounded) exitWith {};
+
+sleep 1;
+_>
+ 7:49:54   Error position: <local _wounded) exitWith {};
+
+sleep 1;
+_>
+ 7:49:54   Error local: Type Array, expected Object
+ 7:49:54 File z\addons\dayz_code\medical\load\load_wounded.sqf, line 8
+ 7:51:16 "TIME SYNC: Local Time set to [2013,8,3,21,51]"
+ 7:53:18 "SAFE UNLOCKED: ID:4951 UID:0 BY Daelin(254102534)"
+ 7:54:05 "SAFE LOCKED: ID:4951 UID:0 BY Daelin(254102534)"
+ 7:56:16 "TIME SYNC: Local Time set to [2013,8,3,21,56]"
