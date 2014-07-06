@@ -451,3 +451,31 @@ g from [10450,-630,1000] to [12859.2,12324.7] NOW!(TIME:12181||LT:MilitarySpecia
  1:15:52 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
  1:20:52 "TIME SYNC: Local Time set to [2013,8,3,21,20]"
  1:25:52 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
+ 1:30:04 "RUNNING EVENT: crash_spawner on [2014,7,5,21,30]"
+ 1:30:04 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 1:30:04 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [6986,-630,1000] to [3889.3,12154.9] NOW!(TIME:13982||LT:MilitarySpecial)"
+ 1:30:22 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 1:30:52 "TIME SYNC: Local Time set to [2013,8,3,21,30]"
+ 1:33:11 "CRASHSPAWNER: AV-8B (LGB) just exploded at [3897.99,11943.9,4.43222]!, "
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3897.2,11947.8,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3902.73,11947.3,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3901.39,11951.9,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3895.51,11954.5,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3888.59,11949.5,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3902.58,11941.4,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3899.54,11935.2,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3900.01,11936.3,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3894.29,11933.7,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3901.69,11946.5,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Loot spawn at '[3903.35,11947.9,0]' with loot table 'MilitarySpecial'"
+ 1:33:11 "CRASHSPAWNER: Crash completed! Wreck at: [3897.85,11944.2,0.137054] - Runtime: 187 Seconds || Distance from calculated POC: 216 meters"
+ 1:34:24 "get: STRING (254586822), sent: STRING (254586822)"
+ 1:34:24 "DISCONNECT: Psycho_sqiggles_243 (254586822) Object: B 1-1-B:1 (Psycho_sqiggles_243) REMOTE, _characterID: 448 at loc [13232.6,6947.46,0.0017519]"
+ 1:34:24 Client: Remote object 4:6 not found
+ 1:34:24 Client: Remote object 4:5 not found
+ 1:34:24 Client: Remote object 4:2 not found
+ 1:34:24 Warning: Cleanup player - person 4:7 not found
+ 1:34:27 Warning: Cleanup player - person 4:7 not found
+ 1:35:52 "TIME SYNC: Local Time set to [2013,8,3,21,35]"
