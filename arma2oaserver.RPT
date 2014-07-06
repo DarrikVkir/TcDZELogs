@@ -415,3 +415,31 @@ g from [6993.7,173.053,300] to [5399.7,6771.24] NOW!(TIME:4086||LT:HeliCrash_No5
  9:36:57 "CRASHSPAWNER: Loot spawn at '[5479.55,6764.9,0]' with loot table 'HeliCrash_No50s'"
  9:36:57 "CRASHSPAWNER: Loot spawn at '[5473.96,6756.04,0]' with loot table 'HeliCrash_No50s'"
  9:36:57 "CRASHSPAWNER: Crash completed! Wreck at: [5475.88,6762.22,-0.134949] - Runtime: 414 Seconds || Distance from calculated POC: 76 meters"
+ 9:38:49 "CLEANUP: Deleted 2 Loot Piles out of 50"
+ 9:40:46 "TIME SYNC: Local Time set to [2013,8,3,17,40]"
+ 9:41:22 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+ 9:41:22 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 9:41:22   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 9:41:22   Error Undefined variable in expression: _vehicle1
+ 9:41:22 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+ 9:41:22 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 9:41:22   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 9:41:22   Error Undefined variable in expression: _object
+ 9:41:22 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 9:42:23 "[DZMS]: Running Major Mission SM7."
+ 9:45:46 "TIME SYNC: Local Time set to [2013,8,3,17,45]"
+ 9:47:49 "CLEANUP: Deleted 4 Loot Piles out of 65"
