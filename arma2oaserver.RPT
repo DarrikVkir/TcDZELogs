@@ -1138,3 +1138,31 @@ if(DZE_DeathMsgSide) then {
  8:07:26 "DISCONNECT: Daelin (254102534) Object: B 1-1-G:1 (Daelin) REMOTE, _characterID: 446 at loc [-7239.67,19539.3,0.246155]"
  8:07:26 "ERROR: server_playerSync: Cannot Sync Player Daelin [446]. Position in debug! [-7239.67,19539.3,0.246155]"
  8:07:26 Client: Remote object 10:2 not found
+ 8:08:29 "CLEANUP: Deleted 3 Loot Piles out of 162"
+ 8:11:16 "TIME SYNC: Local Time set to [2013,8,3,22,11]"
+ 8:11:29 "CLEANUP: Deleted 3 Loot Piles out of 166"
+ 8:13:30 "CLEANUP: Deleted 1 Loot Piles out of 192"
+ 8:13:32 "DELETE: B 1-1-A:1 (Maggie) REMOTE Deleted by UID: 0"
+ 8:14:16 Server: Object 9:184 not found (message 98)
+ 8:14:16 Server: Object 9:185 not found (message 91)
+ 8:14:16 Server: Object 9:193 not found (message 91)
+ 8:14:16 Server: Object 9:197 not found (message 91)
+ 8:14:17 Server: Object 9:211 not found (message 91)
+ 8:14:32 "CLEANUP: Deleted 3 Loot Piles out of 221"
+ 8:15:05 "RUNNING EVENT: supply_drop on [2014,7,6,22,15]"
+ 8:15:32 "CLEANUP: Deleted 2 Loot Piles out of 226"
+ 8:16:16 "TIME SYNC: Local Time set to [2013,8,3,22,16]"
+ 8:16:53 NetServer::SendMsg: cannot find channel #614698893, users.card=3
+ 8:16:53 NetServer: users.get failed when sending to 614698893
+ 8:16:53 Message not sent - error 0, message ID = ffffffff, to 614698893 (Daelin)
+ 8:16:53 NetServer::SendMsg: cannot find channel #614698893, users.card=3
+ 8:16:53 NetServer: users.get failed when sending to 614698893
+ 8:16:53 Message not sent - error 0, message ID = ffffffff, to 614698893 (Daelin)
+ 8:16:53 NetServer::SendMsg: cannot find channel #614698893, users.card=3
+ 8:16:53 NetServer: users.get failed when sending to 614698893
+ 8:16:53 Message not sent - error 0, message ID = ffffffff, to 614698893 (Daelin)
+ 8:16:53 "get: STRING (254102534), sent: STRING (254102534)"
+ 8:16:53 "DISCONNECT: Daelin (254102534) Object: B 1-1-E:1 (Daelin) REMOTE, _characterID: 451 at loc [6368.49,2352.53,0.00144291]"
+ 8:16:53 Client: Remote object 10:74 not found
+ 8:16:53 Client: Remote object 10:73 not found
+ 8:17:31 "CLEANUP: Deleted 1 Loot Piles out of 268"
