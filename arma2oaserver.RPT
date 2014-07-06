@@ -875,3 +875,22 @@ g from [10450,-630,1000] to [3949.53,12167.4] NOW!(TIME:13079||LT:HeliCrash_No50
 12:25:05 Client: Remote object 16:8 not found
 12:25:46 "CLEANUP: Deleted 3 Animals out of 3"
 12:25:47 "TIME SYNC: Local Time set to [2013,8,3,20,25]"
+12:29:56 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-C:1 (Vladislav) REMOTE with Military Offroad Special AL from 0m with 0.154633 dmg"
+12:29:56 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+12:29:56   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+12:29:56   Error Undefined variable in expression: _weapon
+12:29:56 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+12:30:05 "RUNNING EVENT: crash_spawner on [2014,7,6,20,30]"
+12:30:05 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+12:30:05 "CRASHSPAWNER: AH-1Z started
+
+g from [15098,8144,300] to [8849.17,8403.88] NOW!(TIME:14881||LT:MilitarySpecial)"
+12:30:47 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
+12:35:47 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
