@@ -311,3 +311,64 @@ g from [6993.7,173.053,300] to [3754.83,14187.6] NOW!(TIME:501||LT:Hospital)"
 22:55:08 "CLEANUP: Deleted 1 Animals out of 33"
 22:55:08 "CLEANUP: Deleted 1 Loot Piles out of 31"
 22:58:08 "CLEANUP: Deleted 2 Loot Piles out of 30"
+22:58:42 "DELETE: B 1-1-B:1 (BluntScopes) REMOTE Deleted by UID: 0"
+23:00:02 "RUNNING EVENT: crash_spawner on [2014,7,6,19,0]"
+23:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+23:00:02 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [4108.07,5786.39] NOW!(TIME:2292||LT:HeliCrash_No50s)"
+23:00:07 "TIME SYNC: Local Time set to [2013,8,3,19,0]"
+23:00:47 Server: Object 5:141 not found (message 70)
+23:00:47 Server: Object 5:147 not found (message 70)
+23:00:47 Server: Object 5:146 not found (message 94)
+23:00:47 Server: Object 5:142 not found (message 94)
+23:00:47 Server: Object 5:143 not found (message 94)
+23:00:47 Server: Object 5:144 not found (message 94)
+23:00:47 Server: Object 5:145 not found (message 94)
+23:00:47 Server: Object 5:153 not found (message 94)
+23:00:47 Server: Object 5:151 not found (message 94)
+23:00:47 Server: Object 5:160 not found (message 70)
+23:00:47 Server: Object 5:152 not found (message 94)
+23:00:47 Server: Object 5:159 not found (message 70)
+23:00:47 Server: Object 5:150 not found (message 94)
+23:00:47 Server: Object 5:158 not found (message 94)
+23:00:47 Server: Object 5:154 not found (message 70)
+23:00:47 Server: Object 5:155 not found (message 94)
+23:00:47 Server: Object 5:157 not found (message 70)
+23:00:47 Server: Object 5:156 not found (message 94)
+23:00:47 Server: Object 5:161 not found (message 94)
+23:00:47 Server: Object 5:162 not found (message 94)
+23:00:47 Server: Object 5:165 not found (message 94)
+23:03:37 WARNING: Function 'name' - Kmhuey is dead
+23:03:37 "PDEATH: Player Died 15791622"
+23:03:56 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [389]. Position in debug! [-7239.67,19539.3,0.245575]"
+23:03:58 "get: STRING (15791622), sent: STRING (15791622)"
+23:03:58 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-A:1 (Kmhuey) REMOTE, _characterID: 389 at loc [-7239.67,19539.3,0.245575]"
+23:03:58 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [389]. Position in debug! [-7239.67,19539.3,0.245575]"
+23:05:07 "TIME SYNC: Local Time set to [2013,8,3,19,5]"
+23:05:10 "CLEANUP: Deleted 1 Loot Piles out of 72"
+23:06:05 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+23:06:05 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+23:06:05   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+23:06:05   Error Undefined variable in expression: _vehicle1
+23:06:05 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+23:06:05 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+23:06:05   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+23:06:05   Error Undefined variable in expression: _object
+23:06:05 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+23:07:11 "CLEANUP: Deleted 20 Loot Piles out of 72"
+23:07:22 "[DZMS]: Running Major Mission SM2."
