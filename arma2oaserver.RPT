@@ -337,3 +337,10 @@ g from [6993.7,173.053,300] to [11331.8,7553.29] NOW!(TIME:492||LT:MilitarySpeci
  8:55:48 "CLEANUP: Deleted 18 Animals out of 35"
  8:55:48 "CLEANUP: Deleted 1 Loot Piles out of 93"
  8:56:48 "CLEANUP: Deleted 1 Loot Piles out of 93"
+ 9:00:02 "RUNNING EVENT: crash_spawner on [2014,7,6,17,0]"
+ 9:00:02 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 9:00:02 "CRASHSPAWNER: Mi-17 started
+
+g from [6993.7,173.053,300] to [10733.7,9103.87] NOW!(TIME:2284||LT:HeliCrash_No50s)"
+ 9:00:46 "TIME SYNC: Local Time set to [2013,8,3,17,0]"
+ 9:05:46 "TIME SYNC: Local Time set to [2013,8,3,17,5]"
