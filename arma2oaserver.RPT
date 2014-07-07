@@ -362,3 +362,20 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:57:07 "TIME SYNC: Local Time set to [2013,8,3,16,57]"
  8:57:07 "CLEANUP: Deleted 2 Animals out of 17"
  8:58:13 "SAFE UNLOCKED: ID:4951 UID:0 BY Daelin(254102534)"
+ 8:58:36 "SAFE LOCKED: ID:4951 UID:0 BY Daelin(254102534)"
+ 8:59:57 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 9:00:02 "RUNNING EVENT: crash_spawner on [2014,7,7,17,0]"
+ 9:00:02 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 9:00:02 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [11587.6,7405.44] NOW!(TIME:2205||LT:MilitarySpecial)"
+ 9:00:29 Server: Object 3:169 not found (message 91)
+ 9:00:29 Server: Object 3:172 not found (message 98)
+ 9:00:29 Server: Object 3:173 not found (message 91)
+ 9:02:07 "TIME SYNC: Local Time set to [2013,8,3,17,2]"
+ 9:02:09 "CLEANUP: Deleted 3 Loot Piles out of 68"
+ 9:03:09 "CLEANUP: Deleted 1 Loot Piles out of 65"
+ 9:05:10 "CLEANUP: Deleted 3 Loot Piles out of 93"
+ 9:06:31 "DELETE: B 1-1-E:1 (Bored Shorts) REMOTE Deleted by UID: 0"
+ 9:07:07 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
+ 9:08:10 "CLEANUP: Deleted 3 Loot Piles out of 91"
