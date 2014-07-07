@@ -221,3 +221,35 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  5:17:54 "EPOCH EVENTS INIT"
  5:17:55 "DEBUG VEIN: Too many objects at [3169.05,7515.73]"
  5:17:59 "TIME SYNC: Local Time set to [2013,8,3,19,17]"
+ 5:18:55 "[DZMS]: Starting DayZ Epoch Mission System."
+ 5:18:55 "[DZMS]: Relations not found! Using DZMS Relations."
+ 5:18:55 "[DZMS]: Mission and Extended Configuration Loaded!"
+ 5:18:55 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+ 5:18:55 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+ 5:18:55 "[DZMS]: Mission Functions Script Loaded!"
+ 5:18:55 "[DZMS]: Major Mission Clock Starting!"
+ 5:18:55 "[DZMS]: Minor Mission Clock Starting!"
+ 5:18:55 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+ 5:19:05 "[DZMS]: Running Minor Mission SM7."
+ 5:20:13 "[DZMS]: Running Major Mission SM13."
+ 5:20:15 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 5:20:15 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 5:20:15 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 5:21:16 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 5:21:22 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 5:26:16 "TIME SYNC: Local Time set to [2013,8,3,19,26]"
