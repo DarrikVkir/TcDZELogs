@@ -430,3 +430,16 @@ if(DZE_DeathMsgSide) then {
  9:17:17 Server: Object 8:259 not found (message 94)
  9:17:17 Server: Object 8:260 not found (message 94)
  9:18:11 "CLEANUP: Deleted 7 Loot Piles out of 91"
+ 9:19:10 "CLEANUP: Deleted 11 Loot Piles out of 84"
+ 9:19:49 Server: Object 3:356 not found (message 91)
+ 9:19:49 Server: Object 3:355 not found (message 98)
+ 9:19:49 Server: Object 3:359 not found (message 98)
+ 9:19:49 Server: Object 3:360 not found (message 91)
+ 9:22:07 "TIME SYNC: Local Time set to [2013,8,3,17,22]"
+ 9:24:11 "CLEANUP: Deleted 11 Loot Piles out of 87"
+ 9:25:11 "CLEANUP: Deleted 18 Loot Piles out of 77"
+ 9:26:10 "CLEANUP: Deleted 1 Loot Piles out of 60"
+ 9:27:07 "TIME SYNC: Local Time set to [2013,8,3,17,27]"
+ 9:27:07 "Purging player: 2d4a8080# 1061529: baf_soldier_1_baf.p3d"
+ 9:27:07 "CLEANUP: Deleted 1 players and 0 zombies out of 7 dead"
+ 9:27:10 "CLEANUP: Deleted 20 Animals out of 54"
