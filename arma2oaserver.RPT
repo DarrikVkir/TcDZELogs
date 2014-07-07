@@ -993,3 +993,13 @@ g from [10450,-630,1000] to [7106.15,14763.3] NOW!(TIME:14800||LT:HeliCrash_No50
 12:46:01 Client: Remote object 2:6779 not found
 12:47:08 "TIME SYNC: Local Time set to [2013,8,3,20,47]"
 12:48:20 "CLEANUP: Deleted 2 Loot Piles out of 247"
+12:50:19 "CLEANUP: Deleted 1 Loot Piles out of 248"
+12:52:08 "TIME SYNC: Local Time set to [2013,8,3,20,52]"
+12:56:43 "get: STRING (254102534), sent: STRING (254102534)"
+12:56:43 "COMBAT LOGGED: Daelin (16420.1) at location [4211.46,10926.7,9.50589]"
+12:56:43 "SET UNCONCIOUSNESS: Daelin"
+12:56:43 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [4211.46,10926.7,9.50589]"
+12:56:43 Client: Remote object 25:0 not found
+12:56:43 Client: Remote object 25:8 not found
+12:57:08 "CLEANUP: Deleted 9 Animals out of 13"
+12:57:08 "TIME SYNC: Local Time set to [2013,8,3,20,57]"
