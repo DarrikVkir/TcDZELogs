@@ -624,3 +624,21 @@ g from [10450,-630,1000] to [2669.99,2101.68] NOW!(TIME:5897||LT:MilitarySpecial
  0:15:08 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
  0:15:14 "CLEANUP: Deleted 19 Loot Piles out of 110"
  0:17:13 "CLEANUP: Deleted 1 Loot Piles out of 91"
+ 0:19:03 "DELETE: <null> Deleted by ID: 2979"
+ 0:19:03 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 0:19:03   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 0:19:03   Error Undefined variable in expression: _activatingplayer
+ 0:19:03 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 0:19:13 "CLEANUP: Deleted 1 Loot Piles out of 90"
+ 0:20:08 "TIME SYNC: Local Time set to [2013,8,3,20,20]"
+ 0:20:13 "CLEANUP: Deleted 9 Loot Piles out of 89"
+ 0:21:13 "CLEANUP: Deleted 28 Loot Piles out of 80"
+ 0:22:12 "CLEANUP: Deleted 3 Loot Piles out of 52"
+ 0:24:12 "CLEANUP: Deleted 3 Loot Piles out of 51"
+ 0:25:08 "TIME SYNC: Local Time set to [2013,8,3,20,25]"
