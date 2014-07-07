@@ -327,3 +327,17 @@ g from [15098,8144,300] to [6182,8121.48] NOW!(TIME:1754||LT:MilitarySpecial)"
 g from [1623.71,218.188,300] to [2223.3,10485.1] NOW!(TIME:3556||LT:MilitarySpecial)"
 22:04:39 "TIME SYNC: Local Time set to [2013,8,3,18,4]"
 22:07:07 Server: Object 4:221 not found (message 70)
+22:09:39 "TIME SYNC: Local Time set to [2013,8,3,18,9]"
+22:11:14 "DELETE: B 1-1-B:1 (Bored Shorts) REMOTE Deleted by UID: 0"
+22:12:46 "DELETE: B 1-1-B:1 (Bored Shorts) REMOTE Deleted by UID: 0"
+22:14:04 WARNING: Function 'name' - Bored Shorts is dead
+22:14:04 WARNING: Function 'name' - Bored Shorts is dead
+22:14:04 WARNING: Function 'name' - Bored Shorts is dead
+22:14:04 "PDEATH: Player Died 255024710"
+22:14:34 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [371]. Position in debug! [-7239.67,19539.3,0.245575]"
+22:14:36 "get: STRING (255024710), sent: STRING (255024710)"
+22:14:36 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-A:1 (Bored Shorts) REMOTE, _characterID: 371 at loc [-7239.67,19539.3,0.245575]"
+22:14:36 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [371]. Position in debug! [-7239.67,19539.3,0.245575]"
+22:14:36 Client: Remote object 4:2 not found
+22:14:39 "TIME SYNC: Local Time set to [2013,8,3,18,14]"
+22:15:05 "RUNNING EVENT: supply_drop on [2014,7,7,18,15]"
