@@ -1102,3 +1102,30 @@ g from [6993.7,173.053,300] to [13665.2,14508.7] NOW!(TIME:18404||LT:HeliCrash_N
 13:37:41 "CRASHSPAWNER: Loot spawn at '[13622.1,14496.5,0]' with loot table 'HeliCrash_No50s'"
 13:37:41 "CRASHSPAWNER: Loot spawn at '[13623.5,14499.1,0]' with loot table 'HeliCrash_No50s'"
 13:37:41 "CRASHSPAWNER: Crash completed! Wreck at: [13623.9,14492.2,0.270935] - Runtime: 452 Seconds || Distance from calculated POC: 45 meters"
+13:39:22 "CLEANUP: Deleted 1 Loot Piles out of 283"
+13:40:23 "CLEANUP: Deleted 11 Loot Piles out of 282"
+13:40:46 Client: Object 27:263 (type Type_69) not found.
+13:40:46 Client: Object 27:263 (type Type_70) not found.
+13:40:46 "PDEATH: Player Died 254102534"
+13:41:01 "ERROR: server_playerSync: Cannot Sync Player Daelin [472]. Position in debug! [-7239.67,19539.3,0.246155]"
+13:41:02 "get: STRING (254102534), sent: STRING (254102534)"
+13:41:02 "DISCONNECT: Daelin (254102534) Object: B 1-1-A:1 (Daelin) REMOTE, _characterID: 472 at loc [-7239.67,19539.3,0.246155]"
+13:41:02 "ERROR: server_playerSync: Cannot Sync Player Daelin [472]. Position in debug! [-7239.67,19539.3,0.246155]"
+13:41:02 Client: Remote object 27:2 not found
+13:41:02 Client: Remote object 27:266 not found
+13:41:02 Client: Remote object 27:265 not found
+13:41:22 "CLEANUP: Deleted 3 Loot Piles out of 270"
+13:42:08 "TIME SYNC: Local Time set to [2013,8,3,21,42]"
+13:42:08 "CLEANUP: Deleted 12 Animals out of 19"
+13:43:15 "get: STRING (253568646), sent: STRING (253568646)"
+13:43:15 "COMBAT LOGGED: Vladislav (19236.5) at location [12195.4,3261.59,3.24613]"
+13:43:15 "SET UNCONCIOUSNESS: Vladislav"
+13:43:15 "DISCONNECT: Vladislav (253568646) Object: B 1-1-B:1 (Vladislav) REMOTE, _characterID: 475 at loc [12195.4,3261.59,3.24613]"
+13:43:15 Client: Remote object 16:757 not found
+13:44:06 "get: STRING (254102534), sent: STRING (254102534)"
+13:44:06 "DISCONNECT: Daelin (254102534) Object: B 1-1-C:1 (Daelin) REMOTE, _characterID: 476 at loc [4838.31,2425.72,0.00149441]"
+13:44:06 Client: Remote object 27:277 not found
+13:45:22 "CLEANUP: Deleted 1 Loot Piles out of 318"
+13:46:23 "CLEANUP: Deleted 23 Loot Piles out of 317"
+13:47:08 "TIME SYNC: Local Time set to [2013,8,3,21,47]"
+13:47:23 "CLEANUP: Deleted 51 Loot Piles out of 294"
