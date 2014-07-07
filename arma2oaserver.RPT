@@ -443,3 +443,40 @@ if(DZE_DeathMsgSide) then {
  9:27:07 "Purging player: 2d4a8080# 1061529: baf_soldier_1_baf.p3d"
  9:27:07 "CLEANUP: Deleted 1 players and 0 zombies out of 7 dead"
  9:27:10 "CLEANUP: Deleted 20 Animals out of 54"
+ 9:30:05 "RUNNING EVENT: crash_spawner on [2014,7,7,17,30]"
+ 9:30:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 9:30:05 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [11805.3,15009.3] NOW!(TIME:4007||LT:HeliCrash_No50s)"
+ 9:32:07 "TIME SYNC: Local Time set to [2013,8,3,17,32]"
+ 9:32:25 "[DZMS]: Major SM3 Medical Camp Mission has Ended."
+ 9:32:32 "[DZMS]: Running Major Mission SM5."
+ 9:33:10 "CLEANUP: Deleted 1 Loot Piles out of 62"
+ 9:34:10 "CLEANUP: Deleted 1 Loot Piles out of 62"
+ 9:34:23 Server: Object 4:540 not found (message 99)
+ 9:34:23 Server: Object 4:541 not found (message 91)
+ 9:34:48 Server: Object 3:429 not found (message 99)
+ 9:34:48 Server: Object 3:429 not found (message 99)
+ 9:34:48 Server: Object 3:429 not found (message 99)
+ 9:34:48 Server: Object 3:429 not found (message 99)
+ 9:34:48 Server: Object 3:429 not found (message 99)
+ 9:34:48 Server: Object 3:429 not found (message 99)
+ 9:34:49 Server: Object 3:429 not found (message 99)
+ 9:34:49 Server: Object 3:429 not found (message 99)
+ 9:34:49 Server: Object 3:429 not found (message 99)
+ 9:34:49 Server: Object 3:429 not found (message 99)
+ 9:34:54 Server: Object 3:431 not found (message 99)
+ 9:34:54 Server: Object 3:431 not found (message 99)
+ 9:34:55 Server: Object 3:431 not found (message 99)
+ 9:34:55 Server: Object 3:431 not found (message 99)
+ 9:34:55 Server: Object 3:431 not found (message 99)
+ 9:34:56 Server: Object 3:431 not found (message 99)
+ 9:34:56 Server: Object 3:431 not found (message 99)
+ 9:34:56 Server: Object 3:431 not found (message 99)
+ 9:34:59 Server: Object 3:431 not found (message 99)
+ 9:35:00 Server: Object 3:431 not found (message 99)
+ 9:35:00 Server: Object 3:431 not found (message 99)
+ 9:36:10 "CLEANUP: Deleted 2 Loot Piles out of 62"
+ 9:37:07 "TIME SYNC: Local Time set to [2013,8,3,17,37]"
+ 9:37:11 "CLEANUP: Deleted 3 Loot Piles out of 60"
+ 9:38:11 "CLEANUP: Deleted 26 Loot Piles out of 57"
