@@ -745,3 +745,22 @@ g from [6993.7,173.053,300] to [11644.9,9542.24] NOW!(TIME:7602||LT:HeliCrash_No
 11:47:05 "CRASHSPAWNER: Loot spawn at '[5263.72,10937.8,0]' with loot table 'MilitarySpecial'"
 11:47:05 "CRASHSPAWNER: Crash completed! Wreck at: [5269.99,10940.2,-0.000946045] - Runtime: 10021 Seconds || Distance from calculated POC: 7240 meters"
 11:47:08 "TIME SYNC: Local Time set to [2013,8,3,19,47]"
+11:50:15 "CLEANUP: Deleted 4 Loot Piles out of 102"
+11:51:00 "get: STRING (254102534), sent: STRING (254102534)"
+11:51:00 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [6289.92,8035.43,0.0017395]"
+11:51:00 Client: Remote object 15:6 not found
+11:51:00 Client: Remote object 15:5 not found
+11:51:00 Client: Remote object 15:2 not found
+11:52:08 "TIME SYNC: Local Time set to [2013,8,3,19,52]"
+11:52:48 "PHIT: B 1-1-B:1 (Daelin) REMOTE was hit by B 1-1-C:1 (Vladislav) REMOTE with Mk_48_DZ from 35.0882m with 1.43067 dmg"
+11:56:34 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a AKS_GOLD in/at Stary for 2x ItemGoldBar10oz"
+11:57:07 "CLEANUP: Deleted 1 Animals out of 4"
+11:57:08 "TIME SYNC: Local Time set to [2013,8,3,19,57]"
+11:57:10 Server: Object 17:61 not found (message 99)
+11:57:10 Server: Object 17:62 not found (message 91)
+11:57:10 Server: Object 17:66 not found (message 70)
+11:57:11 Server: Object 17:74 not found (message 94)
+11:57:24 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_545x39_AK in/at Stary for 2x ItemSilverBar"
+11:57:50 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_762x39_AK47 in/at Stary for 2x ItemSilverBar"
+11:58:08 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_762x39_AK47 in/at Stary for 2x ItemSilverBar"
+11:58:17 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_762x39_AK47 in/at Stary for 2x ItemSilverBar"
