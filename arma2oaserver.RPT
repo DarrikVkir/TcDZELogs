@@ -242,3 +242,25 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 21:13:07 "SAFE UNLOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
 21:14:38 "TIME SYNC: Local Time set to [2013,8,3,17,14]"
 21:15:09 "RUNNING EVENT: supply_drop on [2014,7,7,17,15]"
+21:19:38 "TIME SYNC: Local Time set to [2013,8,3,17,19]"
+21:19:39 "CLEANUP: Deleted 5 Animals out of 5"
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone leftshoulder doesn't exist in some skeleton 
+21:19:57 Error: Bone rightshoulder doesn't exist in some skeleton 
+21:22:49 "DELETE: B 1-1-B:1 (Bored Shorts) REMOTE Deleted by UID: 0"
+21:24:38 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
+21:25:40 "CLEANUP: Deleted 14 Loot Piles out of 22"
+21:27:39 "CLEANUP: Deleted 1 Loot Piles out of 8"
