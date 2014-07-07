@@ -395,3 +395,49 @@ g from [10450,-630,1000] to [1703.68,9017.54] NOW!(TIME:4346||LT:HeliCrash_No50s
  6:52:19 "CLEANUP: Deleted 1 Loot Piles out of 44"
  6:53:31 NAT Negotiation completed
  6:56:17 "TIME SYNC: Local Time set to [2013,8,3,20,56]"
+ 7:00:07 "RUNNING EVENT: crash_spawner on [2014,7,7,21,0]"
+ 7:00:07 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 7:00:07 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [10450,-630,1000] to [3802.35,14049.2] NOW!(TIME:6148||LT:MilitarySpecial)"
+ 7:00:21 "CLEANUP: Deleted 2 Loot Piles out of 60"
+ 7:01:17 "TIME SYNC: Local Time set to [2013,8,3,21,1]"
+ 7:01:22 "CLEANUP: Deleted 1 Loot Piles out of 58"
+ 7:01:55 "get: STRING (120160390), sent: STRING (120160390)"
+ 7:01:55 "DISCONNECT: telconrar (120160390) Object: B 1-1-E:1 (telconrar) REMOTE, _characterID: 411 at loc [8262.18,9890.96,0.0012207]"
+ 7:01:55 Client: Remote object 5:2 not found
+ 7:01:55 Client: Remote object 5:8 not found
+ 7:01:57 Warning: Cleanup player - person 5:7 not found
+ 7:02:20 "CLEANUP: Deleted 2 Loot Piles out of 50"
+ 7:02:34 "CRASHSPAWNER: AV-8B (LGB) just exploded at [3975.72,13801.3,5.34555]!, "
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3976.64,13805.2,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3970.49,13806.8,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3980.96,13794.9,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3973.76,13796.9,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3973.49,13805.5,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3979.96,13799.9,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3978.11,13795.4,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3981.45,13800.9,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Loot spawn at '[3967.16,13803.7,0]' with loot table 'MilitarySpecial'"
+ 7:02:34 "CRASHSPAWNER: Crash completed! Wreck at: [3975.73,13801.1,0.123932] - Runtime: 147 Seconds || Distance from calculated POC: 311 meters"
+ 7:03:21 "CLEANUP: Deleted 2 Loot Piles out of 59"
+ 7:04:41 "SAFE UNLOCKED: ID:4951 UID:0 BY Vladislav(253568646)"
+ 7:05:22 "SAFE LOCKED: ID:4951 UID:0 BY Vladislav(253568646)"
+ 7:05:40 "PHIT: B 1-1-F:1 (Daelin) REMOTE was hit by B 1-1-G:1 (Vladislav) REMOTE with M9SD from 7.68966m with 0.255375 dmg"
+ 7:05:51 "PHIT: B 1-1-F:1 (Daelin) REMOTE was hit by B 1-1-G:1 (Vladislav) REMOTE with M9SD from 6.86599m with 0.255624 dmg"
+ 7:06:17 "TIME SYNC: Local Time set to [2013,8,3,21,6]"
+ 7:06:18 "CLEANUP: Deleted 3 Animals out of 52"
+ 7:06:25 "DELETE: B 1-1-D:1 (Bored Shorts) REMOTE Deleted by UID: 0"
+ 7:06:42 "nil player object attempting PV, :["255024710","Bored Shorts"]"
+ 7:06:42 "get: STRING (), sent: STRING (255024710)"
+ 7:06:42 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-D:1 REMOTE, _characterID: 371 at loc [14310.6,12984.4,0.00143862]"
+ 7:06:42 Client: Remote object 4:6 not found
+ 7:06:42 Client: Remote object 4:5 not found
+ 7:06:42 Client: Remote object 4:2 not found
+ 7:06:42 Client: Remote object 4:8 not found
+ 7:06:51 Warning: Cleanup player - person 4:7 not found
+ 7:07:19 "get: STRING (4486214), sent: STRING (4486214)"
+ 7:07:19 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 427 at loc [13867.3,11722.2,0.00163651]"
+ 7:07:19 Client: Remote object 3:407 not found
+ 7:07:19 Warning: Cleanup player - person 3:406 not found
+ 7:07:20 Warning: Cleanup player - person 3:406 not found
