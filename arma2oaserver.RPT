@@ -764,3 +764,53 @@ g from [6993.7,173.053,300] to [11644.9,9542.24] NOW!(TIME:7602||LT:HeliCrash_No
 11:57:50 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_762x39_AK47 in/at Stary for 2x ItemSilverBar"
 11:58:08 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_762x39_AK47 in/at Stary for 2x ItemSilverBar"
 11:58:17 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_762x39_AK47 in/at Stary for 2x ItemSilverBar"
+11:59:29 "get: STRING (254102534), sent: STRING (254102534)"
+11:59:29 "COMBAT LOGGED: Daelin (12985.7) at location [6322.61,7781.27,0.00140381]"
+11:59:29 "SET UNCONCIOUSNESS: Daelin"
+11:59:29 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [6322.61,7781.27,0.00140381]"
+11:59:29 Client: Remote object 17:2 not found
+11:59:29 Client: Remote object 17:8 not found
+12:00:08 "RUNNING EVENT: crash_spawner on [2014,7,7,20,0]"
+12:00:08 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+12:00:08 "CRASHSPAWNER: Mi-24D started
+
+g from [15186,11857,300] to [4640.15,5897.04] NOW!(TIME:13008||LT:MilitarySpecial)"
+12:00:15 Server: Object 16:65 not found (message 91)
+12:00:15 Server: Object 16:67 not found (message 91)
+12:00:15 Server: Object 16:73 not found (message 91)
+12:00:15 Server: Object 16:72 not found (message 99)
+12:00:15 Server: Object 16:75 not found (message 91)
+12:00:15 Server: Object 16:74 not found (message 99)
+12:00:15 Server: Object 16:77 not found (message 91)
+12:00:15 Server: Object 16:76 not found (message 99)
+12:00:15 Server: Object 16:79 not found (message 91)
+12:00:15 Server: Object 16:81 not found (message 91)
+12:00:15 Server: Object 16:80 not found (message 99)
+12:02:08 "EPOCH SERVERTRADE: Player: Vladislav (253568646) sold a AKS_GOLD in/at Stary for 1x ItemGoldBar10oz"
+12:02:08 "TIME SYNC: Local Time set to [2013,8,3,20,2]"
+12:02:56 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a KSVK_DZE in/at Stary for 6x ItemGoldBar10oz"
+12:03:26 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:03:34 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:03:43 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:03:50 "CRASHSPAWNER: Mi-24D just exploded at [4650.73,5905.07,2.24988]!, "
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4648.82,5901.56,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4643.66,5904.1,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4654.4,5907.05,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4647.34,5910.55,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4651.35,5900.94,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4644.65,5908.77,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4654.11,5901.71,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4649.66,5909.75,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4646.93,5900.68,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4655.84,5906.07,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Loot spawn at '[4653.33,5898.45,0]' with loot table 'MilitarySpecial'"
+12:03:50 "CRASHSPAWNER: Crash completed! Wreck at: [4650.68,5905.04,0.000457764] - Runtime: 222 Seconds || Distance from calculated POC: 13 meters"
+12:03:51 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:03:58 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:05:00 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a UZI_SD_EP1 in/at Stary for 1x ItemGoldBar10oz"
+12:05:51 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_9x19_UZI_SD in/at Stary for 2x ItemSilverBar10oz"
+12:05:59 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_9x19_UZI_SD in/at Stary for 2x ItemSilverBar10oz"
+12:06:08 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_9x19_UZI_SD in/at Stary for 2x ItemSilverBar10oz"
+12:06:16 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_9x19_UZI_SD in/at Stary for 2x ItemSilverBar10oz"
+12:06:32 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 30Rnd_9x19_UZI_SD in/at Stary for 2x ItemSilverBar10oz"
+12:07:08 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
