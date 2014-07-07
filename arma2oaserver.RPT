@@ -264,3 +264,50 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 21:24:38 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
 21:25:40 "CLEANUP: Deleted 14 Loot Piles out of 22"
 21:27:39 "CLEANUP: Deleted 1 Loot Piles out of 8"
+21:29:38 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+21:30:00 "RUNNING EVENT: crash_spawner on [2014,7,7,17,30]"
+21:30:00 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+21:30:00 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [15098,8144,300] to [6182,8121.48] NOW!(TIME:1754||LT:MilitarySpecial)"
+21:32:38 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+21:32:38   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+21:32:38 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+21:32:38   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+21:32:38 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+21:32:38   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+21:32:38 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+21:32:38   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+21:32:38 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+21:32:38   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+21:32:38   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+21:33:19 "CRASHSPAWNER: AV-8B (LGB) just exploded at [6029.96,8360.99,5.81778]!, "
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6028.69,8357.2,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6023.02,8362.28,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6032.34,8366.87,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6030.87,8355.41,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6028.75,8369.32,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6020.39,8358.59,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6022,8370.62,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6042.94,8362.36,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6032.07,8353.27,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Loot spawn at '[6022,8368.25,0]' with loot table 'MilitarySpecial'"
+21:33:19 "CRASHSPAWNER: Crash completed! Wreck at: [6029.9,8361.05,0.00881958] - Runtime: 197 Seconds || Distance from calculated POC: 285 meters"
+21:34:38 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
+21:34:41 "CLEANUP: Deleted 1 Loot Piles out of 17"
