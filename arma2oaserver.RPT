@@ -904,3 +904,44 @@ g from [15186,11857,300] to [4640.15,5897.04] NOW!(TIME:13008||LT:MilitarySpecia
 12:27:08 "TIME SYNC: Local Time set to [2013,8,3,20,27]"
 12:27:10 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a FoodbeefCooked in/at Stary for 4x ItemSilverBar"
 12:27:21 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a FoodbeefCooked in/at Stary for 4x ItemSilverBar"
+12:28:27 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a KSVK_DZE in/at Stary for 6x ItemGoldBar10oz"
+12:28:38 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:28:46 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:28:55 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:02 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:03 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:11 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:11 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:19 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:20 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:27 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:29 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:36 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:38 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:47 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:29:56 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:30:02 "RUNNING EVENT: crash_spawner on [2014,7,7,20,30]"
+12:30:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+12:30:03 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [7106.15,14763.3] NOW!(TIME:14800||LT:HeliCrash_No50s)"
+12:30:04 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:30:13 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:30:22 "EPOCH SERVERTRADE: Player: Daelin (254102534) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:32:08 "TIME SYNC: Local Time set to [2013,8,3,20,32]"
+12:32:40 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a 5Rnd_127x108_KSVK in/at Stary for 1x ItemGoldBar10oz"
+12:33:01 "get: STRING (254102534), sent: STRING (254102534)"
+12:33:01 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [6263.99,7898.46,0.000823975]"
+12:33:01 Client: Remote object 23:6 not found
+12:33:01 Client: Remote object 23:5 not found
+12:33:01 Client: Remote object 23:2 not found
+12:33:30 Server: Object 23:58 not found (message 99)
+12:33:30 Server: Object 23:56 not found (message 98)
+12:33:30 Server: Object 23:57 not found (message 91)
+12:33:30 Server: Object 23:59 not found (message 91)
+12:34:20 "CLEANUP: Deleted 61 Loot Piles out of 182"
+12:35:16 "CLEANUP: Deleted 1 Loot Piles out of 121"
+12:35:39 NAT Negotiation completed
+12:37:08 "TIME SYNC: Local Time set to [2013,8,3,20,37]"
+12:37:17 "CLEANUP: Deleted 10 Loot Piles out of 120"
+12:38:16 "CLEANUP: Deleted 1 Loot Piles out of 110"
