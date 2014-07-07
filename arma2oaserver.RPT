@@ -535,3 +535,34 @@ g from [15098,8144,300] to [7879.01,13752.2] NOW!(TIME:4095||LT:HeliCrash_No50s)
 23:46:16 "CLEANUP: Deleted 60 Loot Piles out of 150"
 23:47:12 "CLEANUP: Deleted 8 Loot Piles out of 91"
 23:48:12 "CLEANUP: Deleted 9 Loot Piles out of 86"
+23:50:02 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a Mk_48_DZ in/at Bash for 1x ItemGoldBar10oz"
+23:50:07 "TIME SYNC: Local Time set to [2013,8,3,19,50]"
+23:50:12 "CLEANUP: Deleted 6 Loot Piles out of 96"
+23:50:35 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a Sa58V_CCO_EP1 in/at Bash for 4x ItemGoldBar"
+23:50:56 "EPOCH SERVERTRADE: Player: Kmhuey (15791622) sold a SVD_CAMO in/at Bash for 6x ItemGoldBar"
+23:51:21 Server: Object 6:89 not found (message 94)
+23:53:13 "CLEANUP: Deleted 1 Loot Piles out of 116"
+23:54:14 "CLEANUP: Deleted 9 Loot Piles out of 118"
+23:54:29 Server: Object 5:593 not found (message 70)
+23:54:29 Server: Object 5:591 not found (message 94)
+23:54:29 Server: Object 5:592 not found (message 94)
+23:54:29 Server: Object 5:594 not found (message 94)
+23:54:29 Server: Object 5:595 not found (message 94)
+23:54:29 Server: Object 5:596 not found (message 94)
+23:54:38 Cannot load sound 'sow_sounds\guns\r_m9.wss'
+23:55:08 "TIME SYNC: Local Time set to [2013,8,3,19,55]"
+23:55:59 "PHIT: B 1-1-B:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Kmhuey) REMOTE with MTVR from 0m with 0.118434 dmg"
+23:55:59 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+23:55:59   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+23:55:59   Error Undefined variable in expression: _weapon
+23:55:59 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+23:56:14 "CLEANUP: Deleted 23 Loot Piles out of 128"
+23:57:13 "CLEANUP: Deleted 3 Loot Piles out of 106"
+23:58:13 "CLEANUP: Deleted 4 Loot Piles out of 103"
