@@ -1149,3 +1149,8 @@ g from [15098,8144,300] to [6838.36,4611.52] NOW!(TIME:20196||LT:MilitarySpecial
 14:07:08 "Purging player: 367d2040# 1069488: man_survivor.p3d"
 14:07:08 "CLEANUP: Deleted 1 players and 0 zombies out of 5 dead"
 14:07:09 "TIME SYNC: Local Time set to [2013,8,3,22,7]"
+14:12:09 "TIME SYNC: Local Time set to [2013,8,3,22,12]"
+14:15:02 "RUNNING EVENT: supply_drop on [2014,7,7,22,15]"
+14:17:08 "Purging player: 3697e040# 1069541: man_survivor.p3d"
+14:17:08 "CLEANUP: Deleted 1 players and 0 zombies out of 4 dead"
+14:17:09 "TIME SYNC: Local Time set to [2013,8,3,22,17]"
