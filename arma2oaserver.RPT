@@ -1037,3 +1037,40 @@ g from [10450,-630,1000] to [7106.15,14763.3] NOW!(TIME:14800||LT:HeliCrash_No50
 13:17:08 "Purging player: 32b06040# 1067447: baf_soldier_1_baf.p3d"
 13:17:08 "CLEANUP: Deleted 1 players and 0 zombies out of 8 dead"
 13:17:08 "TIME SYNC: Local Time set to [2013,8,3,21,17]"
+13:19:45 Server: Object 16:489 not found (message 94)
+13:19:45 Server: Object 16:487 not found (message 94)
+13:19:45 Server: Object 16:488 not found (message 94)
+13:19:52 "get: STRING (254102534), sent: STRING (254102534)"
+13:19:52 "LOGOUT IN VEHICLE: Daelin at location [4263.6,10718.9,3.59534]"
+13:19:52 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [4263.6,10718.9,3.59534]"
+13:19:52 Client: Remote object 26:6 not found
+13:19:52 Client: Remote object 26:5 not found
+13:19:52 Client: Remote object 26:2 not found
+13:20:19 "CLEANUP: Deleted 8 Loot Piles out of 222"
+13:22:08 "TIME SYNC: Local Time set to [2013,8,3,21,22]"
+13:23:19 "CLEANUP: Deleted 4 Loot Piles out of 218"
+13:23:38 "TELEPORT REVERT for player UID#253568646 from [3799.78,5019.62,0.00169373] to [3811.75,5020.3,0.0017395], 12 meters, now at [3799.78,5019.62,0.00169373]"
+13:24:24 "[DZMS]: Major SM5 Medical Ural Mission has Ended."
+13:24:27 "[DZMS]: Running Major Mission SM2."
+13:24:31 "PDEATH: Player Died 253568646"
+13:24:43 "ERROR: server_playerSync: Cannot Sync Player Vladislav [473]. Position in debug! [-7239.67,19539.3,0.245514]"
+13:24:44 "get: STRING (253568646), sent: STRING (253568646)"
+13:24:44 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 473 at loc [-7239.67,19539.3,0.245514]"
+13:24:44 "ERROR: server_playerSync: Cannot Sync Player Vladislav [473]. Position in debug! [-7239.67,19539.3,0.245514]"
+13:25:44 Server: Object 16:563 not found (message 94)
+13:25:44 Server: Object 16:561 not found (message 94)
+13:25:44 Server: Object 16:562 not found (message 94)
+13:25:44 Server: Object 16:569 not found (message 70)
+13:25:44 Server: Object 16:571 not found (message 70)
+13:25:44 Server: Object 16:570 not found (message 70)
+13:25:44 Server: Object 16:572 not found (message 70)
+13:27:07 Server: Object 16:606 not found (message 94)
+13:27:08 "TIME SYNC: Local Time set to [2013,8,3,21,27]"
+13:27:09 "CLEANUP: Deleted 16 Animals out of 21"
+13:27:24 Server: Object 16:635 not found (message 70)
+13:27:24 Server: Object 16:630 not found (message 94)
+13:27:24 Server: Object 16:631 not found (message 94)
+13:27:24 Server: Object 16:632 not found (message 94)
+13:27:24 Server: Object 16:633 not found (message 94)
+13:27:24 Server: Object 16:634 not found (message 94)
+13:27:24 Server: Object 16:639 not found (message 94)
