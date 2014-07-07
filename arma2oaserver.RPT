@@ -839,3 +839,68 @@ g from [15186,11857,300] to [4640.15,5897.04] NOW!(TIME:13008||LT:MilitarySpecia
 12:15:00 "RUNNING EVENT: supply_drop on [2014,7,7,20,15]"
 12:17:08 "TIME SYNC: Local Time set to [2013,8,3,20,17]"
 12:17:17 "CLEANUP: Deleted 1 Loot Piles out of 163"
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 NetServer::SendMsg: cannot find channel #994604635, users.card=1
+12:20:30 NetServer: users.get failed when sending to 994604635
+12:20:30 Message not sent - error 0, message ID = ffffffff, to 994604635 (Daelin)
+12:20:30 "get: STRING (254102534), sent: STRING (254102534)"
+12:20:30 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [6322.68,7784.28,0.00143433]"
+12:20:30 Client: Remote object 20:2 not found
+12:20:30 Client: Remote object 20:8 not found
+12:22:08 "TIME SYNC: Local Time set to [2013,8,3,20,22]"
+12:23:07 NetServer::SendMsg: cannot find channel #1233045713, users.card=1
+12:23:07 NetServer: users.get failed when sending to 1233045713
+12:23:07 Message not sent - error 0, message ID = ffffffff, to 1233045713 (Daelin)
+12:23:07 NetServer::SendMsg: cannot find channel #1233045713, users.card=1
+12:23:07 NetServer: users.get failed when sending to 1233045713
+12:23:07 Message not sent - error 0, message ID = ffffffff, to 1233045713 (Daelin)
+12:23:07 NetServer::SendMsg: cannot find channel #1233045713, users.card=1
+12:23:07 NetServer: users.get failed when sending to 1233045713
+12:23:07 Message not sent - error 0, message ID = ffffffff, to 1233045713 (Daelin)
+12:23:07 NetServer::SendMsg: cannot find channel #1233045713, users.card=1
+12:23:07 NetServer: users.get failed when sending to 1233045713
+12:23:07 Message not sent - error 0, message ID = ffffffff, to 1233045713 (Daelin)
+12:23:07 "get: STRING (254102534), sent: STRING (254102534)"
+12:23:07 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [6318.77,7784.43,0.00140381]"
+12:23:07 Client: Remote object 21:6 not found
+12:23:07 Client: Remote object 21:5 not found
+12:23:07 Client: Remote object 21:2 not found
+12:25:36 NetServer::SendMsg: cannot find channel #1390500040, users.card=1
+12:25:36 NetServer: users.get failed when sending to 1390500040
+12:25:36 Message not sent - error 0, message ID = ffffffff, to 1390500040 (Daelin)
+12:25:36 NetServer::SendMsg: cannot find channel #1390500040, users.card=1
+12:25:36 NetServer: users.get failed when sending to 1390500040
+12:25:36 Message not sent - error 0, message ID = ffffffff, to 1390500040 (Daelin)
+12:25:36 NetServer::SendMsg: cannot find channel #1390500040, users.card=1
+12:25:36 NetServer: users.get failed when sending to 1390500040
+12:25:36 Message not sent - error 0, message ID = ffffffff, to 1390500040 (Daelin)
+12:25:36 "get: STRING (254102534), sent: STRING (254102534)"
+12:25:36 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [6318.77,7784.43,0.00146484]"
+12:25:36 Client: Remote object 22:2 not found
+12:25:36 Client: Remote object 22:8 not found
+12:26:50 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a FoodbeefCooked in/at Stary for 4x ItemSilverBar"
+12:27:00 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a FoodbeefCooked in/at Stary for 4x ItemSilverBar"
+12:27:07 "CLEANUP: Deleted 3 Animals out of 7"
+12:27:08 "TIME SYNC: Local Time set to [2013,8,3,20,27]"
+12:27:10 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a FoodbeefCooked in/at Stary for 4x ItemSilverBar"
+12:27:21 "EPOCH SERVERTRADE: Player: Vladislav (253568646) bought a FoodbeefCooked in/at Stary for 4x ItemSilverBar"
