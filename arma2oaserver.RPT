@@ -640,3 +640,33 @@ if(DZE_DeathMsgSide) then {
 10:27:07 "TIME SYNC: Local Time set to [2013,8,3,18,27]"
 10:27:18 "CLEANUP: Deleted 2 Loot Piles out of 287"
 10:28:19 "CLEANUP: Deleted 9 Loot Piles out of 313"
+10:28:51 "get: STRING (254102534), sent: STRING (254102534)"
+10:28:51 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [6322.25,7781.55,0.00140381]"
+10:28:51 Client: Remote object 14:44 not found
+10:29:18 "CLEANUP: Deleted 1 Loot Piles out of 293"
+10:30:01 "RUNNING EVENT: crash_spawner on [2014,7,7,18,30]"
+10:30:01 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+10:30:01 "CRASHSPAWNER: UH-60M started
+
+g from [6993.7,173.053,300] to [11644.9,9542.24] NOW!(TIME:7602||LT:HeliCrash_No50s)"
+10:30:17 "CLEANUP: Deleted 2 Loot Piles out of 293"
+10:31:19 "CLEANUP: Deleted 40 Loot Piles out of 291"
+10:31:42 "DELETE: B 1-1-E:1 (Bored Shorts) REMOTE Deleted by UID: 0"
+10:31:47 "get: STRING (253568646), sent: STRING (253568646)"
+10:31:47 "DISCONNECT: Vladislav (253568646) Object: B 1-1-D:1 (Vladislav) REMOTE, _characterID: 469 at loc [6293.79,8054.8,0.00152588]"
+10:31:47 Client: Remote object 3:273 not found
+10:31:47 Warning: Cleanup player - person 3:272 not found
+10:32:07 "TIME SYNC: Local Time set to [2013,8,3,18,32]"
+10:32:34 "get: STRING (255024710), sent: STRING (255024710)"
+10:32:34 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-E:1 (Bored Shorts) REMOTE, _characterID: 371 at loc [9481.17,14340.4,0.634552]"
+10:32:34 Client: Remote object 4:6 not found
+10:32:34 Client: Remote object 4:5 not found
+10:32:34 Client: Remote object 4:2 not found
+10:32:34 Client: Remote object 4:8 not found
+10:32:39 Warning: Cleanup player - person 4:7 not found
+10:32:44 Warning: Cleanup player - person 3:272 not found
+10:33:15 "CLEANUP: Deleted 2 Loot Piles out of 240"
+10:35:16 "CLEANUP: Deleted 31 Loot Piles out of 238"
+10:36:19 "CLEANUP: Deleted 105 Loot Piles out of 207"
+10:37:07 "TIME SYNC: Local Time set to [2013,8,3,18,37]"
+10:37:14 "CLEANUP: Deleted 32 Loot Piles out of 102"
