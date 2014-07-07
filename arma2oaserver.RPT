@@ -521,3 +521,25 @@ g from [15098,8144,300] to [11805.3,15009.3] NOW!(TIME:4007||LT:HeliCrash_No50s)
  9:58:17 Client: Remote object 10:6 not found
  9:58:17 Client: Remote object 10:5 not found
  9:58:17 Client: Remote object 10:2 not found
+10:00:08 "RUNNING EVENT: crash_spawner on [2014,7,7,18,0]"
+10:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+10:00:08 "CRASHSPAWNER: UH-1Y started
+
+g from [10450,-630,1000] to [9488.47,14830.4] NOW!(TIME:5809||LT:HeliCrash_No50s)"
+10:01:00 "get: STRING (254102534), sent: STRING (254102534)"
+10:01:00 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 471 at loc [12035,12802.9,0.0781708]"
+10:01:00 Client: Remote object 11:2 not found
+10:01:00 Client: Remote object 11:8 not found
+10:02:07 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+10:03:13 "CLEANUP: Deleted 1 Loot Piles out of 152"
+10:03:17 "get: STRING (254102534), sent: STRING (254102534)"
+10:03:17 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 471 at loc [12038.6,12801.3,0.0781708]"
+10:03:17 Client: Remote object 12:6 not found
+10:03:17 Client: Remote object 12:5 not found
+10:03:17 Client: Remote object 12:2 not found
+10:05:29 "get: STRING (254102534), sent: STRING (254102534)"
+10:05:29 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 471 at loc [12037.1,12802.6,0.0781708]"
+10:05:29 Client: Remote object 13:2 not found
+10:05:29 Client: Remote object 13:8 not found
+10:07:07 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
+10:08:16 "CLEANUP: Deleted 65 Loot Piles out of 168"
