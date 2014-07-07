@@ -626,3 +626,17 @@ if(DZE_DeathMsgSide) then {
 10:16:39 "CUSTOM: Selected "5070""
 10:16:39 "PUBLISH: B 1-1-D:1 (Vladislav) REMOTE Bought MV22_DZ with ID "12072712667306826""
 10:17:07 "TIME SYNC: Local Time set to [2013,8,3,18,17]"
+10:19:20 "CLEANUP: Deleted 2 Loot Piles out of 285"
+10:20:00 Client: Object 3:883 (type Type_70) not found.
+10:20:00 Client: Object 3:884 (type Type_70) not found.
+10:21:20 "CLEANUP: Deleted 5 Loot Piles out of 283"
+10:22:07 "TIME SYNC: Local Time set to [2013,8,3,18,22]"
+10:22:20 "CLEANUP: Deleted 1 Loot Piles out of 280"
+10:23:18 "CLEANUP: Deleted 4 Loot Piles out of 298"
+10:23:45 Server: Object 14:240 not found (message 99)
+10:23:45 Server: Object 14:241 not found (message 91)
+10:24:18 "CLEANUP: Deleted 6 Loot Piles out of 294"
+10:25:18 "CLEANUP: Deleted 1 Loot Piles out of 288"
+10:27:07 "TIME SYNC: Local Time set to [2013,8,3,18,27]"
+10:27:18 "CLEANUP: Deleted 2 Loot Piles out of 287"
+10:28:19 "CLEANUP: Deleted 9 Loot Piles out of 313"
