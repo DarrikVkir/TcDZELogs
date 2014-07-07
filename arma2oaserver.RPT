@@ -312,3 +312,8 @@ g from [1623.71,218.188,300] to [12567.9,4519.32] NOW!(TIME:752||LT:MilitarySpec
  5:37:03 "SAFE LOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
  5:37:15 "DELETE: B 1-1-C:1 (BluntScopes) REMOTE Deleted by UID: 0"
  5:37:26 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 5:41:16 "TIME SYNC: Local Time set to [2013,8,3,19,41]"
+ 5:41:19 "CLEANUP: Deleted 17 Loot Piles out of 73"
+ 5:46:16 "TIME SYNC: Local Time set to [2013,8,3,19,46]"
+ 5:46:42 Server: Object 3:361 not found (message 91)
+ 5:46:42 Server: Object 3:360 not found (message 99)
