@@ -945,3 +945,51 @@ g from [10450,-630,1000] to [7106.15,14763.3] NOW!(TIME:14800||LT:HeliCrash_No50
 12:37:08 "TIME SYNC: Local Time set to [2013,8,3,20,37]"
 12:37:17 "CLEANUP: Deleted 10 Loot Piles out of 120"
 12:38:16 "CLEANUP: Deleted 1 Loot Piles out of 110"
+12:38:20 "CRASHSPAWNER: UH-1H just exploded at [7104.09,14738.4,3.62003]!, "
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7101.34,14735.5,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7110.01,14735.4,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7103.58,14748.2,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7115.04,14734.1,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7100.78,14725.4,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7114.46,14741,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7115.6,14731,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7097.99,14735.5,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7100.24,14745.7,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7112.31,14735,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Loot spawn at '[7114.78,14744.5,0]' with loot table 'HeliCrash_No50s'"
+12:38:20 "CRASHSPAWNER: Crash completed! Wreck at: [7104.09,14738.4,0.102966] - Runtime: 497 Seconds || Distance from calculated POC: 27 meters"
+12:38:45 Server: Object 23:99 not found (message 91)
+12:38:45 Server: Object 23:98 not found (message 99)
+12:38:45 Server: Object 23:108 not found (message 98)
+12:38:45 Server: Object 23:109 not found (message 91)
+12:39:02 Server: Object 23:144 not found (message 94)
+12:39:02 Server: Object 23:143 not found (message 94)
+12:39:02 Server: Object 23:146 not found (message 94)
+12:39:03 Server: Object 23:145 not found (message 70)
+12:39:11 Server: Object 23:184 not found (message 70)
+12:39:11 Server: Object 23:180 not found (message 70)
+12:39:11 Server: Object 23:183 not found (message 70)
+12:39:11 Server: Object 23:182 not found (message 70)
+12:39:11 Server: Object 23:181 not found (message 70)
+12:39:20 "CLEANUP: Deleted 2 Loot Piles out of 238"
+12:40:21 "CLEANUP: Deleted 1 Loot Piles out of 255"
+12:42:07 "CLEANUP: Deleted 2 Animals out of 12"
+12:42:08 "TIME SYNC: Local Time set to [2013,8,3,20,42]"
+12:42:20 "CLEANUP: Deleted 1 Loot Piles out of 254"
+12:43:20 "CLEANUP: Deleted 1 Loot Piles out of 253"
+12:43:59 "PDEATH: Player Died 253568646"
+12:44:17 "get: STRING (254102534), sent: STRING (254102534)"
+12:44:17 "COMBAT LOGGED: Daelin (15675.2) at location [4211.38,10926.6,9.51089]"
+12:44:17 "SET UNCONCIOUSNESS: Daelin"
+12:44:17 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 472 at loc [4211.38,10926.6,9.51089]"
+12:44:17 Client: Remote object 23:41 not found
+12:44:17 Client: Remote object 23:40 not found
+12:46:01 "ERROR: server_playerSync: Cannot Sync Player Vladislav [469]. Position in debug! [-7245.46,19541,0.692291]"
+12:46:01 "get: STRING (253568646), sent: STRING (253568646)"
+12:46:01 "DISCONNECT: Vladislav (253568646) Object: B 1-1-A:1 (Vladislav) REMOTE, _characterID: 469 at loc [-7245.46,19541,0.692291]"
+12:46:01 "ERROR: server_playerSync: Cannot Sync Player Vladislav [469]. Position in debug! [-7245.46,19541,0.692291]"
+12:46:01 Client: Remote object 16:2 not found
+12:46:01 Client: Remote object 2:6778 not found
+12:46:01 Client: Remote object 2:6779 not found
+12:47:08 "TIME SYNC: Local Time set to [2013,8,3,20,47]"
+12:48:20 "CLEANUP: Deleted 2 Loot Piles out of 247"
