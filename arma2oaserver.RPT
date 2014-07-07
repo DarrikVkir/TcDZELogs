@@ -319,3 +319,11 @@ g from [15098,8144,300] to [6182,8121.48] NOW!(TIME:1754||LT:MilitarySpecial)"
 21:49:38 "TIME SYNC: Local Time set to [2013,8,3,17,49]"
 21:54:39 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
 21:57:41 "CLEANUP: Deleted 2 Loot Piles out of 15"
+21:59:39 "TIME SYNC: Local Time set to [2013,8,3,17,59]"
+22:00:04 "RUNNING EVENT: crash_spawner on [2014,7,7,18,0]"
+22:00:04 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+22:00:04 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [2223.3,10485.1] NOW!(TIME:3556||LT:MilitarySpecial)"
+22:04:39 "TIME SYNC: Local Time set to [2013,8,3,18,4]"
+22:07:07 Server: Object 4:221 not found (message 70)
