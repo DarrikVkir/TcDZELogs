@@ -441,3 +441,9 @@ g from [10450,-630,1000] to [3802.35,14049.2] NOW!(TIME:6148||LT:MilitarySpecial
  7:07:19 Client: Remote object 3:407 not found
  7:07:19 Warning: Cleanup player - person 3:406 not found
  7:07:20 Warning: Cleanup player - person 3:406 not found
+ 7:09:25 "SAFE UNLOCKED: ID:4951 UID:0 BY Vladislav(253568646)"
+ 7:11:17 "TIME SYNC: Local Time set to [2013,8,3,21,11]"
+ 7:14:21 "CLEANUP: Deleted 7 Loot Piles out of 68"
+ 7:15:08 "RUNNING EVENT: supply_drop on [2014,7,7,21,15]"
+ 7:16:17 "TIME SYNC: Local Time set to [2013,8,3,21,16]"
+ 7:17:21 "CLEANUP: Deleted 1 Loot Piles out of 63"
