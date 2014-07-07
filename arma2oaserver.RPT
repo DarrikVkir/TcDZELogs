@@ -480,3 +480,31 @@ g from [15098,8144,300] to [11805.3,15009.3] NOW!(TIME:4007||LT:HeliCrash_No50s)
  9:37:07 "TIME SYNC: Local Time set to [2013,8,3,17,37]"
  9:37:11 "CLEANUP: Deleted 3 Loot Piles out of 60"
  9:38:11 "CLEANUP: Deleted 26 Loot Piles out of 57"
+ 9:41:10 "CLEANUP: Deleted 9 Loot Piles out of 31"
+ 9:41:27 Server: Object 3:491 not found (message 70)
+ 9:41:27 Server: Object 3:492 not found (message 70)
+ 9:41:27 Client: Object 3:492 (type Type_69) not found.
+ 9:42:07 "TIME SYNC: Local Time set to [2013,8,3,17,42]"
+ 9:42:09 "CLEANUP: Deleted 2 Loot Piles out of 22"
+ 9:42:09 Server: Object 8:398 not found (message 70)
+ 9:42:09 Server: Object 8:399 not found (message 70)
+ 9:42:09 Server: Object 8:397 not found (message 94)
+ 9:42:09 Server: Object 8:410 not found (message 70)
+ 9:42:09 Server: Object 8:411 not found (message 94)
+ 9:42:09 Server: Object 8:409 not found (message 94)
+ 9:42:10 Server: Object 8:415 not found (message 94)
+ 9:42:10 Server: Object 8:412 not found (message 94)
+ 9:42:10 Server: Object 8:413 not found (message 94)
+ 9:42:10 Server: Object 8:414 not found (message 94)
+ 9:43:11 "CLEANUP: Deleted 1 Loot Piles out of 94"
+ 9:44:11 "CLEANUP: Deleted 2 Loot Piles out of 93"
+ 9:45:11 "CLEANUP: Deleted 1 Loot Piles out of 92"
+ 9:45:42 "get: STRING (254102534), sent: STRING (254102534)"
+ 9:45:42 "DISCONNECT: Daelin (254102534) Object: B 1-1-B:1 (Daelin) REMOTE, _characterID: 471 at loc [11925.9,12831.8,9.11456]"
+ 9:45:42 Client: Remote object 8:220 not found
+ 9:46:11 "CLEANUP: Deleted 1 Loot Piles out of 85"
+ 9:47:07 "TIME SYNC: Local Time set to [2013,8,3,17,47]"
+ 9:47:07 "Purging player: 31254080# 1062958: man_survivor.p3d"
+ 9:47:07 "Purging player: 2fcba040# 1061822: man_survivor.p3d"
+ 9:47:08 "CLEANUP: Deleted 2 players and 0 zombies out of 20 dead"
+ 9:48:11 "CLEANUP: Deleted 1 Loot Piles out of 86"
