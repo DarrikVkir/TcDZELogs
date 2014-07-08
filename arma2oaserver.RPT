@@ -299,3 +299,14 @@ g from [15098,8144,300] to [9361.55,15282.7] NOW!(TIME:35||LT:HeliCrash_No50s)"
  8:43:52 Server: Object 4:199 not found (message 98)
  8:43:52 Server: Object 4:200 not found (message 91)
  8:44:10 "TIME SYNC: Local Time set to [2013,8,3,16,44]"
+ 8:49:10 "TIME SYNC: Local Time set to [2013,8,3,16,49]"
+ 8:51:02 Server: Object 3:155 not found (message 98)
+ 8:51:02 Server: Object 3:156 not found (message 91)
+ 8:51:03 Server: Object 3:162 not found (message 91)
+ 8:51:03 Server: Object 3:161 not found (message 98)
+ 8:51:11 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 8:54:10 "TIME SYNC: Local Time set to [2013,8,3,16,54]"
+ 8:54:16 "CLEANUP: Deleted 22 Loot Piles out of 233"
+ 8:55:16 "CLEANUP: Deleted 2 Loot Piles out of 229"
+ 8:56:16 "CLEANUP: Deleted 16 Loot Piles out of 229"
+ 8:58:17 Unit 3:340 not found, cannot update
