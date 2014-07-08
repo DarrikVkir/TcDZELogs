@@ -361,3 +361,34 @@ g from [1623.71,218.188,300] to [7414.26,12291.1] NOW!(TIME:1787||LT:MilitarySpe
  9:24:14 "CLEANUP: Deleted 3 Loot Piles out of 105"
  9:27:15 "CLEANUP: Deleted 5 Loot Piles out of 116"
  9:28:15 "CLEANUP: Deleted 3 Loot Piles out of 142"
+ 9:29:10 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+ 9:30:09 "RUNNING EVENT: crash_spawner on [2014,7,8,17,30]"
+ 9:30:09 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 9:30:09 "CRASHSPAWNER: Mi-17 started
+
+g from [6993.7,173.053,300] to [5029.12,14688.3] NOW!(TIME:3589||LT:HeliCrash_No50s)"
+ 9:30:17 "CLEANUP: Deleted 23 Loot Piles out of 139"
+ 9:31:15 "CLEANUP: Deleted 20 Loot Piles out of 119"
+ 9:32:14 "CLEANUP: Deleted 4 Loot Piles out of 99"
+ 9:34:11 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
+ 9:34:16 "[DZMS]: Major SM4 Helicopter Landing Mission has Ended."
+ 9:35:15 "CLEANUP: Deleted 2 Loot Piles out of 103"
+ 9:35:35 "[DZMS]: Running Major Mission SM10."
+ 9:36:19 Server: Object 5:162 not found (message 91)
+ 9:36:19 Server: Object 5:161 not found (message 99)
+ 9:36:20 Server: Object 5:165 not found (message 99)
+ 9:36:20 Server: Object 5:166 not found (message 91)
+ 9:36:20 Server: Object 5:168 not found (message 91)
+ 9:36:20 Server: Object 5:167 not found (message 99)
+ 9:36:20 Server: Object 5:169 not found (message 98)
+ 9:36:20 Server: Object 5:170 not found (message 91)
+ 9:36:20 Server: Object 5:172 not found (message 91)
+ 9:36:20 Server: Object 5:171 not found (message 99)
+ 9:36:41 "PDEATH: Player Died 199810246"
+ 9:37:34 "ERROR: server_playerSync: Cannot Sync Player Marek [414]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 9:37:35 "get: STRING (199810246), sent: STRING (199810246)"
+ 9:37:35 "DISCONNECT: Marek (199810246) Object: B 1-1-A:1 (Marek) REMOTE, _characterID: 414 at loc [-7239.67,19539.3,0.246155]"
+ 9:37:35 "ERROR: server_playerSync: Cannot Sync Player Marek [414]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 9:37:35 Client: Remote object 2:9 not found
+ 9:37:35 Client: Remote object 2:10 not found
+ 9:38:15 "CLEANUP: Deleted 25 Loot Piles out of 114"
