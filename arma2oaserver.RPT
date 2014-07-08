@@ -296,3 +296,13 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 22:46:37 Server: Object 5:97 not found (message 91)
 22:46:37 Server: Object 5:99 not found (message 91)
 22:46:37 Server: Object 5:98 not found (message 99)
+22:49:45 "TIME SYNC: Local Time set to [2013,8,3,18,49]"
+22:51:23 "PDEATH: Player Died 235067846"
+22:51:47 "ERROR: server_playerSync: Cannot Sync Player Jason Bourne [377]. Position in debug! [-7239.67,19539.3,0.245728]"
+22:51:51 "get: STRING (235067846), sent: STRING (235067846)"
+22:51:51 "DISCONNECT: Jason Bourne (235067846) Object: B 1-1-B:1 (Jason Bourne) REMOTE, _characterID: 377 at loc [-7239.67,19539.3,0.245728]"
+22:51:51 "ERROR: server_playerSync: Cannot Sync Player Jason Bourne [377]. Position in debug! [-7239.67,19539.3,0.245728]"
+22:51:51 Client: Remote object 5:2 not found
+22:51:57 Warning: Cleanup player - person 5:124 not found
+22:54:45 "TIME SYNC: Local Time set to [2013,8,3,18,54]"
+22:55:47 "CLEANUP: Deleted 12 Loot Piles out of 21"
