@@ -695,3 +695,29 @@ g from [15098,8144,300] to [12721,8750.08] NOW!(TIME:14008||LT:HeliCrash_No50s)"
  7:07:09 "CRASHSPAWNER: Loot spawn at '[12725.5,8760.07,0]' with loot table 'HeliCrash_No50s'"
  7:07:09 "CRASHSPAWNER: Loot spawn at '[12729.4,8758.44,0]' with loot table 'HeliCrash_No50s'"
  7:07:09 "CRASHSPAWNER: Crash completed! Wreck at: [12720.4,8751.95,-0.00366354] - Runtime: 429 Seconds || Distance from calculated POC: 2 meters"
+ 7:09:25 "CLEANUP: Deleted 1 Loot Piles out of 84"
+ 7:10:14 "SAFE LOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
+ 7:10:17 "CRASHSPAWNER: UH-60M just exploded at [2024.3,12916,-0.481537]!, "
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2024.13,12920,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2027.33,12912.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2030.16,12916.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2029.37,12915.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2028.14,12911.2,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2017.88,12909.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2024.66,12920.8,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2030.26,12921.7,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2020.02,12908.9,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Loot spawn at '[2034.38,12913,0]' with loot table 'HeliCrash_No50s'"
+ 7:10:17 "CRASHSPAWNER: Crash completed! Wreck at: [2024.3,12916,-0.0466309] - Runtime: 6014 Seconds || Distance from calculated POC: 7606 meters"
+ 7:10:18 "TIME SYNC: Local Time set to [2013,8,3,21,10]"
+ 7:10:26 "CLEANUP: Deleted 2 Loot Piles out of 93"
+ 7:11:09 "get: STRING (255024710), sent: STRING (255024710)"
+ 7:11:09 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-C:1 (Bored Shorts) REMOTE, _characterID: 479 at loc [9477.04,14339.8,0.927078]"
+ 7:11:09 Client: Remote object 3:10 not found
+ 7:11:12 Warning: Cleanup player - person 3:9 not found
+ 7:15:01 "RUNNING EVENT: supply_drop on [2014,7,8,21,15]"
+ 7:15:18 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
+ 7:16:50 Server: Object 9:220 not found (message 99)
+ 7:16:50 Server: Object 9:221 not found (message 91)
+ 7:16:50 Server: Object 9:225 not found (message 91)
+ 7:16:50 Server: Object 9:224 not found (message 99)
