@@ -1007,3 +1007,25 @@ g from [6993.7,173.053,300] to [3783.98,10161.1] NOW!(TIME:12583||LT:HeliCrash_N
 12:17:18 "CRASHSPAWNER: Loot spawn at '[9594.5,13213.4,0]' with loot table 'HeliCrash_No50s'"
 12:17:18 "CRASHSPAWNER: Crash completed! Wreck at: [9590.1,13222,0.179977] - Runtime: 10022 Seconds || Distance from calculated POC: 4799 meters"
 12:17:21 "CLEANUP: Deleted 1 Loot Piles out of 104"
+12:18:22 "CLEANUP: Deleted 6 Loot Piles out of 118"
+12:19:12 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
+12:19:13 "CLEANUP: Deleted 4 Animals out of 48"
+12:21:58 "get: STRING (251481990), sent: STRING (251481990)"
+12:21:58 "DISCONNECT: =59=NimDlob (251481990) Object: B 1-1-H:1 (=59=NimDlob) REMOTE, _characterID: 489 at loc [13136,3829.58,0.00159836]"
+12:21:59 Client: Remote object 10:2 not found
+12:21:59 Client: Remote object 10:6 not found
+12:21:59 Client: Remote object 10:5 not found
+12:22:00 Warning: Cleanup player - person 10:7 not found
+12:22:04 "PDEATH: Player Died 258094598"
+12:22:07 "nil player object attempting PV, :["258094598","Administrator"]"
+12:22:07 "get: STRING (258094598), sent: STRING (258094598)"
+12:22:07 "DISCONNECT: Administrator (258094598) Object: B 1-1-D:1 (Administrator) REMOTE, _characterID: 488 at loc [4540.49,2367.89,0.00143862]"
+12:22:07 Client: Remote object 9:2 not found
+12:22:07 Client: Remote object 9:8 not found
+12:22:07 Client: Remote object 9:82 not found
+12:22:07 Client: Remote object 9:83 not found
+12:24:12 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
+12:27:23 "CLEANUP: Deleted 1 Loot Piles out of 158"
+12:27:43 Server: Object 4:2188 not found (message 91)
+12:27:47 "[DZMS]: Minor SM11 BRDM Crash Mission has Ended."
+12:27:48 "[DZMS]: Running Minor Mission SM4."
