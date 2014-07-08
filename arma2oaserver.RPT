@@ -1233,3 +1233,145 @@ g from [10450,-630,1000] to [8205.56,4938.1] NOW!(TIME:17973||LT:MilitarySpecial
 13:38:08 Server: Object 12:84 not found (message 91)
 13:38:08 Server: Object 12:85 not found (message 98)
 13:38:08 Server: Object 12:86 not found (message 91)
+13:39:12 "TIME SYNC: Local Time set to [2013,8,3,21,39]"
+13:39:36 "CLEANUP: Deleted 1 Loot Piles out of 335"
+13:39:50 Server: Object 14:190 not found (message 99)
+13:39:50 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:51 Server: Object 14:190 not found (message 99)
+13:39:57 "PDEATH: Player Died 198587654"
+13:40:20 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
+13:40:30 "ERROR: server_playerSync: Cannot Sync Player george [491]. Position in debug! [-7239.67,19539.3,0.245575]"
+13:40:32 "get: STRING (198587654), sent: STRING (198587654)"
+13:40:32 "DISCONNECT: george (198587654) Object: B 1-1-A:1 (george) REMOTE, _characterID: 491 at loc [-7239.67,19539.3,0.245575]"
+13:40:32 "ERROR: server_playerSync: Cannot Sync Player george [491]. Position in debug! [-7239.67,19539.3,0.245575]"
+13:40:32 Client: Remote object 13:2 not found
+13:40:32 Client: Remote object 2:6615 not found
+13:40:32 Client: Remote object 2:6614 not found
+13:41:51 "PDEATH: Player Died 251607750"
+13:42:11 Server: Object 14:233 not found (message 94)
+13:42:11 Server: Object 14:234 not found (message 94)
+13:42:25 "ERROR: server_playerSync: Cannot Sync Player mc.kuzi [487]. Position in debug! [-7239.67,19539.3,0.246155]"
+13:42:28 "get: STRING (251607750), sent: STRING (251607750)"
+13:42:28 "DISCONNECT: mc.kuzi (251607750) Object: B 1-1-A:1 (mc.kuzi) REMOTE, _characterID: 487 at loc [-7239.67,19539.3,0.246155]"
+13:42:28 "ERROR: server_playerSync: Cannot Sync Player mc.kuzi [487]. Position in debug! [-7239.67,19539.3,0.246155]"
+13:42:28 Client: Remote object 7:2160 not found
+13:42:28 Client: Remote object 7:2159 not found
+13:42:32 Server: Object 14:242 not found (message 99)
+13:42:32 Server: Object 14:242 not found (message 99)
+13:42:36 Server: Object 14:257 not found (message 91)
+13:42:36 Server: Object 14:256 not found (message 99)
+13:42:36 Server: Object 14:257 not found (message 91)
+13:42:36 Server: Object 14:256 not found (message 99)
+13:42:36 Server: Object 14:261 not found (message 91)
+13:42:36 Server: Object 14:260 not found (message 99)
+13:42:36 Server: Object 14:256 not found (message 99)
+13:42:36 Server: Object 14:260 not found (message 99)
+13:42:36 Server: Object 14:260 not found (message 99)
+13:42:36 Server: Object 14:256 not found (message 99)
+13:42:36 Server: Object 14:263 not found (message 91)
+13:42:36 Server: Object 14:262 not found (message 99)
+13:42:36 Server: Object 14:256 not found (message 99)
+13:42:36 Server: Object 14:260 not found (message 99)
+13:42:36 Server: Object 14:262 not found (message 99)
+13:42:36 Server: Object 14:256 not found (message 99)
+13:42:36 Server: Object 14:260 not found (message 99)
+13:42:36 Server: Object 14:256 not found (message 99)
+13:42:36 Server: Object 14:262 not found (message 99)
+13:42:36 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:262 not found (message 99)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:262 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:262 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:262 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:262 not found (message 99)
+13:42:37 Server: Object 14:261 not found (message 91)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 98)
+13:42:37 Server: Object 14:260 not found (message 98)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:261 not found (message 91)
+13:42:37 Server: Object 14:261 not found (message 91)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:256 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:42:37 Server: Object 14:260 not found (message 99)
+13:43:38 "CLEANUP: Deleted 1 Loot Piles out of 380"
+13:43:50 Server: Object 12:107 not found (message 99)
+13:43:50 Server: Object 12:108 not found (message 89)
+13:43:53 "get: STRING (251607750), sent: STRING (251607750)"
+13:43:53 "DISCONNECT: mc.kuzi (251607750) Object: B 1-1-D:1 (mc.kuzi) REMOTE, _characterID: 493 at loc [13439.9,5321.86,0.00166607]"
+13:43:54 Client: Remote object 7:2169 not found
+13:43:54 Client: Remote object 7:2168 not found
+13:43:54 Client: Object 13:116 (type Type_149) not found.
+13:43:54 Client: Object 3:1490 (type Type_149) not found.
+13:43:54 Client: Object 12:109 (type Type_149) not found.
+13:44:12 "TIME SYNC: Local Time set to [2013,8,3,21,44]"
+13:44:32 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+13:44:36 "CLEANUP: Deleted 1 Loot Piles out of 382"
+13:45:36 "CLEANUP: Deleted 1 Loot Piles out of 381"
+13:46:51 Server: Object 14:287 not found (message 99)
+13:46:51 Server: Object 14:287 not found (message 99)
+13:46:51 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:52 Server: Object 14:287 not found (message 99)
+13:46:53 Server: Object 14:292 not found (message 70)
+13:46:53 Server: Object 14:294 not found (message 70)
+13:46:53 Server: Object 14:291 not found (message 70)
+13:46:53 Server: Object 14:293 not found (message 70)
+13:46:53 Server: Object 14:289 not found (message 70)
+13:46:53 Server: Object 14:290 not found (message 70)
+13:46:53 Server: Object 14:301 not found (message 70)
+13:46:53 Server: Object 14:299 not found (message 70)
+13:46:53 Server: Object 14:302 not found (message 94)
+13:46:53 Server: Object 14:297 not found (message 70)
+13:46:53 Server: Object 14:296 not found (message 70)
+13:47:37 "CLEANUP: Deleted 6 Loot Piles out of 397"
+13:47:59 Server: Object 14:333 not found (message 94)
+13:47:59 Server: Object 14:332 not found (message 70)
+13:47:59 Server: Object 14:331 not found (message 94)
+13:47:59 Server: Object 14:330 not found (message 70)
+13:47:59 Server: Object 14:329 not found (message 94)
+13:48:04 Server: Object 13:132 not found (message 91)
+13:48:04 Server: Object 13:131 not found (message 99)
+13:48:07 Server: Object 14:362 not found (message 70)
+13:48:07 Server: Object 14:361 not found (message 94)
