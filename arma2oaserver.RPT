@@ -600,3 +600,47 @@ g from [15186,11857,300] to [5833.51,4348.88] NOW!(TIME:10413||LT:MilitarySpecia
  6:25:18 "CLEANUP: Deleted 2 Animals out of 20"
  6:25:24 "CLEANUP: Deleted 1 Loot Piles out of 57"
  6:27:24 "CLEANUP: Deleted 1 Loot Piles out of 56"
+ 6:30:08 "RUNNING EVENT: crash_spawner on [2014,7,8,20,30]"
+ 6:30:08 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Ural Wreck spawned at [12208,12297.2]"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12212,12297.1,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12204.3,12301.9,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12216.7,12299.3,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12210.9,12303.7,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12209.9,12300.9,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12214.3,12298.5,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12204.1,12302,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12201.6,12294.3,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12213.2,12303,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12204.5,12292.1,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12210.4,12302.5,0.0223694]' with loot table 'Military'"
+ 6:30:08 "CRASHSPAWNER: Loot spawn at '[12211.8,12301.2,0.0223694]' with loot table 'Military'"
+ 6:30:18 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
+ 6:35:18 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
+ 6:35:25 "[DZMS]: Major SM7 IKEA has Ended."
+ 6:35:25 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 6:35:25   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+ 6:35:25   Error Undefined variable in expression: _vehicle1
+ 6:35:25 File z\addons\dayz_server\EMS\Missions\Major\SM7.sqf, line 46
+ 6:35:26 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+ 6:35:26   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+ 6:35:26   Error Undefined variable in expression: _object
+ 6:35:26 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+ 6:36:04 "[DZMS]: Running Major Mission SM12."
+ 6:37:23 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 6:37:55 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 6:38:17 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
