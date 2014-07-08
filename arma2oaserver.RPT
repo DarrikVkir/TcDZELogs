@@ -786,3 +786,27 @@ if(DZE_DeathMsgSide) then {
 11:17:51 "CRASHSPAWNER: Loot spawn at '[9388.23,15303.7,0]' with loot table 'HeliCrash_No50s'"
 11:17:51 "CRASHSPAWNER: Crash completed! Wreck at: [9389.94,15309,0.294525] - Runtime: 10011 Seconds || Distance from calculated POC: 40 meters"
 11:18:06 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a 20Rnd_762x51_B_SCAR in/at Stary for 2x ItemGoldBar"
+11:18:24 "CLEANUP: Deleted 4 Loot Piles out of 231"
+11:19:11 "TIME SYNC: Local Time set to [2013,8,3,19,19]"
+11:19:24 "CLEANUP: Deleted 1 Loot Piles out of 238"
+11:19:40 Server: Object 5:815 not found (message 99)
+11:19:52 Server: Object 5:796 not found (message 99)
+11:20:10 Server: Object 8:78 not found (message 91)
+11:20:25 "CLEANUP: Deleted 1 Loot Piles out of 240"
+11:22:11 Server: Object 8:93 not found (message 94)
+11:22:26 "CLEANUP: Deleted 2 Loot Piles out of 289"
+11:22:37 Server: Object 8:95 not found (message 94)
+11:22:37 Server: Object 8:96 not found (message 94)
+11:23:18 Server: Object 8:141 not found (message 94)
+11:23:18 Server: Object 8:142 not found (message 98)
+11:23:18 Server: Object 8:143 not found (message 91)
+11:23:18 Server: Object 8:144 not found (message 99)
+11:23:18 Server: Object 8:145 not found (message 91)
+11:23:27 "CLEANUP: Deleted 1 Loot Piles out of 313"
+11:24:11 "Purging player: 2f3fa040# 1061200: man_survivor.p3d"
+11:24:11 "CLEANUP: Deleted 1 players and 0 zombies out of 7 dead"
+11:24:11 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
+11:24:30 "CLEANUP: Deleted 12 Loot Piles out of 339"
+11:25:33 "CLEANUP: Deleted 3 Loot Piles out of 422"
+11:26:34 "CLEANUP: Deleted 33 Loot Piles out of 419"
+11:27:32 "CLEANUP: Deleted 12 Loot Piles out of 386"
