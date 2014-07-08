@@ -1073,3 +1073,25 @@ g from [1623.71,218.188,300] to [1300.14,4123.18] NOW!(TIME:14377||LT:MilitarySp
 12:44:26 "CLEANUP: Deleted 33 Loot Piles out of 196"
 12:46:23 Server: Object 5:1278 not found (message 98)
 12:46:23 Server: Object 5:1279 not found (message 91)
+12:49:12 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+12:49:12 "CLEANUP: Deleted 1 Animals out of 48"
+12:49:16 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a HMMWV_M1151_M2_CZ_DES_EP1_DZE in/at Hero Trader for 4x ItemBriefcase100oz"
+12:49:17 "PUBLISH: Attempt 3b00c800# 1070351: arrow_down_large_ep1.p3d REMOTE"
+12:49:17 "HIVE: WRITE: "CHILD:308:3195:HMMWV_M1151_M2_CZ_DES_EP1_DZE:0:7652:[148,[12915.7,12760.7,0.00296021]]:[]:[]:1:129157127607015678:""
+12:49:18 "HIVE: WRITE: "CHILD:388:129157127607015678:""
+12:49:18 "CUSTOM: Selected "5083""
+12:49:18 "PUBLISH: B 1-1-C:1 (telconrar) REMOTE Bought HMMWV_M1151_M2_CZ_DES_EP1_DZE with ID "129157127607015678""
+12:49:25 "CLEANUP: Deleted 24 Loot Piles out of 169"
+12:49:58 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a 100Rnd_127x99_M2 in/at Hero Trader for 1x ItemGoldBar10oz"
+12:50:00 Client: Object 5:1299 (type Type_69) not found.
+12:50:00 Client: Object 5:1299 (type Type_70) not found.
+12:50:07 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a 100Rnd_127x99_M2 in/at Hero Trader for 1x ItemGoldBar10oz"
+12:50:25 "CLEANUP: Deleted 31 Loot Piles out of 151"
+12:52:23 "CLEANUP: Deleted 2 Loot Piles out of 132"
+12:53:23 "CLEANUP: Deleted 2 Loot Piles out of 142"
+12:54:12 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+12:54:24 "CLEANUP: Deleted 1 Loot Piles out of 152"
+12:55:25 "CLEANUP: Deleted 1 Loot Piles out of 175"
+12:56:26 "CLEANUP: Deleted 1 Loot Piles out of 206"
+12:57:18 "ERROR: server_playerSync: Cannot Sync Player mc.kuzi [487]. Position in debug! [-7244.68,19534.9,1.05643]"
+12:57:18 "TELEPORT REVERT for player UID#251607750 from [10480.7,2365.86,0.353242] to [-7244.63,19534.7,1.07065], 24680 meters, now at [10480.7,2365.86,0.353242]"
