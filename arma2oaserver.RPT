@@ -593,3 +593,11 @@ g from [10450,-630,1000] to [10271.7,8132.82] NOW!(TIME:16150||LT:MilitarySpecia
 g from [6986,-630,1000] to [1290.88,14796.1] NOW!(TIME:17952||LT:HeliCrash_No50s)"
  2:02:49 "CLEANUP: Deleted 5 Loot Piles out of 83"
  2:04:40 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
+ 2:09:27 "get: STRING (255024710), sent: STRING (255024710)"
+ 2:09:27 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-B:1 (Bored Shorts) REMOTE, _characterID: 479 at loc [9478.76,14341.5,0.566833]"
+ 2:09:27 Client: Remote object 4:514 not found
+ 2:09:27 Client: Remote object 4:513 not found
+ 2:09:28 Warning: Cleanup player - person 4:515 not found
+ 2:09:40 "TIME SYNC: Local Time set to [2013,8,3,22,9]"
+ 2:14:40 "TIME SYNC: Local Time set to [2013,8,3,22,14]"
+ 2:15:05 "RUNNING EVENT: supply_drop on [2014,7,7,22,15]"
