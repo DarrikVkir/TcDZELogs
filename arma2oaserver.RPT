@@ -1184,3 +1184,52 @@ g from [1623.71,218.188,300] to [1300.14,4123.18] NOW!(TIME:14377||LT:MilitarySp
 13:26:29 "CLEANUP: Deleted 6 Loot Piles out of 251"
 13:26:56 "SAFE UNLOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
 13:27:28 "CLEANUP: Deleted 1 Loot Piles out of 251"
+13:29:12 "TIME SYNC: Local Time set to [2013,8,3,21,29]"
+13:29:17 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+13:29:17 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+13:29:30 "CLEANUP: Deleted 2 Loot Piles out of 274"
+13:30:01 "RUNNING EVENT: crash_spawner on [2014,7,8,21,30]"
+13:30:01 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+13:30:01 "CRASHSPAWNER: MV-22 started
+
+g from [10450,-630,1000] to [8205.56,4938.1] NOW!(TIME:17973||LT:MilitarySpecial)"
+13:30:32 "CLEANUP: Deleted 52 Loot Piles out of 273"
+13:32:15 Server: Object 7:2037 not found (message 99)
+13:32:15 Server: Object 7:2038 not found (message 91)
+13:32:20 Server: Object 7:1830 not found (message 70)
+13:32:30 "CLEANUP: Deleted 16 Loot Piles out of 238"
+13:33:27 "CRASHSPAWNER: MV-22 just exploded at [8173.83,5175.31,4.76248]!, "
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8172.22,5178.98,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8178.73,5169.29,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8168.03,5168.87,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8175.64,5180.92,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8173.88,5170.68,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8179.97,5176.7,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8172.1,5183.72,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8163.99,5181.76,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8169.73,5171.43,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Loot spawn at '[8164.4,5177.06,0]' with loot table 'MilitarySpecial'"
+13:33:27 "CRASHSPAWNER: Crash completed! Wreck at: [8173.63,5175.28,-0.0798798] - Runtime: 206 Seconds || Distance from calculated POC: 239 meters"
+13:33:31 "CLEANUP: Deleted 12 Loot Piles out of 243"
+13:33:35 Server: Object 2:6623 not found (message 221)
+13:33:35 Server: Object 2:6623 not found (message 221)
+13:34:12 "TIME SYNC: Local Time set to [2013,8,3,21,34]"
+13:34:16 "CLEANUP: Deleted 21 Animals out of 74"
+13:34:39 "CLEANUP: Deleted 70 Loot Piles out of 345"
+13:36:27 Server: Object 14:148 not found (message 99)
+13:36:34 Server: Object 14:159 not found (message 99)
+13:36:34 Server: Object 14:159 not found (message 99)
+13:36:34 Server: Object 14:159 not found (message 99)
+13:36:34 Server: Object 14:159 not found (message 99)
+13:36:34 Server: Object 14:159 not found (message 99)
+13:36:34 Server: Object 14:159 not found (message 99)
+13:36:35 Server: Object 14:159 not found (message 99)
+13:36:35 Server: Object 14:159 not found (message 99)
+13:36:35 Server: Object 14:159 not found (message 99)
+13:38:07 Server: Object 12:76 not found (message 91)
+13:38:08 Server: Object 12:82 not found (message 91)
+13:38:08 Server: Object 12:81 not found (message 99)
+13:38:08 Server: Object 12:83 not found (message 98)
+13:38:08 Server: Object 12:84 not found (message 91)
+13:38:08 Server: Object 12:85 not found (message 98)
+13:38:08 Server: Object 12:86 not found (message 91)
