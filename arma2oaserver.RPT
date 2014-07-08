@@ -1095,3 +1095,34 @@ g from [1623.71,218.188,300] to [1300.14,4123.18] NOW!(TIME:14377||LT:MilitarySp
 12:56:26 "CLEANUP: Deleted 1 Loot Piles out of 206"
 12:57:18 "ERROR: server_playerSync: Cannot Sync Player mc.kuzi [487]. Position in debug! [-7244.68,19534.9,1.05643]"
 12:57:18 "TELEPORT REVERT for player UID#251607750 from [10480.7,2365.86,0.353242] to [-7244.63,19534.7,1.07065], 24680 meters, now at [10480.7,2365.86,0.353242]"
+12:58:28 "CLEANUP: Deleted 1 Loot Piles out of 275"
+12:59:12 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+12:59:29 "CLEANUP: Deleted 13 Loot Piles out of 279"
+13:00:07 "RUNNING EVENT: crash_spawner on [2014,7,8,21,0]"
+13:00:07 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Ural Wreck spawned at [14600.5,15403.3]"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14598.6,15406.8,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14596.2,15403.2,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14598.2,15410.8,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14606.1,15408.2,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14592.6,15399.7,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14606.1,15407.8,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14594.6,15396,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14603,15409.3,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14604,15399.9,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14599.7,15397.4,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14600.5,15412.1,0.0905609]' with loot table 'Military'"
+13:00:07 "CRASHSPAWNER: Loot spawn at '[14607.1,15405.4,0.0905609]' with loot table 'Military'"
+13:00:29 "CLEANUP: Deleted 3 Loot Piles out of 278"
+13:01:07 Server: Object 3:1259 not found (message 91)
+13:01:07 Server: Object 3:1261 not found (message 91)
+13:01:07 Server: Object 3:1260 not found (message 99)
+13:01:08 Server: Object 3:1266 not found (message 98)
+13:01:08 Server: Object 3:1267 not found (message 91)
+13:02:29 "CLEANUP: Deleted 2 Loot Piles out of 276"
+13:03:19 Server: Object 5:1366 not found (message 91)
+13:03:19 Server: Object 5:1365 not found (message 99)
+13:03:29 "CLEANUP: Deleted 16 Loot Piles out of 280"
+13:04:12 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+13:04:28 "CLEANUP: Deleted 1 Loot Piles out of 267"
+13:07:17 "[DZMS]: Major SM10 UH1H Mission has Ended."
