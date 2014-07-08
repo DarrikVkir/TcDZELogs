@@ -580,3 +580,13 @@ g from [1623.71,218.188,300] to [8808.31,9478.52] NOW!(TIME:8612||LT:HeliCrash_N
  5:56:33 "EPOCH SERVERTRADE: Player: Bored Shorts (255024710) sold a 17Rnd_9x19_glock17 in/at Klen for 5x ItemSilverBar"
  5:56:41 "EPOCH SERVERTRADE: Player: Bored Shorts (255024710) sold a 17Rnd_9x19_glock17 in/at Klen for 5x ItemSilverBar"
  5:56:49 "EPOCH SERVERTRADE: Player: Bored Shorts (255024710) sold a 17Rnd_9x19_glock17 in/at Klen for 5x ItemSilverBar"
+ 6:00:05 "RUNNING EVENT: crash_spawner on [2014,7,8,20,0]"
+ 6:00:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+ 6:00:05 "CRASHSPAWNER: Mi-24D started
+
+g from [15186,11857,300] to [5833.51,4348.88] NOW!(TIME:10413||LT:MilitarySpecial)"
+ 6:00:18 "Purging player: 318e0080# 1075848: man_survivor.p3d"
+ 6:00:18 "CLEANUP: Deleted 1 players and 0 zombies out of 4 dead"
+ 6:00:18 "TIME SYNC: Local Time set to [2013,8,3,20,0]"
+ 6:03:23 "CLEANUP: Deleted 12 Loot Piles out of 68"
+ 6:05:18 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
