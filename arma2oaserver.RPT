@@ -590,3 +590,7 @@ g from [15186,11857,300] to [5833.51,4348.88] NOW!(TIME:10413||LT:MilitarySpecia
  6:00:18 "TIME SYNC: Local Time set to [2013,8,3,20,0]"
  6:03:23 "CLEANUP: Deleted 12 Loot Piles out of 68"
  6:05:18 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
+ 6:09:31 Server: Object 3:1358 not found (message 99)
+ 6:10:18 "TIME SYNC: Local Time set to [2013,8,3,20,10]"
+ 6:15:07 "RUNNING EVENT: supply_drop on [2014,7,8,20,15]"
+ 6:15:18 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
