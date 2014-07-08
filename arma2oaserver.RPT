@@ -293,3 +293,9 @@ g from [15098,8144,300] to [9361.55,15282.7] NOW!(TIME:35||LT:HeliCrash_No50s)"
  8:38:06 "HIVE: WRITE: "CHILD:388:1145551134120611:""
  8:38:06 "CUSTOM: Selected "5076""
  8:38:06 "PUBLISH: B 1-1-C:1 (telconrar) REMOTE Bought MMT_Civ with ID "1145551134120611""
+ 8:39:10 "TIME SYNC: Local Time set to [2013,8,3,16,39]"
+ 8:43:14 Server: Object 4:196 not found (message 91)
+ 8:43:14 Server: Object 4:195 not found (message 98)
+ 8:43:52 Server: Object 4:199 not found (message 98)
+ 8:43:52 Server: Object 4:200 not found (message 91)
+ 8:44:10 "TIME SYNC: Local Time set to [2013,8,3,16,44]"
