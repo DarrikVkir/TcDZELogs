@@ -310,3 +310,20 @@ g from [15098,8144,300] to [9361.55,15282.7] NOW!(TIME:35||LT:HeliCrash_No50s)"
  8:55:16 "CLEANUP: Deleted 2 Loot Piles out of 229"
  8:56:16 "CLEANUP: Deleted 16 Loot Piles out of 229"
  8:58:17 Unit 3:340 not found, cannot update
+ 8:59:10 "TIME SYNC: Local Time set to [2013,8,3,16,59]"
+ 8:59:28 Server: Object 4:393 not found (message 94)
+ 8:59:28 Server: Object 4:394 not found (message 94)
+ 9:00:06 "RUNNING EVENT: crash_spawner on [2014,7,8,17,0]"
+ 9:00:06 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 9:00:06 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [7414.26,12291.1] NOW!(TIME:1787||LT:MilitarySpecial)"
+ 9:00:48 "SAFE UNLOCKED: ID:4696 UID:0 BY Marek(199810246)"
+ 9:01:18 "CLEANUP: Deleted 1 Loot Piles out of 303"
+ 9:02:47 "SAFE LOCKED: ID:4696 UID:0 BY Marek(199810246)"
+ 9:03:57 "SAFE UNLOCKED: ID:4483 UID:0 BY Marek(199810246)"
+ 9:04:10 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
+ 9:05:22 "SAFE LOCKED: ID:4483 UID:0 BY Marek(199810246)"
+ 9:06:20 "CLEANUP: Deleted 23 Loot Piles out of 328"
+ 9:07:19 "CLEANUP: Deleted 17 Loot Piles out of 310"
+ 9:08:19 "CLEANUP: Deleted 5 Loot Piles out of 296"
