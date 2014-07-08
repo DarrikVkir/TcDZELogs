@@ -708,3 +708,81 @@ if(DZE_DeathMsgSide) then {
 11:05:39 Server: Object 4:1652 not found (message 70)
 11:06:20 "CLEANUP: Deleted 6 Loot Piles out of 164"
 11:07:23 "CLEANUP: Deleted 37 Loot Piles out of 170"
+11:08:21 "CLEANUP: Deleted 19 Loot Piles out of 161"
+11:08:36 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a G36A_camo in/at Stary for 3x ItemGoldBar"
+11:08:50 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+11:08:58 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Sa58V_CCO_EP1 in/at Stary for 4x ItemGoldBar"
+11:09:11 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+11:09:14 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36A_camo in/at Stary for 3x ItemGoldBar"
+11:09:20 "CLEANUP: Deleted 1 Loot Piles out of 147"
+11:09:20 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Pecheneg_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:09:27 "CRASHSPAWNER: UH-60M just exploded at [10731.8,8491.67,1.87408]!, "
+11:09:27 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+11:09:27 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+11:09:27 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10732.7,8495.56,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10726.7,8489.11,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10724.6,8485.3,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10733,8497.02,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10732.5,8484,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10728,8493.63,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10737.6,8489.43,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10738.9,8484.76,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Loot spawn at '[10732.3,8485.01,0]' with loot table 'HeliCrash_No50s'"
+11:09:27 "CRASHSPAWNER: Crash completed! Wreck at: [10731.8,8491.67,-0.0612793] - Runtime: 557 Seconds || Distance from calculated POC: 70 meters"
+11:09:38 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36C_camo in/at Stary for 3x ItemGoldBar"
+11:09:40 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Pecheneg_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:09:59 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Pecheneg_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:10:12 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36K_camo in/at Stary for 3x ItemGoldBar"
+11:10:13 Server: Object 5:768 not found (message 98)
+11:10:13 Server: Object 5:769 not found (message 91)
+11:10:13 Server: Object 5:772 not found (message 99)
+11:10:13 Server: Object 5:773 not found (message 91)
+11:10:19 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Pecheneg_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:10:21 "CLEANUP: Deleted 11 Loot Piles out of 172"
+11:10:36 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+11:10:39 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
+11:11:20 "CLEANUP: Deleted 3 Loot Piles out of 163"
+11:11:33 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M249_m145_EP1_DZE in/at Stary for 1x ItemGoldBar10oz"
+11:11:55 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a MG36 in/at Stary for 6x ItemGoldBar"
+11:12:21 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
+11:12:22 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a Pecheneg_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:12:42 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
+11:12:52 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a Pecheneg_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:13:07 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a M40A3 in/at Stary for 6x ItemGoldBar"
+11:13:21 "CLEANUP: Deleted 3 Loot Piles out of 168"
+11:13:30 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:13:51 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
+11:13:57 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+11:14:07 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+11:14:11 "TIME SYNC: Local Time set to [2013,8,3,19,14]"
+11:14:20 "CLEANUP: Deleted 1 Loot Piles out of 168"
+11:14:59 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartEngine in/at Stary for 5x ItemGoldBar"
+11:15:02 "RUNNING EVENT: supply_drop on [2014,7,8,19,15]"
+11:15:22 "CLEANUP: Deleted 2 Loot Piles out of 178"
+11:16:21 "CLEANUP: Deleted 3 Loot Piles out of 187"
+11:17:01 Server: Object 8:26 not found (message 94)
+11:17:01 Server: Object 8:27 not found (message 94)
+11:17:02 "EPOCH SERVERTRADE: Player: Marek (199810246) sold a bizon in/at Stary for 5x ItemGoldBar"
+11:17:09 Server: Object 5:816 not found (message 91)
+11:17:09 Server: Object 5:815 not found (message 99)
+11:17:09 Server: Object 5:817 not found (message 98)
+11:17:09 Server: Object 5:818 not found (message 91)
+11:17:19 Server: Object 4:1753 not found (message 99)
+11:17:19 Server: Object 4:1754 not found (message 91)
+11:17:23 "CLEANUP: Deleted 1 Loot Piles out of 201"
+11:17:33 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a SCAR_H_STD_EGLM_Spect in/at Stary for 1x ItemGoldBar10oz"
+11:17:51 "CRASHSPAWNER: UH-1H just exploded at [9389.93,15309,5.71317]!, "
+11:17:51 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+11:17:51 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+11:17:51 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9391.32,15312.8,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9385.33,15313.8,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9390.36,15298.9,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9379.48,15313.4,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9396.44,15315.1,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9394.17,15306.5,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9385.54,15311.7,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Loot spawn at '[9388.23,15303.7,0]' with loot table 'HeliCrash_No50s'"
+11:17:51 "CRASHSPAWNER: Crash completed! Wreck at: [9389.94,15309,0.294525] - Runtime: 10011 Seconds || Distance from calculated POC: 40 meters"
+11:18:06 "EPOCH SERVERTRADE: Player: Marek (199810246) bought a 20Rnd_762x51_B_SCAR in/at Stary for 2x ItemGoldBar"
