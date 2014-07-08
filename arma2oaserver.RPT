@@ -425,3 +425,9 @@ g from [15098,8144,300] to [2008.99,12909.1] NOW!(TIME:3915||LT:MilitarySpecial)
 15:37:35 Server: Object 5:229 not found (message 94)
 15:37:35 Server: Object 5:230 not found (message 94)
 15:37:35 Server: Object 5:232 not found (message 94)
+15:38:43 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
+15:43:43 "TIME SYNC: Local Time set to [2013,8,3,17,43]"
+15:45:07 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+15:46:01 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+15:47:18 "MAINTAIN AREA BY telconrar - 56 Objects at [8928.44,9211.19,0.00146484]"
+15:48:03 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
