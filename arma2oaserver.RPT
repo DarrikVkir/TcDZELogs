@@ -251,3 +251,6 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  3:07:56 "[DZMS]: Mission Marker Loop for JIPs Starting!"
  3:08:03 "[DZMS]: Running Major Mission SM7."
  3:08:21 "[DZMS]: Running Minor Mission SM12."
+ 3:10:17 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 3:15:08 "RUNNING EVENT: supply_drop on [2014,7,8,17,15]"
+ 3:15:17 "TIME SYNC: Local Time set to [2013,8,3,17,15]"
