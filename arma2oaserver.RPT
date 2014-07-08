@@ -565,3 +565,22 @@ g from [15098,8144,300] to [2022.07,7436.54] NOW!(TIME:5381||LT:MilitarySpecial)
 10:05:18 "CLEANUP: Deleted 1 Loot Piles out of 183"
 10:06:18 "CLEANUP: Deleted 19 Loot Piles out of 184"
 10:07:17 "CLEANUP: Deleted 10 Loot Piles out of 165"
+10:09:11 "TIME SYNC: Local Time set to [2013,8,3,18,9]"
+10:10:18 "CLEANUP: Deleted 2 Loot Piles out of 188"
+10:11:09 Server: Object 5:552 not found (message 99)
+10:11:09 Server: Object 5:553 not found (message 91)
+10:11:09 Server: Object 5:555 not found (message 91)
+10:11:09 Server: Object 5:554 not found (message 99)
+10:11:09 Server: Object 5:559 not found (message 91)
+10:11:09 Server: Object 5:558 not found (message 99)
+10:11:09 Server: Object 5:561 not found (message 91)
+10:11:09 Server: Object 5:560 not found (message 99)
+10:12:18 "CLEANUP: Deleted 5 Loot Piles out of 203"
+10:13:20 "CLEANUP: Deleted 71 Loot Piles out of 198"
+10:14:11 "Purging player: 321d0080# 1062867: ghillie_overall.p3d"
+10:14:11 "TIME SYNC: Local Time set to [2013,8,3,18,14]"
+10:14:11 "CLEANUP: Deleted 1 players and 0 zombies out of 16 dead"
+10:14:16 "CLEANUP: Deleted 2 Loot Piles out of 127"
+10:14:24 "TELEPORT REVERT for player UID#199810246 from [7482.81,5265.75,0.00115967] to [-7246.1,19534.8,1.20602], 20508 meters, now at [7482.81,5265.75,0.00115967]"
+10:15:04 "RUNNING EVENT: supply_drop on [2014,7,8,18,15]"
+10:18:16 "CLEANUP: Deleted 1 Loot Piles out of 126"
