@@ -327,3 +327,44 @@ g from [1623.71,218.188,300] to [12888.1,11797] NOW!(TIME:312||LT:MilitarySpecia
 14:48:43 "TIME SYNC: Local Time set to [2013,8,3,16,48]"
 14:49:47 "CLEANUP: Deleted 57 Loot Piles out of 75"
 14:53:43 "TIME SYNC: Local Time set to [2013,8,3,16,53]"
+14:58:43 "TIME SYNC: Local Time set to [2013,8,3,16,58]"
+15:00:05 "RUNNING EVENT: crash_spawner on [2014,7,8,17,0]"
+15:00:05 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+15:00:05 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [5786.88,7677.75] NOW!(TIME:2113||LT:MilitarySpecial)"
+15:00:27 "[DZMS]: Major SM6 IKEA Truck Mission has Ended."
+15:00:27 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+15:00:27   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+15:00:27   Error Undefined variable in expression: _vehicle1
+15:00:27 File z\addons\dayz_server\EMS\Missions\Major\SM6.sqf, line 46
+15:00:27 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+15:00:27   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+15:00:27   Error Undefined variable in expression: _object
+15:00:27 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+15:00:32 "[DZMS]: Running Major Mission SM9."
+15:03:43 "TIME SYNC: Local Time set to [2013,8,3,17,3]"
+15:05:44 "CLEANUP: Deleted 1 Loot Piles out of 30"
+15:05:58 Server: Object 6:157 not found (message 91)
+15:05:58 Server: Object 6:156 not found (message 98)
+15:06:27 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartGeneric in/at Stary for 2x ItemGoldBar"
+15:06:35 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartGeneric in/at Stary for 2x ItemGoldBar"
+15:07:10 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+15:07:19 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+15:07:27 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+15:07:36 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartWheel in/at Stary for 2x ItemGoldBar"
+15:08:06 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a PartEngine in/at Stary for 5x ItemGoldBar"
