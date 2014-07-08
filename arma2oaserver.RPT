@@ -727,3 +727,13 @@ g from [15098,8144,300] to [12721,8750.08] NOW!(TIME:14008||LT:HeliCrash_No50s)"
  7:26:27 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
  7:26:43 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
  7:27:45 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+ 7:29:30 "CLEANUP: Deleted 2 Loot Piles out of 256"
+ 7:30:02 "RUNNING EVENT: crash_spawner on [2014,7,8,21,30]"
+ 7:30:02 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 7:30:02 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [12362.8,8454.58] NOW!(TIME:15810||LT:HeliCrash_No50s)"
+ 7:30:19 "TIME SYNC: Local Time set to [2013,8,3,21,30]"
+ 7:30:38 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+ 7:34:31 "CLEANUP: Deleted 1 Loot Piles out of 261"
+ 7:35:19 "TIME SYNC: Local Time set to [2013,8,3,21,35]"
