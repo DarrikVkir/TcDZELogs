@@ -1452,3 +1452,38 @@ g from [10450,-630,1000] to [8205.56,4938.1] NOW!(TIME:17973||LT:MilitarySpecial
 13:57:58 Server: Object 14:812 not found (message 94)
 13:57:58 Server: Object 14:811 not found (message 70)
 13:58:01 Server: Object 14:818 not found (message 94)
+13:58:37 "CLEANUP: Deleted 10 Loot Piles out of 587"
+13:59:12 "TIME SYNC: Local Time set to [2013,8,3,21,59]"
+13:59:36 "CLEANUP: Deleted 11 Loot Piles out of 578"
+14:00:06 "RUNNING EVENT: crash_spawner on [2014,7,8,22,0]"
+14:00:06 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Ural Wreck spawned at [5237.24,3528.26]"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5233.75,3530.21,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5244.06,3531.07,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5243.74,3536.46,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5229.82,3531.27,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5242.03,3521.37,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5229.04,3522.14,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5234.44,3537.68,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5231.02,3527.25,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5245.23,3530.1,0.0185242]' with loot table 'Military'"
+14:00:06 "CRASHSPAWNER: Loot spawn at '[5245.08,3533.81,0.0185242]' with loot table 'Military'"
+14:00:37 "CLEANUP: Deleted 13 Loot Piles out of 577"
+14:01:36 "CLEANUP: Deleted 5 Loot Piles out of 565"
+14:02:36 "CLEANUP: Deleted 29 Loot Piles out of 561"
+14:02:59 "get: STRING (248630214), sent: STRING (248630214)"
+14:02:59 "DISCONNECT: Jayden (248630214) Object: B 1-1-A:1 (Jayden) REMOTE, _characterID: 486 at loc [7043.81,2812.62,0.00143862]"
+14:02:59 Client: Remote object 14:2 not found
+14:02:59 Client: Remote object 14:852 not found
+14:03:18 "SAFE LOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
+14:03:33 "CLEANUP: Deleted 14 Loot Piles out of 514"
+14:04:12 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
+14:04:13 "CLEANUP: Deleted 22 Animals out of 35"
+14:05:13 "get: STRING (255024710), sent: STRING (255024710)"
+14:05:13 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-E:1 (Bored Shorts) REMOTE, _characterID: 485 at loc [9478.83,14342.3,0.473999]"
+14:05:13 Client: Remote object 4:1549 not found
+14:05:13 Client: Remote object 4:1548 not found
+14:05:31 "CLEANUP: Deleted 1 Loot Piles out of 488"
+14:05:32 Warning: Cleanup player - person 4:1550 not found
+14:06:31 "CLEANUP: Deleted 1 Loot Piles out of 487"
+14:07:31 "CLEANUP: Deleted 13 Loot Piles out of 486"
