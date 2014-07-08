@@ -459,3 +459,8 @@ g from [1623.71,218.188,300] to [11674.1,12547.6] NOW!(TIME:5017||LT:MilitarySpe
  4:35:56 "CRASHSPAWNER: Crash completed! Wreck at: [11426.2,12572.9,-0.00604248] - Runtime: 349 Seconds || Distance from calculated POC: 250 meters"
  4:36:27 "CLEANUP: Deleted 1 Loot Piles out of 313"
  4:37:28 "CLEANUP: Deleted 3 Loot Piles out of 315"
+ 4:38:28 "CLEANUP: Deleted 4 Loot Piles out of 317"
+ 4:40:18 "TIME SYNC: Local Time set to [2013,8,3,18,40]"
+ 4:42:29 "CLEANUP: Deleted 22 Loot Piles out of 340"
+ 4:45:18 "TIME SYNC: Local Time set to [2013,8,3,18,45]"
+ 4:45:46 "DELETE: B 1-1-D:1 (BluntScopes) REMOTE Deleted by UID: 0"
