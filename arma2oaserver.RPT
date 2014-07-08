@@ -667,3 +667,31 @@ _pos = g>
  6:55:55 "DELETE: B 1-1-B:1 (telconrar) REMOTE Deleted by ID: 5027"
  6:55:55 "PUBLISH: B 1-1-B:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89326920123383""
  6:57:17 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 6:59:07 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+ 6:59:19 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+ 6:59:33 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+ 7:00:00 "RUNNING EVENT: crash_spawner on [2014,7,8,21,0]"
+ 7:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 7:00:00 "CRASHSPAWNER: UH-1H started
+
+g from [15098,8144,300] to [12721,8750.08] NOW!(TIME:14008||LT:HeliCrash_No50s)"
+ 7:00:18 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
+ 7:01:30 "CLEANUP: Deleted 84 Loot Piles out of 159"
+ 7:03:25 "CLEANUP: Deleted 3 Loot Piles out of 75"
+ 7:05:18 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
+ 7:05:25 "CLEANUP: Deleted 1 Loot Piles out of 74"
+ 7:05:55 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+ 7:07:09 "CRASHSPAWNER: UH-1H just exploded at [12720.4,8751.95,1.11802]!, "
+ 7:07:09 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 7:07:09 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 7:07:09 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12721,8755.91,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12726.3,8750.01,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12723.1,8755.22,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12720,8746.33,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12721.9,8744.19,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12719.8,8746.86,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12720.9,8758.57,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12725.5,8760.07,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Loot spawn at '[12729.4,8758.44,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:09 "CRASHSPAWNER: Crash completed! Wreck at: [12720.4,8751.95,-0.00366354] - Runtime: 429 Seconds || Distance from calculated POC: 2 meters"
