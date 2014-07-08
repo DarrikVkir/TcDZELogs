@@ -348,3 +348,39 @@ g from [15186,11857,300] to [7648.07,15380] NOW!(TIME:1413||LT:HeliCrash_No50s)"
  3:45:17 "TIME SYNC: Local Time set to [2013,8,3,17,45]"
  3:47:22 "CLEANUP: Deleted 1 Loot Piles out of 165"
  3:48:22 "CLEANUP: Deleted 1 Loot Piles out of 166"
+ 3:48:47 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 3:50:17 "TIME SYNC: Local Time set to [2013,8,3,17,50]"
+ 3:51:23 "CLEANUP: Deleted 1 Loot Piles out of 192"
+ 3:52:25 "CLEANUP: Deleted 51 Loot Piles out of 195"
+ 3:54:24 "CLEANUP: Deleted 44 Loot Piles out of 153"
+ 3:55:17 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
+ 3:55:21 "CLEANUP: Deleted 3 Loot Piles out of 109"
+ 3:56:05 Server: Object 3:518 not found (message 70)
+ 3:56:05 Server: Object 3:517 not found (message 94)
+ 3:56:05 Server: Object 3:514 not found (message 94)
+ 3:56:05 Server: Object 3:515 not found (message 94)
+ 3:56:05 Server: Object 3:516 not found (message 94)
+ 3:56:06 Server: Object 3:547 not found (message 70)
+ 3:56:06 Server: Object 3:551 not found (message 70)
+ 3:56:06 Server: Object 3:550 not found (message 94)
+ 3:56:06 Server: Object 3:548 not found (message 70)
+ 3:56:06 Server: Object 3:556 not found (message 70)
+ 3:56:06 Server: Object 3:555 not found (message 70)
+ 3:56:06 Server: Object 3:557 not found (message 70)
+ 3:56:06 Server: Object 3:554 not found (message 70)
+ 3:56:06 Server: Object 3:553 not found (message 94)
+ 3:56:06 Server: Object 3:549 not found (message 94)
+ 3:56:06 Server: Object 3:552 not found (message 94)
+ 3:56:06 Server: Object 3:558 not found (message 94)
+ 3:56:06 Server: Object 3:561 not found (message 70)
+ 3:56:06 Server: Object 3:559 not found (message 94)
+ 3:56:06 Server: Object 3:560 not found (message 94)
+ 3:56:14 Server: Object 3:573 not found (message 94)
+ 3:56:14 Server: Object 3:574 not found (message 94)
+ 3:56:14 Server: Object 3:575 not found (message 94)
+ 3:56:14 Server: Object 3:576 not found (message 94)
+ 3:56:14 Server: Object 3:590 not found (message 91)
+ 3:56:14 Server: Object 3:589 not found (message 99)
+ 3:56:14 Server: Object 3:594 not found (message 91)
+ 3:56:22 "CLEANUP: Deleted 1 Loot Piles out of 181"
+ 3:58:23 "CLEANUP: Deleted 1 Loot Piles out of 193"
