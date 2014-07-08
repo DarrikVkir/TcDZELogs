@@ -431,3 +431,31 @@ g from [15098,8144,300] to [2032.71,12912.8] NOW!(TIME:3215||LT:MilitarySpecial)
  4:25:18 "TIME SYNC: Local Time set to [2013,8,3,18,25]"
  4:27:23 "CLEANUP: Deleted 27 Loot Piles out of 124"
  4:28:23 "CLEANUP: Deleted 33 Loot Piles out of 99"
+ 4:30:07 "RUNNING EVENT: crash_spawner on [2014,7,8,18,30]"
+ 4:30:07 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 4:30:07 "CRASHSPAWNER: MV-22 started
+
+g from [1623.71,218.188,300] to [11674.1,12547.6] NOW!(TIME:5017||LT:MilitarySpecial)"
+ 4:30:18 "TIME SYNC: Local Time set to [2013,8,3,18,30]"
+ 4:32:45 Server: Object 4:618 not found (message 70)
+ 4:32:45 Server: Object 4:617 not found (message 70)
+ 4:33:02 Server: Object 4:650 not found (message 70)
+ 4:33:02 Server: Object 4:649 not found (message 70)
+ 4:35:18 "TIME SYNC: Local Time set to [2013,8,3,18,35]"
+ 4:35:28 "CLEANUP: Deleted 4 Loot Piles out of 293"
+ 4:35:56 "CRASHSPAWNER: MV-22 just exploded at [11426.2,12572.8,4.78618]!, "
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11429.8,12574.7,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11427.9,12565.7,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11428.1,12568.7,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11424.7,12568.2,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11430.6,12566.5,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11435.3,12568.9,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11417.7,12582.3,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11439.1,12581.3,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11415.8,12571.5,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11436.4,12567.3,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11423.9,12581.6,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Loot spawn at '[11420.2,12575.5,0]' with loot table 'MilitarySpecial'"
+ 4:35:56 "CRASHSPAWNER: Crash completed! Wreck at: [11426.2,12572.9,-0.00604248] - Runtime: 349 Seconds || Distance from calculated POC: 250 meters"
+ 4:36:27 "CLEANUP: Deleted 1 Loot Piles out of 313"
+ 4:37:28 "CLEANUP: Deleted 3 Loot Piles out of 315"
