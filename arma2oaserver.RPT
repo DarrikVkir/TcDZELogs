@@ -514,3 +514,28 @@ g from [10450,-630,1000] to [1640.7,9110.21] NOW!(TIME:12555||LT:MilitarySpecial
  0:54:40 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
  0:54:48 "CLEANUP: Deleted 2 Loot Piles out of 106"
  0:55:47 "CLEANUP: Deleted 2 Loot Piles out of 110"
+ 0:59:40 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+ 1:00:09 "RUNNING EVENT: crash_spawner on [2014,7,7,21,0]"
+ 1:00:09 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 1:00:09 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [13424.2,14599.4] NOW!(TIME:14358||LT:Hospital)"
+ 1:01:48 "CLEANUP: Deleted 2 Loot Piles out of 119"
+ 1:02:48 "CLEANUP: Deleted 2 Loot Piles out of 117"
+ 1:04:40 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+ 1:04:48 "CLEANUP: Deleted 2 Loot Piles out of 115"
+ 1:07:20 "CRASHSPAWNER: UH-60M MEV just exploded at [13389.8,14647,2.47181]!, "
+ 1:07:20 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 1:07:20 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 1:07:20 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13393.5,14648.6,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13395.3,14645.8,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13386.1,14650.5,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13392.5,14643.7,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13387.7,14653.6,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13391.3,14641.4,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13390,14651.2,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13389.7,14641.9,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13380.8,14647.5,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Loot spawn at '[13393.1,14656.9,0]' with loot table 'Hospital'"
+ 1:07:20 "CRASHSPAWNER: Crash completed! Wreck at: [13389.8,14647,-0.0495834] - Runtime: 431 Seconds || Distance from calculated POC: 60 meters"
