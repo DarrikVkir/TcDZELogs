@@ -301,3 +301,44 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  3:24:07 Server: Object 3:138 not found (message 99)
  3:24:07 Server: Object 3:137 not found (message 91)
  3:25:17 "TIME SYNC: Local Time set to [2013,8,3,17,25]"
+ 3:29:52 "SAFE UNLOCKED: ID:3056 UID:0 BY BluntScopes(4486214)"
+ 3:30:02 "RUNNING EVENT: crash_spawner on [2014,7,8,17,30]"
+ 3:30:02 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 3:30:02 "CRASHSPAWNER: UH-60M started
+
+g from [15186,11857,300] to [7648.07,15380] NOW!(TIME:1413||LT:HeliCrash_No50s)"
+ 3:30:17 "TIME SYNC: Local Time set to [2013,8,3,17,30]"
+ 3:30:20 "CLEANUP: Deleted 11 Loot Piles out of 86"
+ 3:30:50 NAT Negotiation completed
+ 3:30:54 NetServer::SendMsg: cannot find channel #1835471820, users.card=2
+ 3:30:54 NetServer: users.get failed when sending to 1835471820
+ 3:30:54 Message not sent - error 0, message ID = ffffffff, to 1835471820 (Maryns)
+ 3:30:54 NetServer::SendMsg: cannot find channel #1835471820, users.card=2
+ 3:30:54 NetServer: users.get failed when sending to 1835471820
+ 3:30:54 Message not sent - error 0, message ID = ffffffff, to 1835471820 (Maryns)
+ 3:30:54 NetServer::SendMsg: cannot find channel #1835471820, users.card=2
+ 3:30:54 NetServer: users.get failed when sending to 1835471820
+ 3:30:54 Message not sent - error 0, message ID = ffffffff, to 1835471820 (Maryns)
+ 3:30:54 NetServer::SendMsg: cannot find channel #1835471820, users.card=2
+ 3:30:54 NetServer: users.get failed when sending to 1835471820
+ 3:30:54 Message not sent - error 0, message ID = ffffffff, to 1835471820 (Maryns)
+ 3:32:19 "CLEANUP: Deleted 2 Loot Piles out of 76"
+ 3:35:07 SetFace error: class CfgFaces.OharaHead.Face05 not found
+ 3:35:07 Error: Error during SetFace - class CfgFaces.OharaHead.Face05 not found
+ 3:35:17 "TIME SYNC: Local Time set to [2013,8,3,17,35]"
+ 3:35:21 "CLEANUP: Deleted 5 Loot Piles out of 122"
+ 3:35:26 "CRASHSPAWNER: UH-60M just exploded at [7619.72,15378.6,0.975189]!, "
+ 3:35:26 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 3:35:26 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 3:35:26 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7617.45,15375.3,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7624.93,15380.5,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7610.63,15377.9,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7625.88,15369.9,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7627.82,15385.7,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7610,15367.8,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7633.54,15374.4,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7632.68,15383.2,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7632.67,15383.1,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Loot spawn at '[7617.08,15389.5,0]' with loot table 'HeliCrash_No50s'"
+ 3:35:26 "CRASHSPAWNER: Crash completed! Wreck at: [7619.72,15378.6,0.101654] - Runtime: 323 Seconds || Distance from calculated POC: 30 meters"
