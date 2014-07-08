@@ -431,3 +431,13 @@ g from [15098,8144,300] to [2008.99,12909.1] NOW!(TIME:3915||LT:MilitarySpecial)
 15:46:01 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
 15:47:18 "MAINTAIN AREA BY telconrar - 56 Objects at [8928.44,9211.19,0.00146484]"
 15:48:03 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+15:48:43 "TIME SYNC: Local Time set to [2013,8,3,17,48]"
+15:50:48 "CLEANUP: Deleted 1 Loot Piles out of 123"
+15:51:13 "get: STRING (120160390), sent: STRING (120160390)"
+15:51:13 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [8973.41,9217.37,0.00149536]"
+15:51:13 Client: Remote object 6:2 not found
+15:51:13 Client: Remote object 6:8 not found
+15:51:13 Warning: Cleanup player - person 6:7 not found
+15:51:16 Warning: Cleanup player - person 6:7 not found
+15:53:43 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
+15:56:47 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
