@@ -475,3 +475,7 @@ g from [10450,-630,1000] to [10091.7,2447.04] NOW!(TIME:10753||LT:MilitarySpecia
  0:15:06 "RUNNING EVENT: supply_drop on [2014,7,7,20,15]"
  0:15:46 "CLEANUP: Deleted 2 Loot Piles out of 103"
  0:16:46 "CLEANUP: Deleted 2 Loot Piles out of 101"
+ 0:19:39 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
+ 0:22:47 "CLEANUP: Deleted 20 Loot Piles out of 99"
+ 0:24:39 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
+ 0:24:46 "CLEANUP: Deleted 12 Loot Piles out of 79"
