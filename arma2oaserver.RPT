@@ -372,3 +372,10 @@ g from [6993.7,173.053,300] to [917.178,1870.23] NOW!(TIME:5348||LT:MilitarySpec
  0:15:03 "RUNNING EVENT: supply_drop on [2014,7,8,20,15]"
  0:19:46 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
  0:24:46 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
+ 0:29:46 "TIME SYNC: Local Time set to [2013,8,3,20,29]"
+ 0:30:04 "RUNNING EVENT: crash_spawner on [2014,7,8,20,30]"
+ 0:30:04 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+ 0:30:04 "CRASHSPAWNER: UH-1Y started
+
+g from [15098,8144,300] to [12828.3,8733.12] NOW!(TIME:7149||LT:HeliCrash_No50s)"
+ 0:34:46 "TIME SYNC: Local Time set to [2013,8,3,20,34]"
