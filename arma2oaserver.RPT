@@ -324,3 +324,14 @@ g from [15098,8144,300] to [4358.07,9030.44] NOW!(TIME:3915||LT:HeliCrash_No50s)
  3:30:18 Server: Object 4:96 not found (message 70)
  3:31:26 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
  3:33:43 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
+ 3:38:43 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
+ 3:39:47 "DELETE: B 1-1-C:1 (Bored Shorts) REMOTE Deleted by UID: 78505126137112"
+ 3:39:54 Server: Object 4:303 not found (message 70)
+ 3:39:54 Server: Object 4:302 not found (message 94)
+ 3:39:54 Server: Object 4:300 not found (message 94)
+ 3:39:54 Server: Object 4:301 not found (message 94)
+ 3:39:54 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 3:40:30 Server: Object 4:412 not found (message 70)
+ 3:42:02 Server: Object 4:491 not found (message 70)
+ 3:42:11 Server: Object 4:522 not found (message 70)
+ 3:43:43 "TIME SYNC: Local Time set to [2013,8,3,17,43]"
