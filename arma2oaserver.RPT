@@ -200,3 +200,70 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 14:28:16 ca\misc\sphere2.p3d: No geometry and no visual shape
 14:28:16 ca\misc\sphere2.p3d: No geometry and no visual shape
 14:28:17 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+14:28:18 "Res3tting B!S effects..."
+14:28:18 "[AGN] Starting Trader City Safezone Commander!"
+14:28:18 "Error: Attempting to start AGN products on a server where it should not be!"
+14:28:18 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+14:28:19 "HIVE: Starting"
+14:28:19 "HIVE: trying to get objects"
+14:28:21 "HIVE: found 2089 objects"
+14:28:21 "HIVE: Commence Object Streaming..."
+14:28:24 "HIVE: got 1532 Epoch Objects and 557 Vehicles"
+14:28:27 "Res3tting B!S effects..."
+14:28:33 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+14:28:33 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+14:28:36 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+14:28:36 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+14:28:57 "HIVE: Vehicle Spawn limit reached!"
+14:28:57 "HIVE: Spawning # of Debris: 0"
+14:28:57 "HIVE: Spawning # of Ammo Boxes: 3"
+14:28:57 "HIVE: Spawning # of Veins: 50"
+14:28:57 "Total Number of spawn locations 5"
+14:28:57 "EPOCH EVENTS INIT"
+14:28:59 "TIME SYNC: Local Time set to [2013,8,3,16,28]"
+14:29:58 "[DZMS]: Starting DayZ Epoch Mission System."
+14:29:58 "[DZMS]: Relations not found! Using DZMS Relations."
+14:29:58 "[DZMS]: Mission and Extended Configuration Loaded!"
+14:29:58 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+14:29:58 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+14:29:58 "[DZMS]: Mission Functions Script Loaded!"
+14:29:58 "[DZMS]: Major Mission Clock Starting!"
+14:29:58 "[DZMS]: Minor Mission Clock Starting!"
+14:29:58 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+14:30:08 "RUNNING EVENT: crash_spawner on [2014,7,9,16,30]"
+14:30:08 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+14:30:08 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [15098,8144,300] to [4811.97,7532.82] NOW!(TIME:101||LT:MilitarySpecial)"
+14:30:10 "[DZMS]: Running Major Mission SM10."
+14:30:28 "[DZMS]: Running Minor Mission SM1."
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:31:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:32:19 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+14:33:23 "CRASHSPAWNER: AV-8B (LGB) just exploded at [4606.35,7327.27,5.51141]!, "
+14:33:23 "CRASHSPAWNER: Loot spawn at '[4608.12,7330.86,0]' with loot table 'MilitarySpecial'"
+14:33:23 "CRASHSPAWNER: Loot spawn at '[4607.71,7333.7,0]' with loot table 'MilitarySpecial'"
+14:33:23 "CRASHSPAWNER: Loot spawn at '[4606.99,7323.23,0]' with loot table 'MilitarySpecial'"
+14:33:23 "CRASHSPAWNER: Loot spawn at '[4611.2,7324.51,0]' with loot table 'MilitarySpecial'"
+14:33:23 "CRASHSPAWNER: Loot spawn at '[4614.24,7322.61,0]' with loot table 'MilitarySpecial'"
+14:33:23 "CRASHSPAWNER: Loot spawn at '[4606.54,7320.83,0]' with loot table 'MilitarySpecial'"
+14:33:24 "CRASHSPAWNER: Loot spawn at '[4610.99,7327.17,0]' with loot table 'MilitarySpecial'"
+14:33:24 "CRASHSPAWNER: Loot spawn at '[4601.29,7323.44,0]' with loot table 'MilitarySpecial'"
+14:33:24 "CRASHSPAWNER: Loot spawn at '[4601.57,7330.46,0]' with loot table 'MilitarySpecial'"
+14:33:24 "CRASHSPAWNER: Loot spawn at '[4614.32,7325.53,0]' with loot table 'MilitarySpecial'"
+14:33:24 "CRASHSPAWNER: Crash completed! Wreck at: [4606.34,7327.27,0] - Runtime: 195 Seconds || Distance from calculated POC: 292 meters"
+14:37:19 "TIME SYNC: Local Time set to [2013,8,3,16,37]"
