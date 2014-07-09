@@ -370,3 +370,5 @@ g from [6993.7,173.053,300] to [917.178,1870.23] NOW!(TIME:5348||LT:MilitarySpec
  0:09:46 "TIME SYNC: Local Time set to [2013,8,3,20,9]"
  0:14:46 "TIME SYNC: Local Time set to [2013,8,3,20,14]"
  0:15:03 "RUNNING EVENT: supply_drop on [2014,7,8,20,15]"
+ 0:19:46 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
+ 0:24:46 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
