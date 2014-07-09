@@ -288,3 +288,6 @@ g from [10450,-630,1000] to [9869.08,5702.02] NOW!(TIME:533||LT:MilitarySpecial)
 
 g from [15098,8144,300] to [5728.38,11904.4] NOW!(TIME:2335||LT:MilitarySpecial)"
 23:04:59 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
+23:09:59 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+23:14:59 "TIME SYNC: Local Time set to [2013,8,3,19,14]"
+23:15:04 "RUNNING EVENT: supply_drop on [2014,7,9,19,15]"
