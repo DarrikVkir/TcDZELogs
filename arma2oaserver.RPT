@@ -449,3 +449,33 @@ g from [10450,-630,1000] to [959.995,2691.57] NOW!(TIME:7501||LT:HeliCrash_No50s
  4:47:04 UH60Wreck_DZ: MainGun - unknown animation source mainGun
  4:47:04 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
  4:48:04 "PDEATH: Player Died 248630214"
+ 4:48:28 "ERROR: server_playerSync: Cannot Sync Player Jayden [486]. Position in debug! [-7239.67,19539.3,0.246216]"
+ 4:48:29 "get: STRING (248630214), sent: STRING (248630214)"
+ 4:48:29 "DISCONNECT: Jayden (248630214) Object: B 1-1-A:1 (Jayden) REMOTE, _characterID: 486 at loc [-7239.67,19539.3,0.246216]"
+ 4:48:29 "ERROR: server_playerSync: Cannot Sync Player Jayden [486]. Position in debug! [-7239.67,19539.3,0.246216]"
+ 4:48:29 Client: Remote object 5:2 not found
+ 4:48:29 Client: Remote object 2:9 not found
+ 4:48:29 Client: Remote object 2:10 not found
+ 4:48:43 "TIME SYNC: Local Time set to [2013,8,3,18,48]"
+ 4:50:48 "CLEANUP: Deleted 1 Loot Piles out of 24"
+ 4:52:33 NAT Negotiation completed
+ 4:52:35 Server: Object 5:451 not found (message 99)
+ 4:52:35 Server: Object 5:452 not found (message 91)
+ 4:52:35 Server: Object 5:455 not found (message 98)
+ 4:52:35 Server: Object 5:456 not found (message 91)
+ 4:52:35 Server: Object 5:458 not found (message 94)
+ 4:52:35 Server: Object 5:460 not found (message 70)
+ 4:52:35 Server: Object 5:457 not found (message 70)
+ 4:52:35 Server: Object 5:459 not found (message 70)
+ 4:52:36 Server: Object 5:464 not found (message 91)
+ 4:52:36 Server: Object 5:463 not found (message 99)
+ 4:52:36 Server: Object 5:470 not found (message 91)
+ 4:52:36 Server: Object 5:471 not found (message 99)
+ 4:52:36 Server: Object 5:472 not found (message 91)
+ 4:53:11 "get: STRING (248630214), sent: STRING (248630214)"
+ 4:53:11 "LOGOUT IN VEHICLE: Jayden at location [10225.4,2129.91,1.51007]"
+ 4:53:11 "DISCONNECT: Jayden (248630214) Object: B 1-1-B:1 (Jayden) REMOTE, _characterID: 495 at loc [10225.4,2129.91,1.51007]"
+ 4:53:11 Client: Remote object 5:365 not found
+ 4:53:15 "SAFE UNLOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
+ 4:53:43 "TIME SYNC: Local Time set to [2013,8,3,18,53]"
+ 4:57:04 "SAFE LOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
