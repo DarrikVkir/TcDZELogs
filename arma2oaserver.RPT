@@ -301,3 +301,23 @@ g from [15098,8144,300] to [5728.38,11904.4] NOW!(TIME:2335||LT:MilitarySpecial)
 g from [6986,-630,1000] to [5257.72,2159.02] NOW!(TIME:4137||LT:HeliCrash_No50s)"
 23:35:00 "TIME SYNC: Local Time set to [2013,8,3,19,35]"
 23:35:02 "CLEANUP: Deleted 3 Loot Piles out of 63"
+23:40:00 "TIME SYNC: Local Time set to [2013,8,3,19,40]"
+23:40:16 "CRASHSPAWNER: UH-60M just exploded at [5346.07,2198.3,0.683395]!, "
+23:40:16 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+23:40:16 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+23:40:16 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5342.12,2198.95,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5338.99,2197.28,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5346.62,2208.51,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5341.82,2206.09,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5353.21,2206.09,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5346.63,2203.09,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5339.69,2197.14,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5343.6,2206.79,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5343.03,2194.72,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5341.8,2201.72,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5343.93,2205.43,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5351.88,2194.9,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Loot spawn at '[5346.71,2206.57,0]' with loot table 'HeliCrash_No50s'"
+23:40:16 "CRASHSPAWNER: Crash completed! Wreck at: [5346.15,2198.38,-0.0798788] - Runtime: 611 Seconds || Distance from calculated POC: 97 meters"
+23:45:00 "TIME SYNC: Local Time set to [2013,8,3,19,45]"
