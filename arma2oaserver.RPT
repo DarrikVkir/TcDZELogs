@@ -384,3 +384,11 @@ g from [15098,8144,300] to [12828.3,8733.12] NOW!(TIME:7149||LT:HeliCrash_No50s)
  0:49:46 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
  0:54:46 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
  0:55:24 Server: Object 6:60 not found (message 70)
+ 0:59:46 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+ 1:00:06 "RUNNING EVENT: crash_spawner on [2014,7,8,21,0]"
+ 1:00:06 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 1:00:06 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [1623.71,218.188,300] to [12320.8,12220.1] NOW!(TIME:8951||LT:MilitarySpecial)"
+ 1:00:49 "CLEANUP: Deleted 1 Loot Piles out of 39"
+ 1:04:46 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
