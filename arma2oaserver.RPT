@@ -381,3 +381,6 @@ g from [15098,8144,300] to [12828.3,8733.12] NOW!(TIME:7149||LT:HeliCrash_No50s)
  0:34:46 "TIME SYNC: Local Time set to [2013,8,3,20,34]"
  0:39:46 "TIME SYNC: Local Time set to [2013,8,3,20,39]"
  0:44:46 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
+ 0:49:46 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+ 0:54:46 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+ 0:55:24 Server: Object 6:60 not found (message 70)
