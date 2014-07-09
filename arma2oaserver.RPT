@@ -352,3 +352,12 @@ g from [6986,-630,1000] to [4127.93,6162.51] NOW!(TIME:3694||LT:HeliCrash_No50s)
 15:55:37 Client: Remote object 5:2 not found
 15:55:37 Client: Remote object 5:8 not found
 15:57:19 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
+16:00:05 "RUNNING EVENT: crash_spawner on [2014,7,9,18,0]"
+16:00:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+16:00:05 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [9924.45,7897.14] NOW!(TIME:5495||LT:HeliCrash_No50s)"
+16:02:19 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+16:02:19 "CLEANUP: Deleted 7 Animals out of 7"
+16:02:21 "CLEANUP: Deleted 1 Loot Piles out of 26"
+16:07:19 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
