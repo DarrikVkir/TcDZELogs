@@ -657,3 +657,9 @@ g from [10450,-630,1000] to [10175.3,14811] NOW!(TIME:12544||LT:HeliCrash_No50s)
  2:06:40 "CRASHSPAWNER: Loot spawn at '[10151.2,14811.3,0]' with loot table 'HeliCrash_No50s'"
  2:06:40 "CRASHSPAWNER: Loot spawn at '[10157.9,14822.3,0]' with loot table 'HeliCrash_No50s'"
  2:06:40 "CRASHSPAWNER: Crash completed! Wreck at: [10160.6,14811.5,0.627426] - Runtime: 399 Seconds || Distance from calculated POC: 15 meters"
+ 2:09:46 "TIME SYNC: Local Time set to [2013,8,3,22,9]"
+ 2:10:28 Client: Object 6:483 (type Type_69) not found.
+ 2:10:28 Client: Object 6:483 (type Type_70) not found.
+ 2:14:46 "TIME SYNC: Local Time set to [2013,8,3,22,14]"
+ 2:15:02 "RUNNING EVENT: supply_drop on [2014,7,8,22,15]"
+ 2:17:17 "SAFE UNLOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
