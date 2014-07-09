@@ -366,3 +366,24 @@ g from [15098,8144,300] to [4358.07,9030.44] NOW!(TIME:3915||LT:HeliCrash_No50s)
  3:53:43 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
  3:54:57 "CLEANUP: Deleted 26 Loot Piles out of 341"
  3:57:56 "CLEANUP: Deleted 9 Loot Piles out of 315"
+ 3:58:43 "TIME SYNC: Local Time set to [2013,8,3,17,58]"
+ 3:58:57 "CLEANUP: Deleted 36 Loot Piles out of 306"
+ 3:59:54 "CLEANUP: Deleted 11 Loot Piles out of 270"
+ 4:00:07 "RUNNING EVENT: crash_spawner on [2014,7,9,18,0]"
+ 4:00:07 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 4:00:07 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [15098,8144,300] to [7116.95,15109.4] NOW!(TIME:5708||LT:MilitarySpecial)"
+ 4:01:00 "CLEANUP: Deleted 100 Loot Piles out of 259"
+ 4:01:52 "CLEANUP: Deleted 32 Loot Piles out of 159"
+ 4:02:52 "CLEANUP: Deleted 76 Loot Piles out of 127"
+ 4:03:43 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
+ 4:03:47 "CLEANUP: Deleted 2 Loot Piles out of 59"
+ 4:04:47 "CLEANUP: Deleted 3 Loot Piles out of 63"
+ 4:05:37 "get: STRING (248630214), sent: STRING (248630214)"
+ 4:05:37 "DISCONNECT: Jayden (248630214) Object: B 1-1-B:1 (Jayden) REMOTE, _characterID: 486 at loc [5016.3,6787.39,0.00134277]"
+ 4:05:37 Client: Remote object 4:6 not found
+ 4:05:37 Client: Remote object 4:5 not found
+ 4:05:37 Client: Remote object 4:2 not found
+ 4:05:47 "CLEANUP: Deleted 2 Loot Piles out of 54"
+ 4:07:47 "CLEANUP: Deleted 1 Loot Piles out of 53"
