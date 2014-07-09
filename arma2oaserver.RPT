@@ -418,3 +418,19 @@ g from [15098,8144,300] to [7116.95,15109.4] NOW!(TIME:5708||LT:MilitarySpecial)
  4:25:48 Server: Object 5:130 not found (message 91)
  4:26:22 "EPOCH SERVERTRADE: Player: Jayden (248630214) sold a SCAR_H_LNG_SNIPER_SD in/at Stary for 6x ItemGoldBar"
  4:27:48 "CLEANUP: Deleted 1 Loot Piles out of 84"
+ 4:28:43 "TIME SYNC: Local Time set to [2013,8,3,18,28]"
+ 4:28:59 "EPOCH SERVERTRADE: Player: Jayden (248630214) bought a LadaLM in/at Stary for 3x ItemGoldBar"
+ 4:28:59 "PUBLISH: Attempt 1fd34100# 1063793: arrow_down_large_ep1.p3d REMOTE"
+ 4:28:59 "HIVE: WRITE: "CHILD:308:3195:LadaLM:0:12256:[16,[6292.99,7806.43,0.000152588]]:[]:[]:1:629307806407456:""
+ 4:29:01 "HIVE: WRITE: "CHILD:388:629307806407456:""
+ 4:29:01 "CUSTOM: Selected "5094""
+ 4:29:01 "PUBLISH: B 1-1-B:1 (Jayden) REMOTE Bought LadaLM with ID "629307806407456""
+ 4:30:00 "RUNNING EVENT: crash_spawner on [2014,7,9,18,30]"
+ 4:30:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 4:30:01 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [959.995,2691.57] NOW!(TIME:7501||LT:HeliCrash_No50s)"
+ 4:30:57 Server: Object 5:35 not found (message 99)
+ 4:32:49 "CLEANUP: Deleted 1 Loot Piles out of 84"
+ 4:33:43 "TIME SYNC: Local Time set to [2013,8,3,18,33]"
+ 4:35:49 "CLEANUP: Deleted 6 Loot Piles out of 83"
