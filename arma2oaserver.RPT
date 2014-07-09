@@ -614,3 +614,10 @@ g from [10450,-630,1000] to [10128,8656.77] NOW!(TIME:12899||LT:Hospital)"
  6:48:44 "TIME SYNC: Local Time set to [2013,8,3,20,48]"
  6:50:53 "CLEANUP: Deleted 4 Loot Piles out of 79"
  6:53:44 "TIME SYNC: Local Time set to [2013,8,3,20,53]"
+ 6:58:44 "TIME SYNC: Local Time set to [2013,8,3,20,58]"
+ 7:00:09 "RUNNING EVENT: crash_spawner on [2014,7,9,21,0]"
+ 7:00:09 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 7:00:09 "CRASHSPAWNER: UH-60M MEV started
+
+g from [1623.71,218.188,300] to [12567.1,8797.45] NOW!(TIME:16505||LT:Hospital)"
+ 7:03:44 "TIME SYNC: Local Time set to [2013,8,3,21,3]"
