@@ -267,3 +267,6 @@ g from [15098,8144,300] to [4811.97,7532.82] NOW!(TIME:101||LT:MilitarySpecial)"
 14:33:24 "CRASHSPAWNER: Loot spawn at '[4614.32,7325.53,0]' with loot table 'MilitarySpecial'"
 14:33:24 "CRASHSPAWNER: Crash completed! Wreck at: [4606.34,7327.27,0] - Runtime: 195 Seconds || Distance from calculated POC: 292 meters"
 14:37:19 "TIME SYNC: Local Time set to [2013,8,3,16,37]"
+14:41:21 Server: Object 3:41 not found (message 94)
+14:42:19 "TIME SYNC: Local Time set to [2013,8,3,16,42]"
+14:47:19 "TIME SYNC: Local Time set to [2013,8,3,16,47]"
