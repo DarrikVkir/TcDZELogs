@@ -387,3 +387,15 @@ g from [15098,8144,300] to [7116.95,15109.4] NOW!(TIME:5708||LT:MilitarySpecial)
  4:05:37 Client: Remote object 4:2 not found
  4:05:47 "CLEANUP: Deleted 2 Loot Piles out of 54"
  4:07:47 "CLEANUP: Deleted 1 Loot Piles out of 53"
+ 4:08:43 "TIME SYNC: Local Time set to [2013,8,3,18,8]"
+ 4:09:47 "CLEANUP: Deleted 5 Loot Piles out of 52"
+ 4:10:47 "CLEANUP: Deleted 2 Loot Piles out of 47"
+ 4:11:03 Server: Object 3:238 not found (message 69)
+ 4:11:03 Server: Object 3:239 not found (message 70)
+ 4:11:03 Client: Object 3:239 (type Type_69) not found.
+ 4:12:47 "CLEANUP: Deleted 5 Loot Piles out of 46"
+ 4:13:43 "TIME SYNC: Local Time set to [2013,8,3,18,13]"
+ 4:13:44 "CLEANUP: Deleted 15 Animals out of 26"
+ 4:13:47 "CLEANUP: Deleted 12 Loot Piles out of 41"
+ 4:14:46 "CLEANUP: Deleted 3 Loot Piles out of 29"
+ 4:15:09 "RUNNING EVENT: supply_drop on [2014,7,9,18,15]"
