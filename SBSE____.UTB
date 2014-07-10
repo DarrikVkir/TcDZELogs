@@ -2452,3 +2452,11 @@ if(DZE_DeathMsgSide) then {
 18:26:21 Server: Object 3:8 not found (message 89)
 18:26:26 Server: Object 3:8 not found (message 89)
 18:26:27 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+18:26:31 Server: Object 3:8 not found (message 89)
+18:26:33 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [503]. Position in debug! [-7239.67,19539.3,0.245972]"
+18:26:34 "get: STRING (234483142), sent: STRING (234483142)"
+18:26:34 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-A:1 ([BOOTY] 4ASST) REMOTE, _characterID: 503 at loc [-7239.67,19539.3,0.245972]"
+18:26:34 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [503]. Position in debug! [-7239.67,19539.3,0.245972]"
+18:26:36 Server: Object 9:105 not found (message 99)
+18:26:36 Server: Object 9:106 not found (message 91)
+18:26:36 Server: Object 3:8 not found (message 89)
