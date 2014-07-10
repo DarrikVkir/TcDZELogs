@@ -2352,3 +2352,5 @@ _we>
 18:23:51 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-A:1 ([BOOTY] 4ASST) REMOTE, _characterID: 501 at loc [-7239.67,19539.3,0.245789]"
 18:23:51 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [501]. Position in debug! [-7239.67,19539.3,0.245789]"
 18:23:55 Server: Object 3:8 not found (message 89)
+18:24:00 Server: Object 3:8 not found (message 89)
+18:24:05 Server: Object 3:8 not found (message 89)
