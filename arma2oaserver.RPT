@@ -335,3 +335,18 @@ g from [1623.71,218.188,300] to [11491.1,12928.3] NOW!(TIME:1875||LT:MilitarySpe
  9:02:47 "CLEANUP: Deleted 25 Loot Piles out of 187"
  9:05:46 "CLEANUP: Deleted 2 Loot Piles out of 164"
  9:07:41 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
+ 9:10:34 Server: Object 3:789 not found (message 70)
+ 9:10:46 "CLEANUP: Deleted 1 Loot Piles out of 215"
+ 9:11:35 "nil player object attempting PV, :["255024710","Bored Shorts"]"
+ 9:11:35 "get: STRING (), sent: STRING (255024710)"
+ 9:11:35 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-F:1 REMOTE, _characterID: 485 at loc [7851.64,12616.3,0.0623093]"
+ 9:11:35 Client: Remote object 4:2 not found
+ 9:11:35 Client: Remote object 4:68 not found
+ 9:11:35 Client: Remote object 4:67 not found
+ 9:11:35 Client: Remote object 4:70 not found
+ 9:11:37 Warning: Cleanup player - person 4:69 not found
+ 9:11:46 "CLEANUP: Deleted 2 Loot Piles out of 216"
+ 9:12:41 "TIME SYNC: Local Time set to [2013,8,3,17,12]"
+ 9:15:05 "RUNNING EVENT: supply_drop on [2014,7,10,17,15]"
+ 9:17:41 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
+ 9:17:42 "CLEANUP: Deleted 4 Animals out of 24"
