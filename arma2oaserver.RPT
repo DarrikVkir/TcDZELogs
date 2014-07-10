@@ -569,3 +569,1389 @@ g from [6993.7,173.053,300] to [12296,5710.91] NOW!(TIME:2035||LT:HeliCrash_No50
 17:58:09 Server: Object 3:8 not found (message 89)
 17:58:14 Server: Object 3:8 not found (message 89)
 17:58:15 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+17:58:19 Server: Object 3:8 not found (message 89)
+17:58:22 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+17:58:24 Server: Object 3:8 not found (message 89)
+17:58:29 Server: Object 3:8 not found (message 89)
+17:58:34 Server: Object 3:8 not found (message 89)
+17:58:39 Server: Object 3:8 not found (message 89)
+17:58:44 Server: Object 3:8 not found (message 89)
+17:58:49 Server: Object 3:8 not found (message 89)
+17:58:54 Server: Object 3:8 not found (message 89)
+17:58:59 Server: Object 3:8 not found (message 89)
+17:59:04 Server: Object 3:8 not found (message 89)
+17:59:05 "DELETE: B 1-1-A:1 (Miss Rachel ) REMOTE Deleted by ID: 4967"
+17:59:05 "PUBLISH: B 1-1-A:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "9494014352275207""
+17:59:09 Server: Object 3:8 not found (message 89)
+17:59:15 Server: Object 3:8 not found (message 89)
+17:59:17 "DELETE: B 1-1-A:1 (Miss Rachel ) REMOTE Deleted by ID: 4966"
+17:59:17 "PUBLISH: B 1-1-A:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "949891434971207""
+17:59:20 Server: Object 3:8 not found (message 89)
+17:59:25 Server: Object 3:8 not found (message 89)
+17:59:30 Server: Object 3:8 not found (message 89)
+17:59:34 "TIME SYNC: Local Time set to [2013,8,3,19,59]"
+17:59:34 "CLEANUP: Deleted 3 Animals out of 14"
+17:59:35 Server: Object 3:8 not found (message 89)
+17:59:40 Server: Object 3:8 not found (message 89)
+17:59:40 "DELETE: B 1-1-A:1 (Miss Rachel ) REMOTE Deleted by ID: 4965"
+17:59:40 "PUBLISH: B 1-1-A:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "950011434602297""
+17:59:45 Server: Object 3:8 not found (message 89)
+17:59:50 Server: Object 3:8 not found (message 89)
+17:59:53 "DELETE: B 1-1-A:1 (Miss Rachel ) REMOTE Deleted by ID: 4961"
+17:59:53 "PUBLISH: B 1-1-A:1 (Miss Rachel ) REMOTE upgraded CinderWall_DZ with ID "9497614341128297""
+17:59:55 Server: Object 3:8 not found (message 89)
+18:00:00 Server: Object 3:8 not found (message 89)
+18:00:01 "RUNNING EVENT: crash_spawner on [2014,7,10,20,0]"
+18:00:01 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+18:00:01 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [15098,8144,300] to [7316.89,7910.9] NOW!(TIME:3827||LT:MilitarySpecial)"
+18:00:05 Server: Object 3:8 not found (message 89)
+18:00:09 "DELETE: B 1-1-M:1 (BluntScopes) REMOTE Deleted by ID: 3561"
+18:00:09 "DELETE: B 1-1-M:1 (BluntScopes) REMOTE Deleted by ID: 3560"
+18:00:10 Server: Object 3:8 not found (message 89)
+18:00:15 Server: Object 3:8 not found (message 89)
+18:00:20 Server: Object 3:8 not found (message 89)
+18:00:25 Server: Object 3:8 not found (message 89)
+18:00:26 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+18:00:30 Server: Object 3:8 not found (message 89)
+18:00:35 Server: Object 3:8 not found (message 89)
+18:00:37 "CLEANUP: Deleted 3 Loot Piles out of 52"
+18:00:40 Server: Object 3:8 not found (message 89)
+18:00:45 Server: Object 3:8 not found (message 89)
+18:00:50 Server: Object 3:8 not found (message 89)
+18:00:55 Server: Object 3:8 not found (message 89)
+18:01:00 Server: Object 3:8 not found (message 89)
+18:01:05 Server: Object 3:8 not found (message 89)
+18:01:10 Server: Object 3:8 not found (message 89)
+18:01:15 Server: Object 3:8 not found (message 89)
+18:01:20 Server: Object 3:8 not found (message 89)
+18:01:25 Server: Object 3:8 not found (message 89)
+18:01:30 Server: Object 3:8 not found (message 89)
+18:01:35 Server: Object 3:8 not found (message 89)
+18:01:40 Server: Object 3:8 not found (message 89)
+18:01:45 Server: Object 3:8 not found (message 89)
+18:01:50 Server: Object 3:8 not found (message 89)
+18:01:55 Server: Object 3:8 not found (message 89)
+18:01:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 15.5771m with 1.66754 dmg"
+18:01:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:01:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:01:55   Error Undefined variable in expression: _weapon
+18:01:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:00 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 25.8709m with 1.47833 dmg"
+18:02:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:00   Error Undefined variable in expression: _weapon
+18:02:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:00 Server: Object 3:8 not found (message 89)
+18:02:01 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 16.1378m with 1.65253 dmg"
+18:02:01 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:01   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:01   Error Undefined variable in expression: _weapon
+18:02:01 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:02 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 14.0955m with 1.45841 dmg"
+18:02:02 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:02   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:02   Error Undefined variable in expression: _weapon
+18:02:02 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:02 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 14.0955m with 0.195626 dmg"
+18:02:02 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:02   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:02   Error Undefined variable in expression: _weapon
+18:02:02 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:03 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 5.15521m with 1.6705 dmg"
+18:02:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error Undefined variable in expression: _weapon
+18:02:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:03 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 5.11445m with 1.11858 dmg"
+18:02:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error Undefined variable in expression: _weapon
+18:02:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:03 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 5.11445m with 0.551917 dmg"
+18:02:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error Undefined variable in expression: _weapon
+18:02:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:03 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 4.65235m with 0.927524 dmg"
+18:02:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:03   Error Undefined variable in expression: _weapon
+18:02:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:05 Server: Object 3:8 not found (message 89)
+18:02:10 Server: Object 3:8 not found (message 89)
+18:02:15 Server: Object 3:8 not found (message 89)
+18:02:19 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 21.386m with 1.62394 dmg"
+18:02:19 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:19   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:19   Error Undefined variable in expression: _weapon
+18:02:19 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:19 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 22.2605m with 0.584663 dmg"
+18:02:19 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:19   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:19   Error Undefined variable in expression: _weapon
+18:02:19 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:19 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 22.2605m with 0.599537 dmg"
+18:02:19 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:19   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:02:19   Error Undefined variable in expression: _weapon
+18:02:19 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:02:20 Server: Object 3:8 not found (message 89)
+18:02:25 Server: Object 3:8 not found (message 89)
+18:02:29 "CRASHSPAWNER: AV-8B (LGB) just exploded at [7342.28,7622.43,4.47311]!, "
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7340.68,7626.1,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7345.31,7628.05,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7346.64,7619.63,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7346.16,7629.31,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7334.66,7625.69,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7345.49,7627.17,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7335.32,7624.02,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7332.16,7623.37,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7344.34,7633.56,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7344.24,7631.05,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Loot spawn at '[7347.11,7621.23,0]' with loot table 'MilitarySpecial'"
+18:02:29 "CRASHSPAWNER: Crash completed! Wreck at: [7342.21,7622.41,0.00814819] - Runtime: 148 Seconds || Distance from calculated POC: 290 meters"
+18:02:30 Server: Object 3:8 not found (message 89)
+18:02:35 Server: Object 3:8 not found (message 89)
+18:02:40 Server: Object 3:8 not found (message 89)
+18:02:45 Server: Object 3:8 not found (message 89)
+18:02:50 Server: Object 3:8 not found (message 89)
+18:02:55 Server: Object 3:8 not found (message 89)
+18:03:00 Server: Object 3:8 not found (message 89)
+18:03:05 Server: Object 3:8 not found (message 89)
+18:03:10 Server: Object 3:8 not found (message 89)
+18:03:15 Server: Object 3:8 not found (message 89)
+18:03:20 Server: Object 3:8 not found (message 89)
+18:03:25 Server: Object 3:8 not found (message 89)
+18:03:30 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 25.2855m with 0.114033 dmg"
+18:03:30 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:30   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:30   Error Undefined variable in expression: _weapon
+18:03:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:30 Server: Object 3:8 not found (message 89)
+18:03:31 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 24.5613m with 0.0937651 dmg"
+18:03:31 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:31   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:31   Error Undefined variable in expression: _weapon
+18:03:31 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:31 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 23.9218m with 0.121992 dmg"
+18:03:31 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:31   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:31   Error Undefined variable in expression: _weapon
+18:03:31 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:32 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 23.301m with 0.121173 dmg"
+18:03:32 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:32   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:32   Error Undefined variable in expression: _weapon
+18:03:32 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:32 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 22.7067m with 0.12988 dmg"
+18:03:32 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:32   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:32   Error Undefined variable in expression: _weapon
+18:03:32 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:34 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 20.4992m with 0.129615 dmg"
+18:03:34 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:34   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:34   Error Undefined variable in expression: _weapon
+18:03:34 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:34 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 19.981m with 0.108657 dmg"
+18:03:34 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:34   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:34   Error Undefined variable in expression: _weapon
+18:03:34 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:35 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 19.5939m with 0.0799648 dmg"
+18:03:35 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:35   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:35   Error Undefined variable in expression: _weapon
+18:03:35 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:35 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 19.2583m with 0.0967447 dmg"
+18:03:35 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:35   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:35   Error Undefined variable in expression: _weapon
+18:03:35 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:35 Server: Object 3:8 not found (message 89)
+18:03:36 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 19.0272m with 0.108682 dmg"
+18:03:36 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:36   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:36   Error Undefined variable in expression: _weapon
+18:03:36 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:36 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 18.8153m with 0.130259 dmg"
+18:03:36 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:36   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:36   Error Undefined variable in expression: _weapon
+18:03:36 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:37 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 18.6609m with 0.085162 dmg"
+18:03:37 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:37   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:37   Error Undefined variable in expression: _weapon
+18:03:37 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:37 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 18.6483m with 0.132883 dmg"
+18:03:37 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:37   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:37   Error Undefined variable in expression: _weapon
+18:03:37 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:38 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 19.3426m with 0.125132 dmg"
+18:03:38 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:38   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:38   Error Undefined variable in expression: _weapon
+18:03:38 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:38 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 19.5082m with 0.0850879 dmg"
+18:03:38 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:38   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:38   Error Undefined variable in expression: _weapon
+18:03:38 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:39 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 19.674m with 0.112898 dmg"
+18:03:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:39   Error Undefined variable in expression: _weapon
+18:03:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:39 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 20.1373m with 0.0725967 dmg"
+18:03:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:39   Error Undefined variable in expression: _weapon
+18:03:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:40 Server: Object 3:8 not found (message 89)
+18:03:41 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 22.1671m with 0.110399 dmg"
+18:03:41 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:41   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:41   Error Undefined variable in expression: _weapon
+18:03:41 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:41 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 22.5106m with 0.0849927 dmg"
+18:03:41 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:41   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:41   Error Undefined variable in expression: _weapon
+18:03:41 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:41 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 23.6354m with 0.0822541 dmg"
+18:03:41 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:41   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:41   Error Undefined variable in expression: _weapon
+18:03:41 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:42 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 23.7437m with 0.125981 dmg"
+18:03:42 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:42   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:42   Error Undefined variable in expression: _weapon
+18:03:42 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:42 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 24.4709m with 0.0891191 dmg"
+18:03:42 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:42   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:42   Error Undefined variable in expression: _weapon
+18:03:42 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:42 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 24.6156m with 0.137427 dmg"
+18:03:42 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:42   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:42   Error Undefined variable in expression: _weapon
+18:03:42 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:43 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 25.2114m with 0.111619 dmg"
+18:03:43 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:43   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:43   Error Undefined variable in expression: _weapon
+18:03:43 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:43 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 25.4264m with 0.13332 dmg"
+18:03:43 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:43   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:43   Error Undefined variable in expression: _weapon
+18:03:43 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:44 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 26.2586m with 0.0923501 dmg"
+18:03:44 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:44   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:44   Error Undefined variable in expression: _weapon
+18:03:44 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:44 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 26.5761m with 0.0702224 dmg"
+18:03:44 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:44   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:44   Error Undefined variable in expression: _weapon
+18:03:44 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:45 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 27.3177m with 0.0976702 dmg"
+18:03:45 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error Undefined variable in expression: _weapon
+18:03:45 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:45 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 27.6113m with 0.0715425 dmg"
+18:03:45 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error Undefined variable in expression: _weapon
+18:03:45 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:45 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 27.8236m with 0.106418 dmg"
+18:03:45 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error Undefined variable in expression: _weapon
+18:03:45 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:45 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 28.0795m with 0.0925079 dmg"
+18:03:45 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error Undefined variable in expression: _weapon
+18:03:45 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:45 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 28.1644m with 0.117961 dmg"
+18:03:45 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:45   Error Undefined variable in expression: _weapon
+18:03:45 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:45 Server: Object 3:8 not found (message 89)
+18:03:48 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 33.8477m with 0.0970857 dmg"
+18:03:48 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:48   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:48   Error Undefined variable in expression: _weapon
+18:03:48 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:48 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 34.1242m with 0.0948733 dmg"
+18:03:48 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:48   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:48   Error Undefined variable in expression: _weapon
+18:03:48 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:49 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 34.6245m with 0.0730102 dmg"
+18:03:49 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:49   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:49   Error Undefined variable in expression: _weapon
+18:03:49 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:50 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 37.4138m with 0.128307 dmg"
+18:03:50 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:50   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:50   Error Undefined variable in expression: _weapon
+18:03:50 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:50 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 37.5747m with 0.131429 dmg"
+18:03:50 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:50   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:50   Error Undefined variable in expression: _weapon
+18:03:50 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:50 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 37.6398m with 0.0963742 dmg"
+18:03:50 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:50   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:50   Error Undefined variable in expression: _weapon
+18:03:50 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:50 Server: Object 3:8 not found (message 89)
+18:03:51 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 38.3137m with 0.0855126 dmg"
+18:03:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error Undefined variable in expression: _weapon
+18:03:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:51 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 38.5675m with 0.110944 dmg"
+18:03:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error Undefined variable in expression: _weapon
+18:03:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:51 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 38.667m with 0.102893 dmg"
+18:03:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error Undefined variable in expression: _weapon
+18:03:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:51 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 38.9464m with 0.104413 dmg"
+18:03:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error Undefined variable in expression: _weapon
+18:03:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:51 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 39.2129m with 0.11197 dmg"
+18:03:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:51   Error Undefined variable in expression: _weapon
+18:03:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:52 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 39.3468m with 0.0889882 dmg"
+18:03:52 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:52   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:52   Error Undefined variable in expression: _weapon
+18:03:52 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 42.4944m with 0.126301 dmg"
+18:03:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error Undefined variable in expression: _weapon
+18:03:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 42.6315m with 0.0762471 dmg"
+18:03:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error Undefined variable in expression: _weapon
+18:03:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 42.8645m with 0.105928 dmg"
+18:03:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error Undefined variable in expression: _weapon
+18:03:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 42.9613m with 0.0793316 dmg"
+18:03:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error Undefined variable in expression: _weapon
+18:03:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 43.2632m with 0.10577 dmg"
+18:03:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error Undefined variable in expression: _weapon
+18:03:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 43.33m with 0.0961639 dmg"
+18:03:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error Undefined variable in expression: _weapon
+18:03:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 43.632m with 0.0745274 dmg"
+18:03:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:53   Error Undefined variable in expression: _weapon
+18:03:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 43.912m with 0.0907682 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 44.1656m with 0.131716 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 44.2728m with 0.131566 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 44.577m with 0.120069 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 44.8747m with 0.131416 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 45.2658m with 0.0724636 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 45.635m with 0.0923065 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:54 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 45.8344m with 0.0991186 dmg"
+18:03:54 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:54   Error Undefined variable in expression: _weapon
+18:03:54 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 46.2383m with 0.137063 dmg"
+18:03:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error Undefined variable in expression: _weapon
+18:03:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 46.5432m with 0.11232 dmg"
+18:03:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error Undefined variable in expression: _weapon
+18:03:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 46.8931m with 0.0775084 dmg"
+18:03:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error Undefined variable in expression: _weapon
+18:03:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 47.0396m with 0.091756 dmg"
+18:03:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:03:55   Error Undefined variable in expression: _weapon
+18:03:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:03:55 Server: Object 3:8 not found (message 89)
+18:04:00 Server: Object 3:8 not found (message 89)
+18:04:02 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 34.0538m with 0.139035 dmg"
+18:04:02 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:02   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:02   Error Undefined variable in expression: _weapon
+18:04:02 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:02 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 34.1335m with 0.0843451 dmg"
+18:04:02 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:02   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:02   Error Undefined variable in expression: _weapon
+18:04:02 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:02 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 32.8153m with 0.104793 dmg"
+18:04:02 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:02   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:02   Error Undefined variable in expression: _weapon
+18:04:02 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:03 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 32.375m with 0.127375 dmg"
+18:04:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:03   Error Undefined variable in expression: _weapon
+18:04:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:03 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 28.779m with 0.109615 dmg"
+18:04:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:03   Error Undefined variable in expression: _weapon
+18:04:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:04 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 27.7631m with 0.0995772 dmg"
+18:04:04 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:04   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:04   Error Undefined variable in expression: _weapon
+18:04:04 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:04 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 27.0878m with 0.0899694 dmg"
+18:04:04 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:04   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:04   Error Undefined variable in expression: _weapon
+18:04:04 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:04 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 27.1096m with 0.0783706 dmg"
+18:04:04 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:04   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:04   Error Undefined variable in expression: _weapon
+18:04:04 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:05 Server: Object 3:8 not found (message 89)
+18:04:08 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 29.5128m with 71.4379 dmg"
+18:04:08 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:08   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:08   Error Undefined variable in expression: _weapon
+18:04:08 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:08 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 29.5128m with 69.751 dmg"
+18:04:08 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:08   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:08   Error Undefined variable in expression: _weapon
+18:04:08 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:10 Server: Object 3:8 not found (message 89)
+18:04:15 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 6.75414m with 80.4808 dmg"
+18:04:15 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:15   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:15   Error Undefined variable in expression: _weapon
+18:04:15 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:15 Server: Object 3:8 not found (message 89)
+18:04:20 Server: Object 3:8 not found (message 89)
+18:04:25 Server: Object 3:8 not found (message 89)
+18:04:30 Server: Object 3:8 not found (message 89)
+18:04:34 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
+18:04:35 Server: Object 3:8 not found (message 89)
+18:04:40 Server: Object 3:8 not found (message 89)
+18:04:45 Server: Object 3:8 not found (message 89)
+18:04:48 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 10.4758m with 8.03792 dmg"
+18:04:48 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:48   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:48   Error Undefined variable in expression: _weapon
+18:04:48 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:49 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 10.4757m with 5.2537 dmg"
+18:04:49 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:49   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:49   Error Undefined variable in expression: _weapon
+18:04:49 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:50 Server: Object 3:8 not found (message 89)
+18:04:51 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 10.4545m with 8.03742 dmg"
+18:04:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:51   Error Undefined variable in expression: _weapon
+18:04:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:51 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 10.3636m with 8.03941 dmg"
+18:04:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:51   Error Undefined variable in expression: _weapon
+18:04:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.25811m with 7.91993 dmg"
+18:04:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:53   Error Undefined variable in expression: _weapon
+18:04:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:53 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.24901m with 8.04405 dmg"
+18:04:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:53   Error Undefined variable in expression: _weapon
+18:04:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.23712m with 7.64612 dmg"
+18:04:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error Undefined variable in expression: _weapon
+18:04:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.23712m with 0.398251 dmg"
+18:04:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error Undefined variable in expression: _weapon
+18:04:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.23666m with 2.84453 dmg"
+18:04:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error Undefined variable in expression: _weapon
+18:04:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.23666m with 2.32179 dmg"
+18:04:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error Undefined variable in expression: _weapon
+18:04:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:55 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.23666m with 1.21829 dmg"
+18:04:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:55   Error Undefined variable in expression: _weapon
+18:04:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:55 Server: Object 3:8 not found (message 89)
+18:04:56 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.2368m with 5.65133 dmg"
+18:04:56 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:56   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:56   Error Undefined variable in expression: _weapon
+18:04:56 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:56 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.2368m with 2.39334 dmg"
+18:04:56 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:56   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:56   Error Undefined variable in expression: _weapon
+18:04:56 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:04:59 "PHIT: B 1-1-A:1 (Miss Rachel ) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with M1A2 TUSK from 9.08541m with 3.12275 dmg"
+18:04:59 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:59   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:04:59   Error Undefined variable in expression: _weapon
+18:04:59 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:05:00 "PKILL: Miss Rachel  was killed by BluntScopes with weapon M1A2 TUSK from 9.08541m"
+18:05:00 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+18:05:00   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+18:05:00   Error Undefined variable in expression: dze_deathmsgside
+18:05:00 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+18:05:00 "PDEATH: Player Died 235067846"
+18:05:01 Server: Object 3:8 not found (message 89)
+18:05:06 Server: Object 3:8 not found (message 89)
+18:05:11 Server: Object 3:8 not found (message 89)
+18:05:16 Server: Object 3:8 not found (message 89)
+18:05:21 Server: Object 3:8 not found (message 89)
+18:05:26 Server: Object 3:8 not found (message 89)
+18:05:31 Server: Object 3:8 not found (message 89)
+18:05:36 Server: Object 3:8 not found (message 89)
+18:05:37 "CLEANUP: Deleted 1 Loot Piles out of 61"
+18:05:41 Server: Object 3:8 not found (message 89)
+18:05:46 Server: Object 3:8 not found (message 89)
+18:05:51 Server: Object 3:8 not found (message 89)
+18:05:52 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [499]. Position in debug! [-7239.67,19539.3,0.246307]"
+18:05:53 "get: STRING (235067846), sent: STRING (235067846)"
+18:05:53 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-B:1 (Miss Rachel ) REMOTE, _characterID: 499 at loc [-7239.67,19539.3,0.246307]"
+18:05:53 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [499]. Position in debug! [-7239.67,19539.3,0.246307]"
+18:05:53 Client: Remote object 2:6183 not found
+18:05:53 Client: Remote object 2:6184 not found
+18:05:56 Server: Object 3:8 not found (message 89)
+18:06:01 Server: Object 3:8 not found (message 89)
+18:06:06 Server: Object 3:8 not found (message 89)
+18:06:11 Server: Object 3:8 not found (message 89)
+18:06:16 Server: Object 3:8 not found (message 89)
+18:06:21 Server: Object 3:8 not found (message 89)
+18:06:26 Server: Object 5:400 not found (message 91)
+18:06:26 Server: Object 5:399 not found (message 98)
+18:06:26 Server: Object 5:401 not found (message 98)
+18:06:26 Server: Object 5:402 not found (message 91)
+18:06:26 Server: Object 5:403 not found (message 98)
+18:06:26 Server: Object 5:404 not found (message 91)
+18:06:26 Server: Object 5:406 not found (message 91)
+18:06:26 Server: Object 5:405 not found (message 98)
+18:06:26 Server: Object 3:8 not found (message 89)
+18:06:31 Server: Object 3:8 not found (message 89)
+18:06:36 Server: Object 3:8 not found (message 89)
+18:06:37 "CLEANUP: Deleted 2 Loot Piles out of 58"
+18:06:41 Server: Object 3:8 not found (message 89)
+18:06:46 Server: Object 3:8 not found (message 89)
+18:06:51 Server: Object 3:8 not found (message 89)
+18:06:56 Server: Object 3:8 not found (message 89)
+18:07:01 Server: Object 3:8 not found (message 89)
+18:07:06 Server: Object 3:8 not found (message 89)
+18:07:11 Server: Object 3:8 not found (message 89)
+18:07:16 Server: Object 3:8 not found (message 89)
+18:07:21 Server: Object 3:8 not found (message 89)
+18:07:26 Server: Object 3:8 not found (message 89)
+18:07:31 Server: Object 3:8 not found (message 89)
+18:07:36 Server: Object 3:8 not found (message 89)
+18:07:41 Server: Object 3:8 not found (message 89)
+18:07:46 Server: Object 3:8 not found (message 89)
+18:07:51 Server: Object 3:8 not found (message 89)
+18:07:56 Server: Object 3:8 not found (message 89)
+18:08:01 Server: Object 3:8 not found (message 89)
+18:08:06 Server: Object 3:8 not found (message 89)
+18:08:11 Server: Object 3:8 not found (message 89)
+18:08:16 Server: Object 3:8 not found (message 89)
