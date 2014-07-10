@@ -798,3 +798,49 @@ g from [6993.7,173.053,300] to [3470.31,12667] NOW!(TIME:11106||LT:Hospital)"
  6:20:53 "CLEANUP: Deleted 5 Loot Piles out of 89"
  6:23:47 "TIME SYNC: Local Time set to [2013,8,3,20,23]"
  6:23:54 "CLEANUP: Deleted 1 Loot Piles out of 115"
+ 6:28:47 "TIME SYNC: Local Time set to [2013,8,3,20,28]"
+ 6:30:04 "RUNNING EVENT: crash_spawner on [2014,7,10,20,30]"
+ 6:30:04 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 6:30:04 "CRASHSPAWNER: MV-22 started
+
+g from [6986,-630,1000] to [5765.54,11870.8] NOW!(TIME:14710||LT:MilitarySpecial)"
+ 6:33:47 "TIME SYNC: Local Time set to [2013,8,3,20,33]"
+ 6:35:44 Server: Object 10:112 not found (message 94)
+ 6:36:01 "CRASHSPAWNER: MV-22 just exploded at [5773.51,11600.5,6.42763]!, "
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5775.85,11603.7,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5777.15,11595.4,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5780.47,11600.2,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5769.32,11599.5,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5774.13,11606.6,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5767.98,11607.8,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5766.33,11594.3,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5767.7,11600.7,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5770.2,11608,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5768.25,11603.3,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Loot spawn at '[5778.71,11602.9,0]' with loot table 'MilitarySpecial'"
+ 6:36:01 "CRASHSPAWNER: Crash completed! Wreck at: [5773.49,11600.4,-0.0038147] - Runtime: 357 Seconds || Distance from calculated POC: 271 meters"
+ 6:36:01 Server: Object 10:146 not found (message 91)
+ 6:36:01 Server: Object 10:145 not found (message 98)
+ 6:36:02 Server: Object 10:147 not found (message 98)
+ 6:36:02 Server: Object 10:148 not found (message 91)
+ 6:36:02 Server: Object 10:164 not found (message 91)
+ 6:36:02 Server: Object 10:163 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:166 not found (message 91)
+ 6:36:03 Server: Object 10:168 not found (message 91)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
+ 6:36:03 Server: Object 10:165 not found (message 99)
+ 6:36:03 Server: Object 10:167 not found (message 99)
