@@ -2443,3 +2443,5 @@ if(DZE_DeathMsgSide) then {
 18:25:46 Client: Object 6:480 (type Type_69) not found.
 18:25:46 Client: Object 6:480 (type Type_70) not found.
 18:25:46 Server: Object 3:8 not found (message 89)
+18:25:51 Server: Object 3:8 not found (message 89)
+18:25:56 Server: Object 3:8 not found (message 89)
