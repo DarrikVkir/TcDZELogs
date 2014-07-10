@@ -669,3 +669,26 @@ g from [6986,-630,1000] to [5913.34,7384.52] NOW!(TIME:18071||LT:MilitarySpecial
 13:36:31 "CRASHSPAWNER: Loot spawn at '[5918.37,7379.86,0]' with loot table 'MilitarySpecial'"
 13:36:31 "CRASHSPAWNER: Crash completed! Wreck at: [5913.56,7372,-0.00970459] - Runtime: 390 Seconds || Distance from calculated POC: 13 meters"
 13:37:42 "TIME SYNC: Local Time set to [2013,8,3,21,37]"
+13:39:23 "get: STRING (120160390), sent: STRING (120160390)"
+13:39:23 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [8972.23,9218.25,0.00143433]"
+13:39:23 Client: Remote object 3:8 not found
+13:39:24 Warning: Cleanup player - person 3:7 not found
+13:40:29 "CRASHSPAWNER: UH-60M MEV just exploded at [3258.35,9288.15,0.558502]!, "
+13:40:29 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+13:40:29 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+13:40:29 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3258.71,9292.13,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3266.21,9287.39,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3256.63,9284.25,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3265.45,9285.58,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3262.45,9287.85,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3251.2,9291.34,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3254.7,9290.16,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3264.94,9287.05,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3258.68,9296.29,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3270.06,9286.99,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Loot spawn at '[3248.42,9276.59,0]' with loot table 'Hospital'"
+13:40:29 "CRASHSPAWNER: Crash completed! Wreck at: [3258.35,9288.15,-0.0290527] - Runtime: 6023 Seconds || Distance from calculated POC: 2868 meters"
+13:42:42 "TIME SYNC: Local Time set to [2013,8,3,21,42]"
+13:47:42 "CLEANUP: Deleted 7 Animals out of 7"
+13:47:43 "TIME SYNC: Local Time set to [2013,8,3,21,47]"
