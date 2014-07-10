@@ -2493,3 +2493,17 @@ _we>
 18:27:51   Error Undefined variable in expression: _weapon
 18:27:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
 18:27:52 Server: Object 3:8 not found (message 89)
+18:27:57 Server: Object 3:8 not found (message 89)
+18:27:57 "PDEATH: Player Died 4486214"
+18:27:58 "PHIT: B 1-1-E:1 (Miss Rachel ) REMOTE was hit by B 1-1-B:1 ([BOOTY] 4ASST) REMOTE with T-34 from 12.4235m with 0.175238 dmg"
+18:27:58 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:27:58   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:27:58   Error Undefined variable in expression: _weapon
+18:27:58 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
