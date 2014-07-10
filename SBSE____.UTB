@@ -2318,3 +2318,6 @@ _we>
 18:22:26 Client: Object 6:354 (type Type_70) not found.
 18:22:30 Server: Object 3:8 not found (message 89)
 18:22:35 Server: Object 3:8 not found (message 89)
+18:22:40 Server: Object 3:8 not found (message 89)
+18:22:45 Server: Object 3:8 not found (message 89)
+18:22:46 "get: STRING (147401734), sent: STRING (147401734)"
