@@ -2545,3 +2545,11 @@ if(DZE_DeathMsgSide) then {
 18:28:03 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
 18:28:03 "PDEATH: Player Died 234483142"
 18:28:07 Server: Object 3:8 not found (message 89)
+18:28:12 Server: Object 3:8 not found (message 89)
+18:28:12 "PDEATH: Player Died 9375302"
+18:28:13 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [427]. Position in debug! [-7239.01,19540.4,0.0846252]"
+18:28:14 "get: STRING (4486214), sent: STRING (4486214)"
+18:28:14 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-A:1 (BluntScopes) REMOTE, _characterID: 427 at loc [-7239.01,19540.4,0.0846252]"
+18:28:14 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [427]. Position in debug! [-7239.01,19540.4,0.0846252]"
+18:28:14 Client: Remote object 9:0 not found
+18:28:17 Server: Object 3:8 not found (message 89)
