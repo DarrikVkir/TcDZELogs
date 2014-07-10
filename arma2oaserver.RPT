@@ -548,3 +548,25 @@ g from [1623.71,218.188,300] to [4754.78,4794.53] NOW!(TIME:3908||LT:HeliCrash_N
  3:45:45 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
  3:48:46 "TIME SYNC: Local Time set to [2013,8,3,17,48]"
  3:53:46 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
+ 3:58:46 "TIME SYNC: Local Time set to [2013,8,3,17,58]"
+ 3:58:46 "CLEANUP: Deleted 5 Animals out of 11"
+ 4:00:04 "RUNNING EVENT: crash_spawner on [2014,7,10,18,0]"
+ 4:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 4:00:04 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [4009.3,13801.1] NOW!(TIME:5710||LT:HeliCrash_No50s)"
+ 4:03:46 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
+ 4:08:01 "CRASHSPAWNER: UH-60M just exploded at [4089.99,13864.6,0.210571]!, "
+ 4:08:01 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 4:08:01 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 4:08:01 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4093.41,13862.5,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4087.88,13869.3,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4089.16,13871,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4092.01,13873.6,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4098.81,13862.2,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4081.33,13865.7,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4096.68,13858.7,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4082.83,13857.9,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Loot spawn at '[4096.1,13863.9,0]' with loot table 'HeliCrash_No50s'"
+ 4:08:01 "CRASHSPAWNER: Crash completed! Wreck at: [4089.97,13864.5,-0.079071] - Runtime: 477 Seconds || Distance from calculated POC: 106 meters"
