@@ -2373,3 +2373,73 @@ _we>
 18:25:26 Server: Object 3:8 not found (message 89)
 18:25:31 Server: Object 3:8 not found (message 89)
 18:25:36 Server: Object 3:8 not found (message 89)
+18:25:41 Server: Object 3:8 not found (message 89)
+18:25:42 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-L:1 (Cripto) REMOTE with M1A2 TUSK from 211.011m with 0.280209 dmg"
+18:25:42 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:42   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:42   Error Undefined variable in expression: _weapon
+18:25:42 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:25:46 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with ZSU-23 Shilka from 221.341m with 0.102889 dmg"
+18:25:46 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:46   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:46   Error Undefined variable in expression: _weapon
+18:25:46 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:25:46 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with ZSU-23 Shilka from 221.339m with 0.0976021 dmg"
+18:25:46 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:46   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:46   Error Undefined variable in expression: _weapon
+18:25:46 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:25:46 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+18:25:46 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-M:1 (BluntScopes) REMOTE with ZSU-23 Shilka from 221.349m with 0.909046 dmg"
+18:25:46 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:46   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:25:46   Error Undefined variable in expression: _weapon
+18:25:46 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:25:46 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+18:25:46 "PKILL: [BOOTY] 4ASST was killed by BluntScopes with weapon ZSU-23 Shilka from 221.349m"
+18:25:46 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+18:25:46   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+18:25:46   Error Undefined variable in expression: dze_deathmsgside
+18:25:46 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+18:25:46 "PDEATH: Player Died 234483142"
+18:25:46 Client: Object 6:480 (type Type_69) not found.
+18:25:46 Client: Object 6:480 (type Type_70) not found.
+18:25:46 Server: Object 3:8 not found (message 89)
