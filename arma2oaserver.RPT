@@ -283,3 +283,11 @@ g from [15098,8144,300] to [10525.4,2727.71] NOW!(TIME:232||LT:HeliCrash_No50s)"
 17:07:20 "CRASHSPAWNER: Loot spawn at '[10540,2683.66,0]' with loot table 'HeliCrash_No50s'"
 17:07:20 "CRASHSPAWNER: Loot spawn at '[10537,2692.83,0]' with loot table 'HeliCrash_No50s'"
 17:07:20 "CRASHSPAWNER: Crash completed! Wreck at: [10536,2686.32,-0.337128] - Runtime: 436 Seconds || Distance from calculated POC: 45 meters"
+17:09:33 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+17:12:55 Server: Object 3:70 not found (message 91)
+17:12:55 Server: Object 3:69 not found (message 98)
+17:13:41 "SAFE UNLOCKED: ID:111 UID:0 BY BluntScopes(4486214)"
+17:14:34 "TIME SYNC: Local Time set to [2013,8,3,19,14]"
+17:14:58 "SAFE LOCKED: ID:4223 UID:0 BY Miss Rachel (235067846)"
+17:15:05 "RUNNING EVENT: supply_drop on [2014,7,10,19,15]"
+17:15:22 "SAFE LOCKED: ID:111 UID:0 BY BluntScopes(4486214)"
