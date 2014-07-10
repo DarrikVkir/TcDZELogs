@@ -932,3 +932,37 @@ g from [15098,8144,300] to [3769.05,8126.5] NOW!(TIME:16512||LT:HeliCrash_No50s)
  7:25:10 Server: Object 10:485 not found (message 91)
  7:25:10 Server: Object 10:484 not found (message 99)
  7:27:56 "CLEANUP: Deleted 2 Loot Piles out of 146"
+ 7:28:26 Server: Object 10:494 not found (message 99)
+ 7:28:26 Server: Object 10:495 not found (message 91)
+ 7:28:42 Server: Object 10:498 not found (message 98)
+ 7:28:42 Server: Object 10:499 not found (message 91)
+ 7:28:47 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
+ 7:29:46 Server: Object 10:370 not found (message 99)
+ 7:30:09 "RUNNING EVENT: crash_spawner on [2014,7,10,21,30]"
+ 7:30:09 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 7:30:09 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [4721.82,9716.6] NOW!(TIME:18313||LT:HeliCrash_No50s)"
+ 7:32:43 "CRASHSPAWNER: UH-1H just exploded at [4362.51,8745.48,0.23819]!, "
+ 7:32:43 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 7:32:43 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 7:32:43 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4360.91,8749.15,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4356.95,8744.35,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4361.46,8738.18,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4371.35,8746.92,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4362.43,8749.48,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4358.01,8743.55,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4355.59,8742.46,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4351.63,8747.13,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4358.84,8735.66,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4350.52,8738.34,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4355.68,8756.09,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Loot spawn at '[4351.96,8752.61,0]' with loot table 'HeliCrash_No50s'"
+ 7:32:43 "CRASHSPAWNER: Crash completed! Wreck at: [4362.51,8745.48,-0.00692749] - Runtime: 1956 Seconds || Distance from calculated POC: 859 meters"
+ 7:33:47 "TIME SYNC: Local Time set to [2013,8,3,21,33]"
+ 7:33:57 "CLEANUP: Deleted 13 Loot Piles out of 155"
+ 7:35:57 "CLEANUP: Deleted 2 Loot Piles out of 140"
+ 7:36:56 "CLEANUP: Deleted 2 Loot Piles out of 138"
+ 7:37:16 "[DZMS]: Minor SM12 Bofors Crash Mission has Ended."
+ 7:37:46 "[DZMS]: Running Minor Mission SM5."
