@@ -359,3 +359,46 @@ g from [6993.7,173.053,300] to [1631.01,12097.6] NOW!(TIME:7741||LT:HeliCrash_No
  0:34:24 Error: Error during SetFace - class CfgFaces.OharaHead.Face05 not found
  0:35:00 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
  0:36:05 "CLEANUP: Deleted 2 Loot Piles out of 125"
+ 0:38:30 "SAFE UNLOCKED: ID:111 UID:0 BY BluntScopes(4486214)"
+ 0:39:11 "SAFE LOCKED: ID:111 UID:0 BY BluntScopes(4486214)"
+ 0:40:00 "TIME SYNC: Local Time set to [2013,8,3,20,40]"
+ 0:42:17 "CRASHSPAWNER: UH-60M just exploded at [1641.74,12107,-0.0531464]!, "
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1637.76,12106.5,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1645.49,12101.4,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1652.11,12107.3,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1654.81,12101.6,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1652.72,12117.7,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1641.72,12111.8,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1638.16,12102.5,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1638.09,12110.6,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Loot spawn at '[1648.82,12109.7,0]' with loot table 'HeliCrash_No50s'"
+ 0:42:17 "CRASHSPAWNER: Crash completed! Wreck at: [1641.74,12107,-0.00482178] - Runtime: 727 Seconds || Distance from calculated POC: 15 meters"
+ 0:43:06 "CLEANUP: Deleted 3 Loot Piles out of 138"
+ 0:45:00 "TIME SYNC: Local Time set to [2013,8,3,20,45]"
+ 0:45:54 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 0:45:54 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 0:45:54 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 0:45:54 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 0:45:54 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
