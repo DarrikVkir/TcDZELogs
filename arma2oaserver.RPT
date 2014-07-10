@@ -568,3 +568,11 @@ g from [1623.71,218.188,300] to [4789.22,11714.7] NOW!(TIME:12676||LT:Hospital)"
 12:02:42 "TIME SYNC: Local Time set to [2013,8,3,20,2]"
 12:05:47 "CLEANUP: Deleted 1 Loot Piles out of 82"
 12:07:42 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
+12:10:36 Server: Object 3:2838 not found (message 91)
+12:10:36 Server: Object 3:2837 not found (message 99)
+12:10:36 Server: Object 3:2838 not found (message 91)
+12:10:36 Server: Object 3:2837 not found (message 99)
+12:12:42 "TIME SYNC: Local Time set to [2013,8,3,20,12]"
+12:14:48 "CLEANUP: Deleted 1 Loot Piles out of 87"
+12:15:06 "RUNNING EVENT: supply_drop on [2014,7,10,20,15]"
+12:17:42 "TIME SYNC: Local Time set to [2013,8,3,20,17]"
