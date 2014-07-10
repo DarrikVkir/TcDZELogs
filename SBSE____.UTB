@@ -2345,3 +2345,6 @@ _we>
 18:23:30 Server: Object 3:8 not found (message 89)
 18:23:35 Server: Object 3:8 not found (message 89)
 18:23:40 Server: Object 3:8 not found (message 89)
+18:23:45 Server: Object 3:8 not found (message 89)
+18:23:50 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [501]. Position in debug! [-7239.67,19539.3,0.245789]"
+18:23:50 Server: Object 3:8 not found (message 89)
