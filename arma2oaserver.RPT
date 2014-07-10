@@ -923,3 +923,12 @@ g from [15098,8144,300] to [3769.05,8126.5] NOW!(TIME:16512||LT:HeliCrash_No50s)
  7:15:08 "RUNNING EVENT: supply_drop on [2014,7,10,21,15]"
  7:15:56 "CLEANUP: Deleted 4 Loot Piles out of 148"
  7:17:56 "CLEANUP: Deleted 1 Loot Piles out of 146"
+ 7:18:47 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
+ 7:21:56 "CLEANUP: Deleted 4 Loot Piles out of 147"
+ 7:22:56 "CLEANUP: Deleted 4 Loot Piles out of 143"
+ 7:23:47 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
+ 7:24:57 Server: Object 10:480 not found (message 98)
+ 7:24:57 Server: Object 10:481 not found (message 91)
+ 7:25:10 Server: Object 10:485 not found (message 91)
+ 7:25:10 Server: Object 10:484 not found (message 99)
+ 7:27:56 "CLEANUP: Deleted 2 Loot Piles out of 146"
