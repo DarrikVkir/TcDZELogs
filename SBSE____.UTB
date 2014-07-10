@@ -2553,3 +2553,8 @@ if(DZE_DeathMsgSide) then {
 18:28:14 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [427]. Position in debug! [-7239.01,19540.4,0.0846252]"
 18:28:14 Client: Remote object 9:0 not found
 18:28:17 Server: Object 3:8 not found (message 89)
+18:28:19 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [504]. Position in debug! [-7238.87,19539.4,0.151215]"
+18:28:20 "get: STRING (234483142), sent: STRING (234483142)"
+18:28:20 "DISCONNECT: [BOOTY] 4ASST (234483142) Object: B 1-1-G:1 ([BOOTY] 4ASST) REMOTE, _characterID: 504 at loc [-7238.87,19539.4,0.151215]"
+18:28:20 "ERROR: server_playerSync: Cannot Sync Player [BOOTY] 4ASST [504]. Position in debug! [-7238.87,19539.4,0.151215]"
+18:28:22 Server: Object 3:8 not found (message 89)
