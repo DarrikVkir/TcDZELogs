@@ -301,3 +301,117 @@ g from [15098,8144,300] to [10525.4,2727.71] NOW!(TIME:232||LT:HeliCrash_No50s)"
 17:24:34 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
 17:26:30 "EPOCH SERVERTRADE: Player: Miss Rachel  (235067846) sold a G36K_camo in/at Klen for 3x ItemGoldBar"
 17:27:09 "EPOCH SERVERTRADE: Player: Miss Rachel  (235067846) sold a M14_EP1 in/at Klen for 1x ItemGoldBar10oz"
+17:28:44 "EPOCH SERVERTRADE: Player: Miss Rachel  (235067846) sold a 200Rnd_556x45_M249 in/at Klen for 2x ItemGoldBar"
+17:28:54 "EPOCH SERVERTRADE: Player: Miss Rachel  (235067846) sold a 200Rnd_556x45_M249 in/at Klen for 2x ItemGoldBar"
+17:29:04 "EPOCH SERVERTRADE: Player: Miss Rachel  (235067846) sold a 200Rnd_556x45_M249 in/at Klen for 2x ItemGoldBar"
+17:29:27 "SAFE UNLOCKED: ID:3056 UID:0 BY [BOOTY] 4ASST(234483142)"
+17:29:34 "TIME SYNC: Local Time set to [2013,8,3,19,29]"
+17:30:07 "RUNNING EVENT: crash_spawner on [2014,7,10,19,30]"
+17:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+17:30:07 "CRASHSPAWNER: UH-60M started
+
+g from [6993.7,173.053,300] to [12296,5710.91] NOW!(TIME:2035||LT:HeliCrash_No50s)"
+17:30:36 "CLEANUP: Deleted 1 Loot Piles out of 51"
+17:30:45 "EPOCH SERVERTRADE: Player: Miss Rachel  (235067846) sold a SmokeShell in/at Klen for 1x ItemSilverBar"
+17:30:55 "EPOCH SERVERTRADE: Player: Miss Rachel  (235067846) sold a SmokeShell in/at Klen for 1x ItemSilverBar"
+17:31:36 "CLEANUP: Deleted 2 Loot Piles out of 51"
+17:32:36 "CLEANUP: Deleted 18 Loot Piles out of 49"
+17:33:35 "CLEANUP: Deleted 1 Loot Piles out of 31"
+17:33:56 "DELETE: <null> Deleted by UID: 0"
+17:33:56 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+17:33:56   Error position: <_activatingPlayer,_uid];
+};
+};>
+17:33:56   Error Undefined variable in expression: _activatingplayer
+17:33:56 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+17:34:08 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+17:34:34 "TIME SYNC: Local Time set to [2013,8,3,19,34]"
+17:35:30 WARNING: Function 'name' - Miss Rachel  is dead
+17:35:30 "PDEATH: Player Died 235067846"
+17:35:30 Client: Object 5:170 (type Type_70) not found.
+17:35:30 Client: Object 5:170 (type Type_69) not found.
+17:36:28 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+17:36:28   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+17:36:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+17:36:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+17:36:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+17:36:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+17:36:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+17:36:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+17:36:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+17:36:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+17:36:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+17:36:34 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [498]. Position in debug! [-7239.67,19539.3,0.246155]"
+17:36:36 "get: STRING (235067846), sent: STRING (235067846)"
+17:36:36 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-G:1 (Miss Rachel ) REMOTE, _characterID: 498 at loc [-7239.67,19539.3,0.246155]"
+17:36:36 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [498]. Position in debug! [-7239.67,19539.3,0.246155]"
+17:36:36 Client: Remote object 5:2 not found
+17:37:38 Server: Object 5:194 not found (message 99)
+17:37:38 Server: Object 5:188 not found (message 99)
+17:37:38 Server: Object 5:189 not found (message 91)
+17:37:38 Server: Object 5:190 not found (message 98)
+17:37:38 Server: Object 5:191 not found (message 91)
+17:37:38 Server: Object 5:192 not found (message 98)
+17:37:38 Server: Object 5:193 not found (message 91)
+17:37:38 Server: Object 5:195 not found (message 91)
+17:37:38 Server: Object 5:196 not found (message 98)
+17:37:38 Server: Object 5:197 not found (message 91)
+17:37:38 Server: Object 5:198 not found (message 98)
+17:37:38 Server: Object 5:199 not found (message 91)
+17:37:38 Server: Object 5:200 not found (message 98)
+17:37:38 Server: Object 5:202 not found (message 70)
+17:37:38 Server: Object 5:201 not found (message 91)
+17:37:38 Server: Object 5:203 not found (message 99)
+17:37:38 Server: Object 5:204 not found (message 91)
+17:37:38 Server: Object 5:206 not found (message 91)
+17:37:38 Server: Object 5:205 not found (message 99)
+17:37:38 Server: Object 5:208 not found (message 91)
+17:37:38 Server: Object 5:207 not found (message 99)
+17:37:38 Server: Object 5:210 not found (message 91)
+17:37:38 Server: Object 5:209 not found (message 99)
+17:37:38 Server: Object 5:212 not found (message 91)
+17:37:38 Server: Object 5:211 not found (message 99)
+17:37:38 Server: Object 5:214 not found (message 91)
+17:37:38 Server: Object 5:213 not found (message 99)
+17:37:38 Server: Object 5:216 not found (message 91)
+17:37:38 Server: Object 5:215 not found (message 99)
+17:37:38 Server: Object 5:218 not found (message 91)
+17:37:38 Server: Object 5:217 not found (message 99)
+17:37:38 Server: Object 5:220 not found (message 70)
+17:37:38 Server: Object 5:219 not found (message 70)
+17:37:38 Server: Object 5:222 not found (message 70)
+17:37:38 Server: Object 5:221 not found (message 70)
+17:37:39 Server: Object 5:223 not found (message 94)
+17:37:39 Server: Object 5:225 not found (message 91)
+17:37:39 Server: Object 5:224 not found (message 98)
+17:37:39 Server: Object 5:227 not found (message 91)
+17:37:39 Server: Object 5:226 not found (message 99)
+17:37:39 Server: Object 5:229 not found (message 91)
+17:37:39 Server: Object 5:228 not found (message 99)
+17:37:39 Server: Object 5:230 not found (message 70)
+17:37:39 Server: Object 5:232 not found (message 91)
+17:37:39 Server: Object 5:231 not found (message 99)
+17:37:39 Server: Object 5:233 not found (message 70)
+17:37:39 Server: Object 5:236 not found (message 91)
+17:37:39 Server: Object 5:235 not found (message 99)
+17:37:39 Server: Object 5:234 not found (message 70)
+17:37:39 Server: Object 5:238 not found (message 91)
+17:37:39 Server: Object 5:237 not found (message 99)
