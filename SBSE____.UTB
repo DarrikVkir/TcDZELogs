@@ -2321,3 +2321,9 @@ _we>
 18:22:40 Server: Object 3:8 not found (message 89)
 18:22:45 Server: Object 3:8 not found (message 89)
 18:22:46 "get: STRING (147401734), sent: STRING (147401734)"
+18:22:46 "DISCONNECT: Bonetoy (147401734) Object: B 1-1-E:1 (Bonetoy) REMOTE, _characterID: 502 at loc [13455.5,5936.85,0.00177145]"
+18:22:46 Client: Remote object 10:6 not found
+18:22:46 Client: Remote object 10:5 not found
+18:22:46 Client: Remote object 10:2 not found
+18:22:48 Warning: Cleanup player - person 10:7 not found
+18:22:50 Server: Object 3:8 not found (message 89)
