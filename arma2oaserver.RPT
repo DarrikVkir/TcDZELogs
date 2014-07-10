@@ -309,3 +309,10 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:35:48 Server: Object 5:52 not found (message 94)
  2:35:48 Server: Object 5:50 not found (message 94)
  2:35:48 Server: Object 5:51 not found (message 94)
+ 2:38:45 "TIME SYNC: Local Time set to [2013,8,3,16,38]"
+ 2:40:53 Client: Object 5:66 (type Type_70) not found.
+ 2:40:53 Client: Object 5:67 (type Type_70) not found.
+ 2:43:45 "TIME SYNC: Local Time set to [2013,8,3,16,43]"
+ 2:43:47 "CLEANUP: Deleted 5 Animals out of 23"
+ 2:46:42 Server: Object 5:100 not found (message 98)
+ 2:46:42 Server: Object 5:101 not found (message 91)
