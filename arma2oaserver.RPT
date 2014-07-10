@@ -280,3 +280,32 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:26:25 "[DZMS]: Mission Marker Loop for JIPs Starting!"
  2:26:54 "[DZMS]: Running Minor Mission SM8."
  2:28:02 "[DZMS]: Running Major Mission SM9."
+ 2:28:39 "get: STRING (22070854), sent: STRING (22070854)"
+ 2:28:39 "DISCONNECT: Maggie (22070854) Object: B 1-1-C:1 (Maggie) REMOTE, _characterID: 450 at loc [6863.31,2500.18,39.864]"
+ 2:28:39 Client: Remote object 4:8 not found
+ 2:28:39 Warning: Cleanup player - person 4:7 not found
+ 2:28:40 Warning: Cleanup player - person 4:7 not found
+ 2:28:45 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 2:30:06 "RUNNING EVENT: crash_spawner on [2014,7,10,16,30]"
+ 2:30:06 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Ural Wreck spawned at [6560.26,5965.21]"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6561.21,5969.09,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6560.22,5960.9,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6567.07,5963.62,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6564.95,5969.71,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6566.58,5964.47,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6563.7,5960.5,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6563.59,5961.55,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6554.77,5959.59,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6556.73,5970.61,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6569.61,5961.4,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6567.46,5963.88,0.0502625]' with loot table 'Military'"
+ 2:30:06 "CRASHSPAWNER: Loot spawn at '[6556.53,5967.31,0.0502625]' with loot table 'Military'"
+ 2:33:45 "TIME SYNC: Local Time set to [2013,8,3,16,33]"
+ 2:35:47 Server: Object 5:30 not found (message 94)
+ 2:35:47 Server: Object 5:29 not found (message 94)
+ 2:35:47 Server: Object 5:31 not found (message 94)
+ 2:35:47 Server: Object 5:32 not found (message 94)
+ 2:35:48 Server: Object 5:52 not found (message 94)
+ 2:35:48 Server: Object 5:50 not found (message 94)
+ 2:35:48 Server: Object 5:51 not found (message 94)
