@@ -710,3 +710,34 @@ g from [1623.71,218.188,300] to [3155.31,8838.38] NOW!(TIME:9314||LT:Hospital)"
  5:17:09 "[DZMS]: Minor SM8 Bandit Party Mission has Ended."
  5:17:14 "[DZMS]: Running Minor Mission SM13."
  5:17:52 "CLEANUP: Deleted 1 Loot Piles out of 87"
+ 5:18:46 "TIME SYNC: Local Time set to [2013,8,3,19,18]"
+ 5:18:52 "CLEANUP: Deleted 1 Loot Piles out of 86"
+ 5:20:52 "CLEANUP: Deleted 1 Loot Piles out of 86"
+ 5:21:01 Server: Object 3:286 not found (message 91)
+ 5:21:01 Server: Object 3:285 not found (message 99)
+ 5:21:01 Server: Object 3:292 not found (message 91)
+ 5:21:01 Server: Object 3:291 not found (message 99)
+ 5:21:52 "CLEANUP: Deleted 4 Loot Piles out of 99"
+ 5:23:46 "TIME SYNC: Local Time set to [2013,8,3,19,23]"
+ 5:25:46 "[DZMS]: Minor SM12 Bofors Crash Mission has Ended."
+ 5:25:57 "[DZMS]: Running Minor Mission SM13."
+ 5:26:02 WARNING: Function 'name' - Miss Rachel  is dead
+ 5:26:02 "PDEATH: Player Died 235067846"
+ 5:26:26 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [497]. Position in debug! [-7239.67,19539.3,0.246307]"
+ 5:26:27 "get: STRING (235067846), sent: STRING (235067846)"
+ 5:26:27 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-A:1 (Miss Rachel ) REMOTE, _characterID: 497 at loc [-7239.67,19539.3,0.246307]"
+ 5:26:27 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [497]. Position in debug! [-7239.67,19539.3,0.246307]"
+ 5:26:27 Client: Remote object 9:2 not found
+ 5:27:20 Server: Object 9:232 not found (message 99)
+ 5:27:20 Server: Object 9:229 not found (message 91)
+ 5:27:20 Server: Object 9:230 not found (message 98)
+ 5:27:20 Server: Object 9:231 not found (message 91)
+ 5:27:20 Server: Object 9:233 not found (message 91)
+ 5:27:20 Server: Object 9:234 not found (message 98)
+ 5:27:20 Server: Object 9:235 not found (message 91)
+ 5:27:20 Server: Object 9:236 not found (message 98)
+ 5:27:20 Server: Object 9:237 not found (message 91)
+ 5:27:20 Server: Object 9:238 not found (message 98)
+ 5:27:20 Server: Object 9:239 not found (message 91)
+ 5:27:20 Server: Object 9:240 not found (message 99)
+ 5:27:20 Server: Object 9:241 not found (message 91)
