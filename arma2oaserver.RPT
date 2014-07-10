@@ -516,3 +516,33 @@ g from [1623.71,218.188,300] to [4754.78,4794.53] NOW!(TIME:3908||LT:HeliCrash_N
  3:31:33 "SAFE LOCKED: ID:3056 UID:0 BY Cripto(9375302)"
  3:33:46 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
  3:35:49 "CLEANUP: Deleted 6 Loot Piles out of 71"
+ 3:38:46 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
+ 3:39:42 "get: STRING (9375302), sent: STRING (9375302)"
+ 3:39:42 "DISCONNECT: Cripto (9375302) Object: B 1-1-D:1 (Cripto) REMOTE, _characterID: 265 at loc [13842.1,11780,0.00204945]"
+ 3:39:42 Client: Remote object 5:2 not found
+ 3:39:42 Client: Remote object 5:8 not found
+ 3:39:42 Warning: Cleanup player - person 5:7 not found
+ 3:39:44 Warning: Cleanup player - person 5:7 not found
+ 3:41:29 "get: STRING (22070854), sent: STRING (22070854)"
+ 3:41:29 "DISCONNECT: Maggie (22070854) Object: B 1-1-E:1 (Maggie) REMOTE, _characterID: 450 at loc [13850.9,11745.9,0.00160933]"
+ 3:41:29 Client: Remote object 7:6 not found
+ 3:41:29 Client: Remote object 7:5 not found
+ 3:41:29 Client: Remote object 7:2 not found
+ 3:41:54 Server: Object info 7:231 not found.
+ 3:41:54 Server: Object 7:231 not found (message 70)
+ 3:41:54 Server: Object 7:231 not found (message 94)
+ 3:41:54 Server: Object 7:231 not found (message 94)
+ 3:43:46 "TIME SYNC: Local Time set to [2013,8,3,17,43]"
+ 3:43:47 "CLEANUP: Deleted 10 Animals out of 16"
+ 3:45:04 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 3:45:04 "get: STRING (), sent: STRING (4486214)"
+ 3:45:04 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 REMOTE, _characterID: 427 at loc [13849.3,11749.6,0.001297]"
+ 3:45:04 Client: Remote object 6:0 not found
+ 3:45:04 Client: Remote object 6:8 not found
+ 3:45:05 "get: STRING (22070854), sent: STRING (22070854)"
+ 3:45:05 "DISCONNECT: Maggie (22070854) Object: B 1-1-D:1 (Maggie) REMOTE, _characterID: 450 at loc [13845.6,11767.4,0.00207996]"
+ 3:45:05 Client: Remote object 7:228 not found
+ 3:45:05 Client: Remote object 7:227 not found
+ 3:45:06 Warning: Cleanup player - person 6:7 not found
+ 3:45:17 Warning: Cleanup player - person 7:229 not found
+ 3:45:45 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
