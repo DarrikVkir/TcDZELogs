@@ -461,3 +461,34 @@ g from [15098,8144,300] to [4303.28,2692.77] NOW!(TIME:11335||LT:MilitarySpecial
  1:55:00 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
  1:56:11 "CLEANUP: Deleted 1 Loot Piles out of 190"
  1:58:11 "CLEANUP: Deleted 1 Loot Piles out of 191"
+ 2:00:00 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+ 2:00:08 "RUNNING EVENT: crash_spawner on [2014,7,9,22,0]"
+ 2:00:08 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 2:00:08 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [6986,-630,1000] to [11434.3,13023.2] NOW!(TIME:13137||LT:MilitarySpecial)"
+ 2:01:12 "CLEANUP: Deleted 13 Loot Piles out of 194"
+ 2:04:32 Client: Object 7:128 (type Type_70) not found.
+ 2:04:32 Server: Object 7:130 not found (message 70)
+ 2:04:38 Client: Object 7:155 (type Type_70) not found.
+ 2:04:38 Client: Object 7:156 (type Type_70) not found.
+ 2:04:38 Client: Object 7:157 (type Type_70) not found.
+ 2:04:38 Client: Object 7:158 (type Type_70) not found.
+ 2:04:38 Client: Object 7:159 (type Type_70) not found.
+ 2:04:38 Client: Object 7:161 (type Type_70) not found.
+ 2:04:38 Client: Object 7:162 (type Type_70) not found.
+ 2:04:40 Client: Object 7:170 (type Type_70) not found.
+ 2:04:40 Client: Object 7:169 (type Type_70) not found.
+ 2:04:40 Client: Object 7:173 (type Type_70) not found.
+ 2:04:40 Client: Object 7:174 (type Type_70) not found.
+ 2:04:40 Client: Object 7:173 (type Type_70) not found.
+ 2:04:40 Client: Object 7:174 (type Type_70) not found.
+ 2:04:41 Client: Object 7:177 (type Type_70) not found.
+ 2:04:41 Client: Object 7:178 (type Type_70) not found.
+ 2:04:43 Client: Object 7:185 (type Type_70) not found.
+ 2:04:43 Client: Object 7:186 (type Type_70) not found.
+ 2:05:00 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
+ 2:07:12 "CLEANUP: Deleted 2 Loot Piles out of 185"
+ 2:07:51 "[DZMS]: Minor SM3 Stash House Mission has Ended."
+ 2:07:57 "[DZMS]: Running Minor Mission SM5."
+ 2:08:12 "CLEANUP: Deleted 1 Loot Piles out of 185"
