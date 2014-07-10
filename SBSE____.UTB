@@ -2507,3 +2507,41 @@ _we>
 _we>
 18:27:58   Error Undefined variable in expression: _weapon
 18:27:58 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:28:02 Server: Object 3:8 not found (message 89)
+18:28:03 SetFace error: class CfgFaces.DrakeHead_EP1.Face05 not found
+18:28:03 Error: Error during SetFace - class CfgFaces.DrakeHead_EP1.Face05 not found
+18:28:03 SetFace error: class CfgFaces.DrakeHead_EP1.Face05 not found
+18:28:03 Error: Error during SetFace - class CfgFaces.DrakeHead_EP1.Face05 not found
+18:28:03 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+18:28:03 "PHIT: B 1-1-B:1 ([BOOTY] 4ASST) REMOTE was hit by B 1-1-E:1 (Miss Rachel ) REMOTE with T-72 from 12.2014m with 1.11046 dmg"
+18:28:03 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+18:28:03   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+18:28:03   Error Undefined variable in expression: _weapon
+18:28:03 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+18:28:03 Client: Object 6:514 (type Type_70) not found.
+18:28:03 Client: Object 6:514 (type Type_69) not found.
+18:28:03 WARNING: Function 'name' - [BOOTY] 4ASST is dead
+18:28:03 "PKILL: [BOOTY] 4ASST was killed by Miss Rachel  with weapon T-72 from 12.2014m"
+18:28:03 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+18:28:03   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+18:28:03   Error Undefined variable in expression: dze_deathmsgside
+18:28:03 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+18:28:03 "PDEATH: Player Died 234483142"
+18:28:07 Server: Object 3:8 not found (message 89)
