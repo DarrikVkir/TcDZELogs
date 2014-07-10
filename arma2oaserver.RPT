@@ -402,3 +402,14 @@ g from [6993.7,173.053,300] to [1631.01,12097.6] NOW!(TIME:7741||LT:HeliCrash_No
  0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
  0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
  0:45:54   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 0:49:57 "DELETE: B 1-1-D:1 (BluntScopes) REMOTE Deleted by UID: 0"
+ 0:50:00 "TIME SYNC: Local Time set to [2013,8,3,20,50]"
+ 0:53:05 "DELETE: B 1-1-D:1 (BluntScopes) REMOTE Deleted by UID: 0"
+ 0:55:00 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
+ 0:55:06 "CLEANUP: Deleted 2 Loot Piles out of 142"
+ 0:57:07 "CLEANUP: Deleted 1 Loot Piles out of 143"
+ 0:57:20 "get: STRING (4486214), sent: STRING (4486214)"
+ 0:57:20 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-D:1 (BluntScopes) REMOTE, _characterID: 427 at loc [9181.87,14892.9,0.00183105]"
+ 0:57:20 Client: Remote object 5:0 not found
+ 0:57:20 Client: Remote object 5:26 not found
+ 0:57:22 Warning: Cleanup player - person 5:25 not found
