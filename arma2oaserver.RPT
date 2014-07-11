@@ -394,3 +394,19 @@ g from [10450,-630,1000] to [6743.9,3693.91] NOW!(TIME:6297||LT:MilitarySpecial)
 11:02:58 "CRASHSPAWNER: Crash completed! Wreck at: [6842.75,3834.19,0.0316925] - Runtime: 172 Seconds || Distance from calculated POC: 173 meters"
 11:03:59 "TIME SYNC: Local Time set to [2013,8,3,19,3]"
 11:03:59 "CLEANUP: Deleted 6 Animals out of 6"
+11:08:59 "TIME SYNC: Local Time set to [2013,8,3,19,8]"
+11:10:31 "get: STRING (76561198004625238), sent: STRING (76561198004625238)"
+11:10:31 "DISCONNECT: BluntScopes (76561198004625238) Object: B 1-1-A:1 (BluntScopes) REMOTE, _characterID: 0 at loc [-7244.94,19534.5,1.10648]"
+11:10:31 "ERROR: Cannot Sync Character BluntScopes as no characterID"
+11:10:31 Client: Remote object 2:6310 not found
+11:10:31 Client: Remote object 2:6311 not found
+11:10:31 Client: Remote object 2:6312 not found
+11:10:31 Client: Remote object 6:0 not found
+11:13:59 "TIME SYNC: Local Time set to [2013,8,3,19,13]"
+11:14:24 "get: STRING (4486214), sent: STRING (4486214)"
+11:14:24 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 521 at loc [8859.53,15129.2,0.00192261]"
+11:14:24 Client: Remote object 7:6 not found
+11:14:24 Client: Remote object 7:5 not found
+11:14:24 Client: Remote object 7:0 not found
+11:14:27 Warning: Cleanup player - person 7:7 not found
+11:15:07 "RUNNING EVENT: supply_drop on [2014,7,11,19,15]"
