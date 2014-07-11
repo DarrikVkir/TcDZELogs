@@ -352,3 +352,18 @@ g from [15186,11857,300] to [4385.01,7572.18] NOW!(TIME:2075||LT:MilitarySpecial
  3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
  3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
  3:37:24 "CLEANUP: Deleted 1 Loot Piles out of 32"
+ 3:39:22 "TIME SYNC: Local Time set to [2013,8,3,17,39]"
+ 3:39:24 "CLEANUP: Deleted 2 Loot Piles out of 31"
+ 3:40:24 "CLEANUP: Deleted 1 Loot Piles out of 29"
+ 3:42:24 "CLEANUP: Deleted 1 Loot Piles out of 28"
+ 3:42:25 Server: Object 5:199 not found (message 98)
+ 3:42:25 Server: Object 5:200 not found (message 91)
+ 3:42:25 Server: Object 5:201 not found (message 99)
+ 3:42:25 Server: Object 5:202 not found (message 91)
+ 3:42:25 Server: Object 5:203 not found (message 99)
+ 3:42:25 Server: Object 5:204 not found (message 91)
+ 3:42:25 Server: Object 5:205 not found (message 98)
+ 3:42:25 Server: Object 5:206 not found (message 91)
+ 3:42:25 Server: Object 5:208 not found (message 91)
+ 3:42:25 Server: Object 5:207 not found (message 98)
+ 3:44:22 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
