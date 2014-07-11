@@ -373,3 +373,6 @@ g from [1623.71,218.188,300] to [13798.7,2914.62] NOW!(TIME:3379||LT:HeliCrash_N
  0:39:51 NAT Negotiation completed
  0:42:37 "TIME SYNC: Local Time set to [2013,8,3,20,42]"
  0:47:37 "TIME SYNC: Local Time set to [2013,8,3,20,47]"
+ 0:50:41 "CLEANUP: Deleted 3 Loot Piles out of 37"
+ 0:52:37 "TIME SYNC: Local Time set to [2013,8,3,20,52]"
+ 0:57:37 "TIME SYNC: Local Time set to [2013,8,3,20,57]"
