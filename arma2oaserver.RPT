@@ -229,3 +229,68 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 23:08:04 "HIVE: Spawning # of Veins: 50"
 23:08:04 "Total Number of spawn locations 5"
 23:08:05 "EPOCH EVENTS INIT"
+23:09:10 "Res3tting B!S effects..."
+23:09:13 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+23:09:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+23:10:11 "[DZMS]: Starting DayZ Epoch Mission System."
+23:10:11 "[DZMS]: Relations not found! Using DZMS Relations."
+23:10:11 "[DZMS]: Mission and Extended Configuration Loaded!"
+23:10:11 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+23:10:11 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+23:10:11 "[DZMS]: Mission Functions Script Loaded!"
+23:10:11 "[DZMS]: Major Mission Clock Starting!"
+23:10:11 "[DZMS]: Minor Mission Clock Starting!"
+23:10:11 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+23:10:17 "[DZMS]: Running Minor Mission SM6."
+23:10:20 "[DZMS]: Running Major Mission SM2."
+23:12:31 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+23:15:02 "RUNNING EVENT: supply_drop on [2014,7,11,19,15]"
+23:16:11 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+23:16:11   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+23:16:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+23:16:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+23:16:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+23:16:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+23:16:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+23:16:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+23:16:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+23:16:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+23:16:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+23:16:12 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+23:16:13 Server: Object 7:65 not found (message 99)
+23:16:13 Server: Object 7:66 not found (message 91)
+23:16:13 Server: Object 7:83 not found (message 98)
+23:16:13 Server: Object 7:84 not found (message 91)
+23:17:15 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+23:17:31 "TIME SYNC: Local Time set to [2013,8,3,19,17]"
