@@ -316,3 +316,10 @@ g from [10450,-630,1000] to [11149,7884.64] NOW!(TIME:894||LT:MilitarySpecial)"
  9:49:00 "CLEANUP: Deleted 15 Animals out of 15"
  9:53:59 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
  9:54:00 "CLEANUP: Deleted 1 Loot Piles out of 16"
+ 9:58:59 "TIME SYNC: Local Time set to [2013,8,3,17,58]"
+10:00:03 "RUNNING EVENT: crash_spawner on [2014,7,11,18,0]"
+10:00:03 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+10:00:03 "CRASHSPAWNER: Mi-24D started
+
+g from [15098,8144,300] to [4555.86,6203.34] NOW!(TIME:2695||LT:MilitarySpecial)"
+10:03:59 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
