@@ -439,3 +439,10 @@ g from [15098,8144,300] to [2638.14,14197.6] NOW!(TIME:8099||LT:MilitarySpecial)
 11:44:00 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
 11:49:00 "TIME SYNC: Local Time set to [2013,8,3,19,49]"
 11:54:00 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
+11:59:00 "TIME SYNC: Local Time set to [2013,8,3,19,59]"
+12:00:09 "RUNNING EVENT: crash_spawner on [2014,7,11,20,0]"
+12:00:09 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+12:00:09 "CRASHSPAWNER: Mi-24D started
+
+g from [6993.7,173.053,300] to [10439.5,8809.72] NOW!(TIME:9900||LT:MilitarySpecial)"
+12:04:00 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
