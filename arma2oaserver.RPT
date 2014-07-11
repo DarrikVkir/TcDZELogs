@@ -367,3 +367,7 @@ g from [15186,11857,300] to [4385.01,7572.18] NOW!(TIME:2075||LT:MilitarySpecial
  3:42:25 Server: Object 5:208 not found (message 91)
  3:42:25 Server: Object 5:207 not found (message 98)
  3:44:22 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
+ 3:48:24 "CLEANUP: Deleted 1 Loot Piles out of 27"
+ 3:49:22 "TIME SYNC: Local Time set to [2013,8,3,17,49]"
+ 3:50:24 "CLEANUP: Deleted 1 Loot Piles out of 26"
+ 3:54:22 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
