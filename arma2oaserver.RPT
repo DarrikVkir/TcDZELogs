@@ -312,3 +312,7 @@ g from [10450,-630,1000] to [11149,7884.64] NOW!(TIME:894||LT:MilitarySpecial)"
  9:44:46 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 REMOTE, _characterID: 411 at loc [5346.76,8957.1,0.00109863]"
  9:44:46 Client: Remote object 3:8 not found
  9:44:48 Warning: Cleanup player - person 3:7 not found
+ 9:48:59 "TIME SYNC: Local Time set to [2013,8,3,17,48]"
+ 9:49:00 "CLEANUP: Deleted 15 Animals out of 15"
+ 9:53:59 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
+ 9:54:00 "CLEANUP: Deleted 1 Loot Piles out of 16"
