@@ -261,3 +261,20 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 
 g from [6993.7,173.053,300] to [4630.27,15267.6] NOW!(TIME:273||LT:HeliCrash_No50s)"
  2:34:22 "TIME SYNC: Local Time set to [2013,8,3,16,34]"
+ 2:39:22 "TIME SYNC: Local Time set to [2013,8,3,16,39]"
+ 2:42:38 "CRASHSPAWNER: UH-1Y just exploded at [10069.8,14333.5,-0.726868]!, "
+ 2:42:38 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 2:42:38 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 2:42:38 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10072.9,14336.1,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10068.1,14337.4,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10062.7,14332.9,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10064.9,14331.2,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10062.4,14330.5,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10065.2,14337,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10061.3,14335.9,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10063.9,14337.5,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Loot spawn at '[10078.1,14329.8,0]' with loot table 'HeliCrash_No50s'"
+ 2:42:38 "CRASHSPAWNER: Crash completed! Wreck at: [10069.8,14333.5,0.0147324] - Runtime: 756 Seconds || Distance from calculated POC: 5537 meters"
+ 2:44:22 "TIME SYNC: Local Time set to [2013,8,3,16,44]"
+ 2:44:22 "CLEANUP: Deleted 5 Animals out of 8"
