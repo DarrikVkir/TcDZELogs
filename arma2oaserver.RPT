@@ -284,3 +284,23 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  9:26:52   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
  9:26:52   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
  9:26:52   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 9:28:59 "TIME SYNC: Local Time set to [2013,8,3,17,28]"
+ 9:30:02 "RUNNING EVENT: crash_spawner on [2014,7,11,17,30]"
+ 9:30:02 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 9:30:02 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [10450,-630,1000] to [11149,7884.64] NOW!(TIME:894||LT:MilitarySpecial)"
+ 9:32:45 "CRASHSPAWNER: AV-8B (LGB) just exploded at [10918.7,8044.43,5.8362]!, "
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10915.1,8046.19,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10914.6,8042.96,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10913.1,8040.32,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10923.2,8044.48,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10925.1,8040.95,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10916.9,8036.63,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10920.7,8051.02,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10925.8,8039.72,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Loot spawn at '[10910.7,8049.22,0]' with loot table 'MilitarySpecial'"
+ 9:32:45 "CRASHSPAWNER: Crash completed! Wreck at: [10918.6,8044.51,0.00942993] - Runtime: 163 Seconds || Distance from calculated POC: 281 meters"
+ 9:33:59 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
+ 9:34:52 "[DZMS]: Minor SM4 Crash Site Mission has Ended."
+ 9:35:20 "[DZMS]: Running Minor Mission SM3."
