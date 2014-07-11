@@ -530,3 +530,11 @@ g from [15186,11857,300] to [10671.5,10886.7] NOW!(TIME:11074||LT:Hospital)"
  5:44:36 "EPOCH SERVERTRADE: Player: Bored Shorts (255024710) sold a V3S_Refuel_TK_GUE_EP1_DZ in/at Bash for 3x ItemGoldBar10oz"
  5:44:37 "DELETE: B 1-1-B:1 (Bored Shorts) REMOTE Deleted by ID: 4805"
  5:45:30 "CLEANUP: Deleted 34 Loot Piles out of 109"
+ 5:49:23 "TIME SYNC: Local Time set to [2013,8,3,19,49]"
+ 5:49:37 "get: STRING (255024710), sent: STRING (255024710)"
+ 5:49:37 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-B:1 (Bored Shorts) REMOTE, _characterID: 485 at loc [4146.8,11732.2,0.00213623]"
+ 5:49:37 Client: Remote object 5:2 not found
+ 5:49:37 Client: Remote object 5:8 not found
+ 5:49:37 Warning: Cleanup player - person 5:7 not found
+ 5:49:40 Warning: Cleanup player - person 5:7 not found
+ 5:54:23 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
