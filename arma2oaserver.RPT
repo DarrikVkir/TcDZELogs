@@ -369,3 +369,28 @@ g from [15186,11857,300] to [12791,14731.3] NOW!(TIME:4496||LT:MilitarySpecial)"
 10:48:59 "TIME SYNC: Local Time set to [2013,8,3,18,48]"
 10:53:46 NAT Negotiation completed
 10:53:59 "TIME SYNC: Local Time set to [2013,8,3,18,53]"
+10:58:59 "TIME SYNC: Local Time set to [2013,8,3,18,58]"
+11:00:06 "RUNNING EVENT: crash_spawner on [2014,7,11,19,0]"
+11:00:06 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+11:00:06 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [10450,-630,1000] to [6743.9,3693.91] NOW!(TIME:6297||LT:MilitarySpecial)"
+11:02:31 "get: STRING (4486214), sent: STRING (4486214)"
+11:02:31 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 521 at loc [8859.53,15129.2,0.00192261]"
+11:02:31 Client: Remote object 4:6 not found
+11:02:31 Client: Remote object 4:5 not found
+11:02:31 Client: Remote object 4:0 not found
+11:02:33 Warning: Cleanup player - person 4:7 not found
+11:02:58 "CRASHSPAWNER: AV-8B (LGB) just exploded at [6842.67,3834.3,6.67705]!, "
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6846.42,3832.9,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6846.63,3833.23,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6848.28,3828.95,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6838.74,3830.08,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6838.67,3840.36,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6852.35,3837.57,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6849.19,3825.56,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6852.52,3827.39,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Loot spawn at '[6855.42,3830.16,0]' with loot table 'MilitarySpecial'"
+11:02:58 "CRASHSPAWNER: Crash completed! Wreck at: [6842.75,3834.19,0.0316925] - Runtime: 172 Seconds || Distance from calculated POC: 173 meters"
+11:03:59 "TIME SYNC: Local Time set to [2013,8,3,19,3]"
+11:03:59 "CLEANUP: Deleted 6 Animals out of 6"
