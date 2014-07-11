@@ -398,3 +398,16 @@ g from [15098,8144,300] to [5157.68,7196.14] NOW!(TIME:5669||LT:HeliCrash_No50s)
  4:14:22 "TIME SYNC: Local Time set to [2013,8,3,18,14]"
  4:15:01 "RUNNING EVENT: supply_drop on [2014,7,11,18,15]"
  4:16:25 "CLEANUP: Deleted 1 Loot Piles out of 54"
+ 4:18:25 "CLEANUP: Deleted 1 Loot Piles out of 54"
+ 4:18:57 Server: Object 5:328 not found (message 91)
+ 4:18:57 Server: Object 5:330 not found (message 91)
+ 4:19:22 "TIME SYNC: Local Time set to [2013,8,3,18,19]"
+ 4:19:42 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 4:23:26 "CLEANUP: Deleted 1 Loot Piles out of 72"
+ 4:24:22 "TIME SYNC: Local Time set to [2013,8,3,18,24]"
+ 4:24:34 Server: Object 5:453 not found (message 70)
+ 4:24:34 Server: Object 5:452 not found (message 70)
+ 4:24:34 Server: Object 5:451 not found (message 70)
+ 4:24:34 Server: Object 5:454 not found (message 94)
+ 4:24:34 Server: Object 5:468 not found (message 70)
+ 4:26:27 "CLEANUP: Deleted 1 Loot Piles out of 162"
