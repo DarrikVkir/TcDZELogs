@@ -371,3 +371,12 @@ g from [15186,11857,300] to [4385.01,7572.18] NOW!(TIME:2075||LT:MilitarySpecial
  3:49:22 "TIME SYNC: Local Time set to [2013,8,3,17,49]"
  3:50:24 "CLEANUP: Deleted 1 Loot Piles out of 26"
  3:54:22 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
+ 3:59:22 "TIME SYNC: Local Time set to [2013,8,3,17,59]"
+ 4:00:00 "RUNNING EVENT: crash_spawner on [2014,7,11,18,0]"
+ 4:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 4:00:00 "CRASHSPAWNER: UH-1H started
+
+g from [15098,8144,300] to [5157.68,7196.14] NOW!(TIME:5669||LT:HeliCrash_No50s)"
+ 4:04:22 "TIME SYNC: Local Time set to [2013,8,3,18,4]"
+ 4:07:02 "[DZMS]: Major SM11 Broken HMWV Mission has Ended."
+ 4:07:52 "[DZMS]: Running Major Mission SM3."
