@@ -304,3 +304,11 @@ g from [10450,-630,1000] to [11149,7884.64] NOW!(TIME:894||LT:MilitarySpecial)"
  9:33:59 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
  9:34:52 "[DZMS]: Minor SM4 Crash Site Mission has Ended."
  9:35:20 "[DZMS]: Running Minor Mission SM3."
+ 9:38:59 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
+ 9:40:01 "CLEANUP: Deleted 15 Loot Piles out of 33"
+ 9:43:59 "TIME SYNC: Local Time set to [2013,8,3,17,43]"
+ 9:44:46 "nil player object attempting PV, :["120160390","telconrar"]"
+ 9:44:46 "get: STRING (), sent: STRING (120160390)"
+ 9:44:46 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 REMOTE, _characterID: 411 at loc [5346.76,8957.1,0.00109863]"
+ 9:44:46 Client: Remote object 3:8 not found
+ 9:44:48 Warning: Cleanup player - person 3:7 not found
