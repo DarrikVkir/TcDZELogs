@@ -305,3 +305,50 @@ g from [15186,11857,300] to [4385.01,7572.18] NOW!(TIME:2075||LT:MilitarySpecial
  3:15:05 "RUNNING EVENT: supply_drop on [2014,7,11,17,15]"
  3:19:22 "TIME SYNC: Local Time set to [2013,8,3,17,19]"
  3:24:22 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
+ 3:29:22 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+ 3:30:06 "RUNNING EVENT: crash_spawner on [2014,7,11,17,30]"
+ 3:30:06 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Ural Wreck spawned at [3474.29,2892.01]"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3470.75,2893.87,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3478.04,2896.64,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3468.41,2891.01,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3469.38,2891.3,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3470.06,2895.36,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3479.03,2894.16,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3472.68,2885.84,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3479.88,2896.03,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3481.04,2894.27,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3465.36,2897.93,0.021347]' with loot table 'Military'"
+ 3:30:06 "CRASHSPAWNER: Loot spawn at '[3477.33,2885.85,0.021347]' with loot table 'Military'"
+ 3:30:07 "CRASHSPAWNER: Loot spawn at '[3466.37,2893.1,0.021347]' with loot table 'Military'"
+ 3:30:07 "CRASHSPAWNER: Loot spawn at '[3481.3,2891.2,0.021347]' with loot table 'Military'"
+ 3:32:24 "CLEANUP: Deleted 2 Loot Piles out of 34"
+ 3:34:22 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
+ 3:35:11 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 3:35:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 3:35:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 3:35:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 3:35:11 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 3:35:11   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 3:37:24 "CLEANUP: Deleted 1 Loot Piles out of 32"
