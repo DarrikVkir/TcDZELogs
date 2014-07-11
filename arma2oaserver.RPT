@@ -598,3 +598,6 @@ g from [15098,8144,300] to [6801.98,15197.6] NOW!(TIME:16469||LT:HeliCrash_No50s
  7:17:07 "CRASHSPAWNER: Loot spawn at '[10216,14903.4,0]' with loot table 'HeliCrash_No50s'"
  7:17:07 "CRASHSPAWNER: Loot spawn at '[10215.6,14906.9,0]' with loot table 'HeliCrash_No50s'"
  7:17:07 "CRASHSPAWNER: Crash completed! Wreck at: [10220.4,14903.6,0.129059] - Runtime: 10023 Seconds || Distance from calculated POC: 8649 meters"
+ 7:19:23 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
+ 7:23:33 "CLEANUP: Deleted 1 Loot Piles out of 229"
+ 7:24:23 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
