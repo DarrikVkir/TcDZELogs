@@ -279,3 +279,6 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  5:48:08   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
  5:48:08   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
  5:48:09 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+ 5:51:04 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
+ 5:51:18 "TIME SYNC: Local Time set to [2013,8,3,19,51]"
+ 5:56:18 "TIME SYNC: Local Time set to [2013,8,3,19,56]"
