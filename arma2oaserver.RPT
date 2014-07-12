@@ -352,3 +352,19 @@ g from [15098,8144,300] to [11948.7,12272.7] NOW!(TIME:3053||LT:MilitarySpecial)
  0:04:57 "CRASHSPAWNER: Crash completed! Wreck at: [11923.3,12433,0.00143433] - Runtime: 289 Seconds || Distance from calculated POC: 163 meters"
  0:06:35 "CLEANUP: Deleted 1 Loot Piles out of 88"
  0:07:32 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
+ 0:08:35 "CLEANUP: Deleted 3 Loot Piles out of 87"
+ 0:09:35 "CLEANUP: Deleted 8 Loot Piles out of 84"
+ 0:10:35 "CLEANUP: Deleted 20 Loot Piles out of 76"
+ 0:11:35 "CLEANUP: Deleted 17 Loot Piles out of 56"
+ 0:12:32 "TIME SYNC: Local Time set to [2013,8,3,20,12]"
+ 0:12:34 "CLEANUP: Deleted 2 Loot Piles out of 65"
+ 0:14:35 "CLEANUP: Deleted 13 Loot Piles out of 69"
+ 0:15:00 "get: STRING (4486214), sent: STRING (4486214)"
+ 0:15:00 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 521 at loc [8859.53,15129.2,0.00195313]"
+ 0:15:01 Client: Remote object 8:0 not found
+ 0:15:01 Client: Remote object 8:8 not found
+ 0:15:01 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 0:15:02 Warning: Cleanup player - person 8:7 not found
+ 0:15:08 "RUNNING EVENT: supply_drop on [2014,7,11,20,15]"
+ 0:16:34 "CLEANUP: Deleted 1 Loot Piles out of 66"
+ 0:17:32 "TIME SYNC: Local Time set to [2013,8,3,20,17]"
