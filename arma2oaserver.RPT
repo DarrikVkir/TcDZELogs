@@ -282,3 +282,16 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  5:51:04 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
  5:51:18 "TIME SYNC: Local Time set to [2013,8,3,19,51]"
  5:56:18 "TIME SYNC: Local Time set to [2013,8,3,19,56]"
+ 6:00:01 "RUNNING EVENT: crash_spawner on [2014,7,12,20,0]"
+ 6:00:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 6:00:01 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [10072.2,13368.1] NOW!(TIME:1053||LT:HeliCrash_No50s)"
+ 6:01:18 "TIME SYNC: Local Time set to [2013,8,3,20,1]"
+ 6:01:19 "CLEANUP: Deleted 3 Animals out of 19"
+ 6:03:20 Server: Object 4:120 not found (message 91)
+ 6:03:20 Server: Object 4:119 not found (message 98)
+ 6:03:20 Server: Object 4:122 not found (message 91)
+ 6:03:20 Server: Object 4:121 not found (message 98)
+ 6:06:18 "TIME SYNC: Local Time set to [2013,8,3,20,6]"
+ 6:06:20 "CLEANUP: Deleted 13 Loot Piles out of 34"
