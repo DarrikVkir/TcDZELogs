@@ -381,3 +381,18 @@ g from [15098,8144,300] to [11948.7,12272.7] NOW!(TIME:3053||LT:MilitarySpecial)
  0:23:35 "CLEANUP: Deleted 1 Loot Piles out of 85"
  0:27:32 "TIME SYNC: Local Time set to [2013,8,3,20,27]"
  0:27:32 "CLEANUP: Deleted 4 Animals out of 14"
+ 0:29:36 "EPOCH SERVERTRADE: Player: Overlord (79600902) sold a M4A1 in/at Stary for 2x ItemGoldBar"
+ 0:30:00 "RUNNING EVENT: crash_spawner on [2014,7,11,20,30]"
+ 0:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 0:30:00 "CRASHSPAWNER: UH-60M started
+
+g from [15186,11857,300] to [11339.3,5166.27] NOW!(TIME:4845||LT:HeliCrash_No50s)"
+ 0:30:07 "EPOCH SERVERTRADE: Player: Overlord (79600902) sold a MP5SD in/at Stary for 3x ItemGoldBar"
+ 0:32:32 "TIME SYNC: Local Time set to [2013,8,3,20,32]"
+ 0:32:36 "CLEANUP: Deleted 8 Loot Piles out of 99"
+ 0:33:16 "EPOCH SERVERTRADE: Player: Overlord (79600902) sold a HandGrenade_west in/at Stary for 2x ItemGoldBar"
+ 0:34:36 "CLEANUP: Deleted 5 Loot Piles out of 95"
+ 0:35:35 "CLEANUP: Deleted 3 Loot Piles out of 91"
+ 0:37:32 "TIME SYNC: Local Time set to [2013,8,3,20,37]"
+ 0:37:56 "EPOCH SERVERTRADE: Player: Overlord (79600902) sold a datsun1_civil_2_covered in/at Stary for 4x ItemGoldBar"
+ 0:37:56 "DELETE: B 1-1-C:1 (Overlord) REMOTE Deleted by ID: 4795"
