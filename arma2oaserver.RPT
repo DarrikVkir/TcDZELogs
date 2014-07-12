@@ -505,3 +505,16 @@ g from [15186,11857,300] to [5113.12,12005.5] NOW!(TIME:9441||LT:MilitarySpecial
 19:15:59 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
 19:17:39 "EPOCH SERVERTRADE: Player: SaniaSRZ (245950470) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
 19:18:08 "EPOCH SERVERTRADE: Player: SaniaSRZ (245950470) sold a M24 in/at Stary for 6x ItemGoldBar"
+19:18:34 "EPOCH SERVERTRADE: Player: SaniaSRZ (245950470) sold a M24 in/at Stary for 6x ItemGoldBar"
+19:19:01 "EPOCH SERVERTRADE: Player: SaniaSRZ (245950470) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+19:20:59 "TIME SYNC: Local Time set to [2013,8,3,21,20]"
+19:21:05 "CLEANUP: Deleted 1 Loot Piles out of 88"
+19:22:50 "EPOCH SERVERTRADE: Player: SaniaSRZ (245950470) sold a Sa58V_CCO_EP1 in/at Stary for 4x ItemGoldBar"
+19:23:05 "CLEANUP: Deleted 1 Loot Piles out of 88"
+19:24:05 "CLEANUP: Deleted 1 Loot Piles out of 87"
+19:24:32 "get: STRING (245950470), sent: STRING (245950470)"
+19:24:32 "DISCONNECT: SaniaSRZ (245950470) Object: B 1-1-C:1 (SaniaSRZ) REMOTE, _characterID: 524 at loc [6156.5,8109.71,0.00119019]"
+19:24:32 Client: Remote object 4:0 not found
+19:24:32 Client: Remote object 4:334 not found
+19:25:59 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
+19:25:59 "CLEANUP: Deleted 12 Animals out of 12"
