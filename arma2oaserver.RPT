@@ -354,3 +354,11 @@ g from [1623.71,218.188,300] to [9551.62,7370.02] NOW!(TIME:2855||LT:HeliCrash_N
  6:37:01 "CRASHSPAWNER: Loot spawn at '[9635.67,7286.06,0]' with loot table 'HeliCrash_No50s'"
  6:37:01 "CRASHSPAWNER: Crash completed! Wreck at: [9628.49,7288.29,0.145493] - Runtime: 418 Seconds || Distance from calculated POC: 114 meters"
  6:37:20 "CLEANUP: Deleted 1 Loot Piles out of 25"
+ 6:41:18 "TIME SYNC: Local Time set to [2013,8,3,20,41]"
+ 6:46:18 "TIME SYNC: Local Time set to [2013,8,3,20,46]"
+ 6:46:41 "nil player object attempting PV, :["255024710","Bored Shorts"]"
+ 6:46:41 "get: STRING (), sent: STRING (255024710)"
+ 6:46:41 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-B:1 REMOTE, _characterID: 485 at loc [7841.84,12622.8,0.00134277]"
+ 6:46:41 Client: Remote object 6:2 not found
+ 6:46:41 Client: Remote object 6:8 not found
+ 6:46:42 Warning: Cleanup player - person 6:7 not found
