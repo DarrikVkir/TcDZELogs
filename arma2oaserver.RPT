@@ -267,3 +267,24 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  9:46:45 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
  9:51:45 "TIME SYNC: Local Time set to [2013,8,3,17,51]"
  9:56:45 "TIME SYNC: Local Time set to [2013,8,3,17,56]"
+ 9:59:10 Server: Object 5:9 not found (message 70)
+ 9:59:10 "ERROR: server_playerSync: Cannot Sync Player Wayne [496]. Position in debug! [-7245.1,19535.5,1.05756]"
+10:00:07 "RUNNING EVENT: crash_spawner on [2014,7,13,18,0]"
+10:00:07 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+10:00:07 "CRASHSPAWNER: UH-1Y started
+
+g from [6993.7,173.053,300] to [2076.83,12376.8] NOW!(TIME:1001||LT:HeliCrash_No50s)"
+10:00:34 "get: STRING (249334278), sent: STRING (249334278)"
+10:00:34 "DISCONNECT: Wayne (249334278) Object: B 1-1-C:1 (Wayne) REMOTE, _characterID: 496 at loc [13118.8,3942.76,0.00202084]"
+10:00:34 Client: Remote object 5:2 not found
+10:00:34 Client: Remote object 5:8 not found
+10:01:45 "TIME SYNC: Local Time set to [2013,8,3,18,1]"
+10:01:46 "CLEANUP: Deleted 6 Animals out of 11"
+10:06:45 "TIME SYNC: Local Time set to [2013,8,3,18,6]"
+10:07:30 Server: Object 4:119 not found (message 91)
+10:07:30 Server: Object 4:118 not found (message 99)
+10:07:31 Server: Object 4:124 not found (message 99)
+10:07:31 Server: Object 4:125 not found (message 91)
+10:07:31 Server: Object 4:126 not found (message 99)
+10:07:31 Server: Object 4:127 not found (message 91)
+10:07:47 "CLEANUP: Deleted 12 Loot Piles out of 16"
