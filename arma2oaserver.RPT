@@ -280,3 +280,5 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  3:34:01 Client: Remote object 3:8 not found
  3:34:03 Warning: Cleanup player - person 3:7 not found
  3:34:57 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 3:39:57 "TIME SYNC: Local Time set to [2013,8,3,17,39]"
+ 3:44:58 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
