@@ -288,3 +288,24 @@ g from [6993.7,173.053,300] to [2076.83,12376.8] NOW!(TIME:1001||LT:HeliCrash_No
 10:07:31 Server: Object 4:126 not found (message 99)
 10:07:31 Server: Object 4:127 not found (message 91)
 10:07:47 "CLEANUP: Deleted 12 Loot Piles out of 16"
+10:11:45 "TIME SYNC: Local Time set to [2013,8,3,18,11]"
+10:12:11 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:11 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone leftshoulder doesn't exist in some skeleton 
+10:12:12 Error: Bone rightshoulder doesn't exist in some skeleton 
+10:12:17 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+10:15:00 "RUNNING EVENT: supply_drop on [2014,7,13,18,15]"
+10:16:46 "TIME SYNC: Local Time set to [2013,8,3,18,16]"
+10:16:49 "CLEANUP: Deleted 2 Loot Piles out of 164"
