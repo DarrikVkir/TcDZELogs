@@ -249,3 +249,10 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 20:53:17 Error: Bone leftshoulder doesn't exist in some skeleton 
 20:53:17 Error: Bone rightshoulder doesn't exist in some skeleton 
 20:54:17 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+20:59:17 "TIME SYNC: Local Time set to [2013,8,3,16,59]"
+21:00:07 "RUNNING EVENT: crash_spawner on [2014,7,13,17,0]"
+21:00:07 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+21:00:07 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [5649.61,10820.6] NOW!(TIME:584||LT:HeliCrash_No50s)"
+21:04:17 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
