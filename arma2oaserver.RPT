@@ -292,3 +292,6 @@ g from [1623.71,218.188,300] to [4951.63,15261] NOW!(TIME:2386||LT:MilitarySpeci
 21:43:14 Warning: Cleanup player - person 3:7 not found
 21:43:18 Warning: Cleanup player - person 3:7 not found
 21:44:17 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
+21:49:17 "TIME SYNC: Local Time set to [2013,8,3,17,49]"
+21:54:17 "TIME SYNC: Local Time set to [2013,8,3,17,54]"
+21:54:17 "CLEANUP: Deleted 5 Animals out of 5"
