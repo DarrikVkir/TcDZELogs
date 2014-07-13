@@ -383,3 +383,7 @@ g from [10450,-630,1000] to [983.132,11735.4] NOW!(TIME:5341||LT:HeliCrash_No50s
 g from [15098,8144,300] to [7671.23,15099.7] NOW!(TIME:7143||LT:HeliCrash_No50s)"
  5:34:58 "TIME SYNC: Local Time set to [2013,8,3,19,34]"
  5:36:01 "CLEANUP: Deleted 4 Loot Piles out of 47"
+ 5:39:58 "TIME SYNC: Local Time set to [2013,8,3,19,39]"
+ 5:40:01 "CLEANUP: Deleted 1 Loot Piles out of 46"
+ 5:42:15 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 5:44:58 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
