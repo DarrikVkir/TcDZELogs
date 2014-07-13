@@ -285,3 +285,10 @@ g from [1623.71,218.188,300] to [4951.63,15261] NOW!(TIME:2386||LT:MilitarySpeci
 21:32:52 "CRASHSPAWNER: Crash completed! Wreck at: [5222.41,15227.6,0.135498] - Runtime: 162 Seconds || Distance from calculated POC: 274 meters"
 21:34:17 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
 21:35:18 "CLEANUP: Deleted 3 Loot Piles out of 24"
+21:39:17 "TIME SYNC: Local Time set to [2013,8,3,17,39]"
+21:43:14 "get: STRING (255024710), sent: STRING (255024710)"
+21:43:14 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-C:1 (Bored Shorts) REMOTE, _characterID: 485 at loc [7832.29,12609.8,0.00135803]"
+21:43:14 Client: Remote object 3:8 not found
+21:43:14 Warning: Cleanup player - person 3:7 not found
+21:43:18 Warning: Cleanup player - person 3:7 not found
+21:44:17 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
