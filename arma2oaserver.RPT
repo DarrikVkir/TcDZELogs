@@ -307,3 +307,11 @@ g from [15098,8144,300] to [6190.92,8763.93] NOW!(TIME:4178||LT:MilitarySpecial)
 22:15:02 "RUNNING EVENT: supply_drop on [2014,7,13,18,15]"
 22:19:17 "TIME SYNC: Local Time set to [2013,8,3,18,19]"
 22:24:17 "TIME SYNC: Local Time set to [2013,8,3,18,24]"
+22:29:17 "TIME SYNC: Local Time set to [2013,8,3,18,29]"
+22:30:03 "RUNNING EVENT: crash_spawner on [2014,7,13,18,30]"
+22:30:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+22:30:03 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [5883.33,8445.05] NOW!(TIME:5980||LT:HeliCrash_No50s)"
+22:34:17 "TIME SYNC: Local Time set to [2013,8,3,18,34]"
+22:35:20 "CLEANUP: Deleted 3 Loot Piles out of 30"
