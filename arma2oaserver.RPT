@@ -335,3 +335,6 @@ g from [10450,-630,1000] to [5883.33,8445.05] NOW!(TIME:5980||LT:HeliCrash_No50s
 23:00:05 "CRASHSPAWNER: Loot spawn at '[1210.21,3703.81,0.0170593]' with loot table 'Military'"
 23:00:05 "CRASHSPAWNER: Loot spawn at '[1209.7,3687.85,0.0170593]' with loot table 'Military'"
 23:04:17 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
+23:09:17 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+23:14:17 "TIME SYNC: Local Time set to [2013,8,3,19,14]"
+23:15:05 "RUNNING EVENT: supply_drop on [2014,7,13,19,15]"
