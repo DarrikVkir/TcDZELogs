@@ -504,3 +504,23 @@ g from [15186,11857,300] to [6910.19,9419.84] NOW!(TIME:8945||LT:HeliCrash_No50s
  6:51:04 "CLEANUP: Deleted 2 Loot Piles out of 78"
  6:54:04 "CLEANUP: Deleted 2 Loot Piles out of 76"
  6:54:58 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+ 6:59:58 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+ 7:00:04 "RUNNING EVENT: crash_spawner on [2014,7,13,21,0]"
+ 7:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 7:00:04 "CRASHSPAWNER: UH-60M started
+
+g from [15098,8144,300] to [8453.68,9420.32] NOW!(TIME:12538||LT:HeliCrash_No50s)"
+ 7:00:33 NAT Negotiation completed
+ 7:04:36 "DELETE: B 1-1-B:1 (Bored Shorts) REMOTE Deleted by UID: 0"
+ 7:04:58 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+ 7:07:53 "CRASHSPAWNER: UH-60M just exploded at [8484.32,9417.99,1.65906]!, "
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8485.99,9414.36,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8479.74,9417.92,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8481.04,9411.31,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8493.1,9421.1,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8474.3,9418.55,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8488.65,9418.07,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8482.68,9411.31,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8480.98,9413.64,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Loot spawn at '[8479.68,9422.65,0]' with loot table 'HeliCrash_No50s'"
+ 7:07:53 "CRASHSPAWNER: Crash completed! Wreck at: [8484.32,9417.99,0.111847] - Runtime: 469 Seconds || Distance from calculated POC: 31 meters"
