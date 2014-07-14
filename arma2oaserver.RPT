@@ -455,3 +455,28 @@ g from [6993.7,173.053,300] to [12507,8971.01] NOW!(TIME:13176||LT:HeliCrash_No5
  0:49:18 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
  0:54:18 "CLEANUP: Deleted 7 Animals out of 7"
  0:54:18 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+ 0:59:18 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+ 1:00:04 "RUNNING EVENT: crash_spawner on [2014,7,13,21,0]"
+ 1:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 1:00:04 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [12821.2,15200.1] NOW!(TIME:14978||LT:Hospital)"
+ 1:04:18 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+ 1:05:23 "CLEANUP: Deleted 2 Loot Piles out of 65"
+ 1:08:01 "CRASHSPAWNER: UH-60M MEV just exploded at [12803,15222.7,1.75606]!, "
+ 1:08:01 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 1:08:01 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 1:08:01 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12804,15226.5,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12804,15229.4,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12795.1,15219.8,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12793.2,15226,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12798.6,15228.4,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12795.5,15227.2,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12810.4,15231.1,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12790.9,15220,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12805.9,15207.1,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12816.5,15231.1,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12789.8,15231.6,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Loot spawn at '[12798.2,15204.1,0]' with loot table 'Hospital'"
+ 1:08:01 "CRASHSPAWNER: Crash completed! Wreck at: [12803,15222.7,-0.146973] - Runtime: 478 Seconds || Distance from calculated POC: 30 meters"
