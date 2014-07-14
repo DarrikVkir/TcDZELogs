@@ -428,3 +428,27 @@ g from [6993.7,173.053,300] to [12507,8971.01] NOW!(TIME:13176||LT:HeliCrash_No5
  0:34:24 "CLEANUP: Deleted 7 Loot Piles out of 94"
  0:35:24 "CLEANUP: Deleted 19 Loot Piles out of 87"
  0:36:23 "CLEANUP: Deleted 4 Loot Piles out of 68"
+ 0:39:18 "TIME SYNC: Local Time set to [2013,8,3,20,39]"
+ 0:44:18 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
+ 0:45:23 "CLEANUP: Deleted 11 Loot Piles out of 66"
+ 0:45:54 "get: STRING (11334272), sent: STRING (11334272)"
+ 0:45:54 "DISCONNECT: FelixDAman (11334272) Object: B 1-1-B:1 (FelixDAman) REMOTE, _characterID: 525 at loc [4404.55,3883.14,0.00234985]"
+ 0:45:54 Client: Remote object 4:6 not found
+ 0:45:54 Client: Remote object 4:5 not found
+ 0:45:54 Client: Remote object 4:2 not found
+ 0:45:54 Warning: Cleanup player - person 4:7 not found
+ 0:45:58 Warning: Cleanup player - person 4:7 not found
+ 0:46:53 "CRASHSPAWNER: Ka-52 (black) just exploded at [8352.98,9796.78,0.604645]!, "
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8349.47,9798.69,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8349.32,9794.96,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8347.87,9802.69,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8348.42,9806.61,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8348.55,9797.05,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8350.58,9802.73,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8350.82,9804.67,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8351.16,9803.37,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8353.55,9801.49,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8355.25,9801.24,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Loot spawn at '[8357.66,9795.4,0]' with loot table 'MilitarySpecial'"
+ 0:46:53 "CRASHSPAWNER: Crash completed! Wreck at: [8352.95,9796.81,-0.00271606] - Runtime: 10010 Seconds || Distance from calculated POC: 2397 meters"
+ 0:48:23 "CLEANUP: Deleted 1 Loot Piles out of 66"
