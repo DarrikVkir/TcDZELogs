@@ -418,3 +418,23 @@ g from [15098,8144,300] to [14075.7,14319.7] NOW!(TIME:6800||LT:HeliCrash_No50s)
  6:54:42 "CLEANUP: Deleted 3 Loot Piles out of 24"
  6:55:39 "CLEANUP: Deleted 5 Animals out of 7"
  6:55:39 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
+ 7:00:03 "RUNNING EVENT: crash_spawner on [2014,7,14,21,0]"
+ 7:00:03 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 7:00:03 "CRASHSPAWNER: AH-1Z started
+
+g from [15098,8144,300] to [14682.8,15339.5] NOW!(TIME:10393||LT:MilitarySpecial)"
+ 7:00:39 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
+ 7:01:55 Server: Object 10:90 not found (message 91)
+ 7:01:55 Server: Object 10:89 not found (message 98)
+ 7:05:39 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
+ 7:06:42 "CRASHSPAWNER: AH-1Z just exploded at [14624,15339.6,3.99309]!, "
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14626.3,15342.8,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14620.6,15336.2,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14624.7,15346.9,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14620.7,15335.1,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14617.9,15335.2,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14625,15349.7,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14633.5,15341.5,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14611.6,15339.4,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Loot spawn at '[14615,15335.2,0]' with loot table 'MilitarySpecial'"
+ 7:06:42 "CRASHSPAWNER: Crash completed! Wreck at: [14623.9,15339.6,-0.0191193] - Runtime: 399 Seconds || Distance from calculated POC: 59 meters"
