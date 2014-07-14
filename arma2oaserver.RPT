@@ -318,3 +318,10 @@ g from [1623.71,218.188,300] to [3806.16,5430.71] NOW!(TIME:3196||LT:HeliCrash_N
  5:14:26   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
  5:15:04 "RUNNING EVENT: supply_drop on [2014,7,14,19,15]"
  5:15:39 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
+ 5:20:39 "TIME SYNC: Local Time set to [2013,8,3,19,20]"
+ 5:25:39 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
+ 5:27:01 "get: STRING (4486214), sent: STRING (4486214)"
+ 5:27:01 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 521 at loc [9436.59,14946.2,0.000488281]"
+ 5:27:01 Client: Remote object 6:0 not found
+ 5:27:01 Client: Remote object 6:8 not found
+ 5:27:03 Warning: Cleanup player - person 6:7 not found
