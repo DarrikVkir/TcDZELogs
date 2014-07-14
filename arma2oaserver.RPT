@@ -496,3 +496,37 @@ g from [6993.7,173.053,300] to [4740.29,8463.41] NOW!(TIME:12195||LT:HeliCrash_N
  7:47:17 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [529]. Position in debug! [-7239.67,19539.3,0.245483]"
  7:47:17 Client: Remote object 10:2 not found
  7:47:46 "CLEANUP: Deleted 6 Loot Piles out of 133"
+ 7:48:46 "CLEANUP: Deleted 9 Loot Piles out of 128"
+ 7:50:39 "TIME SYNC: Local Time set to [2013,8,3,21,50]"
+ 7:55:39 "CLEANUP: Deleted 10 Animals out of 15"
+ 7:55:39 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
+ 7:58:46 "CLEANUP: Deleted 2 Loot Piles out of 149"
+ 8:00:07 "RUNNING EVENT: crash_spawner on [2014,7,14,22,0]"
+ 8:00:07 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 8:00:07 "CRASHSPAWNER: MV-22 started
+
+g from [10450,-630,1000] to [7409.86,4906.76] NOW!(TIME:13997||LT:MilitarySpecial)"
+ 8:00:40 "TIME SYNC: Local Time set to [2013,8,3,22,0]"
+ 8:00:46 "CLEANUP: Deleted 4 Loot Piles out of 148"
+ 8:01:07 "CRASHSPAWNER: MV-22 just exploded at [7434.73,4609.72,7.72668]!, "
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7435.77,4605.86,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7431.32,4607.49,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7435.67,4605.14,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7431.1,4604.59,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7426.38,4604.94,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7430.24,4609.54,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7434.77,4605.37,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7432.78,4602.2,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Loot spawn at '[7424.15,4610.25,0]' with loot table 'MilitarySpecial'"
+ 8:01:07 "CRASHSPAWNER: Crash completed! Wreck at: [7434.79,4609.86,-0.0416107] - Runtime: 60 Seconds || Distance from calculated POC: 299 meters"
+ 8:01:47 "CLEANUP: Deleted 14 Loot Piles out of 153"
+ 8:02:46 "CLEANUP: Deleted 12 Loot Piles out of 139"
+ 8:04:44 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 8:05:40 "TIME SYNC: Local Time set to [2013,8,3,22,5]"
+ 8:05:48 "CLEANUP: Deleted 46 Loot Piles out of 147"
+ 8:06:37 Server: Object 10:1084 not found (message 99)
+ 8:06:37 Server: Object 10:1085 not found (message 91)
+ 8:06:37 Server: Object 10:1088 not found (message 98)
+ 8:06:37 Server: Object 10:1089 not found (message 91)
+ 8:08:07 Client: Object 11:122 (type Type_69) not found.
+ 8:08:07 Client: Object 11:122 (type Type_70) not found.
