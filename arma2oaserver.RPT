@@ -415,3 +415,5 @@ g from [10450,-630,1000] to [3393.5,8350.34] NOW!(TIME:11385||LT:MilitarySpecial
  0:14:18 "TIME SYNC: Local Time set to [2013,8,3,20,14]"
  0:14:47 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
  0:15:01 "RUNNING EVENT: supply_drop on [2014,7,13,20,15]"
+ 0:19:18 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
+ 0:24:18 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
