@@ -281,3 +281,10 @@ g from [10450,-630,1000] to [5997.55,14384.4] NOW!(TIME:1394||LT:MilitarySpecial
  4:45:38 "TIME SYNC: Local Time set to [2013,8,3,18,45]"
  4:50:39 "TIME SYNC: Local Time set to [2013,8,3,18,50]"
  4:55:39 "TIME SYNC: Local Time set to [2013,8,3,18,55]"
+ 5:00:02 "RUNNING EVENT: crash_spawner on [2014,7,14,19,0]"
+ 5:00:02 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 5:00:02 "CRASHSPAWNER: Mi-17 started
+
+g from [1623.71,218.188,300] to [3806.16,5430.71] NOW!(TIME:3196||LT:HeliCrash_No50s)"
+ 5:00:39 "TIME SYNC: Local Time set to [2013,8,3,19,0]"
+ 5:05:39 "TIME SYNC: Local Time set to [2013,8,3,19,5]"
