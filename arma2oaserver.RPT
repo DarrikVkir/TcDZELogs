@@ -530,3 +530,46 @@ g from [10450,-630,1000] to [7409.86,4906.76] NOW!(TIME:13997||LT:MilitarySpecia
  8:06:37 Server: Object 10:1089 not found (message 91)
  8:08:07 Client: Object 11:122 (type Type_69) not found.
  8:08:07 Client: Object 11:122 (type Type_70) not found.
+ 8:08:46 "CLEANUP: Deleted 1 Loot Piles out of 119"
+ 8:10:04 Server: Object 11:130 not found (message 70)
+ 8:10:40 "TIME SYNC: Local Time set to [2013,8,3,22,10]"
+ 8:12:42 "DELETE: <null> Deleted by UID: 0"
+ 8:12:42 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 8:12:42   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 8:12:42   Error Undefined variable in expression: _activatingplayer
+ 8:12:42 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 8:15:08 "RUNNING EVENT: supply_drop on [2014,7,14,22,15]"
+ 8:15:40 "TIME SYNC: Local Time set to [2013,8,3,22,15]"
+ 8:15:47 "CLEANUP: Deleted 19 Loot Piles out of 120"
+ 8:16:46 "CLEANUP: Deleted 9 Loot Piles out of 101"
+ 8:16:53 "CRASHSPAWNER: UH-1Y just exploded at [7487.28,5194.93,3.55083]!, "
+ 8:16:53 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 8:16:53 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 8:16:53 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7491.27,5194.76,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7482.43,5196.1,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7485.47,5202.58,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7485.1,5198.68,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7488.22,5190.9,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7491.29,5196.65,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7482.52,5195.22,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7490.18,5191.85,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7481.52,5191.72,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7493.63,5196.82,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Loot spawn at '[7495.28,5188.24,0]' with loot table 'HeliCrash_No50s'"
+ 8:16:53 "CRASHSPAWNER: Crash completed! Wreck at: [7487.28,5194.93,0.0532379] - Runtime: 10004 Seconds || Distance from calculated POC: 328 meters"
+ 8:17:00 "get: STRING (235067846), sent: STRING (235067846)"
+ 8:17:00 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-C:1 (Miss Rachel ) REMOTE, _characterID: 513 at loc [9479.63,14341.9,0.480347]"
+ 8:17:00 Client: Remote object 11:2 not found
+ 8:17:00 Client: Remote object 11:8 not found
+ 8:17:00 Warning: Cleanup player - person 11:7 not found
+ 8:17:02 Warning: Cleanup player - person 11:7 not found
+ 8:17:19 "get: STRING (255024710), sent: STRING (255024710)"
+ 8:17:19 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-B:1 (Bored Shorts) REMOTE, _characterID: 530 at loc [7850.93,12617.6,0.065712]"
+ 8:17:19 Client: Remote object 10:850 not found
+ 8:17:19 Client: Remote object 10:849 not found
+ 8:17:22 Warning: Cleanup player - person 10:851 not found
