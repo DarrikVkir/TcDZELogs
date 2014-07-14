@@ -92,3 +92,5 @@ Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M11
 Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
 Obsolete class Animations defined in bin\config.bin/RscCompass/
 Obsolete class Animations defined in bin\config.bin/RscWatch/
+ 3:18:51 Server error: Player without identity Josh [Home] (id 2059350549)
+ 3:18:51 No player found for channel 197328960 - message ignored
