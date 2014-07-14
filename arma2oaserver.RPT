@@ -443,3 +443,12 @@ g from [15098,8144,300] to [14682.8,15339.5] NOW!(TIME:10393||LT:MilitarySpecial
  7:10:44 "CLEANUP: Deleted 1 Loot Piles out of 92"
  7:15:04 "RUNNING EVENT: supply_drop on [2014,7,14,21,15]"
  7:15:39 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
+ 7:20:39 "TIME SYNC: Local Time set to [2013,8,3,21,20]"
+ 7:21:45 "CLEANUP: Deleted 17 Loot Piles out of 107"
+ 7:22:44 "CLEANUP: Deleted 2 Loot Piles out of 90"
+ 7:23:45 "CLEANUP: Deleted 5 Loot Piles out of 100"
+ 7:23:51 Server: Object 10:361 not found (message 94)
+ 7:23:51 Server: Object 10:358 not found (message 94)
+ 7:23:51 Server: Object 10:359 not found (message 94)
+ 7:23:51 Server: Object 10:360 not found (message 94)
+ 7:25:39 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
