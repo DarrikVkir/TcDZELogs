@@ -313,3 +313,18 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  7:26:49 Server: Object 3:149 not found (message 91)
  7:26:49 Server: Object 3:150 not found (message 98)
  7:26:49 Server: Object 3:151 not found (message 91)
+ 7:29:06 "TIME SYNC: Local Time set to [2013,8,3,19,29]"
+ 7:29:07 "CLEANUP: Deleted 1 Loot Piles out of 45"
+ 7:30:08 "RUNNING EVENT: crash_spawner on [2014,7,15,19,30]"
+ 7:30:08 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 7:30:08 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [15098,8144,300] to [7670.42,6816.86] NOW!(TIME:1762||LT:MilitarySpecial)"
+ 7:31:07 "CLEANUP: Deleted 2 Loot Piles out of 44"
+ 7:34:06 "TIME SYNC: Local Time set to [2013,8,3,19,34]"
+ 7:34:07 "CLEANUP: Deleted 3 Loot Piles out of 42"
+ 7:35:07 "CLEANUP: Deleted 4 Loot Piles out of 39"
+ 7:36:07 "CLEANUP: Deleted 5 Loot Piles out of 37"
+ 7:37:08 "CLEANUP: Deleted 12 Loot Piles out of 32"
+ 7:37:23 "MAINTAIN AREA BY telconrar - 56 Objects at [8928.1,9211.02,0.00143433]"
+ 7:38:07 "CLEANUP: Deleted 7 Loot Piles out of 20"
