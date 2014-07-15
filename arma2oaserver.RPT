@@ -306,3 +306,10 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  7:16:53 Server: Object 3:92 not found (message 70)
  7:16:53 Server: Object 3:91 not found (message 94)
  7:16:53 Server: Object 3:93 not found (message 94)
+ 7:19:06 "TIME SYNC: Local Time set to [2013,8,3,19,19]"
+ 7:24:06 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
+ 7:24:09 "CLEANUP: Deleted 23 Loot Piles out of 68"
+ 7:26:49 Server: Object 3:148 not found (message 99)
+ 7:26:49 Server: Object 3:149 not found (message 91)
+ 7:26:49 Server: Object 3:150 not found (message 98)
+ 7:26:49 Server: Object 3:151 not found (message 91)
