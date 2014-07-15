@@ -328,3 +328,42 @@ g from [15098,8144,300] to [7670.42,6816.86] NOW!(TIME:1762||LT:MilitarySpecial)
  7:37:08 "CLEANUP: Deleted 12 Loot Piles out of 32"
  7:37:23 "MAINTAIN AREA BY telconrar - 56 Objects at [8928.1,9211.02,0.00143433]"
  7:38:07 "CLEANUP: Deleted 7 Loot Piles out of 20"
+ 7:39:06 "TIME SYNC: Local Time set to [2013,8,3,19,39]"
+ 7:40:07 "CLEANUP: Deleted 1 Loot Piles out of 13"
+ 7:40:39 "DELETE: B 1-1-B:1 (BluntScopes) REMOTE Deleted by UID: 0"
+ 7:40:56 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+ 7:41:55 "DELETE: <null> Deleted by ID: 4705"
+ 7:41:55 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:41:55   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:41:55   Error Undefined variable in expression: _activatingplayer
+ 7:41:55 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 7:43:32 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 7:43:32   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 7:43:32   Error Undefined variable in expression: _id
+ 7:43:32 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 7:44:06 "TIME SYNC: Local Time set to [2013,8,3,19,44]"
+ 7:45:00 "DELETE: <null> Deleted by ID: 1"
+ 7:45:00 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:45:00   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:45:00   Error Undefined variable in expression: _activatingplayer
+ 7:45:00 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
