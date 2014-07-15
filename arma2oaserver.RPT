@@ -566,3 +566,11 @@ g from [15098,8144,300] to [5047.26,7240.85] NOW!(TIME:13534||LT:MilitarySpecial
  3:17:48 "TIME SYNC: Local Time set to [2013,8,3,21,17]"
  3:22:48 "TIME SYNC: Local Time set to [2013,8,3,21,22]"
  3:27:48 "TIME SYNC: Local Time set to [2013,8,3,21,27]"
+ 3:30:08 "RUNNING EVENT: crash_spawner on [2014,7,15,21,30]"
+ 3:30:08 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 3:30:08 "CRASHSPAWNER: AH-1Z started
+
+g from [6993.7,173.053,300] to [3044.06,11419.9] NOW!(TIME:15336||LT:MilitarySpecial)"
+ 3:32:48 "TIME SYNC: Local Time set to [2013,8,3,21,32]"
+ 3:35:55 "CLEANUP: Deleted 7 Loot Piles out of 99"
+ 3:37:48 "TIME SYNC: Local Time set to [2013,8,3,21,37]"
