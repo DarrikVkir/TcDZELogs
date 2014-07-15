@@ -367,3 +367,11 @@ _key >
 _key >
  7:45:00   Error Undefined variable in expression: _activatingplayer
  7:45:00 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 7:49:06 "TIME SYNC: Local Time set to [2013,8,3,19,49]"
+ 7:50:57 "get: STRING (4486214), sent: STRING (4486214)"
+ 7:50:57 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 (BluntScopes) REMOTE, _characterID: 532 at loc [8852.08,15151.3,0.000549316]"
+ 7:50:57 Client: Remote object 4:0 not found
+ 7:50:57 Client: Remote object 4:8 not found
+ 7:50:59 Warning: Cleanup player - person 4:7 not found
+ 7:54:06 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
+ 7:56:07 "CLEANUP: Deleted 2 Loot Piles out of 15"
