@@ -451,3 +451,11 @@ g from [6993.7,173.053,300] to [11992.2,14951.6] NOW!(TIME:7157||LT:HeliCrash_No
  9:19:06 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
  9:24:06 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
  9:24:33 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 9:29:06 "TIME SYNC: Local Time set to [2013,8,3,21,29]"
+ 9:30:07 "RUNNING EVENT: crash_spawner on [2014,7,15,21,30]"
+ 9:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 9:30:07 "CRASHSPAWNER: UH-1H started
+
+g from [15186,11857,300] to [3659.21,4812.95] NOW!(TIME:8959||LT:HeliCrash_No50s)"
+ 9:34:07 "TIME SYNC: Local Time set to [2013,8,3,21,34]"
+ 9:35:15 "CLEANUP: Deleted 4 Loot Piles out of 196"
