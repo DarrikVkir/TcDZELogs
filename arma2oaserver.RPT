@@ -282,3 +282,24 @@ g from [6993.7,173.053,300] to [14825.7,13989.7] NOW!(TIME:482||LT:MilitarySpeci
 12:04:45 "CRASHSPAWNER: Crash completed! Wreck at: [14572.5,13923.1,-0.0168457] - Runtime: 284 Seconds || Distance from calculated POC: 264 meters"
 12:05:48 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
 12:05:49 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:09:51 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:48 "TIME SYNC: Local Time set to [2013,8,3,18,10]"
+12:10:49 "CLEANUP: Deleted 5 Animals out of 9"
+12:15:02 "RUNNING EVENT: supply_drop on [2014,7,15,18,15]"
+12:15:48 "TIME SYNC: Local Time set to [2013,8,3,18,15]"
+12:16:53 "CLEANUP: Deleted 13 Loot Piles out of 189"
