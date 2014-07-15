@@ -482,3 +482,17 @@ g from [15186,11857,300] to [3659.21,4812.95] NOW!(TIME:8959||LT:HeliCrash_No50s
  9:54:17 "CLEANUP: Deleted 71 Loot Piles out of 242"
  9:55:17 "CLEANUP: Deleted 107 Loot Piles out of 171"
  9:56:11 "CLEANUP: Deleted 5 Loot Piles out of 64"
+ 9:59:07 "TIME SYNC: Local Time set to [2013,8,3,21,59]"
+10:00:09 "RUNNING EVENT: crash_spawner on [2014,7,15,22,0]"
+10:00:09 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+10:00:09 "CRASHSPAWNER: UH-1H started
+
+g from [15186,11857,300] to [2281.8,9661.68] NOW!(TIME:10761||LT:HeliCrash_No50s)"
+10:00:55 "get: STRING (120160390), sent: STRING (120160390)"
+10:00:55 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [10656.9,12781.8,0.00216675]"
+10:00:55 Client: Remote object 3:8 not found
+10:00:57 Warning: Cleanup player - person 3:7 not found
+10:04:07 "TIME SYNC: Local Time set to [2013,8,3,22,4]"
+10:04:08 "CLEANUP: Deleted 26 Animals out of 26"
+10:04:12 "CLEANUP: Deleted 17 Loot Piles out of 55"
+10:05:11 "CLEANUP: Deleted 13 Loot Piles out of 38"
