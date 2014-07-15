@@ -385,3 +385,8 @@ g from [15186,11857,300] to [2402.37,5322.26] NOW!(TIME:3554||LT:HeliCrash_No50s
  8:04:06 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
  8:04:07 "CLEANUP: Deleted 7 Animals out of 28"
  8:06:36 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 8:09:06 "TIME SYNC: Local Time set to [2013,8,3,20,9]"
+ 8:14:06 "TIME SYNC: Local Time set to [2013,8,3,20,14]"
+ 8:14:10 "CLEANUP: Deleted 1 Loot Piles out of 134"
+ 8:15:02 "RUNNING EVENT: supply_drop on [2014,7,15,20,15]"
+ 8:16:10 "CLEANUP: Deleted 1 Loot Piles out of 139"
