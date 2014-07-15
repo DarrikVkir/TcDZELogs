@@ -515,3 +515,10 @@ g from [15186,11857,300] to [2281.8,9661.68] NOW!(TIME:10761||LT:HeliCrash_No50s
 10:16:58 "CRASHSPAWNER: Crash completed! Wreck at: [4158.34,8564.8,-0.00134277] - Runtime: 10009 Seconds || Distance from calculated POC: 3923 meters"
 10:19:07 "TIME SYNC: Local Time set to [2013,8,3,22,19]"
 10:24:07 "TIME SYNC: Local Time set to [2013,8,3,22,24]"
+10:29:07 "TIME SYNC: Local Time set to [2013,8,3,22,29]"
+10:30:01 "RUNNING EVENT: crash_spawner on [2014,7,15,22,30]"
+10:30:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+10:30:01 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [1749.8,12816.8] NOW!(TIME:12553||LT:HeliCrash_No50s)"
+10:34:07 "TIME SYNC: Local Time set to [2013,8,3,22,34]"
