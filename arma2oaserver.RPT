@@ -419,3 +419,20 @@ g from [6993.7,173.053,300] to [6434.58,8030.79] NOW!(TIME:4535||LT:MilitarySpec
  0:32:57 "CRASHSPAWNER: Loot spawn at '[6410.66,7736.18,0]' with loot table 'MilitarySpecial'"
  0:32:57 "CRASHSPAWNER: Crash completed! Wreck at: [6418.35,7734.28,0.00308228] - Runtime: 172 Seconds || Distance from calculated POC: 298 meters"
  0:37:47 "TIME SYNC: Local Time set to [2013,8,3,18,37]"
+ 0:40:19 "CRASHSPAWNER: UH-60M MEV just exploded at [5158.3,8947.6,-0.358887]!, "
+ 0:40:19 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 0:40:19 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 0:40:19 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5156.33,8951.09,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5153.43,8951.81,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5162.42,8942.26,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5162.84,8951.44,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5148.71,8948.38,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5153.27,8950.95,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5157.79,8942.71,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5150.4,8947.73,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5162.36,8944.58,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Loot spawn at '[5153.65,8948.64,0]' with loot table 'Hospital'"
+ 0:40:19 "CRASHSPAWNER: Crash completed! Wreck at: [5158.3,8947.6,-0.0135803] - Runtime: 2416 Seconds || Distance from calculated POC: 4 meters"
+ 0:42:47 "TIME SYNC: Local Time set to [2013,8,3,18,42]"
+ 0:47:47 "TIME SYNC: Local Time set to [2013,8,3,18,47]"
