@@ -375,3 +375,13 @@ _key >
  7:50:59 Warning: Cleanup player - person 4:7 not found
  7:54:06 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
  7:56:07 "CLEANUP: Deleted 2 Loot Piles out of 15"
+ 7:59:06 "TIME SYNC: Local Time set to [2013,8,3,19,59]"
+ 8:00:00 "RUNNING EVENT: crash_spawner on [2014,7,15,20,0]"
+ 8:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 8:00:00 "CRASHSPAWNER: UH-60M started
+
+g from [15186,11857,300] to [2402.37,5322.26] NOW!(TIME:3554||LT:HeliCrash_No50s)"
+ 8:03:07 "CLEANUP: Deleted 1 Loot Piles out of 16"
+ 8:04:06 "TIME SYNC: Local Time set to [2013,8,3,20,4]"
+ 8:04:07 "CLEANUP: Deleted 7 Animals out of 28"
+ 8:06:36 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
