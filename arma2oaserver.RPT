@@ -467,3 +467,28 @@ g from [10450,-630,1000] to [4840.92,4364.08] NOW!(TIME:8129||LT:HeliCrash_No50s
  1:34:51 "CLEANUP: Deleted 1 Loot Piles out of 51"
  1:36:51 "CLEANUP: Deleted 1 Loot Piles out of 50"
  1:37:47 "TIME SYNC: Local Time set to [2013,8,3,19,37]"
+ 1:41:26 "CRASHSPAWNER: UH-60M just exploded at [4867.59,4353.21,4.15619]!, "
+ 1:41:26 "CRASHSPAWNER: Loot spawn at '[4865.66,4356.71,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:26 "CRASHSPAWNER: Loot spawn at '[4861.4,4356.72,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4867.98,4358.77,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4873.74,4349.17,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4863.34,4350.14,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4865.88,4346.55,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4859.04,4354.25,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4863.51,4351.68,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4863.3,4354.47,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4860.88,4354.96,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4871.44,4357.46,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Loot spawn at '[4862.18,4352.23,0]' with loot table 'HeliCrash_No50s'"
+ 1:41:27 "CRASHSPAWNER: Crash completed! Wreck at: [4867.59,4353.21,0.0544586] - Runtime: 687 Seconds || Distance from calculated POC: 29 meters"
+ 1:42:47 "TIME SYNC: Local Time set to [2013,8,3,19,42]"
+ 1:43:12 "CLIENTLOG: Admin Tools: BluntScopes | Deactivated Admin Mode."
+ 1:43:26 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 1:43:26 "get: STRING (), sent: STRING (4486214)"
+ 1:43:26 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 REMOTE, _characterID: 532 at loc [13863.9,11729.1,0.00118876]"
+ 1:43:26 Client: Remote object 4:6 not found
+ 1:43:26 Client: Remote object 4:5 not found
+ 1:43:26 Client: Remote object 4:0 not found
+ 1:43:29 Warning: Cleanup player - person 4:7 not found
+ 1:47:47 "TIME SYNC: Local Time set to [2013,8,3,19,47]"
+ 1:47:48 "CLEANUP: Deleted 13 Animals out of 13"
