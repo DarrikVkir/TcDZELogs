@@ -333,3 +333,36 @@ g from [6993.7,173.053,300] to [14170.8,14194.6] NOW!(TIME:931||LT:HeliCrash_No5
 23:43:48 "CLEANUP: Deleted 1 Loot Piles out of 43"
 23:44:23 "DELETE: B 1-1-A:1 (BluntScopes) REMOTE Deleted by UID: 0"
 23:47:47 "TIME SYNC: Local Time set to [2013,8,3,17,47]"
+23:49:16 Cannot create object 3:326
+23:49:16 Client: Object 3:326 (type Type_70) not found.
+23:49:16 Client: Object 3:327 (type Type_69) not found.
+23:49:16 Client: Object 3:327 (type Type_70) not found.
+23:49:16 Client: Object 3:326 (type Type_69) not found.
+23:49:16 Client: Object 3:326 (type Type_70) not found.
+23:49:16 "PDEATH: Player Died 4486214"
+23:49:18 Client: Object 3:326 (type Type_70) not found.
+23:49:20 Client: Object 3:326 (type Type_70) not found.
+23:49:22 Client: Object 3:326 (type Type_70) not found.
+23:49:24 Client: Object 3:326 (type Type_70) not found.
+23:49:26 Client: Object 3:326 (type Type_69) not found.
+23:49:26 Client: Object 3:326 (type Type_70) not found.
+23:49:28 Client: Object 3:326 (type Type_70) not found.
+23:49:30 Client: Object 3:326 (type Type_70) not found.
+23:49:31 Client: Object 3:326 (type Type_69) not found.
+23:49:32 Client: Object 3:326 (type Type_70) not found.
+23:49:34 Client: Object 3:326 (type Type_70) not found.
+23:49:36 Client: Object 3:326 (type Type_69) not found.
+23:49:36 Client: Object 3:326 (type Type_70) not found.
+23:49:38 Client: Object 3:326 (type Type_70) not found.
+23:49:40 Client: Object 3:326 (type Type_70) not found.
+23:49:41 Client: Object 3:326 (type Type_69) not found.
+23:49:42 Client: Object 3:326 (type Type_70) not found.
+23:49:43 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [531]. Position in debug! [-7239.67,19539.3,0.246216]"
+23:49:44 "get: STRING (4486214), sent: STRING (4486214)"
+23:49:44 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 531 at loc [-7239.67,19539.3,0.246216]"
+23:49:44 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [531]. Position in debug! [-7239.67,19539.3,0.246216]"
+23:49:44 Client: Remote object 3:326 not found
+23:52:47 "TIME SYNC: Local Time set to [2013,8,3,17,52]"
+23:52:48 "CLEANUP: Deleted 1 Loot Piles out of 38"
+23:53:05 "ERROR: Cannot Sync Character BluntScopes as no characterID"
+23:57:47 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
