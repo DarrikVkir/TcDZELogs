@@ -452,3 +452,18 @@ g from [15098,8144,300] to [2895.01,5330.49] NOW!(TIME:6337||LT:MilitarySpecial)
  1:18:18 Server: Object 4:39 not found (message 98)
  1:22:47 "TIME SYNC: Local Time set to [2013,8,3,19,22]"
  1:27:47 "TIME SYNC: Local Time set to [2013,8,3,19,27]"
+ 1:30:00 "RUNNING EVENT: crash_spawner on [2014,7,15,19,30]"
+ 1:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 1:30:00 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [4840.92,4364.08] NOW!(TIME:8129||LT:HeliCrash_No50s)"
+ 1:30:10 "[DZMS]: Minor SM3 Stash House Mission has Ended."
+ 1:30:39 "[DZMS]: Running Minor Mission SM9."
+ 1:32:47 "TIME SYNC: Local Time set to [2013,8,3,19,32]"
+ 1:32:50 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+ 1:32:51 "CLEANUP: Deleted 1 Loot Piles out of 52"
+ 1:33:07 Client: Object 4:97 (type Type_70) not found.
+ 1:33:07 Client: Object 4:97 (type Type_69) not found.
+ 1:34:51 "CLEANUP: Deleted 1 Loot Piles out of 51"
+ 1:36:51 "CLEANUP: Deleted 1 Loot Piles out of 50"
+ 1:37:47 "TIME SYNC: Local Time set to [2013,8,3,19,37]"
