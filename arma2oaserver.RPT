@@ -349,3 +349,11 @@ g from [10450,-630,1000] to [10045.1,8313.22] NOW!(TIME:2905||LT:MilitarySpecial
  4:25:32 "Purging player: 2e9e4080# 1060873: ghillie_overall.p3d"
  4:25:32 "TIME SYNC: Local Time set to [2013,8,3,22,25]"
  4:25:32 "CLEANUP: Deleted 1 players and 0 zombies out of 1 dead"
+ 4:30:06 "RUNNING EVENT: crash_spawner on [2014,7,16,22,30]"
+ 4:30:07 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 4:30:07 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [1923.4,9939.13] NOW!(TIME:4706||LT:HeliCrash_No50s)"
+ 4:30:32 "TIME SYNC: Local Time set to [2013,8,3,22,30]"
+ 4:35:32 "TIME SYNC: Local Time set to [2013,8,3,22,35]"
+ 4:35:34 "CLEANUP: Deleted 2 Loot Piles out of 26"
