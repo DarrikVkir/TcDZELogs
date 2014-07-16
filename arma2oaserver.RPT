@@ -280,3 +280,24 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  3:25:31 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
  3:27:45 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
  3:27:52 "CLIENTLOG: Admin Tools: BluntScopes | any."
+ 3:28:34 "CLIENTLOG: Admin Tools: BluntScopes | any."
+ 3:28:45 "CLIENTLOG: Admin Tools: BluntScopes | Deactivated Admin Mode."
+ 3:30:03 "RUNNING EVENT: crash_spawner on [2014,7,16,21,30]"
+ 3:30:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 3:30:03 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [7667.73,12277.4] NOW!(TIME:1103||LT:HeliCrash_No50s)"
+ 3:30:31 "TIME SYNC: Local Time set to [2013,8,3,21,30]"
+ 3:34:47 "DELETE: <null> Deleted by ID: 1453"
+ 3:34:47 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 3:34:47   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 3:34:47   Error Undefined variable in expression: _activatingplayer
+ 3:34:47 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 3:35:31 "TIME SYNC: Local Time set to [2013,8,3,21,35]"
+ 3:36:33 "CLEANUP: Deleted 16 Loot Piles out of 22"
