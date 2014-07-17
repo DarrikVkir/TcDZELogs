@@ -287,3 +287,10 @@ g from [1623.71,218.188,300] to [2397.62,7187.94] NOW!(TIME:1282||LT:HeliCrash_N
 14:47:03 "TIME SYNC: Local Time set to [2013,8,3,16,47]"
 14:52:03 "TIME SYNC: Local Time set to [2013,8,3,16,52]"
 14:57:03 "TIME SYNC: Local Time set to [2013,8,3,16,57]"
+15:00:07 "RUNNING EVENT: crash_spawner on [2014,7,17,17,0]"
+15:00:07 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+15:00:07 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [1623.71,218.188,300] to [4854.39,14157.7] NOW!(TIME:3084||LT:MilitarySpecial)"
+15:02:03 "TIME SYNC: Local Time set to [2013,8,3,17,2]"
+15:07:03 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
