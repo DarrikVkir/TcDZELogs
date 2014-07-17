@@ -722,3 +722,28 @@ g from [6986,-630,1000] to [12597.3,14979.7] NOW!(TIME:2217||LT:MilitarySpecial)
  2:22:04 "TIME SYNC: Local Time set to [2013,8,3,2,22]"
  2:27:04 "TIME SYNC: Local Time set to [2013,8,3,2,27]"
  2:27:04 "CLEANUP: Deleted 5 Animals out of 5"
+ 2:30:00 "RUNNING EVENT: crash_spawner on [2014,7,17,2,30]"
+ 2:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 2:30:00 "CRASHSPAWNER: UH-60M MEV started
+
+g from [6993.7,173.053,300] to [2496.83,8214.07] NOW!(TIME:4009||LT:Hospital)"
+ 2:32:04 "TIME SYNC: Local Time set to [2013,8,3,2,32]"
+ 2:32:06 "CLEANUP: Deleted 2 Loot Piles out of 56"
+ 2:33:06 "CLEANUP: Deleted 7 Loot Piles out of 54"
+ 2:36:06 "CLEANUP: Deleted 2 Loot Piles out of 47"
+ 2:36:55 "CRASHSPAWNER: UH-60M MEV just exploded at [2566.85,8259.43,0.395721]!, "
+ 2:36:55 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 2:36:55 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 2:36:55 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2568.7,8255.89,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2570.09,8256.99,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2564.09,8263.09,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2570.97,8258.19,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2560.03,8261.23,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2561.5,8263.85,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2569.91,8266.28,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2570.36,8249.51,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2564.44,8245.19,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Loot spawn at '[2571.75,8245.88,0]' with loot table 'Hospital'"
+ 2:36:55 "CRASHSPAWNER: Crash completed! Wreck at: [2566.85,8259.43,0.152374] - Runtime: 415 Seconds || Distance from calculated POC: 85 meters"
+ 2:37:04 "TIME SYNC: Local Time set to [2013,8,3,2,37]"
