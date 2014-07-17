@@ -790,3 +790,12 @@ g from [6993.7,173.053,300] to [3802.62,14525.2] NOW!(TIME:7612||LT:MilitarySpec
  3:37:03 "CRASHSPAWNER: Loot spawn at '[3856.73,14496.4,0]' with loot table 'MilitarySpecial'"
  3:37:03 "CRASHSPAWNER: Crash completed! Wreck at: [3853.35,14502.8,-0.120667] - Runtime: 418 Seconds || Distance from calculated POC: 59 meters"
  3:37:04 "TIME SYNC: Local Time set to [2013,8,3,3,37]"
+ 3:38:57 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 3:38:57 "get: STRING (), sent: STRING (4486214)"
+ 3:38:57 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 REMOTE, _characterID: 533 at loc [13872.3,11714.8,0.00159526]"
+ 3:38:57 Client: Remote object 6:0 not found
+ 3:38:57 Client: Remote object 6:8 not found
+ 3:38:59 Warning: Cleanup player - person 6:7 not found
+ 3:42:04 "CLEANUP: Deleted 4 Animals out of 4"
+ 3:42:04 "TIME SYNC: Local Time set to [2013,8,3,3,42]"
+ 3:47:04 "TIME SYNC: Local Time set to [2013,8,3,3,47]"
