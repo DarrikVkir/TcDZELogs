@@ -297,3 +297,11 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:20:38 "CLEANUP: Deleted 12 Animals out of 12"
  8:25:37 "TIME SYNC: Local Time set to [2013,8,3,16,25]"
  8:26:39 "CLEANUP: Deleted 19 Loot Piles out of 25"
+ 8:30:09 "RUNNING EVENT: crash_spawner on [2014,7,17,16,30]"
+ 8:30:09 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 8:30:09 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [5398.17,10991.7] NOW!(TIME:1703||LT:HeliCrash_No50s)"
+ 8:30:37 "TIME SYNC: Local Time set to [2013,8,3,16,30]"
+ 8:35:37 "TIME SYNC: Local Time set to [2013,8,3,16,35]"
+ 8:35:38 "CLEANUP: Deleted 3 Loot Piles out of 6"
