@@ -982,3 +982,52 @@ g from [6993.7,173.053,300] to [5150.83,5746.1] NOW!(TIME:22015||LT:HeliCrash_No
  7:34:52 "ERROR: Cannot Sync Character BluntScopes as no characterID"
  7:35:16 "CLEANUP: Deleted 4 Loot Piles out of 160"
  7:37:05 "TIME SYNC: Local Time set to [2013,8,3,7,37]"
+ 7:38:33 "CRASHSPAWNER: UH-60M just exploded at [5151.35,5739.77,4.802]!, "
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5155.05,5738.25,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5148.51,5746.74,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5155.01,5746.74,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5148.63,5746.64,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5156.87,5743.82,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5147.75,5748.18,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5156.22,5745.3,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5149.18,5735.39,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5147.36,5744.6,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5158.18,5733.79,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5144.81,5740.57,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Loot spawn at '[5158.89,5732.77,0]' with loot table 'HeliCrash_No50s'"
+ 7:38:33 "CRASHSPAWNER: Crash completed! Wreck at: [5151.35,5739.77,0.245789] - Runtime: 505 Seconds || Distance from calculated POC: 6 meters"
+ 7:42:05 "TIME SYNC: Local Time set to [2013,8,3,7,42]"
+ 7:43:00 "[DZMS]: Minor SM2 Medical Outpost Mission has Ended."
+ 7:43:07 Server: Object 7:75 not found (message 91)
+ 7:43:07 Server: Object 7:79 not found (message 91)
+ 7:43:07 Server: Object 7:80 not found (message 99)
+ 7:43:07 Server: Object 7:81 not found (message 91)
+ 7:43:07 Server: Object 7:82 not found (message 98)
+ 7:43:07 Server: Object 7:83 not found (message 91)
+ 7:43:07 Server: Object 7:84 not found (message 99)
+ 7:43:07 Server: Object 7:85 not found (message 91)
+ 7:43:16 "[DZMS]: Running Minor Mission SM9."
+ 7:46:09 "DELETE: <null> Deleted by ID: 4610"
+ 7:46:09 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:46:09   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:46:09   Error Undefined variable in expression: _activatingplayer
+ 7:46:09 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 7:47:05 "TIME SYNC: Local Time set to [2013,8,3,7,47]"
+ 7:47:08 "CRASHSPAWNER: AH-1Z just exploded at [2295.69,5088.01,1.51283]!, "
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2296.73,5091.87,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2290.48,5089.17,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2299.19,5092.42,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2290.86,5086.95,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2298.44,5084.43,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2297.68,5094.86,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2294.99,5082.58,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2304.28,5086.89,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2293.09,5093.93,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Loot spawn at '[2299.49,5084.2,0]' with loot table 'MilitarySpecial'"
+ 7:47:08 "CRASHSPAWNER: Crash completed! Wreck at: [2295.7,5088,-0.000762939] - Runtime: 10019 Seconds || Distance from calculated POC: 2488 meters"
