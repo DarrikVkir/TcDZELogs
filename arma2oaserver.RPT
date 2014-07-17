@@ -665,3 +665,57 @@ g from [6986,-630,1000] to [12597.3,14979.7] NOW!(TIME:2217||LT:MilitarySpecial)
  2:05:08 "CRASHSPAWNER: Loot spawn at '[12567.5,14926.4,0]' with loot table 'MilitarySpecial'"
  2:05:08 "CRASHSPAWNER: Crash completed! Wreck at: [12560.4,14925.1,-0.0164032] - Runtime: 302 Seconds || Distance from calculated POC: 67 meters"
  2:07:04 "TIME SYNC: Local Time set to [2013,8,3,2,7]"
+ 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:12:04 "TIME SYNC: Local Time set to [2013,8,3,2,12]"
+ 2:13:29 "PDEATH: Player Died 248556998"
+ 2:14:30 "get: STRING (248556998), sent: STRING (248556998)"
+ 2:14:30 "DISCONNECT: Joey (248556998) Object: B 1-1-A:1 (Joey) REMOTE, _characterID: 534 at loc [-7239.67,19539.3,0.246307]"
+ 2:14:30 "ERROR: server_playerSync: Cannot Sync Player Joey [534]. Position in debug! [-7239.67,19539.3,0.246307]"
+ 2:14:30 Client: Remote object 4:2 not found
+ 2:14:30 Client: Remote object 2:5921 not found
+ 2:14:30 Client: Remote object 2:5922 not found
+ 2:15:09 "RUNNING EVENT: supply_drop on [2014,7,17,2,15]"
+ 2:17:04 "TIME SYNC: Local Time set to [2013,8,3,2,17]"
+ 2:18:04 No player found for channel 783433792 - message ignored
