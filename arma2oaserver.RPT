@@ -2,10 +2,10 @@
 
 =====================================================================
 == C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
-== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-vmBXR.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-ofWu8.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
 =====================================================================
 Exe timestamp: 2014/06/01 10:01:31
-Current time:  2014/07/16 16:49:26
+Current time:  2014/07/17 07:59:33
 
 Version 1.63.112555
 Item STR_EPOCH_BULK_DESC_MP5SD listed twice
@@ -92,964 +92,196 @@ Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M11
 Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
 Obsolete class Animations defined in bin\config.bin/RscCompass/
 Obsolete class Animations defined in bin\config.bin/RscWatch/
-23:08:25 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
-23:08:25 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
-23:08:25 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
-23:08:25 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
-23:08:33 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
-23:08:34 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
-23:08:35 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
-23:08:35 "DayZ Epoch: MPframework inited"
-23:09:17 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
-23:09:19 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
-23:09:19 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-23:09:19 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-23:09:19 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-23:09:19 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-23:09:19 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
-23:09:20 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
-23:09:20 ca\misc\sphere2.p3d: No geometry and no visual shape
-23:09:20 ca\misc\sphere2.p3d: No geometry and no visual shape
-23:09:20 ca\misc\sphere2.p3d: No geometry and no visual shape
-23:09:20 ca\misc\sphere2.p3d: No geometry and no visual shape
-23:09:21 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
-23:09:22 "Res3tting B!S effects..."
-23:09:22 "[AGN] Starting Trader City Safezone Commander!"
-23:09:22 "Error: Attempting to start AGN products on a server where it should not be!"
-23:09:23 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
-23:09:24 "HIVE: Starting"
-23:09:24 "HIVE: trying to get objects"
-23:14:47 NetServer::finishDestroyPlayer(562273174): DESTROY immediately after CREATE, both cancelled
- 0:17:47 NetServer::finishDestroyPlayer(1044616328): DESTROY immediately after CREATE, both cancelled
- 1:22:45 "get: STRING (4486214), sent: STRING (4486214)"
- 1:22:45 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-A:1 (BluntScopes) REMOTE, _characterID: 0 at loc [-7244.94,19534.5,0]"
- 1:22:45 "ERROR: Cannot Sync Character BluntScopes as no characterID"
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:45 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 No player found for channel 197918784 - message ignored
- 1:22:46 Client: Remote object 2:9 not found
- 1:22:46 Client: Remote object 2:10 not found
- 1:22:46 Client: Remote object 2:11 not found
- 1:22:46 "HIVE: found 1765 objects"
- 1:22:46 "HIVE: Commence Object Streaming..."
- 1:22:53 "HIVE: got 1334 Epoch Objects and 431 Vehicles"
- 1:22:57 "Res3tting B!S effects..."
- 1:23:06 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
- 1:23:06 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
- 1:23:11 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
- 1:23:11 UH1Y_DZE: ObsGun - unknown animation source ObsGun
- 1:23:42 "HIVE: Vehicle Spawn limit reached!"
- 1:23:42 "HIVE: Spawning # of Debris: 0"
- 1:23:42 "HIVE: Spawning # of Ammo Boxes: 3"
- 1:23:42 "HIVE: Spawning # of Veins: 50"
- 1:23:42 "Total Number of spawn locations 5"
- 1:23:42 "EPOCH EVENTS INIT"
- 1:23:43 "DEBUG VEIN: Too many objects at [5325.61,8199.93]"
- 1:23:44 "DEBUG VEIN: on road [12824.6,12736.1]"
- 1:24:42 "[DZMS]: Starting DayZ Epoch Mission System."
- 1:24:42 "[DZMS]: Relations not found! Using DZMS Relations."
- 1:24:42 "[DZMS]: Mission and Extended Configuration Loaded!"
- 1:24:42 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
- 1:24:42 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
- 1:24:42 "[DZMS]: Mission Functions Script Loaded!"
- 1:24:42 "[DZMS]: Major Mission Clock Starting!"
- 1:24:42 "[DZMS]: Minor Mission Clock Starting!"
- 1:24:42 "[DZMS]: Mission Marker Loop for JIPs Starting!"
- 1:24:44 "[DZMS]: Running Minor Mission SM2."
- 1:25:11 "[DZMS]: Running Major Mission SM8."
- 1:27:03 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
- 1:30:04 "RUNNING EVENT: crash_spawner on [2014,7,17,1,30]"
- 1:30:04 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Ural Wreck spawned at [6692.28,3160.47]"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6692.94,3164.41,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6691.81,3166.57,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6688.54,3165.85,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6693.07,3164.64,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6686.94,3162.74,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6689.86,3164.27,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6690.29,3152.41,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6690.02,3164.19,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6687.36,3161.98,0.0497704]' with loot table 'Military'"
- 1:30:04 "CRASHSPAWNER: Loot spawn at '[6685.43,3162.87,0.0497704]' with loot table 'Military'"
- 1:30:05 "CRASHSPAWNER: Loot spawn at '[6699.12,3163.32,0.0497704]' with loot table 'Military'"
- 1:32:03 "TIME SYNC: Local Time set to [2013,8,3,1,32]"
- 1:37:03 "TIME SYNC: Local Time set to [2013,8,3,1,37]"
- 1:42:03 "TIME SYNC: Local Time set to [2013,8,3,1,42]"
- 1:47:03 "TIME SYNC: Local Time set to [2013,8,3,1,47]"
- 1:52:03 "TIME SYNC: Local Time set to [2013,8,3,1,52]"
- 1:57:04 "TIME SYNC: Local Time set to [2013,8,3,1,57]"
- 2:00:06 "RUNNING EVENT: crash_spawner on [2014,7,17,2,0]"
- 2:00:06 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
- 2:00:06 "CRASHSPAWNER: AH-1Z started
-
-g from [6986,-630,1000] to [12597.3,14979.7] NOW!(TIME:2217||LT:MilitarySpecial)"
- 2:02:04 "TIME SYNC: Local Time set to [2013,8,3,2,2]"
- 2:05:07 "CRASHSPAWNER: AH-1Z just exploded at [12560.4,14925.1,0.905182]!, "
- 2:05:07 "CRASHSPAWNER: Loot spawn at '[12564.4,14925.1,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12565.7,14927.2,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12556.5,14926.5,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12566.4,14929.6,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12551.1,14928,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12565.2,14916,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12552.5,14920.9,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12562,14930.6,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Loot spawn at '[12567.5,14926.4,0]' with loot table 'MilitarySpecial'"
- 2:05:08 "CRASHSPAWNER: Crash completed! Wreck at: [12560.4,14925.1,-0.0164032] - Runtime: 302 Seconds || Distance from calculated POC: 67 meters"
- 2:07:04 "TIME SYNC: Local Time set to [2013,8,3,2,7]"
- 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
- 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
- 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
- 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
- 2:11:42 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
- 2:11:42   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone leftshoulder doesn't exist in some skeleton 
- 2:11:44 Error: Bone rightshoulder doesn't exist in some skeleton 
- 2:12:04 "TIME SYNC: Local Time set to [2013,8,3,2,12]"
- 2:13:29 "PDEATH: Player Died 248556998"
- 2:14:30 "get: STRING (248556998), sent: STRING (248556998)"
- 2:14:30 "DISCONNECT: Joey (248556998) Object: B 1-1-A:1 (Joey) REMOTE, _characterID: 534 at loc [-7239.67,19539.3,0.246307]"
- 2:14:30 "ERROR: server_playerSync: Cannot Sync Player Joey [534]. Position in debug! [-7239.67,19539.3,0.246307]"
- 2:14:30 Client: Remote object 4:2 not found
- 2:14:30 Client: Remote object 2:5921 not found
- 2:14:30 Client: Remote object 2:5922 not found
- 2:15:09 "RUNNING EVENT: supply_drop on [2014,7,17,2,15]"
- 2:17:04 "TIME SYNC: Local Time set to [2013,8,3,2,17]"
- 2:18:04 No player found for channel 783433792 - message ignored
- 2:22:04 "TIME SYNC: Local Time set to [2013,8,3,2,22]"
- 2:27:04 "TIME SYNC: Local Time set to [2013,8,3,2,27]"
- 2:27:04 "CLEANUP: Deleted 5 Animals out of 5"
- 2:30:00 "RUNNING EVENT: crash_spawner on [2014,7,17,2,30]"
- 2:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
- 2:30:00 "CRASHSPAWNER: UH-60M MEV started
-
-g from [6993.7,173.053,300] to [2496.83,8214.07] NOW!(TIME:4009||LT:Hospital)"
- 2:32:04 "TIME SYNC: Local Time set to [2013,8,3,2,32]"
- 2:32:06 "CLEANUP: Deleted 2 Loot Piles out of 56"
- 2:33:06 "CLEANUP: Deleted 7 Loot Piles out of 54"
- 2:36:06 "CLEANUP: Deleted 2 Loot Piles out of 47"
- 2:36:55 "CRASHSPAWNER: UH-60M MEV just exploded at [2566.85,8259.43,0.395721]!, "
- 2:36:55 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
- 2:36:55 UH60Wreck_DZ: MainGun - unknown animation source mainGun
- 2:36:55 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2568.7,8255.89,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2570.09,8256.99,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2564.09,8263.09,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2570.97,8258.19,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2560.03,8261.23,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2561.5,8263.85,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2569.91,8266.28,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2570.36,8249.51,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2564.44,8245.19,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Loot spawn at '[2571.75,8245.88,0]' with loot table 'Hospital'"
- 2:36:55 "CRASHSPAWNER: Crash completed! Wreck at: [2566.85,8259.43,0.152374] - Runtime: 415 Seconds || Distance from calculated POC: 85 meters"
- 2:37:04 "TIME SYNC: Local Time set to [2013,8,3,2,37]"
- 2:42:04 "TIME SYNC: Local Time set to [2013,8,3,2,42]"
- 2:47:04 "Purging player: 2fac4080# 1060947: man_survivor.p3d"
- 2:47:04 "CLEANUP: Deleted 1 players and 0 zombies out of 1 dead"
- 2:47:04 "TIME SYNC: Local Time set to [2013,8,3,2,47]"
- 2:52:04 "TIME SYNC: Local Time set to [2013,8,3,2,52]"
- 2:57:04 "TIME SYNC: Local Time set to [2013,8,3,2,57]"
- 3:00:02 "RUNNING EVENT: crash_spawner on [2014,7,17,3,0]"
- 3:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
- 3:00:02 "CRASHSPAWNER: UH-60M started
-
-g from [1623.71,218.188,300] to [7115.07,14943.3] NOW!(TIME:5811||LT:HeliCrash_No50s)"
- 3:02:04 "TIME SYNC: Local Time set to [2013,8,3,3,2]"
- 3:07:04 "TIME SYNC: Local Time set to [2013,8,3,3,7]"
- 3:12:04 "TIME SYNC: Local Time set to [2013,8,3,3,12]"
- 3:15:03 "RUNNING EVENT: supply_drop on [2014,7,17,3,15]"
- 3:17:04 "TIME SYNC: Local Time set to [2013,8,3,3,17]"
- 3:22:04 "TIME SYNC: Local Time set to [2013,8,3,3,22]"
- 3:23:51 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
- 3:23:55 "CLIENTLOG: Admin Tools: BluntScopes | any."
- 3:27:04 "TIME SYNC: Local Time set to [2013,8,3,3,27]"
- 3:28:18 "MAINTAIN AREA BY BluntScopes - 664 Objects at [13861.7,11762.3,0.00227356]"
- 3:30:04 "RUNNING EVENT: crash_spawner on [2014,7,17,3,30]"
- 3:30:04 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
- 3:30:04 "CRASHSPAWNER: Ka-52 (black) started
-
-g from [6993.7,173.053,300] to [3802.62,14525.2] NOW!(TIME:7612||LT:MilitarySpecial)"
- 3:32:04 "TIME SYNC: Local Time set to [2013,8,3,3,32]"
- 3:32:13 "DELETE: B 1-1-B:1 (BluntScopes) REMOTE Deleted by UID: 138637117637973"
- 3:36:37 "DELETE: B 1-1-B:1 (BluntScopes) REMOTE Deleted by UID: 138561117712565"
- 3:37:03 "CRASHSPAWNER: Ka-52 (black) just exploded at [3853.62,14502.7,0.802795]!, "
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3850.73,14505.5,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3857.72,14502.3,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3859.32,14502,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3862.5,14503.1,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3846.25,14507.7,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3862.15,14507,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3855.98,14507.9,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3855.85,14510.3,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3864.12,14507.3,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3848.85,14505.2,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Loot spawn at '[3856.73,14496.4,0]' with loot table 'MilitarySpecial'"
- 3:37:03 "CRASHSPAWNER: Crash completed! Wreck at: [3853.35,14502.8,-0.120667] - Runtime: 418 Seconds || Distance from calculated POC: 59 meters"
- 3:37:04 "TIME SYNC: Local Time set to [2013,8,3,3,37]"
- 3:38:57 "nil player object attempting PV, :["4486214","BluntScopes"]"
- 3:38:57 "get: STRING (), sent: STRING (4486214)"
- 3:38:57 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-B:1 REMOTE, _characterID: 533 at loc [13872.3,11714.8,0.00159526]"
- 3:38:57 Client: Remote object 6:0 not found
- 3:38:57 Client: Remote object 6:8 not found
- 3:38:59 Warning: Cleanup player - person 6:7 not found
- 3:42:04 "CLEANUP: Deleted 4 Animals out of 4"
- 3:42:04 "TIME SYNC: Local Time set to [2013,8,3,3,42]"
- 3:47:04 "TIME SYNC: Local Time set to [2013,8,3,3,47]"
- 3:52:04 "TIME SYNC: Local Time set to [2013,8,3,3,52]"
- 3:57:04 "TIME SYNC: Local Time set to [2013,8,3,3,57]"
- 4:00:06 "RUNNING EVENT: crash_spawner on [2014,7,17,4,0]"
- 4:00:06 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
- 4:00:06 "CRASHSPAWNER: UH-60M started
-
-g from [15098,8144,300] to [2634.74,9430.75] NOW!(TIME:9414||LT:HeliCrash_No50s)"
- 4:02:04 "TIME SYNC: Local Time set to [2013,8,3,4,2]"
- 4:07:04 "TIME SYNC: Local Time set to [2013,8,3,4,7]"
- 4:12:04 "TIME SYNC: Local Time set to [2013,8,3,4,12]"
- 4:15:06 "RUNNING EVENT: supply_drop on [2014,7,17,4,15]"
- 4:17:04 "TIME SYNC: Local Time set to [2013,8,3,4,17]"
- 4:22:04 "TIME SYNC: Local Time set to [2013,8,3,4,22]"
- 4:27:04 "TIME SYNC: Local Time set to [2013,8,3,4,27]"
- 4:30:07 "RUNNING EVENT: crash_spawner on [2014,7,17,4,30]"
- 4:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
- 4:30:07 "CRASHSPAWNER: UH-60M started
-
-g from [6993.7,173.053,300] to [5748.97,15141.1] NOW!(TIME:11215||LT:HeliCrash_No50s)"
- 4:32:04 "TIME SYNC: Local Time set to [2013,8,3,4,32]"
- 4:34:55 "CRASHSPAWNER: UH-60M just exploded at [5844.97,15173.4,-0.0942688]!, "
- 4:34:55 "CRASHSPAWNER: Loot spawn at '[5848.75,15174.7,0]' with loot table 'HeliCrash_No50s'"
- 4:34:55 "CRASHSPAWNER: Loot spawn at '[5844.68,15181.2,0]' with loot table 'HeliCrash_No50s'"
- 4:34:55 "CRASHSPAWNER: Loot spawn at '[5836.27,15172.5,0]' with loot table 'HeliCrash_No50s'"
- 4:34:55 "CRASHSPAWNER: Loot spawn at '[5832.98,15174.3,0]' with loot table 'HeliCrash_No50s'"
- 4:34:55 "CRASHSPAWNER: Loot spawn at '[5836.29,15171.3,0]' with loot table 'HeliCrash_No50s'"
- 4:34:55 "CRASHSPAWNER: Loot spawn at '[5833.12,15175.6,0]' with loot table 'HeliCrash_No50s'"
- 4:34:55 "CRASHSPAWNER: Loot spawn at '[5838.49,15182.3,0]' with loot table 'HeliCrash_No50s'"
- 4:34:56 "CRASHSPAWNER: Loot spawn at '[5840.19,15165.5,0]' with loot table 'HeliCrash_No50s'"
- 4:34:56 "CRASHSPAWNER: Loot spawn at '[5833.87,15172.2,0]' with loot table 'HeliCrash_No50s'"
- 4:34:56 "CRASHSPAWNER: Loot spawn at '[5843.19,15167.7,0]' with loot table 'HeliCrash_No50s'"
- 4:34:56 "CRASHSPAWNER: Loot spawn at '[5839.17,15168.9,0]' with loot table 'HeliCrash_No50s'"
- 4:34:56 "CRASHSPAWNER: Crash completed! Wreck at: [5844.97,15173.4,-0.165192] - Runtime: 288 Seconds || Distance from calculated POC: 102 meters"
- 4:37:04 "TIME SYNC: Local Time set to [2013,8,3,4,37]"
- 4:40:07 "CRASHSPAWNER: UH-60M just exploded at [7096.05,15375.3,1.15634]!, "
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7092.06,15375.7,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7101.55,15374.2,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7095.61,15369.7,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7097.56,15382.5,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7102.55,15383,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7101.25,15376.8,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7094.98,15382.9,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7104.19,15376.9,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7095.69,15370.4,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7095.92,15381.9,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7091.73,15374.8,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7093.86,15370.1,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Loot spawn at '[7088.54,15372.6,0]' with loot table 'HeliCrash_No50s'"
- 4:40:07 "CRASHSPAWNER: Crash completed! Wreck at: [7096.05,15375.3,0.417938] - Runtime: 6003 Seconds || Distance from calculated POC: 440 meters"
- 4:42:04 "TIME SYNC: Local Time set to [2013,8,3,4,42]"
- 4:47:04 "TIME SYNC: Local Time set to [2013,8,3,4,47]"
- 4:52:04 "TIME SYNC: Local Time set to [2013,8,3,4,52]"
- 4:57:04 "TIME SYNC: Local Time set to [2013,8,3,4,57]"
- 5:00:09 "RUNNING EVENT: crash_spawner on [2014,7,17,5,0]"
- 5:00:09 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
- 5:00:09 "CRASHSPAWNER: AH-1Z started
-
-g from [15098,8144,300] to [4418.83,3791.01] NOW!(TIME:13017||LT:MilitarySpecial)"
- 5:02:04 "TIME SYNC: Local Time set to [2013,8,3,5,2]"
- 5:07:04 "TIME SYNC: Local Time set to [2013,8,3,5,7]"
- 5:12:04 "TIME SYNC: Local Time set to [2013,8,3,5,12]"
- 5:15:00 "RUNNING EVENT: supply_drop on [2014,7,17,5,15]"
- 5:17:04 "TIME SYNC: Local Time set to [2013,8,3,5,17]"
- 5:22:04 "TIME SYNC: Local Time set to [2013,8,3,5,22]"
- 5:27:04 "TIME SYNC: Local Time set to [2013,8,3,5,27]"
- 5:30:01 "RUNNING EVENT: crash_spawner on [2014,7,17,5,30]"
- 5:30:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
- 5:30:01 "CRASHSPAWNER: UH-1H started
-
-g from [10450,-630,1000] to [14641.1,15184.3] NOW!(TIME:14808||LT:HeliCrash_No50s)"
- 5:32:05 "TIME SYNC: Local Time set to [2013,8,3,5,32]"
- 5:37:05 "TIME SYNC: Local Time set to [2013,8,3,5,37]"
- 5:40:26 "CRASHSPAWNER: UH-60M just exploded at [4442.87,10625.2,1.09991]!, "
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4446.71,10626.4,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4446.77,10619.3,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4443.08,10630.2,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4438.42,10622.4,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4438.63,10626.3,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4444.2,10617.4,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4447.66,10628.8,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4449.64,10627.9,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4448.4,10628.3,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4442.79,10634.4,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4434.05,10620.9,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4441.31,10630.4,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Loot spawn at '[4444.58,10616.8,0]' with loot table 'HeliCrash_No50s'"
- 5:40:26 "CRASHSPAWNER: Crash completed! Wreck at: [4442.87,10625.2,0] - Runtime: 6020 Seconds || Distance from calculated POC: 2169 meters"
- 5:41:57 "CRASHSPAWNER: UH-1H just exploded at [14655.4,15198,4.7822]!, "
- 5:41:57 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
- 5:41:57 UH1Wreck_DZ: MainGun - unknown animation source mainGun
- 5:41:57 UH1Wreck_DZ: Gatling - unknown animation source Gatling
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14659.3,15197.3,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14659.5,15198.9,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14650,15198.6,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14650.2,15203.1,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14646.8,15190.9,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14653.5,15191.8,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14654.2,15192.7,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Loot spawn at '[14660.1,15192.9,0]' with loot table 'HeliCrash_No50s'"
- 5:41:57 "CRASHSPAWNER: Crash completed! Wreck at: [14655.4,15198,0.062851] - Runtime: 716 Seconds || Distance from calculated POC: 21 meters"
- 5:42:05 "TIME SYNC: Local Time set to [2013,8,3,5,42]"
- 5:47:05 "TIME SYNC: Local Time set to [2013,8,3,5,47]"
- 5:52:05 "TIME SYNC: Local Time set to [2013,8,3,5,52]"
- 5:57:05 "TIME SYNC: Local Time set to [2013,8,3,5,57]"
- 6:00:03 "RUNNING EVENT: crash_spawner on [2014,7,17,6,0]"
- 6:00:03 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Ural Wreck spawned at [10714.1,9298.97]"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10710.9,9296.54,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10718.5,9301.55,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10710.9,9296.05,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10719.7,9302.1,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10715.9,9295.36,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10713.2,9292.79,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10707.5,9299.3,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10708.1,9298.07,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10715.4,9291.12,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10709,9299.85,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10719.5,9296.24,0.0173187]' with loot table 'Military'"
- 6:00:03 "CRASHSPAWNER: Loot spawn at '[10706.4,9295.35,0.0173187]' with loot table 'Military'"
- 6:02:05 "TIME SYNC: Local Time set to [2013,8,3,6,2]"
- 6:07:05 "TIME SYNC: Local Time set to [2013,8,3,6,7]"
- 6:12:05 "TIME SYNC: Local Time set to [2013,8,3,6,12]"
- 6:15:04 "RUNNING EVENT: supply_drop on [2014,7,17,6,15]"
- 6:17:05 "TIME SYNC: Local Time set to [2013,8,3,6,17]"
- 6:20:13 "CLEANUP: Deleted 1 Loot Piles out of 134"
- 6:22:05 "TIME SYNC: Local Time set to [2013,8,3,6,22]"
- 6:27:05 "TIME SYNC: Local Time set to [2013,8,3,6,27]"
- 6:30:05 "RUNNING EVENT: crash_spawner on [2014,7,17,6,30]"
- 6:30:05 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
- 6:30:05 "CRASHSPAWNER: AV-8B (LGB) started
-
-g from [6993.7,173.053,300] to [6227.91,10382.5] NOW!(TIME:18412||LT:MilitarySpecial)"
- 6:32:05 "TIME SYNC: Local Time set to [2013,8,3,6,32]"
- 6:33:02 "CRASHSPAWNER: AV-8B (LGB) just exploded at [6088.53,10193.9,4.88284]!, "
- 6:33:02 "CRASHSPAWNER: Loot spawn at '[6090.68,10190.5,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6089.29,10197.9,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6085.42,10188.4,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6088.55,10189.7,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6082.36,10195.3,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6091.56,10189,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6092.79,10197.2,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6082.85,10195.9,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6087.91,10188.6,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6088.47,10188.9,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6085.12,10197.8,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6082.84,10197.9,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Loot spawn at '[6094.67,10188.4,0]' with loot table 'MilitarySpecial'"
- 6:33:03 "CRASHSPAWNER: Crash completed! Wreck at: [6088.48,10193.9,0.00823975] - Runtime: 178 Seconds || Distance from calculated POC: 235 meters"
- 6:35:14 "CLEANUP: Deleted 8 Loot Piles out of 146"
- 6:37:05 "TIME SYNC: Local Time set to [2013,8,3,6,37]"
- 6:42:05 "TIME SYNC: Local Time set to [2013,8,3,6,42]"
- 6:47:05 "TIME SYNC: Local Time set to [2013,8,3,6,47]"
- 6:52:05 "TIME SYNC: Local Time set to [2013,8,3,6,52]"
- 6:57:05 "TIME SYNC: Local Time set to [2013,8,3,6,57]"
- 7:00:06 "RUNNING EVENT: crash_spawner on [2014,7,17,7,0]"
- 7:00:06 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Ural Wreck spawned at [4711.88,11840.3]"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4715.84,11840.9,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4714.62,11836.7,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4710.29,11836.1,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4715.61,11837.8,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4705,11841,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4716.2,11835.9,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4719.11,11833.1,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4700.84,11838.8,0.00639343]' with loot table 'Military'"
- 7:00:06 "CRASHSPAWNER: Loot spawn at '[4714.82,11835.3,0.00639343]' with loot table 'Military'"
- 7:02:05 "TIME SYNC: Local Time set to [2013,8,3,7,2]"
- 7:07:05 "TIME SYNC: Local Time set to [2013,8,3,7,7]"
- 7:12:05 "TIME SYNC: Local Time set to [2013,8,3,7,12]"
- 7:15:07 "RUNNING EVENT: supply_drop on [2014,7,17,7,15]"
- 7:17:05 "TIME SYNC: Local Time set to [2013,8,3,7,17]"
- 7:20:15 "CLEANUP: Deleted 2 Loot Piles out of 157"
- 7:22:05 "TIME SYNC: Local Time set to [2013,8,3,7,22]"
- 7:27:05 "TIME SYNC: Local Time set to [2013,8,3,7,27]"
- 7:30:08 "RUNNING EVENT: crash_spawner on [2014,7,17,7,30]"
- 7:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
- 7:30:08 "CRASHSPAWNER: UH-60M started
-
-g from [6993.7,173.053,300] to [5150.83,5746.1] NOW!(TIME:22015||LT:HeliCrash_No50s)"
- 7:32:05 "TIME SYNC: Local Time set to [2013,8,3,7,32]"
- 7:34:52 "ERROR: Cannot Sync Character BluntScopes as no characterID"
- 7:35:16 "CLEANUP: Deleted 4 Loot Piles out of 160"
- 7:37:05 "TIME SYNC: Local Time set to [2013,8,3,7,37]"
- 7:38:33 "CRASHSPAWNER: UH-60M just exploded at [5151.35,5739.77,4.802]!, "
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5155.05,5738.25,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5148.51,5746.74,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5155.01,5746.74,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5148.63,5746.64,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5156.87,5743.82,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5147.75,5748.18,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5156.22,5745.3,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5149.18,5735.39,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5147.36,5744.6,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5158.18,5733.79,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5144.81,5740.57,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Loot spawn at '[5158.89,5732.77,0]' with loot table 'HeliCrash_No50s'"
- 7:38:33 "CRASHSPAWNER: Crash completed! Wreck at: [5151.35,5739.77,0.245789] - Runtime: 505 Seconds || Distance from calculated POC: 6 meters"
- 7:42:05 "TIME SYNC: Local Time set to [2013,8,3,7,42]"
- 7:43:00 "[DZMS]: Minor SM2 Medical Outpost Mission has Ended."
- 7:43:07 Server: Object 7:75 not found (message 91)
- 7:43:07 Server: Object 7:79 not found (message 91)
- 7:43:07 Server: Object 7:80 not found (message 99)
- 7:43:07 Server: Object 7:81 not found (message 91)
- 7:43:07 Server: Object 7:82 not found (message 98)
- 7:43:07 Server: Object 7:83 not found (message 91)
- 7:43:07 Server: Object 7:84 not found (message 99)
- 7:43:07 Server: Object 7:85 not found (message 91)
- 7:43:16 "[DZMS]: Running Minor Mission SM9."
- 7:46:09 "DELETE: <null> Deleted by ID: 4610"
- 7:46:09 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
-} else  {
-
-_key >
- 7:46:09   Error position: <_activatingPlayer,_id];
-} else  {
-
-_key >
- 7:46:09   Error Undefined variable in expression: _activatingplayer
- 7:46:09 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
- 7:47:05 "TIME SYNC: Local Time set to [2013,8,3,7,47]"
- 7:47:08 "CRASHSPAWNER: AH-1Z just exploded at [2295.69,5088.01,1.51283]!, "
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2296.73,5091.87,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2290.48,5089.17,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2299.19,5092.42,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2290.86,5086.95,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2298.44,5084.43,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2297.68,5094.86,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2294.99,5082.58,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2304.28,5086.89,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2293.09,5093.93,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Loot spawn at '[2299.49,5084.2,0]' with loot table 'MilitarySpecial'"
- 7:47:08 "CRASHSPAWNER: Crash completed! Wreck at: [2295.7,5088,-0.000762939] - Runtime: 10019 Seconds || Distance from calculated POC: 2488 meters"
- 7:52:05 "TIME SYNC: Local Time set to [2013,8,3,7,52]"
- 7:52:17 "CLEANUP: Deleted 1 Loot Piles out of 183"
- 7:53:17 "CLEANUP: Deleted 1 Loot Piles out of 182"
- 7:54:16 "CLEANUP: Deleted 1 Loot Piles out of 181"
- 7:55:16 "CLEANUP: Deleted 2 Loot Piles out of 180"
- 7:56:16 "CLEANUP: Deleted 1 Loot Piles out of 179"
- 7:57:05 "TIME SYNC: Local Time set to [2013,8,3,7,57]"
- 7:57:48 "[DZMS]: Minor SM9 renegades Mission has Ended."
- 7:57:52 Server: Object 7:188 not found (message 91)
- 7:57:52 Server: Object 7:190 not found (message 91)
- 7:57:52 Server: Object 7:189 not found (message 98)
- 7:57:52 Server: Object 7:192 not found (message 91)
- 7:57:52 Server: Object 7:194 not found (message 91)
- 7:57:52 Server: Object 7:196 not found (message 91)
- 7:57:52 Server: Object 7:195 not found (message 99)
- 7:57:52 Server: Object 7:198 not found (message 91)
- 7:57:52 Server: Object 7:197 not found (message 99)
- 7:57:52 Server: Object 7:200 not found (message 91)
- 7:57:52 Server: Object 7:199 not found (message 99)
- 7:57:52 Server: Object 7:202 not found (message 91)
- 7:57:52 Server: Object 7:201 not found (message 99)
- 7:57:58 "[DZMS]: Running Minor Mission SM1."
+ 8:00:30 NAT Negotiation completed
+ 8:00:45 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+ 8:00:45 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+ 8:00:45 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:45 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+ 8:00:54 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+ 8:00:54 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+ 8:00:55 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+ 8:00:55 "DayZ Epoch: MPframework inited"
+ 8:01:25 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+ 8:01:28 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+ 8:01:28 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 8:01:28 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 8:01:28 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 8:01:28 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 8:01:28 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+ 8:01:29 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+ 8:01:29 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 8:01:29 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 8:01:29 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 8:01:29 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 8:01:29 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+ 8:01:31 "Res3tting B!S effects..."
+ 8:01:31 "[AGN] Starting Trader City Safezone Commander!"
+ 8:01:31 "Error: Attempting to start AGN products on a server where it should not be!"
+ 8:01:31 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+ 8:01:32 "HIVE: Starting"
+ 8:01:32 "HIVE: trying to get objects"
+ 8:01:34 "HIVE: found 1765 objects"
+ 8:01:34 "HIVE: Commence Object Streaming..."
+ 8:01:37 "HIVE: got 1334 Epoch Objects and 431 Vehicles"
+ 8:01:40 "Res3tting B!S effects..."
+ 8:01:46 AH6X_DZ: FLIR_turret - unknown animation source FLIR_turret
+ 8:01:46 AH6X_DZ: FLIR_gun - unknown animation source FLIR_gun
+ 8:01:49 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+ 8:01:49 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+ 8:02:13 "HIVE: Vehicle Spawn limit reached!"
+ 8:02:13 "HIVE: Spawning # of Debris: 0"
+ 8:02:13 "HIVE: Spawning # of Ammo Boxes: 3"
+ 8:02:13 "HIVE: Spawning # of Veins: 50"
+ 8:02:13 "Total Number of spawn locations 5"
+ 8:02:13 "EPOCH EVENTS INIT"
+ 8:02:14 "DEBUG VEIN: on road [4247.09,11567]"
+ 8:02:14 "DEBUG VEIN: Too many objects at [10887.9,7580.06]"
+ 8:02:14 "DEBUG VEIN: on road [3770.82,5952.24]"
+ 8:02:14 "DEBUG VEIN: Too many objects at [3694.42,6076.16]"
+ 8:02:15 Server: Object 3:9 not found (message 70)
+ 8:02:15 "TIME SYNC: Local Time set to [2013,8,3,16,2]"
+ 8:02:16 Server: Object 3:21 not found (message 98)
+ 8:02:16 Server: Object 3:22 not found (message 91)
+ 8:02:16 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:02:16 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 8:02:16 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 8:02:16 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 8:02:16 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:02:16   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 8:02:17 Server: Object 3:40 not found (message 91)
+ 8:02:17 Server: Object 3:39 not found (message 98)
+ 8:03:16 "[DZMS]: Starting DayZ Epoch Mission System."
+ 8:03:16 "[DZMS]: Relations not found! Using DZMS Relations."
+ 8:03:16 "[DZMS]: Mission and Extended Configuration Loaded!"
+ 8:03:16 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+ 8:03:17 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+ 8:03:17 "[DZMS]: Mission Functions Script Loaded!"
+ 8:03:17 "[DZMS]: Major Mission Clock Starting!"
+ 8:03:17 "[DZMS]: Minor Mission Clock Starting!"
+ 8:03:17 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+ 8:03:36 "[DZMS]: Running Minor Mission SM9."
+ 8:03:44 "[DZMS]: Running Major Mission SM3."
+ 8:05:37 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
