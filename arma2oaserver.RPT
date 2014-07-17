@@ -1031,3 +1031,25 @@ _key >
  7:47:08 "CRASHSPAWNER: Loot spawn at '[2293.09,5093.93,0]' with loot table 'MilitarySpecial'"
  7:47:08 "CRASHSPAWNER: Loot spawn at '[2299.49,5084.2,0]' with loot table 'MilitarySpecial'"
  7:47:08 "CRASHSPAWNER: Crash completed! Wreck at: [2295.7,5088,-0.000762939] - Runtime: 10019 Seconds || Distance from calculated POC: 2488 meters"
+ 7:52:05 "TIME SYNC: Local Time set to [2013,8,3,7,52]"
+ 7:52:17 "CLEANUP: Deleted 1 Loot Piles out of 183"
+ 7:53:17 "CLEANUP: Deleted 1 Loot Piles out of 182"
+ 7:54:16 "CLEANUP: Deleted 1 Loot Piles out of 181"
+ 7:55:16 "CLEANUP: Deleted 2 Loot Piles out of 180"
+ 7:56:16 "CLEANUP: Deleted 1 Loot Piles out of 179"
+ 7:57:05 "TIME SYNC: Local Time set to [2013,8,3,7,57]"
+ 7:57:48 "[DZMS]: Minor SM9 renegades Mission has Ended."
+ 7:57:52 Server: Object 7:188 not found (message 91)
+ 7:57:52 Server: Object 7:190 not found (message 91)
+ 7:57:52 Server: Object 7:189 not found (message 98)
+ 7:57:52 Server: Object 7:192 not found (message 91)
+ 7:57:52 Server: Object 7:194 not found (message 91)
+ 7:57:52 Server: Object 7:196 not found (message 91)
+ 7:57:52 Server: Object 7:195 not found (message 99)
+ 7:57:52 Server: Object 7:198 not found (message 91)
+ 7:57:52 Server: Object 7:197 not found (message 99)
+ 7:57:52 Server: Object 7:200 not found (message 91)
+ 7:57:52 Server: Object 7:199 not found (message 99)
+ 7:57:52 Server: Object 7:202 not found (message 91)
+ 7:57:52 Server: Object 7:201 not found (message 99)
+ 7:57:58 "[DZMS]: Running Minor Mission SM1."
