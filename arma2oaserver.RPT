@@ -285,3 +285,11 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
  8:07:26 Error: Bone leftshoulder doesn't exist in some skeleton 
  8:07:26 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 8:10:37 "TIME SYNC: Local Time set to [2013,8,3,16,10]"
+ 8:15:03 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 8:15:03 "get: STRING (), sent: STRING (4486214)"
+ 8:15:03 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 REMOTE, _characterID: 533 at loc [13855.5,11715,17.6627]"
+ 8:15:03 Client: Remote object 3:8 not found
+ 8:15:05 Warning: Cleanup player - person 3:7 not found
+ 8:15:08 "RUNNING EVENT: supply_drop on [2014,7,17,16,15]"
+ 8:15:37 "TIME SYNC: Local Time set to [2013,8,3,16,15]"
