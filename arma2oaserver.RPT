@@ -719,3 +719,6 @@ g from [6986,-630,1000] to [12597.3,14979.7] NOW!(TIME:2217||LT:MilitarySpecial)
  2:15:09 "RUNNING EVENT: supply_drop on [2014,7,17,2,15]"
  2:17:04 "TIME SYNC: Local Time set to [2013,8,3,2,17]"
  2:18:04 No player found for channel 783433792 - message ignored
+ 2:22:04 "TIME SYNC: Local Time set to [2013,8,3,2,22]"
+ 2:27:04 "TIME SYNC: Local Time set to [2013,8,3,2,27]"
+ 2:27:04 "CLEANUP: Deleted 5 Animals out of 5"
