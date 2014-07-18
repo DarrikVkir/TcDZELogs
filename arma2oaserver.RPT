@@ -542,3 +542,23 @@ g from [6993.7,173.053,300] to [9690.76,2088.87] NOW!(TIME:8209||LT:HeliCrash_No
 23:04:46 "PUBLISH: B 1-1-C:1 (Duracell) REMOTE Bought SUV_Camo with ID "629307806408726""
 23:06:29 "TIME SYNC: Local Time set to [2013,8,3,19,6]"
 23:08:35 "CLEANUP: Deleted 3 Loot Piles out of 131"
+23:09:58 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:10:08 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:10:19 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:10:29 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:10:39 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:10:49 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:10:59 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:11:09 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a ItemBandage in/at Stary for 1x ItemSilverBar"
+23:11:29 "TIME SYNC: Local Time set to [2013,8,3,19,11]"
+23:13:38 "CLEANUP: Deleted 73 Loot Piles out of 129"
+23:14:51 "get: STRING (117535878), sent: STRING (117535878)"
+23:14:51 "DISCONNECT: Duracell (117535878) Object: B 1-1-C:1 (Duracell) REMOTE, _characterID: 537 at loc [6716.24,7253.48,0.0017395]"
+23:14:51 Client: Remote object 3:8 not found
+23:14:51 Warning: Cleanup player - person 3:7 not found
+23:15:04 "RUNNING EVENT: supply_drop on [2014,7,18,19,15]"
+23:15:23 Warning: Cleanup player - person 3:7 not found
+23:15:33 "CLEANUP: Deleted 1 Loot Piles out of 59"
+23:16:29 "TIME SYNC: Local Time set to [2013,8,3,19,16]"
+23:16:30 "CLEANUP: Deleted 10 Animals out of 10"
+23:16:33 "CLEANUP: Deleted 2 Loot Piles out of 58"
