@@ -347,3 +347,13 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 21:01:29 "TIME SYNC: Local Time set to [2013,8,3,17,1]"
 21:06:29 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
 21:07:39 "CLEANUP: Deleted 50 Loot Piles out of 262"
+21:08:58 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+21:10:34 "CLEANUP: Deleted 1 Loot Piles out of 230"
+21:11:29 "TIME SYNC: Local Time set to [2013,8,3,17,11]"
+21:11:40 "CLEANUP: Deleted 114 Loot Piles out of 230"
+21:15:03 "RUNNING EVENT: supply_drop on [2014,7,18,17,15]"
+21:15:34 "CLEANUP: Deleted 10 Loot Piles out of 127"
+21:16:29 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+21:16:32 "CLEANUP: Deleted 1 Loot Piles out of 118"
+21:17:32 "CLEANUP: Deleted 1 Loot Piles out of 118"
+21:18:32 "CLEANUP: Deleted 1 Loot Piles out of 120"
