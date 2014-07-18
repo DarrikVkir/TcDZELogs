@@ -1541,3 +1541,22 @@ _pos = g>
  6:50:43 Client: Object 3:173 (type Type_69) not found.
  6:50:44 Client: Object 3:221 (type Type_70) not found.
  6:50:45 Client: Object 3:173 (type Type_70) not found.
+ 6:50:46 Client: Object 3:221 (type Type_70) not found.
+ 6:50:47 Client: Object 3:173 (type Type_70) not found.
+ 6:50:48 Client: Object 3:221 (type Type_69) not found.
+ 6:50:48 Client: Object 3:173 (type Type_69) not found.
+ 6:50:48 Client: Object 3:221 (type Type_70) not found.
+ 6:50:49 Client: Object 3:173 (type Type_70) not found.
+ 6:50:50 Client: Object 3:221 (type Type_70) not found.
+ 6:50:51 Client: Object 3:173 (type Type_70) not found.
+ 6:50:52 "CLEANUP: Deleted 1 Loot Piles out of 22"
+ 6:50:52 Client: Object 3:221 (type Type_70) not found.
+ 6:50:53 Client: Object 3:173 (type Type_70) not found.
+ 6:50:53 Client: Object 3:221 (type Type_69) not found.
+ 6:50:53 Client: Object 3:173 (type Type_69) not found.
+ 6:50:54 Client: Object 3:221 (type Type_70) not found.
+ 6:50:55 Client: Object 3:173 (type Type_70) not found.
+ 6:50:56 Client: Object 3:221 (type Type_70) not found.
+ 6:50:57 Client: Object 3:173 (type Type_70) not found.
+ 6:50:57 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 6:50:58 Client: Object 3:221 (type Type_69) not found.
