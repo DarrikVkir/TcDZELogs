@@ -2596,3 +2596,21 @@ g from [1623.71,218.188,300] to [4804.71,12034.3] NOW!(TIME:3424||LT:MilitarySpe
  7:03:24 Client: Object 3:221 (type Type_70) not found.
  7:03:25 Client: Object 3:173 (type Type_70) not found.
  7:03:26 Client: Object 3:221 (type Type_70) not found.
+ 7:03:27 Client: Object 3:173 (type Type_70) not found.
+ 7:03:28 Client: Object 3:221 (type Type_70) not found.
+ 7:03:28 Client: Object 3:221 (type Type_69) not found.
+ 7:03:28 Client: Object 3:173 (type Type_69) not found.
+ 7:03:29 Client: Object 3:173 (type Type_70) not found.
+ 7:03:30 Client: Object 3:221 (type Type_70) not found.
+ 7:03:31 Client: Object 3:173 (type Type_70) not found.
+ 7:03:32 Client: Object 3:221 (type Type_70) not found.
+ 7:03:33 Client: Object 3:221 (type Type_69) not found.
+ 7:03:33 Client: Object 3:173 (type Type_69) not found.
+ 7:03:33 "CLIENTLOG: Admin Tools: BluntScopes | any."
+ 7:03:33 Client: Object 3:173 (type Type_70) not found.
+ 7:03:34 "get: STRING (4486214), sent: STRING (4486214)"
+ 7:03:34 "LOGOUT IN VEHICLE: BluntScopes at location [6986.84,8773.76,2.50723]"
+ 7:03:34 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 533 at loc [6986.84,8773.76,2.50723]"
+ 7:03:34 Client: Remote object 3:8 not found
+ 7:03:34 Client: Remote object 3:173 not found
+ 7:03:34 Client: Remote object 3:221 not found
