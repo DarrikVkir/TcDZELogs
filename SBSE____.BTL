@@ -2295,3 +2295,24 @@ _pos = g>
  6:59:59 Client: Object 3:173 (type Type_69) not found.
  6:59:59 Client: Object 3:173 (type Type_70) not found.
  7:00:00 Client: Object 3:221 (type Type_70) not found.
+ 7:00:01 Client: Object 3:173 (type Type_70) not found.
+ 7:00:02 Client: Object 3:221 (type Type_70) not found.
+ 7:00:03 Client: Object 3:173 (type Type_70) not found.
+ 7:00:04 Client: Object 3:221 (type Type_69) not found.
+ 7:00:04 Client: Object 3:173 (type Type_69) not found.
+ 7:00:04 Client: Object 3:221 (type Type_70) not found.
+ 7:00:05 Client: Object 3:173 (type Type_70) not found.
+ 7:00:06 Client: Object 3:221 (type Type_70) not found.
+ 7:00:06 "RUNNING EVENT: crash_spawner on [2014,7,18,21,0]"
+ 7:00:06 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 7:00:06 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [4804.71,12034.3] NOW!(TIME:3424||LT:MilitarySpecial)"
+ 7:00:07 Client: Object 3:173 (type Type_70) not found.
+ 7:00:08 Client: Object 3:221 (type Type_70) not found.
+ 7:00:09 Client: Object 3:173 (type Type_69) not found.
+ 7:00:09 Client: Object 3:221 (type Type_69) not found.
+ 7:00:09 Client: Object 3:173 (type Type_70) not found.
+ 7:00:10 Client: Object 3:221 (type Type_70) not found.
+ 7:00:11 Client: Object 3:173 (type Type_70) not found.
+ 7:00:12 Client: Object 3:221 (type Type_70) not found.
