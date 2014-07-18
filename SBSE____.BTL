@@ -1609,3 +1609,10 @@ _pos = g>
  6:51:29 Client: Object 3:173 (type Type_70) not found.
  6:51:31 Client: Object 3:221 (type Type_70) not found.
  6:51:31 Client: Object 3:173 (type Type_70) not found.
+ 6:51:36 Client: Object 3:221 (type Type_70) not found.
+ 6:51:37 Client: Object 3:173 (type Type_70) not found.
+ 6:51:38 Server: Object 3:302 not found (message 91)
+ 6:51:38 Server: Object 3:301 not found (message 98)
+ 6:51:41 Client: Object 3:221 (type Type_70) not found.
+ 6:51:41 Client: Object 3:221 (type Type_69) not found.
+ 6:51:42 Client: Object 3:173 (type Type_69) not found.
