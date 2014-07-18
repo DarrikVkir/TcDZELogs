@@ -527,3 +527,18 @@ g from [15186,11857,300] to [4675.12,15164.4] NOW!(TIME:6407||LT:HeliCrash_No50s
 22:51:29 "TIME SYNC: Local Time set to [2013,8,3,18,51]"
 22:56:29 "TIME SYNC: Local Time set to [2013,8,3,18,56]"
 22:56:35 "CLEANUP: Deleted 1 Loot Piles out of 137"
+22:59:35 "CLEANUP: Deleted 12 Loot Piles out of 136"
+23:00:02 "RUNNING EVENT: crash_spawner on [2014,7,18,19,0]"
+23:00:02 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+23:00:02 "CRASHSPAWNER: Mi-17 started
+
+g from [6993.7,173.053,300] to [9690.76,2088.87] NOW!(TIME:8209||LT:HeliCrash_No50s)"
+23:01:29 "TIME SYNC: Local Time set to [2013,8,3,19,1]"
+23:04:45 "EPOCH SERVERTRADE: Player: Duracell (117535878) bought a SUV_Camo in/at Stary for 2x ItemGoldBar10oz"
+23:04:45 "PUBLISH: Attempt 31413900# 1064312: arrow_down_large_ep1.p3d REMOTE"
+23:04:45 "HIVE: WRITE: "CHILD:308:3195:SUV_Camo:0:6151:[234,[6292.99,7806.43,0.000152588]]:[]:[]:1:629307806408726:""
+23:04:46 "HIVE: WRITE: "CHILD:388:629307806408726:""
+23:04:46 "CUSTOM: Selected "5206""
+23:04:46 "PUBLISH: B 1-1-C:1 (Duracell) REMOTE Bought SUV_Camo with ID "629307806408726""
+23:06:29 "TIME SYNC: Local Time set to [2013,8,3,19,6]"
+23:08:35 "CLEANUP: Deleted 3 Loot Piles out of 131"
