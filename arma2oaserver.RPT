@@ -283,3 +283,10 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  6:14:08   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
  6:15:03 "RUNNING EVENT: supply_drop on [2014,7,18,20,15]"
  6:16:50 "TIME SYNC: Local Time set to [2013,8,3,20,16]"
+ 6:21:50 "TIME SYNC: Local Time set to [2013,8,3,20,21]"
+ 6:22:32 "[DZMS]: Minor SM12 Bofors Crash Mission has Ended."
+ 6:22:38 "[DZMS]: Running Minor Mission SM8."
+ 6:25:09 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+ 6:25:11 "CLIENTLOG: Admin Tools: BluntScopes | any."
+ 6:26:50 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
+ 6:27:52 "CLEANUP: Deleted 15 Loot Piles out of 26"
