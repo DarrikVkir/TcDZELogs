@@ -530,3 +530,11 @@ g from [1623.71,218.188,300] to [7919.71,5409.54] NOW!(TIME:5946||LT:MilitarySpe
 22:27:41 Client: Remote object 4:5 not found
 22:27:41 Client: Remote object 4:2 not found
 22:28:10 Warning: Cleanup player - person 4:7 not found
+22:29:19 "TIME SYNC: Local Time set to [2013,8,3,18,29]"
+22:30:02 "RUNNING EVENT: crash_spawner on [2014,7,19,18,30]"
+22:30:02 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+22:30:02 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [4715.44,12410.9] NOW!(TIME:7739||LT:HeliCrash_No50s)"
+22:34:19 "TIME SYNC: Local Time set to [2013,8,3,18,34]"
+22:36:24 "CLEANUP: Deleted 8 Loot Piles out of 52"
