@@ -810,3 +810,31 @@ g from [15098,8144,300] to [4405.49,11976.4] NOW!(TIME:15408||LT:Hospital)"
  1:05:40 "CLEANUP: Deleted 19 Loot Piles out of 176"
  1:06:30 "TIME SYNC: Local Time set to [2013,8,3,21,6]"
  1:07:39 "CLEANUP: Deleted 3 Loot Piles out of 157"
+ 1:09:02 "CRASHSPAWNER: UH-60M MEV just exploded at [4407.31,11951.3,4.07761]!, "
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4406.96,11955.3,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4405.25,11946.6,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4400.34,11950.2,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4408.41,11958.9,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4404.85,11943.6,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4402.97,11950.8,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4400.54,11952.9,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4413.66,11951.2,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4401.61,11945,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Loot spawn at '[4414.69,11957.1,0]' with loot table 'Hospital'"
+ 1:09:02 "CRASHSPAWNER: Crash completed! Wreck at: [4407.31,11951.3,0.149536] - Runtime: 538 Seconds || Distance from calculated POC: 24 meters"
+ 1:09:22 Server: Object 4:997 not found (message 94)
+ 1:09:22 Server: Object 4:998 not found (message 94)
+ 1:09:42 "CLEANUP: Deleted 21 Loot Piles out of 215"
+ 1:10:22 Server: Object 4:1048 not found (message 94)
+ 1:10:22 Server: Object 4:1049 not found (message 94)
+ 1:10:22 Server: Object 4:1050 not found (message 94)
+ 1:10:31 Server: Object 4:1101 not found (message 91)
+ 1:10:31 Server: Object 4:1100 not found (message 99)
+ 1:11:30 "TIME SYNC: Local Time set to [2013,8,3,21,11]"
+ 1:12:43 "CLEANUP: Deleted 1 Loot Piles out of 222"
+ 1:13:42 "CLEANUP: Deleted 15 Loot Piles out of 221"
+ 1:14:40 "CLEANUP: Deleted 4 Loot Piles out of 206"
+ 1:15:05 "RUNNING EVENT: supply_drop on [2014,7,18,21,15]"
+ 1:15:40 "CLEANUP: Deleted 8 Loot Piles out of 213"
+ 1:16:30 "TIME SYNC: Local Time set to [2013,8,3,21,16]"
+ 1:17:40 "CLEANUP: Deleted 1 Loot Piles out of 206"
