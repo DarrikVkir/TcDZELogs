@@ -845,3 +845,25 @@ g from [15098,8144,300] to [4405.49,11976.4] NOW!(TIME:15408||LT:Hospital)"
  1:24:41 "CLEANUP: Deleted 19 Loot Piles out of 202"
  1:25:40 "CLEANUP: Deleted 3 Loot Piles out of 183"
  1:26:30 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
+ 1:29:13 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a m8_holo_sd in/at Stary for 4x ItemGoldBar"
+ 1:29:44 "CLEANUP: Deleted 51 Loot Piles out of 209"
+ 1:29:54 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a M4A3_CCO_EP1 in/at Stary for 5x ItemGoldBar"
+ 1:30:07 "RUNNING EVENT: crash_spawner on [2014,7,18,21,30]"
+ 1:30:07 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 1:30:07 "CRASHSPAWNER: UH-60M started
+
+g from [6993.7,173.053,300] to [4388.89,2748.37] NOW!(TIME:17210||LT:HeliCrash_No50s)"
+ 1:30:17 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a AKS_74_kobra in/at Stary for 2x ItemGoldBar"
+ 1:30:38 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a AKS_74_U in/at Stary for 1x ItemGoldBar"
+ 1:30:41 "CLEANUP: Deleted 28 Loot Piles out of 160"
+ 1:31:01 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a M16A2 in/at Stary for 1x ItemGoldBar"
+ 1:31:22 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a M240_DZ in/at Stary for 5x ItemGoldBar"
+ 1:31:30 "TIME SYNC: Local Time set to [2013,8,3,21,31]"
+ 1:31:49 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a M4A1 in/at Stary for 2x ItemGoldBar"
+ 1:35:39 "CLEANUP: Deleted 3 Loot Piles out of 136"
+ 1:36:30 "TIME SYNC: Local Time set to [2013,8,3,21,36]"
+ 1:37:28 "get: STRING (117535878), sent: STRING (117535878)"
+ 1:37:28 "DISCONNECT: Duracell (117535878) Object: B 1-1-B:1 (Duracell) REMOTE, _characterID: 537 at loc [6696.93,7191.96,0.0022583]"
+ 1:37:28 Client: Remote object 4:519 not found
+ 1:37:28 Client: Remote object 4:518 not found
+ 1:37:30 Warning: Cleanup player - person 4:520 not found
