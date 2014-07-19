@@ -286,3 +286,32 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 20:27:40 "EPOCH SERVERTRADE: Player: Duracell (117535878) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
 20:27:50 "EPOCH SERVERTRADE: Player: Duracell (117535878) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
 20:28:00 "EPOCH SERVERTRADE: Player: Duracell (117535878) bought a 20Rnd_762x51_SB_SCAR in/at Stary for 3x ItemGoldBar"
+20:29:19 "TIME SYNC: Local Time set to [2013,8,3,16,29]"
+20:30:00 "RUNNING EVENT: crash_spawner on [2014,7,19,16,30]"
+20:30:00 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+20:30:00 "CRASHSPAWNER: Mi-24D started
+
+g from [1623.71,218.188,300] to [1449.22,5390.38] NOW!(TIME:541||LT:MilitarySpecial)"
+20:34:09 Server: Object 3:194 not found (message 91)
+20:34:09 Server: Object 3:193 not found (message 99)
+20:34:09 Server: Object 3:197 not found (message 98)
+20:34:09 Server: Object 3:200 not found (message 91)
+20:34:10 Server: Object 3:199 not found (message 99)
+20:34:10 Server: Object 3:198 not found (message 91)
+20:34:10 Server: Object 3:201 not found (message 99)
+20:34:10 Server: Object 3:202 not found (message 91)
+20:34:19 "TIME SYNC: Local Time set to [2013,8,3,16,34]"
+20:34:30 "CRASHSPAWNER: Mi-24D just exploded at [10112.6,15438.2,0.399414]!, "
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10116.2,15436.5,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10114.2,15445,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10117.6,15438.9,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10112.2,15432.8,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10111.3,15429.7,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10107.9,15430.8,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10114.7,15445,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10107.8,15432.5,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10118.2,15438.1,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10117.8,15441.1,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10106.5,15437.7,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Loot spawn at '[10105.3,15443.1,0]' with loot table 'MilitarySpecial'"
+20:34:30 "CRASHSPAWNER: Crash completed! Wreck at: [10112.3,15438.2,-0.156708] - Runtime: 269 Seconds || Distance from calculated POC: 13267 meters"
