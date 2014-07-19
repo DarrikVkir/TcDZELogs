@@ -431,3 +431,10 @@ g from [15186,11857,300] to [2240.84,4255.82] NOW!(TIME:4144||LT:HeliCrash_No50s
 21:34:17 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a Mk_48_DZ in/at Stary for 1x ItemGoldBar10oz"
 21:34:19 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
 21:35:23 "CLEANUP: Deleted 2 Loot Piles out of 108"
+21:39:19 "TIME SYNC: Local Time set to [2013,8,3,17,39]"
+21:40:36 "get: STRING (117535878), sent: STRING (117535878)"
+21:40:36 "DISCONNECT: Duracell (117535878) Object: B 1-1-C:1 (Duracell) REMOTE, _characterID: 537 at loc [6322.2,7786.7,0.00146484]"
+21:40:36 Client: Remote object 3:8 not found
+21:41:24 "CLEANUP: Deleted 39 Loot Piles out of 81"
+21:44:19 "TIME SYNC: Local Time set to [2013,8,3,17,44]"
+21:46:22 "CLEANUP: Deleted 8 Loot Piles out of 42"
