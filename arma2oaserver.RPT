@@ -619,3 +619,20 @@ g from [6993.7,173.053,300] to [1785.11,2847.87] NOW!(TIME:9542||LT:MilitarySpec
 23:04:08 Server: Object 7:183 not found (message 99)
 23:04:08 Server: Object 7:184 not found (message 91)
 23:04:20 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
+23:09:20 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+23:12:43 "CLEANUP: Deleted 1 Loot Piles out of 355"
+23:14:20 "TIME SYNC: Local Time set to [2013,8,3,19,14]"
+23:14:35 "CLEANUP: Deleted 1 Loot Piles out of 359"
+23:15:08 "RUNNING EVENT: supply_drop on [2014,7,19,19,15]"
+23:15:28 "TELEPORT REVERT for player UID#99982214 from [4802.55,2493.37,0.0014782] to [4800.04,2493.91,0.101414], 3 meters, now at [4801.7,2496.2,0.988537]"
+23:15:29 "TELEPORT REVERT for player UID#99982214 from [4802.55,2493.37,0.0014782] to [4802.56,2493.38,0.00156689], 0 meters, now at [4804.23,2495.67,0.862061]"
+23:15:30 "CLEANUP: KILLING A HACKER -[VOID]-Sypher117 B 1-1-C:1 (-[VOID]-Sypher117) REMOTE IN UH1Wreck"
+23:15:30 WARNING: Function 'name' - -[VOID]-Sypher117 is dead
+23:15:30 "PDEATH: Player Died 99982214"
+23:16:22 "ERROR: server_playerSync: Cannot Sync Player -[VOID]-Sypher117 [538]. Position in debug! [-7239.67,19539.3,0.245483]"
+23:16:24 "get: STRING (99982214), sent: STRING (99982214)"
+23:16:24 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-A:1 (-[VOID]-Sypher117) REMOTE, _characterID: 538 at loc [-7239.67,19539.3,0.245483]"
+23:16:24 "ERROR: server_playerSync: Cannot Sync Player -[VOID]-Sypher117 [538]. Position in debug! [-7239.67,19539.3,0.245483]"
+23:16:24 Client: Remote object 6:2 not found
+23:16:34 "CLEANUP: Deleted 1 Loot Piles out of 367"
+23:18:41 "CLEANUP: Deleted 3 Loot Piles out of 353"
