@@ -636,3 +636,43 @@ g from [6993.7,173.053,300] to [1785.11,2847.87] NOW!(TIME:9542||LT:MilitarySpec
 23:16:24 Client: Remote object 6:2 not found
 23:16:34 "CLEANUP: Deleted 1 Loot Piles out of 367"
 23:18:41 "CLEANUP: Deleted 3 Loot Piles out of 353"
+23:18:46 "PDEATH: Player Died 99982214"
+23:19:02 "ERROR: server_playerSync: Cannot Sync Player -[VOID]-Sypher117 [539]. Position in debug! [-7239.67,19539.3,0.245514]"
+23:19:10 "get: STRING (99982214), sent: STRING (99982214)"
+23:19:10 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-A:1 (-[VOID]-Sypher117) REMOTE, _characterID: 539 at loc [-7239.67,19539.3,0.245514]"
+23:19:10 "ERROR: server_playerSync: Cannot Sync Player -[VOID]-Sypher117 [539]. Position in debug! [-7239.67,19539.3,0.245514]"
+23:19:20 "TIME SYNC: Local Time set to [2013,8,3,19,19]"
+23:20:39 "CLEANUP: Deleted 4 Loot Piles out of 349"
+23:20:48 "[DZMS]: Major SM9 Fire Base Mission has Ended."
+23:20:48 Error in expression < <= 30  } count playableunits > 0};
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+23:20:48   Error position: <_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+23:20:48   Error Undefined variable in expression: _vehicle
+23:20:48 File z\addons\dayz_server\EMS\Missions\Major\SM9.sqf, line 43
+23:20:48 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+23:20:48   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+23:20:48   Error Undefined variable in expression: _object
+23:20:48 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+23:21:03 "[DZMS]: Running Major Mission SM8."
+23:21:36 "CLEANUP: Deleted 13 Loot Piles out of 350"
+23:22:37 "CLEANUP: Deleted 103 Loot Piles out of 348"
+23:23:32 "CLEANUP: Deleted 7 Loot Piles out of 247"
+23:24:20 "TIME SYNC: Local Time set to [2013,8,3,19,24]"
+23:24:20 "CLEANUP: Deleted 10 Animals out of 20"
+23:24:34 "CLEANUP: Deleted 99 Loot Piles out of 242"
+23:25:30 "CLEANUP: Deleted 2 Loot Piles out of 143"
+23:27:34 "CLEANUP: Deleted 5 Loot Piles out of 171"
