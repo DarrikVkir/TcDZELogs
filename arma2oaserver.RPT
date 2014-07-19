@@ -538,3 +538,14 @@ g from [1623.71,218.188,300] to [7919.71,5409.54] NOW!(TIME:5946||LT:MilitarySpe
 g from [6993.7,173.053,300] to [4715.44,12410.9] NOW!(TIME:7739||LT:HeliCrash_No50s)"
 22:34:19 "TIME SYNC: Local Time set to [2013,8,3,18,34]"
 22:36:24 "CLEANUP: Deleted 8 Loot Piles out of 52"
+22:39:19 "[DZMS]: Major SM3 Medical Camp Mission has Ended."
+22:39:19 "TIME SYNC: Local Time set to [2013,8,3,18,39]"
+22:39:20 "CLEANUP: Deleted 12 Animals out of 12"
+22:39:39 "[DZMS]: Running Major Mission SM9."
+22:44:19 "TIME SYNC: Local Time set to [2013,8,3,18,44]"
+22:46:59 "get: STRING (117535878), sent: STRING (117535878)"
+22:46:59 "DISCONNECT: Duracell (117535878) Object: B 1-1-B:1 (Duracell) REMOTE, _characterID: 537 at loc [3772.98,9739.86,0.0020752]"
+22:46:59 Client: Remote object 5:2 not found
+22:46:59 Client: Remote object 5:8 not found
+22:47:17 Server: Object 5:51 not found (message 70)
+22:47:24 "CLEANUP: Deleted 3 Loot Piles out of 47"
