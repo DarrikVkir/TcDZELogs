@@ -380,3 +380,31 @@ g from [10450,-630,1000] to [3113.79,8295.16] NOW!(TIME:4934||LT:HeliCrash_No50s
 15:31:15 "CLEANUP: Deleted 94 Loot Piles out of 128"
 15:33:09 "CLEANUP: Deleted 8 Loot Piles out of 34"
 15:36:07 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+15:40:13 "CRASHSPAWNER: UH-1H just exploded at [3137.83,8355.54,2.27597]!, "
+15:40:13 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+15:40:13 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+15:40:13 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+15:40:13 "CRASHSPAWNER: Loot spawn at '[3135.29,8358.63,0]' with loot table 'HeliCrash_No50s'"
+15:40:13 "CRASHSPAWNER: Loot spawn at '[3133.26,8351.56,0]' with loot table 'HeliCrash_No50s'"
+15:40:13 "CRASHSPAWNER: Loot spawn at '[3128.93,8350.94,0]' with loot table 'HeliCrash_No50s'"
+15:40:13 "CRASHSPAWNER: Loot spawn at '[3134.61,8363.75,0]' with loot table 'HeliCrash_No50s'"
+15:40:13 "CRASHSPAWNER: Loot spawn at '[3146.97,8360.69,0]' with loot table 'HeliCrash_No50s'"
+15:40:14 "CRASHSPAWNER: Loot spawn at '[3133.13,8365.92,0]' with loot table 'HeliCrash_No50s'"
+15:40:14 "CRASHSPAWNER: Loot spawn at '[3130.53,8365.19,0]' with loot table 'HeliCrash_No50s'"
+15:40:14 "CRASHSPAWNER: Loot spawn at '[3134.06,8359.6,0]' with loot table 'HeliCrash_No50s'"
+15:40:14 "CRASHSPAWNER: Loot spawn at '[3136.72,8351.09,0]' with loot table 'HeliCrash_No50s'"
+15:40:14 "CRASHSPAWNER: Loot spawn at '[3135.42,8348.08,0]' with loot table 'HeliCrash_No50s'"
+15:40:14 "CRASHSPAWNER: Crash completed! Wreck at: [3137.83,8355.54,-0.00921631] - Runtime: 610 Seconds || Distance from calculated POC: 66 meters"
+15:41:02 "get: STRING (117535878), sent: STRING (117535878)"
+15:41:02 "DISCONNECT: Duracell (117535878) Object: B 1-1-C:1 (Duracell) REMOTE, _characterID: 537 at loc [4548.33,7139.75,0.00137329]"
+15:41:02 Client: Remote object 3:8 not found
+15:41:07 "TIME SYNC: Local Time set to [2013,8,3,17,41]"
+15:41:08 "CLEANUP: Deleted 16 Animals out of 16"
+15:43:09 "CLEANUP: Deleted 3 Loot Piles out of 30"
+15:43:50 Server: Object 3:518 not found (message 91)
+15:43:50 Server: Object 3:517 not found (message 99)
+15:43:50 Server: Object 3:522 not found (message 91)
+15:43:50 Server: Object 3:521 not found (message 99)
+15:43:50 Server: Object 3:523 not found (message 99)
+15:43:50 Server: Object 3:524 not found (message 91)
+15:46:07 "TIME SYNC: Local Time set to [2013,8,3,17,46]"
