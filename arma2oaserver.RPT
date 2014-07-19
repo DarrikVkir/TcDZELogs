@@ -745,3 +745,29 @@ _pos = g>
 19:23:16 "CLEANUP: Deleted 2 Loot Piles out of 93"
 19:24:16 "CLEANUP: Deleted 1 Loot Piles out of 95"
 19:26:08 "TIME SYNC: Local Time set to [2013,8,3,21,26]"
+19:30:02 "RUNNING EVENT: crash_spawner on [2014,7,19,21,30]"
+19:30:02 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+19:30:02 "CRASHSPAWNER: A-10 started
+
+g from [6993.7,173.053,300] to [5233.47,14065.1] NOW!(TIME:19331||LT:MilitarySpecial)"
+19:31:08 "TIME SYNC: Local Time set to [2013,8,3,21,31]"
+19:33:15 "CRASHSPAWNER: A-10 just exploded at [5511.93,14069.7,5.60657]!, "
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5511.88,14073.7,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5515.25,14066.6,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5506.76,14069.7,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5509.71,14075.5,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5520.64,14066.3,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5516.39,14069.5,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5515.57,14073.8,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5512.99,14060.3,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5502.63,14066.7,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Loot spawn at '[5516.4,14063.9,0]' with loot table 'MilitarySpecial'"
+19:33:15 "CRASHSPAWNER: Crash completed! Wreck at: [5511.83,14069.8,0.0246277] - Runtime: 193 Seconds || Distance from calculated POC: 281 meters"
+19:36:08 "TIME SYNC: Local Time set to [2013,8,3,21,36]"
+19:36:11 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+19:37:51 "nil player object attempting PV, :["4486214","BluntScopes"]"
+19:37:51 "get: STRING (), sent: STRING (4486214)"
+19:37:51 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 REMOTE, _characterID: 533 at loc [13854.1,11746.8,0.00137043]"
+19:37:51 Client: Remote object 6:0 not found
+19:37:51 Client: Remote object 6:8 not found
+19:37:53 Warning: Cleanup player - person 6:7 not found
