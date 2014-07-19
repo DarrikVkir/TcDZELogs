@@ -320,3 +320,33 @@ g from [1623.71,218.188,300] to [1449.22,5390.38] NOW!(TIME:541||LT:MilitarySpec
 20:44:22 "CLEANUP: Deleted 14 Loot Piles out of 117"
 20:46:23 "CLEANUP: Deleted 29 Loot Piles out of 108"
 20:47:21 "CLEANUP: Deleted 1 Loot Piles out of 79"
+20:49:19 "TIME SYNC: Local Time set to [2013,8,3,16,49]"
+20:50:50 "[DZMS]: Major SM7 IKEA has Ended."
+20:50:50 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+20:50:50   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+20:50:50   Error Undefined variable in expression: _vehicle1
+20:50:50 File z\addons\dayz_server\EMS\Missions\Major\SM7.sqf, line 46
+20:50:50 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+20:50:50   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+20:50:50   Error Undefined variable in expression: _object
+20:50:50 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+20:50:53 "[DZMS]: Running Major Mission SM3."
+20:52:22 "CLEANUP: Deleted 14 Loot Piles out of 82"
+20:54:19 "TIME SYNC: Local Time set to [2013,8,3,16,54]"
+20:54:22 "CLEANUP: Deleted 25 Loot Piles out of 68"
+20:56:21 "CLEANUP: Deleted 13 Loot Piles out of 43"
+20:57:20 "CLEANUP: Deleted 1 Loot Piles out of 30"
