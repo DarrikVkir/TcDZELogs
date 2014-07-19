@@ -798,3 +798,15 @@ g from [15098,8144,300] to [4185.82,6522.93] NOW!(TIME:13606||LT:MilitarySpecial
  0:50:39 "CLEANUP: Deleted 1 Loot Piles out of 150"
  0:51:30 "TIME SYNC: Local Time set to [2013,8,3,20,51]"
  0:56:30 "TIME SYNC: Local Time set to [2013,8,3,20,56]"
+ 1:00:04 "RUNNING EVENT: crash_spawner on [2014,7,18,21,0]"
+ 1:00:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 1:00:04 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [4405.49,11976.4] NOW!(TIME:15408||LT:Hospital)"
+ 1:01:30 "TIME SYNC: Local Time set to [2013,8,3,21,1]"
+ 1:01:39 "CLEANUP: Deleted 2 Loot Piles out of 178"
+ 1:03:40 "CLEANUP: Deleted 1 Loot Piles out of 178"
+ 1:04:41 "CLEANUP: Deleted 23 Loot Piles out of 196"
+ 1:05:40 "CLEANUP: Deleted 19 Loot Piles out of 176"
+ 1:06:30 "TIME SYNC: Local Time set to [2013,8,3,21,6]"
+ 1:07:39 "CLEANUP: Deleted 3 Loot Piles out of 157"
