@@ -454,3 +454,14 @@ g from [15186,11857,300] to [10166.4,14776.3] NOW!(TIME:8530||LT:HeliCrash_No50s
 16:37:01 Warning: Cleanup player - person 3:470 not found
 16:37:45 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
 16:38:39 "CLIENTLOG: Admin Tools: BluntScopes | Deactivated Admin Mode."
+16:38:50 "get: STRING (4486214), sent: STRING (4486214)"
+16:38:50 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 533 at loc [13854.1,11746.8,0.00137043]"
+16:38:50 Client: Remote object 4:6 not found
+16:38:50 Client: Remote object 4:5 not found
+16:38:50 Client: Remote object 4:0 not found
+16:38:52 Warning: Cleanup player - person 4:7 not found
+16:39:12 "CLEANUP: Deleted 1 Loot Piles out of 39"
+16:41:08 "TIME SYNC: Local Time set to [2013,8,3,18,41]"
+16:41:10 "CLEANUP: Deleted 40 Animals out of 40"
+16:43:11 "CLEANUP: Deleted 2 Loot Piles out of 38"
+16:46:08 "TIME SYNC: Local Time set to [2013,8,3,18,46]"
