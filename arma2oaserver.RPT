@@ -408,3 +408,7 @@ g from [10450,-630,1000] to [3113.79,8295.16] NOW!(TIME:4934||LT:HeliCrash_No50s
 15:43:50 Server: Object 3:523 not found (message 99)
 15:43:50 Server: Object 3:524 not found (message 91)
 15:46:07 "TIME SYNC: Local Time set to [2013,8,3,17,46]"
+15:51:07 "TIME SYNC: Local Time set to [2013,8,3,17,51]"
+15:53:04 Server: Object 4:9 not found (message 70)
+15:56:07 "TIME SYNC: Local Time set to [2013,8,3,17,56]"
+15:56:26 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
