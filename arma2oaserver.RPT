@@ -353,3 +353,8 @@ g from [15098,8144,300] to [5351.32,8032.13] NOW!(TIME:2883||LT:HeliCrash_No50s)
 19:41:35 "CRASHSPAWNER: Loot spawn at '[5400.44,8047.36,0]' with loot table 'HeliCrash_No50s'"
 19:41:35 "CRASHSPAWNER: Crash completed! Wreck at: [5403.2,8039.86,-0.265991] - Runtime: 685 Seconds || Distance from calculated POC: 53 meters"
 19:45:26 "TIME SYNC: Local Time set to [2013,8,3,21,45]"
+19:48:48 Server: Object 3:648 not found (message 70)
+19:48:57 Server: Object 3:707 not found (message 98)
+19:48:57 Server: Object 3:708 not found (message 91)
+19:50:26 "TIME SYNC: Local Time set to [2013,8,3,21,50]"
+19:55:26 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
