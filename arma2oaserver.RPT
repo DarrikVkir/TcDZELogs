@@ -391,3 +391,23 @@ g from [15098,8144,300] to [2706.24,5946.85] NOW!(TIME:9809||LT:MilitarySpecial)
 23:02:53 "CRASHSPAWNER: Loot spawn at '[2744.23,6164.41,0]' with loot table 'MilitarySpecial'"
 23:02:53 "CRASHSPAWNER: Crash completed! Wreck at: [2745.09,6171.63,-0.0195923] - Runtime: 164 Seconds || Distance from calculated POC: 232 meters"
 23:04:59 "TIME SYNC: Local Time set to [2013,8,3,19,4]"
+23:09:59 "TIME SYNC: Local Time set to [2013,8,3,19,9]"
+23:10:18 "CRASHSPAWNER: UH-60M MEV just exploded at [7467.53,9395.59,1.32458]!, "
+23:10:18 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+23:10:18 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+23:10:18 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7465.31,9392.26,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7470.94,9389.69,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7474.79,9392.55,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7475.5,9400.76,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7464.03,9386.07,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7469.22,9385.67,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7471.84,9399.29,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7461.19,9397.14,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7461.92,9401.49,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7478.15,9393.69,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7470.98,9390.32,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Loot spawn at '[7468.09,9386.82,0]' with loot table 'Hospital'"
+23:10:18 "CRASHSPAWNER: Crash completed! Wreck at: [7467.53,9395.59,-0.0153809] - Runtime: 6014 Seconds || Distance from calculated POC: 5716 meters"
+23:14:59 "TIME SYNC: Local Time set to [2013,8,3,19,14]"
+23:15:00 "RUNNING EVENT: supply_drop on [2014,7,20,19,15]"
