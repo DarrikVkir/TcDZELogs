@@ -339,3 +339,32 @@ g from [6993.7,173.053,300] to [6818.23,5634.6] NOW!(TIME:340||LT:HeliCrash_No50
  2:56:26 "CLEANUP: Deleted 4 Loot Piles out of 261"
  2:57:29 "CLEANUP: Deleted 70 Loot Piles out of 257"
  2:58:15 "TIME SYNC: Local Time set to [2013,8,3,16,58]"
+ 3:00:00 "RUNNING EVENT: crash_spawner on [2014,7,20,17,0]"
+ 3:00:00 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
+ 3:00:00 "CRASHSPAWNER: AV-8B (LGB) started
+
+g from [1623.71,218.188,300] to [1090.73,4168.64] NOW!(TIME:2133||LT:MilitarySpecial)"
+ 3:02:14 "CRASHSPAWNER: AV-8B (LGB) just exploded at [1154.69,4325.84,4.39362]!, "
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1157.86,4323.39,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1159.01,4325.66,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1158.59,4328.82,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1159.13,4333.37,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1150.58,4317.29,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1155.47,4316.18,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1152.88,4332.54,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Loot spawn at '[1151.37,4320.48,0]' with loot table 'MilitarySpecial'"
+ 3:02:14 "CRASHSPAWNER: Crash completed! Wreck at: [1154.63,4325.85,0.00575256] - Runtime: 134 Seconds || Distance from calculated POC: 170 meters"
+ 3:02:48 Server: Object 4:328 not found (message 70)
+ 3:02:48 Server: Object 4:340 not found (message 94)
+ 3:02:48 Server: Object 4:337 not found (message 94)
+ 3:02:48 Server: Object 4:338 not found (message 94)
+ 3:02:48 Server: Object 4:339 not found (message 94)
+ 3:02:48 Server: Object 4:341 not found (message 94)
+ 3:02:48 Server: Object 4:342 not found (message 94)
+ 3:02:48 Server: Object 4:343 not found (message 94)
+ 3:03:15 "TIME SYNC: Local Time set to [2013,8,3,17,3]"
+ 3:05:26 "CLEANUP: Deleted 8 Loot Piles out of 234"
+ 3:05:59 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 3:06:29 "CLEANUP: Deleted 14 Loot Piles out of 307"
+ 3:07:28 "CLEANUP: Deleted 4 Loot Piles out of 295"
+ 3:08:15 "TIME SYNC: Local Time set to [2013,8,3,17,8]"
