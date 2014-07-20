@@ -262,3 +262,51 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:27:41 Server: Object 4:49 not found (message 94)
  2:27:41 Server: Object 4:48 not found (message 94)
  2:28:15 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 2:30:05 "RUNNING EVENT: crash_spawner on [2014,7,20,16,30]"
+ 2:30:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 2:30:05 "CRASHSPAWNER: UH-60M started
+
+g from [6993.7,173.053,300] to [6818.23,5634.6] NOW!(TIME:340||LT:HeliCrash_No50s)"
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:31:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:33:15 "TIME SYNC: Local Time set to [2013,8,3,16,33]"
+ 2:33:52 "TELEPORT REVERT for player UID#117535878 from [12155.4,12633.2,0.00143433] to [-7245.64,19535.3,1.12961], 20593 meters, now at [12155.4,12633.2,0.00143433]"
+ 2:34:16 Server: Object 4:89 not found (message 94)
+ 2:34:16 Server: Object 4:101 not found (message 94)
+ 2:34:16 Server: Object 4:105 not found (message 94)
+ 2:34:16 Server: Object 4:102 not found (message 94)
+ 2:34:16 Server: Object 4:103 not found (message 94)
+ 2:34:16 Server: Object 4:104 not found (message 94)
+ 2:34:16 Server: Object 4:106 not found (message 94)
+ 2:34:16 Server: Object 4:107 not found (message 94)
+ 2:34:16 Server: Object 4:108 not found (message 94)
+ 2:36:09 Server: Object 4:115 not found (message 91)
+ 2:36:42 Server: Object 4:169 not found (message 94)
+ 2:36:42 Server: Object 4:168 not found (message 94)
+ 2:36:42 Server: Object 4:178 not found (message 94)
+ 2:36:42 Server: Object 4:188 not found (message 70)
+ 2:36:42 Server: Object 4:189 not found (message 94)
+ 2:36:42 Server: Object 4:187 not found (message 70)
+ 2:36:42 Server: Object 4:182 not found (message 70)
+ 2:36:42 Server: Object 4:179 not found (message 94)
+ 2:36:42 Server: Object 4:180 not found (message 94)
+ 2:36:42 Server: Object 4:181 not found (message 94)
+ 2:36:42 Server: Object 4:184 not found (message 70)
+ 2:36:42 Server: Object 4:183 not found (message 94)
+ 2:36:42 Server: Object 4:185 not found (message 94)
+ 2:36:42 Server: Object 4:186 not found (message 94)
+ 2:38:15 "TIME SYNC: Local Time set to [2013,8,3,16,38]"
