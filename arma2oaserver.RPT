@@ -399,3 +399,18 @@ g from [1623.71,218.188,300] to [1090.73,4168.64] NOW!(TIME:2133||LT:MilitarySpe
  3:17:27 Server: Object 4:513 not found (message 70)
  3:18:15 "TIME SYNC: Local Time set to [2013,8,3,17,18]"
  3:18:26 "CLEANUP: Deleted 6 Loot Piles out of 245"
+ 3:22:16 "get: STRING (99982214), sent: STRING (99982214)"
+ 3:22:16 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-C:1 (-[VOID]-Sypher117) REMOTE, _characterID: 540 at loc [12013.6,12811.8,0.0781708]"
+ 3:22:16 Client: Remote object 3:8 not found
+ 3:22:16 Warning: Cleanup player - person 3:7 not found
+ 3:22:17 Warning: Cleanup player - person 3:7 not found
+ 3:22:22 "CLEANUP: Deleted 6 Loot Piles out of 237"
+ 3:23:15 "TIME SYNC: Local Time set to [2013,8,3,17,23]"
+ 3:23:22 "CLEANUP: Deleted 23 Loot Piles out of 233"
+ 3:24:23 "CLEANUP: Deleted 3 Loot Piles out of 210"
+ 3:25:23 "CLEANUP: Deleted 7 Loot Piles out of 207"
+ 3:26:24 "CLEANUP: Deleted 7 Loot Piles out of 201"
+ 3:27:23 "CLEANUP: Deleted 1 Loot Piles out of 197"
+ 3:28:15 "TIME SYNC: Local Time set to [2013,8,3,17,28]"
+ 3:28:15 "CLEANUP: Deleted 6 Animals out of 9"
+ 3:28:24 "CLEANUP: Deleted 1 Loot Piles out of 202"
