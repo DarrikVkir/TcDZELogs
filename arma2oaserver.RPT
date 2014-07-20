@@ -277,3 +277,11 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 20:19:58 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
 20:24:58 "TIME SYNC: Local Time set to [2013,8,3,16,24]"
 20:25:51 Server: Object 3:125 not found (message 91)
+20:29:58 "TIME SYNC: Local Time set to [2013,8,3,16,29]"
+20:30:09 "RUNNING EVENT: crash_spawner on [2014,7,20,16,30]"
+20:30:09 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+20:30:09 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [5484.21,14049.6] NOW!(TIME:811||LT:HeliCrash_No50s)"
+20:34:59 "TIME SYNC: Local Time set to [2013,8,3,16,34]"
+20:37:32 Server: Object 3:260 not found (message 94)
