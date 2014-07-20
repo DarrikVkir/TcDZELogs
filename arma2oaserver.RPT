@@ -414,3 +414,55 @@ g from [1623.71,218.188,300] to [1090.73,4168.64] NOW!(TIME:2133||LT:MilitarySpe
  3:28:15 "TIME SYNC: Local Time set to [2013,8,3,17,28]"
  3:28:15 "CLEANUP: Deleted 6 Animals out of 9"
  3:28:24 "CLEANUP: Deleted 1 Loot Piles out of 202"
+ 3:30:05 "RUNNING EVENT: crash_spawner on [2014,7,20,17,30]"
+ 3:30:05 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+ 3:30:05 "CRASHSPAWNER: A-10 started
+
+g from [15186,11857,300] to [3755.6,7485.36] NOW!(TIME:3936||LT:MilitarySpecial)"
+ 3:32:54 "CRASHSPAWNER: A-10 just exploded at [4021.37,7523.58,4.74728]!, "
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4017.56,7524.79,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4022.37,7516.15,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4027.88,7530.99,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4008.96,7520.05,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4023.56,7520.2,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4022.33,7529.7,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4016.25,7526.35,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4024.51,7515.02,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4013.34,7532.74,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Loot spawn at '[4023.8,7516.92,0]' with loot table 'MilitarySpecial'"
+ 3:32:54 "CRASHSPAWNER: Crash completed! Wreck at: [4021.43,7523.6,0.00372314] - Runtime: 169 Seconds || Distance from calculated POC: 269 meters"
+ 3:33:15 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
+ 3:34:25 "CLEANUP: Deleted 11 Loot Piles out of 218"
+ 3:34:38 Server: Object 4:642 not found (message 94)
+ 3:34:46 Server: Object 4:658 not found (message 70)
+ 3:34:46 Server: Object 4:655 not found (message 70)
+ 3:34:46 Server: Object 4:654 not found (message 94)
+ 3:34:46 Server: Object 4:656 not found (message 94)
+ 3:34:46 Server: Object 4:657 not found (message 94)
+ 3:34:46 Server: Object 4:660 not found (message 94)
+ 3:34:46 Server: Object 4:659 not found (message 70)
+ 3:34:46 Server: Object 4:662 not found (message 70)
+ 3:34:46 Server: Object 4:663 not found (message 94)
+ 3:34:46 Server: Object 4:661 not found (message 94)
+ 3:34:55 Server: Object 4:685 not found (message 70)
+ 3:34:55 Server: Object 4:686 not found (message 94)
+ 3:34:55 Server: Object 4:695 not found (message 70)
+ 3:34:55 Server: Object 4:694 not found (message 70)
+ 3:34:55 Server: Object 4:693 not found (message 70)
+ 3:34:55 Server: Object 4:692 not found (message 94)
+ 3:34:55 Server: Object 4:684 not found (message 94)
+ 3:34:55 Server: Object 4:691 not found (message 70)
+ 3:34:55 Server: Object 4:687 not found (message 94)
+ 3:34:55 Server: Object 4:688 not found (message 94)
+ 3:34:55 Server: Object 4:689 not found (message 94)
+ 3:34:55 Server: Object 4:690 not found (message 94)
+ 3:34:55 Server: Object 4:699 not found (message 91)
+ 3:34:55 Server: Object 4:698 not found (message 99)
+ 3:34:55 Server: Object 4:697 not found (message 91)
+ 3:34:55 Server: Object 4:696 not found (message 99)
+ 3:34:55 Server: Object 4:701 not found (message 91)
+ 3:34:55 Server: Object 4:700 not found (message 98)
+ 3:35:27 "CLEANUP: Deleted 46 Loot Piles out of 270"
+ 3:36:24 "CLEANUP: Deleted 1 Loot Piles out of 224"
+ 3:38:15 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
+ 3:38:27 "CLEANUP: Deleted 87 Loot Piles out of 223"
