@@ -796,3 +796,37 @@ g from [10450,-630,1000] to [3646.72,7762.13] NOW!(TIME:14940||LT:HeliCrash_No50
  0:36:29 "CLEANUP: Deleted 4 Loot Piles out of 84"
  0:37:29 "CLEANUP: Deleted 3 Loot Piles out of 80"
  0:38:29 "CLEANUP: Deleted 1 Loot Piles out of 77"
+ 0:39:20 "TIME SYNC: Local Time set to [2013,8,3,20,39]"
+ 0:39:29 "CRASHSPAWNER: UH-60M just exploded at [3681.32,7826.52,5.12064]!, "
+ 0:39:29 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 0:39:29 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 0:39:29 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3681.16,7822.53,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3678.94,7820.6,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3686.67,7828.83,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3671.85,7827.02,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3677.94,7834.86,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3676.06,7819.1,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3679.25,7819.99,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3691.26,7823.86,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3692.96,7832.01,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3686.78,7833.1,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Loot spawn at '[3685.66,7832.31,0]' with loot table 'HeliCrash_No50s'"
+ 0:39:29 "CRASHSPAWNER: Crash completed! Wreck at: [3681.32,7826.52,0.00588989] - Runtime: 562 Seconds || Distance from calculated POC: 74 meters"
+ 0:42:27 Server: Object 7:659 not found (message 91)
+ 0:44:20 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
+ 0:44:36 Server: Object 7:687 not found (message 70)
+ 0:44:36 Server: Object 7:702 not found (message 70)
+ 0:44:36 Server: Object 7:701 not found (message 70)
+ 0:44:36 Server: Object 7:700 not found (message 70)
+ 0:44:36 Server: Object 7:699 not found (message 70)
+ 0:44:36 Server: Object 7:698 not found (message 70)
+ 0:44:36 Server: Object 7:697 not found (message 94)
+ 0:44:36 Server: Object 7:706 not found (message 70)
+ 0:44:36 Server: Object 7:709 not found (message 70)
+ 0:44:36 Server: Object 7:708 not found (message 70)
+ 0:44:36 Server: Object 7:705 not found (message 70)
+ 0:44:36 Server: Object 7:707 not found (message 70)
+ 0:44:36 Server: Object 7:703 not found (message 70)
+ 0:44:36 Server: Object 7:704 not found (message 70)
+ 0:47:33 "CLEANUP: Deleted 3 Loot Piles out of 210"
