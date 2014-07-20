@@ -258,3 +258,21 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 18:43:08 "[DZMS]: Running Minor Mission SM7."
 18:43:09 "[DZMS]: Running Major Mission SM4."
 18:45:25 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:50:23 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:50:25 "TIME SYNC: Local Time set to [2013,8,3,20,50]"
+18:55:25 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
