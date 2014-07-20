@@ -326,3 +326,10 @@ g from [10450,-630,1000] to [10260.4,15408.4] NOW!(TIME:2602||LT:MilitarySpecial
 21:15:03 "RUNNING EVENT: supply_drop on [2014,7,20,17,15]"
 21:19:59 "TIME SYNC: Local Time set to [2013,8,3,17,19]"
 21:24:59 "TIME SYNC: Local Time set to [2013,8,3,17,24]"
+21:29:59 "TIME SYNC: Local Time set to [2013,8,3,17,29]"
+21:30:04 "RUNNING EVENT: crash_spawner on [2014,7,20,17,30]"
+21:30:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+21:30:04 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15186,11857,300] to [2894.58,5969.94] NOW!(TIME:4404||LT:Hospital)"
+21:34:59 "TIME SYNC: Local Time set to [2013,8,3,17,34]"
