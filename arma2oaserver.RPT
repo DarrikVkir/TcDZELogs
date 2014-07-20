@@ -321,3 +321,6 @@ g from [10450,-630,1000] to [10260.4,15408.4] NOW!(TIME:2602||LT:MilitarySpecial
 21:04:06 Warning: Cleanup player - person 3:7 not found
 21:04:59 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
 21:04:59 "CLEANUP: Deleted 10 Animals out of 10"
+21:09:59 "TIME SYNC: Local Time set to [2013,8,3,17,9]"
+21:14:59 "TIME SYNC: Local Time set to [2013,8,3,17,14]"
+21:15:03 "RUNNING EVENT: supply_drop on [2014,7,20,17,15]"
