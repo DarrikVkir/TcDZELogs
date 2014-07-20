@@ -1029,3 +1029,32 @@ g from [6993.7,173.053,300] to [5951.58,7371.2] NOW!(TIME:16742||LT:MilitarySpec
  1:47:00 "CRASHSPAWNER: Loot spawn at '[3551.36,4979.2,0]' with loot table 'MilitarySpecial'"
  1:47:00 "CRASHSPAWNER: Crash completed! Wreck at: [3554.06,4963.48,-0.00367737] - Runtime: 10010 Seconds || Distance from calculated POC: 2764 meters"
  1:47:33 "CLEANUP: Deleted 1 Loot Piles out of 139"
+ 1:49:20 "TIME SYNC: Local Time set to [2013,8,3,21,49]"
+ 1:50:34 "CLEANUP: Deleted 5 Loot Piles out of 189"
+ 1:50:54 Server: Object 7:1295 not found (message 70)
+ 1:50:54 Server: Object 7:1299 not found (message 94)
+ 1:50:54 Server: Object 7:1296 not found (message 94)
+ 1:50:54 Server: Object 7:1297 not found (message 94)
+ 1:50:54 Server: Object 7:1298 not found (message 94)
+ 1:53:03 Server: Object 7:1313 not found (message 94)
+ 1:53:03 Server: Object 7:1312 not found (message 94)
+ 1:53:03 Server: Object 7:1316 not found (message 70)
+ 1:53:03 Server: Object 7:1314 not found (message 94)
+ 1:53:03 Server: Object 7:1315 not found (message 94)
+ 1:53:03 Server: Object 7:1317 not found (message 94)
+ 1:53:03 Server: Object 7:1318 not found (message 94)
+ 1:53:03 Server: Object 7:1319 not found (message 94)
+ 1:53:48 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a Mi17_Civilian_DZ in/at Any for 1x ItemBriefcase100oz"
+ 1:53:48 "DELETE: B 1-1-B:1 (Duracell) REMOTE Deleted by ID: 4777"
+ 1:54:21 "TIME SYNC: Local Time set to [2013,8,3,21,54]"
+ 1:55:42 "get: STRING (99982214), sent: STRING (99982214)"
+ 1:55:42 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-C:1 (-[VOID]-Sypher117) REMOTE, _characterID: 540 at loc [12160.8,12632.1,0.00143433]"
+ 1:55:42 Client: Remote object 6:1314 not found
+ 1:55:42 Warning: Cleanup player - person 6:1313 not found
+ 1:55:44 Warning: Cleanup player - person 6:1313 not found
+ 1:56:37 "CLEANUP: Deleted 1 Loot Piles out of 230"
+ 1:56:41 "get: STRING (117535878), sent: STRING (117535878)"
+ 1:56:41 "DISCONNECT: Duracell (117535878) Object: B 1-1-B:1 (Duracell) REMOTE, _characterID: 537 at loc [12149.1,12632.4,0.00143433]"
+ 1:56:41 Client: Remote object 7:978 not found
+ 1:56:41 Client: Remote object 7:977 not found
+ 1:56:44 Warning: Cleanup player - person 7:979 not found
