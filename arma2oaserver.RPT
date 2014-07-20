@@ -782,3 +782,5 @@ g from [1623.71,218.188,300] to [2910.77,8876.21] NOW!(TIME:13138||LT:MilitarySp
  0:16:58 "CRASHSPAWNER: Crash completed! Wreck at: [5332.04,9740.06,0.0722656] - Runtime: 10007 Seconds || Distance from calculated POC: 6297 meters"
  0:17:05 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a Sa58P_EP1 in/at Bash for 1x ItemGoldBar"
  0:17:26 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a SVD_CAMO in/at Bash for 6x ItemGoldBar"
+ 0:19:20 "TIME SYNC: Local Time set to [2013,8,3,20,19]"
+ 0:24:20 "TIME SYNC: Local Time set to [2013,8,3,20,24]"
