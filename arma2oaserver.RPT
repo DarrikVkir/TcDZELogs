@@ -308,3 +308,16 @@ g from [6993.7,173.053,300] to [5484.21,14049.6] NOW!(TIME:811||LT:HeliCrash_No5
 20:54:59 "TIME SYNC: Local Time set to [2013,8,3,16,54]"
 20:56:02 "CLEANUP: Deleted 15 Loot Piles out of 93"
 20:57:03 "CLEANUP: Deleted 62 Loot Piles out of 78"
+20:59:59 "TIME SYNC: Local Time set to [2013,8,3,16,59]"
+21:00:02 "RUNNING EVENT: crash_spawner on [2014,7,20,17,0]"
+21:00:02 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+21:00:02 "CRASHSPAWNER: AH-1Z started
+
+g from [10450,-630,1000] to [10260.4,15408.4] NOW!(TIME:2602||LT:MilitarySpecial)"
+21:04:04 "nil player object attempting PV, :["117535878","Duracell"]"
+21:04:05 "get: STRING (), sent: STRING (117535878)"
+21:04:05 "DISCONNECT: Duracell (117535878) Object: B 1-1-C:1 REMOTE, _characterID: 537 at loc [10638.4,11360.1,0.00189209]"
+21:04:05 Client: Remote object 3:8 not found
+21:04:06 Warning: Cleanup player - person 3:7 not found
+21:04:59 "TIME SYNC: Local Time set to [2013,8,3,17,4]"
+21:04:59 "CLEANUP: Deleted 10 Animals out of 10"
