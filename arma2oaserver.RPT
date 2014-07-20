@@ -466,3 +466,19 @@ g from [15186,11857,300] to [3755.6,7485.36] NOW!(TIME:3936||LT:MilitarySpecial)
  3:36:24 "CLEANUP: Deleted 1 Loot Piles out of 224"
  3:38:15 "TIME SYNC: Local Time set to [2013,8,3,17,38]"
  3:38:27 "CLEANUP: Deleted 87 Loot Piles out of 223"
+ 3:39:22 "CLEANUP: Deleted 3 Loot Piles out of 136"
+ 3:40:56 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a Mi17_DZE in/at Hero Trader for 1x ItemBriefcase100oz"
+ 3:40:56 "DELETE: B 1-1-B:1 (Duracell) REMOTE Deleted by ID: 4358"
+ 3:41:22 "CLEANUP: Deleted 9 Loot Piles out of 133"
+ 3:42:21 "CLEANUP: Deleted 3 Loot Piles out of 124"
+ 3:43:15 "TIME SYNC: Local Time set to [2013,8,3,17,43]"
+ 3:43:21 "CLEANUP: Deleted 2 Loot Piles out of 121"
+ 3:45:21 "get: STRING (117535878), sent: STRING (117535878)"
+ 3:45:21 "DISCONNECT: Duracell (117535878) Object: B 1-1-B:1 (Duracell) REMOTE, _characterID: 537 at loc [12369.1,12727.5,0.00152588]"
+ 3:45:21 Client: Remote object 4:2 not found
+ 3:45:21 Client: Remote object 4:85 not found
+ 3:45:25 Warning: Cleanup player - person 4:84 not found
+ 3:46:20 "CLEANUP: Deleted 1 Loot Piles out of 110"
+ 3:47:20 "CLEANUP: Deleted 3 Loot Piles out of 109"
+ 3:48:15 "TIME SYNC: Local Time set to [2013,8,3,17,48]"
+ 3:48:20 "CLEANUP: Deleted 4 Loot Piles out of 106"
