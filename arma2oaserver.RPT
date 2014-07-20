@@ -638,3 +638,10 @@ g from [6993.7,173.053,300] to [2642.56,14075] NOW!(TIME:16530||LT:HeliCrash_No5
  7:18:16 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
  7:23:16 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
  7:28:16 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
+ 7:30:08 "RUNNING EVENT: crash_spawner on [2014,7,20,21,30]"
+ 7:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 7:30:08 "CRASHSPAWNER: UH-60M MEV started
+
+g from [1623.71,218.188,300] to [8094.47,5264.34] NOW!(TIME:18332||LT:Hospital)"
+ 7:33:16 "TIME SYNC: Local Time set to [2013,8,3,21,33]"
+ 7:38:16 "TIME SYNC: Local Time set to [2013,8,3,21,38]"
