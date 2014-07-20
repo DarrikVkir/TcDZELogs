@@ -864,3 +864,20 @@ g from [10450,-630,1000] to [3646.72,7762.13] NOW!(TIME:14940||LT:HeliCrash_No50
  0:53:28 Server: Object 6:1187 not found (message 98)
  0:53:28 Server: Object 6:1188 not found (message 91)
  0:54:20 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+ 0:59:20 "TIME SYNC: Local Time set to [2013,8,3,20,59]"
+ 1:00:09 "RUNNING EVENT: crash_spawner on [2014,7,19,21,0]"
+ 1:00:09 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+ 1:00:09 "CRASHSPAWNER: Mi-24D started
+
+g from [6993.7,173.053,300] to [5951.58,7371.2] NOW!(TIME:16742||LT:MilitarySpecial)"
+ 1:00:36 "CLEANUP: Deleted 3 Loot Piles out of 328"
+ 1:02:37 "CLEANUP: Deleted 5 Loot Piles out of 326"
+ 1:03:00 Server: Object 7:890 not found (message 94)
+ 1:03:00 Server: Object 7:893 not found (message 94)
+ 1:03:00 Server: Object 7:892 not found (message 70)
+ 1:03:00 Server: Object 7:896 not found (message 94)
+ 1:03:00 Server: Object 7:891 not found (message 94)
+ 1:03:00 Server: Object 7:895 not found (message 70)
+ 1:03:00 Server: Object 7:894 not found (message 94)
+ 1:04:20 "TIME SYNC: Local Time set to [2013,8,3,21,4]"
+ 1:07:39 "CLEANUP: Deleted 30 Loot Piles out of 359"
