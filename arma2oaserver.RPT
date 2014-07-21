@@ -336,3 +336,8 @@ g from [1623.71,218.188,300] to [8640.24,11380.1] NOW!(TIME:3311||LT:MilitarySpe
 21:08:46 "TIME SYNC: Local Time set to [2013,8,3,17,8]"
 21:13:46 "TIME SYNC: Local Time set to [2013,8,3,17,13]"
 21:15:09 "RUNNING EVENT: supply_drop on [2014,7,21,17,15]"
+21:18:46 "TIME SYNC: Local Time set to [2013,8,3,17,18]"
+21:19:10 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+21:20:00 Server: Object 3:495 not found (message 70)
+21:20:00 Server: Object 3:496 not found (message 94)
+21:23:46 "TIME SYNC: Local Time set to [2013,8,3,17,23]"
