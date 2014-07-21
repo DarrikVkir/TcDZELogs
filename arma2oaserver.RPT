@@ -521,3 +521,9 @@ g from [6986,-630,1000] to [1891.25,7879.83] NOW!(TIME:10072||LT:HeliCrash_No50s
 18:46:53 "CRASHSPAWNER: Loot spawn at '[8234.93,11260.2,0]' with loot table 'MilitarySpecial'"
 18:46:53 "CRASHSPAWNER: Loot spawn at '[8238.24,11256.2,0]' with loot table 'MilitarySpecial'"
 18:46:53 "CRASHSPAWNER: Crash completed! Wreck at: [8238.35,11266.4,-0.00592041] - Runtime: 10008 Seconds || Distance from calculated POC: 3032 meters"
+18:50:57 "TIME SYNC: Local Time set to [2013,8,3,20,50]"
+18:51:04 "CLEANUP: Deleted 5 Loot Piles out of 69"
+18:53:03 "CLEANUP: Deleted 2 Loot Piles out of 64"
+18:53:57 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:54:04 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:55:57 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
