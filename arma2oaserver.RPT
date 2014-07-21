@@ -698,3 +698,9 @@ g from [15098,8144,300] to [9897.73,8292.2] NOW!(TIME:18809||LT:MilitarySpecial)
  1:37:13 "CLEANUP: Deleted 79 Loot Piles out of 199"
  1:40:00 "TIME SYNC: Local Time set to [2013,8,3,21,40]"
  1:45:00 "TIME SYNC: Local Time set to [2013,8,3,21,45]"
+ 1:50:00 "TIME SYNC: Local Time set to [2013,8,3,21,50]"
+ 1:53:35 "get: STRING (117535878), sent: STRING (117535878)"
+ 1:53:35 "DISCONNECT: -[VOID]-OmegaDragon (117535878) Object: B 1-1-B:1 (-[VOID]-OmegaDragon) REMOTE, _characterID: 537 at loc [12944.1,12765.8,0.00152588]"
+ 1:53:35 Client: Remote object 8:2 not found
+ 1:53:35 Client: Remote object 8:8 not found
+ 1:55:00 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
