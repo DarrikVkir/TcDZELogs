@@ -362,3 +362,50 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:58:03 "TIME SYNC: Local Time set to [2013,8,3,16,58]"
  2:58:06 "CLEANUP: Deleted 21 Animals out of 48"
  2:58:08 "CLEANUP: Deleted 15 Loot Piles out of 142"
+ 3:00:08 "RUNNING EVENT: crash_spawner on [2014,7,21,17,0]"
+ 3:00:08 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
+ 3:00:08 "CRASHSPAWNER: MV-22 started
+
+g from [6993.7,173.053,300] to [7852.78,10033.6] NOW!(TIME:3023||LT:MilitarySpecial)"
+ 3:01:54 Server: Object 3:424 not found (message 99)
+ 3:01:54 Server: Object 3:427 not found (message 91)
+ 3:01:54 Server: Object 3:426 not found (message 99)
+ 3:01:54 Server: Object 3:425 not found (message 91)
+ 3:01:54 Server: Object 3:430 not found (message 98)
+ 3:01:54 Server: Object 3:431 not found (message 91)
+ 3:02:15 Server: Object 4:842 not found (message 70)
+ 3:02:15 Server: Object 4:849 not found (message 70)
+ 3:02:15 Server: Object 4:850 not found (message 94)
+ 3:02:15 Server: Object 4:860 not found (message 70)
+ 3:02:15 Server: Object 4:859 not found (message 94)
+ 3:02:15 Server: Object 4:869 not found (message 70)
+ 3:02:15 Server: Object 4:868 not found (message 70)
+ 3:02:15 Server: Object 4:873 not found (message 94)
+ 3:02:15 Server: Object 4:878 not found (message 70)
+ 3:02:15 Server: Object 4:879 not found (message 70)
+ 3:02:15 Server: Object 4:876 not found (message 94)
+ 3:02:15 Server: Object 4:877 not found (message 94)
+ 3:03:03 "TIME SYNC: Local Time set to [2013,8,3,17,3]"
+ 3:03:51 "CRASHSPAWNER: MV-22 just exploded at [7841.45,9778.47,6.37042]!, "
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7845.3,9777.39,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7845.57,9775.83,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7835.78,9780.63,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7832.67,9776.47,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7839.44,9774.78,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7838.12,9780.76,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7840.54,9772.6,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7849.31,9777.55,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7834.53,9786.58,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7828.62,9779.5,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7829.07,9777.09,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Loot spawn at '[7847.92,9779.68,0]' with loot table 'MilitarySpecial'"
+ 3:03:51 "CRASHSPAWNER: Crash completed! Wreck at: [7841.46,9778.44,-0.00241089] - Runtime: 222 Seconds || Distance from calculated POC: 264 meters"
+ 3:04:09 "CLEANUP: Deleted 1 Loot Piles out of 246"
+ 3:05:10 "CLEANUP: Deleted 1 Loot Piles out of 246"
+ 3:07:49 Server: Object 4:935 not found (message 99)
+ 3:07:49 Server: Object 4:936 not found (message 91)
+ 3:08:03 "TIME SYNC: Local Time set to [2013,8,3,17,8]"
+ 3:08:21 "get: STRING (117535878), sent: STRING (117535878)"
+ 3:08:21 "DISCONNECT: -[VOID]-OmegaDragon (117535878) Object: B 1-1-C:1 (-[VOID]-OmegaDragon) REMOTE, _characterID: 537 at loc [5927.77,13278.8,0.00134277]"
+ 3:08:21 Client: Remote object 3:8 not found
+ 3:08:23 Warning: Cleanup player - person 3:7 not found
