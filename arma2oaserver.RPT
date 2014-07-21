@@ -643,3 +643,35 @@ g from [6986,-630,1000] to [3370.42,15307.6] NOW!(TIME:17007||LT:HeliCrash_No50s
  1:06:15 "CRASHSPAWNER: Loot spawn at '[3447.12,15374.7,0]' with loot table 'HeliCrash_No50s'"
  1:06:15 "CRASHSPAWNER: Loot spawn at '[3452,15373.3,0]' with loot table 'HeliCrash_No50s'"
  1:06:15 "CRASHSPAWNER: Crash completed! Wreck at: [3450.45,15377.1,0.389771] - Runtime: 367 Seconds || Distance from calculated POC: 107 meters"
+ 1:10:00 "TIME SYNC: Local Time set to [2013,8,3,21,10]"
+ 1:11:19 "CLEANUP: Deleted 169 Loot Piles out of 326"
+ 1:12:08 "CLEANUP: Deleted 2 Loot Piles out of 157"
+ 1:14:08 "CLEANUP: Deleted 10 Loot Piles out of 155"
+ 1:15:00 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
+ 1:15:08 "CLEANUP: Deleted 1 Loot Piles out of 145"
+ 1:15:08 "RUNNING EVENT: supply_drop on [2014,7,20,21,15]"
+ 1:16:08 "CLEANUP: Deleted 1 Loot Piles out of 165"
+ 1:16:11 Server: Object 5:707 not found (message 94)
+ 1:16:11 Server: Object 5:705 not found (message 94)
+ 1:16:11 Server: Object 5:706 not found (message 94)
+ 1:16:11 Server: Object 5:723 not found (message 70)
+ 1:16:11 Server: Object 5:733 not found (message 94)
+ 1:16:11 Server: Object 5:722 not found (message 94)
+ 1:16:11 Server: Object 5:732 not found (message 94)
+ 1:16:11 Server: Object 5:730 not found (message 70)
+ 1:16:11 Server: Object 5:731 not found (message 70)
+ 1:16:11 Server: Object 5:724 not found (message 94)
+ 1:16:11 Server: Object 5:725 not found (message 94)
+ 1:16:11 Server: Object 5:726 not found (message 94)
+ 1:16:11 Server: Object 5:727 not found (message 94)
+ 1:16:11 Server: Object 5:728 not found (message 94)
+ 1:16:11 Server: Object 5:729 not found (message 94)
+ 1:16:27 Server: Object 5:752 not found (message 70)
+ 1:16:27 Server: Object 5:751 not found (message 70)
+ 1:16:27 Server: Object 5:750 not found (message 70)
+ 1:16:27 Server: Object 5:761 not found (message 70)
+ 1:16:27 Server: Object 5:760 not found (message 70)
+ 1:16:27 Server: Object 5:759 not found (message 94)
+ 1:16:27 Server: Object 5:758 not found (message 70)
+ 1:16:52 Server: Object 5:819 not found (message 91)
+ 1:16:52 Server: Object 5:818 not found (message 99)
