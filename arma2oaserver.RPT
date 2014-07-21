@@ -453,3 +453,12 @@ g from [10450,-630,1000] to [4210.43,9700.22] NOW!(TIME:11601||LT:HeliCrash_No50
 23:46:59 "CRASHSPAWNER: Loot spawn at '[9591.65,14636.1,0]' with loot table 'MilitarySpecial'"
 23:46:59 "CRASHSPAWNER: Loot spawn at '[9587.29,14621.3,0]' with loot table 'MilitarySpecial'"
 23:46:59 "CRASHSPAWNER: Crash completed! Wreck at: [9585.69,14628.6,-0.00637817] - Runtime: 10017 Seconds || Distance from calculated POC: 1032 meters"
+23:49:59 "TIME SYNC: Local Time set to [2013,8,3,19,49]"
+23:52:01 "EPOCH SERVERTRADE: Player: -[VOID]-OmegaDragon (117535878) sold a HMMWV_DZ in/at Klen for 2x ItemGoldBar10oz"
+23:52:01 "DELETE: B 1-1-B:1 (-[VOID]-OmegaDragon) REMOTE Deleted by ID: 234873"
+23:52:05 "CLEANUP: Deleted 1 Loot Piles out of 83"
+23:52:45 "EPOCH SERVERTRADE: Player: -[VOID]-OmegaDragon (117535878) sold a M24 in/at Klen for 6x ItemGoldBar"
+23:54:59 "TIME SYNC: Local Time set to [2013,8,3,19,54]"
+23:57:01 Server: Object 5:158 not found (message 98)
+23:57:01 Server: Object 5:159 not found (message 91)
+23:58:32 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
