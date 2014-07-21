@@ -364,3 +364,6 @@ g from [6986,-630,1000] to [3365.4,10544.6] NOW!(TIME:3904||LT:Hospital)"
 13:13:15 "TIME SYNC: Local Time set to [2013,8,3,21,13]"
 13:15:02 "RUNNING EVENT: supply_drop on [2014,7,21,21,15]"
 13:18:15 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
+13:22:16 Server: Object 5:9 not found (message 70)
+13:23:15 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
+13:28:15 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
