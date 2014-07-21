@@ -298,3 +298,15 @@ g from [1623.71,218.188,300] to [7120.99,6708.71] NOW!(TIME:1082||LT:HeliCrash_N
 15:44:03 "CLEANUP: Deleted 1 Loot Piles out of 199"
 15:45:56 "TIME SYNC: Local Time set to [2013,8,3,17,45]"
 15:46:01 "CLEANUP: Deleted 1 Loot Piles out of 198"
+15:50:56 "TIME SYNC: Local Time set to [2013,8,3,17,50]"
+15:51:27 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+15:52:15 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+15:53:07 "CLEANUP: Deleted 70 Loot Piles out of 199"
+15:53:51 "get: STRING (120160390), sent: STRING (120160390)"
+15:53:51 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [8951.25,9209.28,0.00143433]"
+15:53:51 Client: Remote object 3:8 not found
+15:53:58 Warning: Cleanup player - person 3:7 not found
+15:54:00 "CLEANUP: Deleted 11 Loot Piles out of 124"
+15:55:56 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
+15:57:00 "CLEANUP: Deleted 4 Loot Piles out of 113"
+15:58:02 "CLEANUP: Deleted 54 Loot Piles out of 109"
