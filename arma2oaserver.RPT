@@ -631,3 +631,18 @@ g from [6993.7,173.053,300] to [7632.86,9061.21] NOW!(TIME:12013||LT:HeliCrash_N
  5:58:04 "CLEANUP: Deleted 4 Animals out of 12"
  5:58:04 "TIME SYNC: Local Time set to [2013,8,3,19,58]"
  5:58:12 "CLEANUP: Deleted 1 Loot Piles out of 156"
+ 6:00:03 "RUNNING EVENT: crash_spawner on [2014,7,21,20,0]"
+ 6:00:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 6:00:03 "CRASHSPAWNER: UH-1H started
+
+g from [15186,11857,300] to [5102.59,7335.84] NOW!(TIME:13815||LT:HeliCrash_No50s)"
+ 6:01:24 Server: Object 8:615 not found (message 70)
+ 6:01:24 Server: Object 8:614 not found (message 70)
+ 6:03:04 "TIME SYNC: Local Time set to [2013,8,3,20,3]"
+ 6:03:49 Server: Object 8:643 not found (message 70)
+ 6:03:49 Server: Object 8:642 not found (message 70)
+ 6:03:49 Server: Object 8:641 not found (message 70)
+ 6:04:14 "CLEANUP: Deleted 12 Loot Piles out of 182"
+ 6:05:13 "CLEANUP: Deleted 1 Loot Piles out of 171"
+ 6:08:04 "TIME SYNC: Local Time set to [2013,8,3,20,8]"
+ 6:08:14 "CLEANUP: Deleted 2 Loot Piles out of 181"
