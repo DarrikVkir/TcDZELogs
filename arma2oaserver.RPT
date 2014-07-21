@@ -409,3 +409,14 @@ g from [6993.7,173.053,300] to [7852.78,10033.6] NOW!(TIME:3023||LT:MilitarySpec
  3:08:21 "DISCONNECT: -[VOID]-OmegaDragon (117535878) Object: B 1-1-C:1 (-[VOID]-OmegaDragon) REMOTE, _characterID: 537 at loc [5927.77,13278.8,0.00134277]"
  3:08:21 Client: Remote object 3:8 not found
  3:08:23 Warning: Cleanup player - person 3:7 not found
+ 3:13:03 "TIME SYNC: Local Time set to [2013,8,3,17,13]"
+ 3:13:05 "CLEANUP: Deleted 17 Animals out of 20"
+ 3:13:11 "CLEANUP: Deleted 1 Loot Piles out of 295"
+ 3:14:11 "CLEANUP: Deleted 1 Loot Piles out of 294"
+ 3:15:09 "RUNNING EVENT: supply_drop on [2014,7,21,17,15]"
+ 3:15:11 "CLEANUP: Deleted 11 Loot Piles out of 299"
+ 3:15:53 "TELEPORT REVERT for player UID#99982214 from [6469.1,14229.7,0.00146484] to [-7244.79,19535.3,1.04578], 14704 meters, now at [6469.1,14229.7,0.00146484]"
+ 3:16:11 "CLEANUP: Deleted 23 Loot Piles out of 288"
+ 3:17:11 "CLEANUP: Deleted 23 Loot Piles out of 265"
+ 3:18:03 "TIME SYNC: Local Time set to [2013,8,3,17,18]"
+ 3:18:12 "CLEANUP: Deleted 52 Loot Piles out of 245"
