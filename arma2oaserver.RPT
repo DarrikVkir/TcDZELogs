@@ -608,3 +608,17 @@ g from [6993.7,173.053,300] to [7632.86,9061.21] NOW!(TIME:12013||LT:HeliCrash_N
  5:36:14 "CLEANUP: Deleted 2 Loot Piles out of 226"
  5:38:04 "TIME SYNC: Local Time set to [2013,8,3,19,38]"
  5:38:14 "CLEANUP: Deleted 2 Loot Piles out of 226"
+ 5:42:14 "CLEANUP: Deleted 1 Loot Piles out of 224"
+ 5:43:04 "TIME SYNC: Local Time set to [2013,8,3,19,43]"
+ 5:43:08 Server: Object 8:418 not found (message 70)
+ 5:43:08 Server: Object 8:417 not found (message 70)
+ 5:43:10 "PDEATH: Player Died 255024710"
+ 5:43:17 "CLEANUP: Deleted 96 Loot Piles out of 224"
+ 5:43:35 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [530]. Position in debug! [-7252.05,19534.6,1.80402]"
+ 5:43:38 "get: STRING (255024710), sent: STRING (255024710)"
+ 5:43:38 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-A:1 (Bored Shorts) REMOTE, _characterID: 530 at loc [-7252.05,19534.6,1.80402]"
+ 5:43:38 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [530]. Position in debug! [-7252.05,19534.6,1.80402]"
+ 5:43:38 Client: Remote object 8:2 not found
+ 5:44:11 "CLEANUP: Deleted 9 Loot Piles out of 125"
+ 5:47:11 "CLEANUP: Deleted 6 Loot Piles out of 117"
+ 5:48:04 "TIME SYNC: Local Time set to [2013,8,3,19,48]"
