@@ -494,3 +494,30 @@ g from [6986,-630,1000] to [1891.25,7879.83] NOW!(TIME:10072||LT:HeliCrash_No50s
 18:35:03 "CLEANUP: Deleted 5 Loot Piles out of 60"
 18:35:57 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
 18:37:04 "CLEANUP: Deleted 1 Loot Piles out of 55"
+18:40:57 "TIME SYNC: Local Time set to [2013,8,3,20,40]"
+18:41:11 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:33 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:35 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:36 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:37 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:39 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:44 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:52 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:53 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:41:55 Bad muzzle direction in MeleeFlashlight:'usti hlavne'-'konec hlavne'
+18:45:57 "TIME SYNC: Local Time set to [2013,8,3,20,45]"
+18:46:53 "CRASHSPAWNER: Ka-52 (black) just exploded at [8238.29,11266.4,0.891602]!, "
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8240.25,11262.9,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8233.16,11266.4,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8241.13,11259.2,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8243.49,11269.2,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8235.18,11270,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8229.7,11267.7,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8231.59,11264.9,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8236.07,11273,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8241.36,11271.6,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8242.33,11262.5,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8234.64,11258.3,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8234.93,11260.2,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Loot spawn at '[8238.24,11256.2,0]' with loot table 'MilitarySpecial'"
+18:46:53 "CRASHSPAWNER: Crash completed! Wreck at: [8238.35,11266.4,-0.00592041] - Runtime: 10008 Seconds || Distance from calculated POC: 3032 meters"
