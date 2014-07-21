@@ -788,3 +788,21 @@ _key >
  7:18:05 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
  7:18:09 NAT Negotiation completed
  7:18:23 "CLEANUP: Deleted 68 Loot Piles out of 396"
+ 7:18:43 Server: Object 8:1330 not found (message 70)
+ 7:18:43 Server: Object 8:1329 not found (message 70)
+ 7:18:43 Server: Object 8:1328 not found (message 94)
+ 7:18:51 Server: Object 8:1348 not found (message 70)
+ 7:18:51 Server: Object 8:1350 not found (message 70)
+ 7:18:51 Server: Object 8:1349 not found (message 70)
+ 7:19:19 "CLEANUP: Deleted 2 Loot Piles out of 365"
+ 7:20:19 "CLEANUP: Deleted 1 Loot Piles out of 363"
+ 7:21:07 "get: STRING (235067846), sent: STRING (235067846)"
+ 7:21:07 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-D:1 (Miss Rachel ) REMOTE, _characterID: 513 at loc [9485.4,14340.6,6.63203]"
+ 7:21:07 Client: Remote object 10:2 not found
+ 7:21:07 Client: Remote object 10:8 not found
+ 7:21:08 Warning: Cleanup player - person 10:7 not found
+ 7:22:19 "CLEANUP: Deleted 2 Loot Piles out of 359"
+ 7:23:05 "TIME SYNC: Local Time set to [2013,8,3,21,23]"
+ 7:26:21 "CLEANUP: Deleted 25 Loot Piles out of 412"
+ 7:28:05 "TIME SYNC: Local Time set to [2013,8,3,21,28]"
+ 7:28:05 "CLEANUP: Deleted 6 Animals out of 28"
