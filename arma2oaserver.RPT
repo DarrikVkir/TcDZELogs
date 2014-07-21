@@ -281,3 +281,13 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 15:23:47 "DELETE: B 1-1-C:1 (telconrar) REMOTE Deleted by ID: 5194"
 15:23:47 "PUBLISH: B 1-1-C:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "892419203033173""
 15:25:56 "TIME SYNC: Local Time set to [2013,8,3,17,25]"
+15:30:07 "RUNNING EVENT: crash_spawner on [2014,7,21,17,30]"
+15:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+15:30:08 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [7120.99,6708.71] NOW!(TIME:1082||LT:HeliCrash_No50s)"
+15:30:56 "TIME SYNC: Local Time set to [2013,8,3,17,30]"
+15:34:05 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+15:35:56 "TIME SYNC: Local Time set to [2013,8,3,17,35]"
+15:37:01 "CLEANUP: Deleted 24 Loot Piles out of 123"
+15:38:00 "CLEANUP: Deleted 2 Loot Piles out of 155"
