@@ -264,3 +264,50 @@ g from [15098,8144,300] to [7177.07,8261.03] NOW!(TIME:1510||LT:HeliCrash_No50s)
 20:35:46 "CLEANUP: Deleted 6 Loot Piles out of 19"
 20:38:45 "TIME SYNC: Local Time set to [2013,8,3,16,38]"
 20:43:45 "TIME SYNC: Local Time set to [2013,8,3,16,43]"
+20:48:45 "TIME SYNC: Local Time set to [2013,8,3,16,48]"
+20:48:47 "CLEANUP: Deleted 4 Loot Piles out of 16"
+20:52:28 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+20:52:28   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:52:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+20:52:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+20:52:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+20:52:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+20:52:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+20:52:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+20:52:28 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+20:52:28   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+20:52:28   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+20:53:45 "TIME SYNC: Local Time set to [2013,8,3,16,53]"
+20:54:46 "CLEANUP: Deleted 1 Loot Piles out of 12"
+20:56:12 Server: Object 3:148 not found (message 91)
+20:56:12 Server: Object 3:150 not found (message 91)
+20:56:12 Server: Object 3:149 not found (message 98)
+20:56:12 Server: Object 3:152 not found (message 91)
+20:56:12 Server: Object 3:151 not found (message 99)
+20:56:12 Server: Object 3:154 not found (message 91)
+20:56:12 Server: Object 3:153 not found (message 99)
+20:56:12 Server: Object 3:158 not found (message 91)
+20:56:12 Server: Object 3:159 not found (message 98)
+20:56:12 Server: Object 3:160 not found (message 91)
+20:56:12 Server: Object 3:161 not found (message 98)
+20:56:12 Server: Object 3:162 not found (message 91)
+20:56:12 Server: Object 3:163 not found (message 99)
+20:56:12 Server: Object 3:164 not found (message 91)
+20:56:12 Server: Object 3:165 not found (message 99)
+20:56:12 Server: Object 3:166 not found (message 91)
