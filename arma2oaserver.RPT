@@ -610,3 +610,36 @@ g from [15098,8144,300] to [10266.7,13430.4] NOW!(TIME:13403||LT:HeliCrash_No50s
  0:55:00 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
  0:55:11 "CLEANUP: Deleted 1 Loot Piles out of 322"
  0:57:12 "CLEANUP: Deleted 2 Loot Piles out of 323"
+ 0:59:06 Server: Object 5:634 not found (message 94)
+ 0:59:36 "TELEPORT REVERT for player UID#99982214 from [6457.82,14157.5,0.00137329] to [-7245.18,19535.1,1.09158], 14720 meters, now at [6457.82,14157.5,0.00137329]"
+ 0:59:36 SetFace error: class CfgFaces.RodriguezHead.Face105 not found
+ 0:59:36 Error: Error during SetFace - class CfgFaces.RodriguezHead.Face105 not found
+ 1:00:00 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
+ 1:00:07 "RUNNING EVENT: crash_spawner on [2014,7,20,21,0]"
+ 1:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-1Y with loot table 'HeliCrash_No50s'"
+ 1:00:08 "CRASHSPAWNER: UH-1Y started
+
+g from [6986,-630,1000] to [3370.42,15307.6] NOW!(TIME:17007||LT:HeliCrash_No50s)"
+ 1:02:12 "CLEANUP: Deleted 1 Loot Piles out of 340"
+ 1:02:21 "get: STRING (99982214), sent: STRING (99982214)"
+ 1:02:21 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-E:1 (-[VOID]-Sypher117) REMOTE, _characterID: 540 at loc [6489.46,14164.7,0.258179]"
+ 1:02:21 Client: Remote object 6:2 not found
+ 1:02:21 Client: Remote object 6:492 not found
+ 1:02:21 Warning: Cleanup player - person 6:491 not found
+ 1:02:22 Warning: Cleanup player - person 6:491 not found
+ 1:03:03 No player found for channel 374145152 - message ignored
+ 1:04:59 "CLEANUP: Deleted 3 Animals out of 21"
+ 1:05:00 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
+ 1:06:15 "CRASHSPAWNER: UH-1Y just exploded at [3450.45,15377.1,-0.578308]!, "
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3446.45,15377.2,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3449.78,15383.4,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3451.85,15371.9,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3442.37,15375.4,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3447.43,15370.1,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3456.48,15378.1,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3453.13,15369.3,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3457.52,15375.1,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3459.58,15371.2,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3447.12,15374.7,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Loot spawn at '[3452,15373.3,0]' with loot table 'HeliCrash_No50s'"
+ 1:06:15 "CRASHSPAWNER: Crash completed! Wreck at: [3450.45,15377.1,0.389771] - Runtime: 367 Seconds || Distance from calculated POC: 107 meters"
