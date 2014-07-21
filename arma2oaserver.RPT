@@ -766,3 +766,25 @@ _key >
  7:06:29 "CRASHSPAWNER: Loot spawn at '[5366.57,10146,0]' with loot table 'Hospital'"
  7:06:29 "CRASHSPAWNER: Crash completed! Wreck at: [5361.65,10146.4,0.0158997] - Runtime: 381 Seconds || Distance from calculated POC: 26 meters"
  7:08:05 "TIME SYNC: Local Time set to [2013,8,3,21,8]"
+ 7:13:05 "TIME SYNC: Local Time set to [2013,8,3,21,13]"
+ 7:13:16 "CLEANUP: Deleted 1 Loot Piles out of 229"
+ 7:13:25 Server: Object 8:1226 not found (message 70)
+ 7:13:25 Server: Object 8:1225 not found (message 94)
+ 7:13:25 Server: Object 8:1224 not found (message 94)
+ 7:13:25 Server: Object 8:1241 not found (message 94)
+ 7:13:25 Server: Object 8:1238 not found (message 94)
+ 7:13:25 Server: Object 8:1239 not found (message 94)
+ 7:13:25 Server: Object 8:1240 not found (message 94)
+ 7:15:00 "RUNNING EVENT: supply_drop on [2014,7,21,21,15]"
+ 7:15:04 Server: Object 9:128 not found (message 91)
+ 7:15:04 Server: Object 9:127 not found (message 99)
+ 7:15:05 Server: Object 9:140 not found (message 91)
+ 7:15:05 Server: Object 9:139 not found (message 99)
+ 7:15:05 Server: Object 9:142 not found (message 91)
+ 7:15:05 Server: Object 9:141 not found (message 99)
+ 7:15:17 "CLEANUP: Deleted 1 Loot Piles out of 276"
+ 7:17:21 "CLEANUP: Deleted 33 Loot Piles out of 405"
+ 7:17:54 Server: Object 8:1302 not found (message 70)
+ 7:18:05 "TIME SYNC: Local Time set to [2013,8,3,21,18]"
+ 7:18:09 NAT Negotiation completed
+ 7:18:23 "CLEANUP: Deleted 68 Loot Piles out of 396"
