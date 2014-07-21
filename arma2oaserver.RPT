@@ -581,3 +581,30 @@ g from [6993.7,173.053,300] to [8626.6,10993.7] NOW!(TIME:10221||LT:MilitarySpec
  5:25:11 "CLEANUP: Deleted 1 Loot Piles out of 191"
  5:26:11 "CLEANUP: Deleted 1 Loot Piles out of 186"
  5:28:04 "TIME SYNC: Local Time set to [2013,8,3,19,28]"
+ 5:30:00 "RUNNING EVENT: crash_spawner on [2014,7,21,19,30]"
+ 5:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 5:30:00 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [7632.86,9061.21] NOW!(TIME:12013||LT:HeliCrash_No50s)"
+ 5:33:04 "TIME SYNC: Local Time set to [2013,8,3,19,33]"
+ 5:33:13 "CLEANUP: Deleted 7 Loot Piles out of 196"
+ 5:35:43 "CRASHSPAWNER: UH-1H just exploded at [7648.38,9075.97,5.39014]!, "
+ 5:35:43 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 5:35:43 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 5:35:43 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7647.28,9072.12,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7654.66,9074.72,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7655.24,9083.41,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7653.07,9083.13,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7636.99,9073.22,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7632.96,9076.2,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7643.79,9075.55,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7648.26,9080.03,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7643.67,9081.95,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7646.09,9079.65,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7650.6,9071.06,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Loot spawn at '[7656.4,9077.55,0]' with loot table 'HeliCrash_No50s'"
+ 5:35:43 "CRASHSPAWNER: Crash completed! Wreck at: [7648.38,9075.97,-0.0948792] - Runtime: 343 Seconds || Distance from calculated POC: 22 meters"
+ 5:36:14 "CLEANUP: Deleted 2 Loot Piles out of 226"
+ 5:38:04 "TIME SYNC: Local Time set to [2013,8,3,19,38]"
+ 5:38:14 "CLEANUP: Deleted 2 Loot Piles out of 226"
