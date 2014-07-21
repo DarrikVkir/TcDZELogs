@@ -530,3 +530,14 @@ g from [15098,8144,300] to [2438.45,14387.7] NOW!(TIME:8419||LT:HeliCrash_No50s)
  4:43:27 "PUBLISH: B 1-1-C:1 (-[VOID]-Sypher117) REMOTE Bought CSJ_GyroCover with ID "12072712667309449""
  4:44:11 "CLEANUP: Deleted 6 Loot Piles out of 178"
  4:48:04 "TIME SYNC: Local Time set to [2013,8,3,18,48]"
+ 4:49:33 Client: Object 4:2141 (type Type_69) not found.
+ 4:49:33 Client: Object 4:2141 (type Type_70) not found.
+ 4:53:04 "TIME SYNC: Local Time set to [2013,8,3,18,53]"
+ 4:53:10 "get: STRING (99982214), sent: STRING (99982214)"
+ 4:53:10 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-C:1 (-[VOID]-Sypher117) REMOTE, _characterID: 541 at loc [6561.22,14220.7,0.0015564]"
+ 4:53:10 Client: Remote object 4:1060 not found
+ 4:53:10 Client: Remote object 4:1059 not found
+ 4:53:10 Warning: Cleanup player - person 4:1061 not found
+ 4:53:12 Warning: Cleanup player - person 4:1061 not found
+ 4:58:04 "TIME SYNC: Local Time set to [2013,8,3,18,58]"
+ 4:58:06 "CLEANUP: Deleted 29 Animals out of 29"
