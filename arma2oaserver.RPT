@@ -711,3 +711,58 @@ g from [1623.71,218.188,300] to [5390.18,13648.7] NOW!(TIME:15617||LT:HeliCrash_
  6:57:20 "DELETE: B 1-1-C:1 (telconrar) REMOTE Deleted by ID: 5198"
  6:57:20 "PUBLISH: B 1-1-C:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89340919030263""
  6:58:05 "TIME SYNC: Local Time set to [2013,8,3,20,58]"
+ 7:00:08 "RUNNING EVENT: crash_spawner on [2014,7,21,21,0]"
+ 7:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 7:00:08 "CRASHSPAWNER: UH-60M MEV started
+
+g from [1623.71,218.188,300] to [5363.37,10173.8] NOW!(TIME:17420||LT:Hospital)"
+ 7:02:45 Server: Object 10:9 not found (message 70)
+ 7:03:05 "TIME SYNC: Local Time set to [2013,8,3,21,3]"
+ 7:03:08 "SAFE LOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+ 7:03:57 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 7:05:36 "DELETE: <null> Deleted by ID: 5187"
+ 7:05:36 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:05:36   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:05:36   Error Undefined variable in expression: _activatingplayer
+ 7:05:36 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 7:05:59 "DELETE: <null> Deleted by ID: 5028"
+ 7:05:59 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:05:59   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:05:59   Error Undefined variable in expression: _activatingplayer
+ 7:05:59 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 7:06:11 "DELETE: <null> Deleted by ID: 5084"
+ 7:06:11 Error in expression <g format["DELETE: %1 Deleted by ID: %2",_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:06:11   Error position: <_activatingPlayer,_id];
+} else  {
+
+_key >
+ 7:06:11   Error Undefined variable in expression: _activatingplayer
+ 7:06:11 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 15
+ 7:06:29 "CRASHSPAWNER: UH-60M MEV just exploded at [5361.65,10146.4,4.72058]!, "
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5363.98,10149.7,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5366.06,10149,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5365.6,10147.2,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5357.02,10141.7,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5358.31,10139.6,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5357.6,10152.2,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5356.88,10149.2,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5369.4,10142.5,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5359.67,10141.5,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Loot spawn at '[5366.57,10146,0]' with loot table 'Hospital'"
+ 7:06:29 "CRASHSPAWNER: Crash completed! Wreck at: [5361.65,10146.4,0.0158997] - Runtime: 381 Seconds || Distance from calculated POC: 26 meters"
+ 7:08:05 "TIME SYNC: Local Time set to [2013,8,3,21,8]"
