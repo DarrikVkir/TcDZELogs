@@ -280,3 +280,13 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:16:26 Server: Object 3:85 not found (message 98)
  2:16:26 Server: Object 3:86 not found (message 91)
  2:18:03 "TIME SYNC: Local Time set to [2013,8,3,16,18]"
+ 2:22:53 "EPOCH SERVERTRADE: Player: -[VOID]-OmegaDragon (117535878) bought a ArmoredSUV_PMC_DZE in/at Hero Trader for 2x ItemBriefcase100oz"
+ 2:22:54 "PUBLISH: Attempt 2deb9600# 1061232: arrow_down_large_ep1.p3d REMOTE"
+ 2:22:54 "HIVE: WRITE: "CHILD:308:3195:ArmoredSUV_PMC_DZE:0:7889:[357,[12915.7,12760.7,0.00296021]]:[]:[]:1:12915712760701147:""
+ 2:22:55 "HIVE: WRITE: "CHILD:388:12915712760701147:""
+ 2:22:55 "CUSTOM: Selected "5210""
+ 2:22:55 "PUBLISH: B 1-1-C:1 (-[VOID]-OmegaDragon) REMOTE Bought ArmoredSUV_PMC_DZE with ID "12915712760701147""
+ 2:23:03 "TIME SYNC: Local Time set to [2013,8,3,16,23]"
+ 2:26:49 Server: Object 4:301 not found (message 98)
+ 2:26:49 Server: Object 4:302 not found (message 91)
+ 2:28:03 "TIME SYNC: Local Time set to [2013,8,3,16,28]"
