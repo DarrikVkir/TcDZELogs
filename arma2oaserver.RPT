@@ -464,3 +464,8 @@ g from [6986,-630,1000] to [1891.25,7879.83] NOW!(TIME:10072||LT:HeliCrash_No50s
 18:05:57 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
 18:05:57 "CLEANUP: Deleted 1 players and 0 zombies out of 3 dead"
 18:08:02 "CLEANUP: Deleted 3 Loot Piles out of 60"
+18:10:57 "TIME SYNC: Local Time set to [2013,8,3,20,10]"
+18:13:03 "CLEANUP: Deleted 12 Loot Piles out of 61"
+18:14:02 "CLEANUP: Deleted 4 Loot Piles out of 49"
+18:15:03 "RUNNING EVENT: supply_drop on [2014,7,21,20,15]"
+18:15:57 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
