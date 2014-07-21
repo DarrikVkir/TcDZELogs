@@ -371,3 +371,25 @@ g from [15098,8144,300] to [6685.2,9463.65] NOW!(TIME:5102||LT:MilitarySpecial)"
 21:48:46 "TIME SYNC: Local Time set to [2013,8,3,17,48]"
 21:48:49 "CLEANUP: Deleted 14 Loot Piles out of 43"
 21:53:46 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
+21:58:46 "TIME SYNC: Local Time set to [2013,8,3,17,58]"
+22:00:01 "RUNNING EVENT: crash_spawner on [2014,7,21,18,0]"
+22:00:01 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+22:00:01 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [5006.86,15218.9] NOW!(TIME:6903||LT:HeliCrash_No50s)"
+22:03:46 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
+22:05:51 "CRASHSPAWNER: UH-1H just exploded at [5036.64,15112.7,2.0827]!, "
+22:05:51 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+22:05:51 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+22:05:51 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5034.18,15115.9,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5036.46,15117.4,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5032.52,15117.8,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5040.57,15120.6,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5032.19,15114,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5042.86,15113.1,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5038.33,15107.1,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5031.65,15118.6,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5028.7,15114.9,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Loot spawn at '[5032.06,15115.1,0]' with loot table 'HeliCrash_No50s'"
+22:05:51 "CRASHSPAWNER: Crash completed! Wreck at: [5036.64,15112.7,-0.10553] - Runtime: 350 Seconds || Distance from calculated POC: 112 meters"
