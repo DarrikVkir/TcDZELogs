@@ -449,3 +449,31 @@ g from [15098,8144,300] to [7350.35,8398.45] NOW!(TIME:4815||LT:HeliCrash_No50s)
  3:48:34 "[DZMS]: Running Major Mission SM10."
  3:53:04 "TIME SYNC: Local Time set to [2013,8,3,17,53]"
  3:58:04 "TIME SYNC: Local Time set to [2013,8,3,17,58]"
+ 4:00:00 Server: Object 4:1280 not found (message 70)
+ 4:00:00 Server: Object 4:1279 not found (message 70)
+ 4:00:00 Server: Object 4:1278 not found (message 70)
+ 4:00:01 Server: Object 4:1315 not found (message 70)
+ 4:00:01 Server: Object 4:1329 not found (message 70)
+ 4:00:01 Server: Object 4:1328 not found (message 70)
+ 4:00:01 Server: Object 4:1335 not found (message 70)
+ 4:00:01 Server: Object 4:1334 not found (message 70)
+ 4:00:02 "RUNNING EVENT: crash_spawner on [2014,7,21,18,0]"
+ 4:00:02 "CRASHSPAWNER: 100% chance to start a crashing Su-25 with loot table 'MilitarySpecial'"
+ 4:00:02 "CRASHSPAWNER: Su-25 started
+
+g from [10450,-630,1000] to [4772.4,12313] NOW!(TIME:6617||LT:MilitarySpecial)"
+ 4:02:55 "CRASHSPAWNER: Su-25 just exploded at [4988.34,12119.3,5.61157]!, "
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4990.95,12122.4,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4993.03,12123.1,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4995.16,12120.3,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4991.71,12127.6,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4982.72,12128,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[5001.13,12119,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4984.33,12124.1,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4988.2,12129,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4984.71,12122.6,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Loot spawn at '[4993.42,12120.8,0]' with loot table 'MilitarySpecial'"
+ 4:02:55 "CRASHSPAWNER: Crash completed! Wreck at: [4988.4,12119.4,0.0109253] - Runtime: 173 Seconds || Distance from calculated POC: 290 meters"
+ 4:03:04 "TIME SYNC: Local Time set to [2013,8,3,18,3]"
+ 4:07:10 "CLEANUP: Deleted 2 Loot Piles out of 205"
+ 4:08:04 "TIME SYNC: Local Time set to [2013,8,3,18,8]"
