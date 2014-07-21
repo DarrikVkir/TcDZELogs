@@ -265,3 +265,40 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 g from [15098,8144,300] to [2619.51,3565.42] NOW!(TIME:310||LT:HeliCrash_No50s)"
 12:03:15 "TIME SYNC: Local Time set to [2013,8,3,20,3]"
 12:08:15 "TIME SYNC: Local Time set to [2013,8,3,20,8]"
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone leftshoulder doesn't exist in some skeleton 
+12:10:54 Error: Bone rightshoulder doesn't exist in some skeleton 
+12:11:16 "[DZMS]: Major SM8 C130 Mission has Ended."
+12:13:15 "TIME SYNC: Local Time set to [2013,8,3,20,13]"
+12:13:16 "[DZMS]: Running Major Mission SM7."
+12:15:07 "RUNNING EVENT: supply_drop on [2014,7,21,20,15]"
+12:18:15 "TIME SYNC: Local Time set to [2013,8,3,20,18]"
+12:18:17 "CLEANUP: Deleted 13 Loot Piles out of 35"
+12:18:34 "CRASHSPAWNER: UH-1H just exploded at [2623.57,3569.61,4.43784]!, "
+12:18:34 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+12:18:34 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+12:18:34 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2619.79,3568.3,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2618.84,3568.92,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2617.21,3568.13,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2622.93,3560.07,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2619.14,3564.64,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2621.98,3576.65,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2619.45,3574.35,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2625.24,3561.61,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2617.42,3570.35,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Loot spawn at '[2621.71,3562.67,0]' with loot table 'HeliCrash_No50s'"
+12:18:34 "CRASHSPAWNER: Crash completed! Wreck at: [2623.57,3569.61,-0.101685] - Runtime: 1108 Seconds || Distance from calculated POC: 7 meters"
