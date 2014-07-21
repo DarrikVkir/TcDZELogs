@@ -435,3 +435,55 @@ _pos = g>
 13:47:33 Server: Object 5:64 not found (message 99)
 13:48:16 "TIME SYNC: Local Time set to [2013,8,3,21,48]"
 13:48:20 "CLEANUP: Deleted 2 Loot Piles out of 118"
+13:48:55 "CRASHSPAWNER: UH-60M MEV just exploded at [3376.85,10610.5,2.62927]!, "
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3372.89,10611.1,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3374.92,10605.4,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3373.73,10602.5,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3384.37,10613.7,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3377.62,10606,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3371.34,10609.6,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3370.98,10609,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3376.16,10618.1,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3377.99,10619.1,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3370.86,10600.3,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3374.94,10614.6,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Loot spawn at '[3381.57,10611,0]' with loot table 'Hospital'"
+13:48:55 "CRASHSPAWNER: Crash completed! Wreck at: [3376.84,10610.5,0.0271301] - Runtime: 2933 Seconds || Distance from calculated POC: 68 meters"
+13:50:44 "[DZMS]: Major SM7 IKEA has Ended."
+13:50:44 Error in expression <0}; 
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+[_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+13:50:44   Error position: <_vehicle1] ExecVM DZMSSaveVeh;
+
+[nil,nil>
+13:50:44   Error Undefined variable in expression: _vehicle1
+13:50:44 File z\addons\dayz_server\EMS\Missions\Major\SM7.sqf, line 46
+13:50:44 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+13:50:44   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+13:50:44   Error Undefined variable in expression: _object
+13:50:44 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+13:51:20 "CLEANUP: Deleted 1 Loot Piles out of 128"
+13:52:42 "[DZMS]: Running Major Mission SM6."
+13:53:16 "TIME SYNC: Local Time set to [2013,8,3,21,53]"
+13:53:21 "CLEANUP: Deleted 3 Loot Piles out of 129"
+13:53:28 Server: Object 5:204 not found (message 99)
+13:53:28 Server: Object 5:205 not found (message 91)
+13:53:28 Server: Object 5:209 not found (message 91)
+13:53:28 Server: Object 5:208 not found (message 99)
+13:56:18 Server: Object 5:224 not found (message 98)
+13:56:18 Server: Object 5:225 not found (message 91)
+13:56:18 Server: Object 5:231 not found (message 91)
+13:56:18 Server: Object 5:230 not found (message 99)
+13:56:18 Server: Object 5:233 not found (message 91)
+13:56:21 "CLEANUP: Deleted 1 Loot Piles out of 135"
+13:58:16 "TIME SYNC: Local Time set to [2013,8,3,21,58]"
