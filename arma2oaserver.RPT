@@ -344,3 +344,21 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:48:16 Server: Object 3:298 not found (message 91)
  2:48:16 Server: Object 3:299 not found (message 98)
  2:48:16 Server: Object 3:300 not found (message 91)
+ 2:50:05 "CLEANUP: Deleted 1 Loot Piles out of 38"
+ 2:51:05 "CLEANUP: Deleted 6 Loot Piles out of 37"
+ 2:51:16 "PDEATH: Player Died 99982214"
+ 2:51:16 Client: Object 4:510 (type Type_69) not found.
+ 2:51:16 Client: Object 4:510 (type Type_70) not found.
+ 2:51:16 "TELEPORT REVERT for player UID#99982214 from [6528.49,14344.7,5.1763] to [6536.23,14335.1,0.00131226], 13 meters, now at [6528.49,14344.7,5.1763]"
+ 2:52:05 "CLEANUP: Deleted 2 Loot Piles out of 36"
+ 2:52:18 "ERROR: server_playerSync: Cannot Sync Player -[VOID]-Sypher117 [540]. Position in debug! [-7239.67,19539.3,0.245819]"
+ 2:52:19 "get: STRING (99982214), sent: STRING (99982214)"
+ 2:52:19 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-A:1 (-[VOID]-Sypher117) REMOTE, _characterID: 540 at loc [-7239.67,19539.3,0.245819]"
+ 2:52:19 "ERROR: server_playerSync: Cannot Sync Player -[VOID]-Sypher117 [540]. Position in debug! [-7239.67,19539.3,0.245819]"
+ 2:52:19 Client: Remote object 4:2 not found
+ 2:52:19 Client: Remote object 4:518 not found
+ 2:52:19 Client: Remote object 4:517 not found
+ 2:53:03 "TIME SYNC: Local Time set to [2013,8,3,16,53]"
+ 2:58:03 "TIME SYNC: Local Time set to [2013,8,3,16,58]"
+ 2:58:06 "CLEANUP: Deleted 21 Animals out of 48"
+ 2:58:08 "CLEANUP: Deleted 15 Loot Piles out of 142"
