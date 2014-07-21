@@ -310,3 +310,27 @@ g from [1623.71,218.188,300] to [7120.99,6708.71] NOW!(TIME:1082||LT:HeliCrash_N
 15:55:56 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
 15:57:00 "CLEANUP: Deleted 4 Loot Piles out of 113"
 15:58:02 "CLEANUP: Deleted 54 Loot Piles out of 109"
+15:59:00 "CLEANUP: Deleted 45 Loot Piles out of 55"
+15:59:58 "CLEANUP: Deleted 3 Loot Piles out of 10"
+16:00:01 "RUNNING EVENT: crash_spawner on [2014,7,21,18,0]"
+16:00:01 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+16:00:01 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [6986,-630,1000] to [6074.88,9145.21] NOW!(TIME:2874||LT:MilitarySpecial)"
+16:00:56 "TIME SYNC: Local Time set to [2013,8,3,18,0]"
+16:00:58 "CLEANUP: Deleted 16 Animals out of 20"
+16:03:58 "CLEANUP: Deleted 1 Loot Piles out of 7"
+16:05:56 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
+16:07:56 "CRASHSPAWNER: UH-60M just exploded at [7749.56,13132.2,-0.439697]!, "
+16:07:56 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+16:07:56 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+16:07:56 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7753.47,13133,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7747.77,13136.7,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7750.6,13137,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7755.85,13130,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7748.98,13126.7,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7758.78,13129.8,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7752.86,13125.9,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Loot spawn at '[7754.79,13122.8,0]' with loot table 'HeliCrash_No50s'"
+16:07:56 "CRASHSPAWNER: Crash completed! Wreck at: [7749.56,13132.2,0.0297852] - Runtime: 2267 Seconds || Distance from calculated POC: 6456 meters"
