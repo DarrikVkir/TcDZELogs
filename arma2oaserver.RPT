@@ -187,3 +187,96 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:08:28 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
  2:08:29 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
  2:08:29 "DayZ Epoch: MPframework inited"
+ 2:08:57 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+ 2:08:59 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+ 2:08:59 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:08:59 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:08:59 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:08:59 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:08:59 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+ 2:09:00 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+ 2:09:00 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:09:00 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:09:00 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:09:00 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:09:00 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+ 2:09:02 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+ 2:09:04 "Res3tting B!S effects..."
+ 2:09:04 "[AGN] Starting Trader City Safezone Commander!"
+ 2:09:04 "Error: Attempting to start AGN products on a server where it should not be!"
+ 2:09:04 "HIVE: Starting"
+ 2:09:04 "HIVE: trying to get objects"
+ 2:09:06 "HIVE: found 1567 objects"
+ 2:09:06 "HIVE: Commence Object Streaming..."
+ 2:09:06 "HIVE: got 1196 Epoch Objects and 371 Vehicles"
+ 2:09:15 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+ 2:09:15 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+ 2:09:32 NAT Negotiation completed
+ 2:09:32 "HIVE: Vehicle Spawn limit reached!"
+ 2:09:32 "HIVE: Spawning # of Debris: 0"
+ 2:09:32 "HIVE: Spawning # of Ammo Boxes: 3"
+ 2:09:32 "HIVE: Spawning # of Veins: 50"
+ 2:09:32 "Total Number of spawn locations 5"
+ 2:09:32 "DEBUG VEIN: Too many objects at [11108.8,8464.65]"
+ 2:09:33 "EPOCH EVENTS INIT"
+ 2:09:39 "Res3tting B!S effects..."
+ 2:09:40 "TIME SYNC: Local Time set to [2013,8,3,16,9]"
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:10:13 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:10:37 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 2:10:37 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 2:10:37 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 2:10:37 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 2:10:37 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 2:10:37   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 2:10:42 "[DZMS]: Starting DayZ Epoch Mission System."
+ 2:10:42 "[DZMS]: Relations not found! Using DZMS Relations."
+ 2:10:42 "[DZMS]: Mission and Extended Configuration Loaded!"
+ 2:10:42 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+ 2:10:42 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+ 2:10:42 "[DZMS]: Mission Functions Script Loaded!"
+ 2:10:42 "[DZMS]: Major Mission Clock Starting!"
+ 2:10:42 "[DZMS]: Minor Mission Clock Starting!"
+ 2:10:42 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+ 2:11:04 "[DZMS]: Running Minor Mission SM1."
+ 2:11:11 "[DZMS]: Running Major Mission SM10."
+ 2:13:03 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 2:15:04 "RUNNING EVENT: supply_drop on [2014,7,21,16,15]"
+ 2:16:26 Server: Object 3:85 not found (message 98)
+ 2:16:26 Server: Object 3:86 not found (message 91)
+ 2:18:03 "TIME SYNC: Local Time set to [2013,8,3,16,18]"
