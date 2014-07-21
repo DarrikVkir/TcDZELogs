@@ -316,3 +316,31 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:37:13 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
  2:38:03 "TIME SYNC: Local Time set to [2013,8,3,16,38]"
  2:38:05 "CLEANUP: Deleted 1 Loot Piles out of 57"
+ 2:41:44 "TELEPORT REVERT for player UID#99982214 from [6746.01,13388.5,0.460205] to [6753.72,13396.9,0.000335693], 12 meters, now at [6746.01,13388.5,0.460205]"
+ 2:42:05 "CLEANUP: Deleted 1 Loot Piles out of 56"
+ 2:43:03 "TIME SYNC: Local Time set to [2013,8,3,16,43]"
+ 2:48:03 "TIME SYNC: Local Time set to [2013,8,3,16,48]"
+ 2:48:06 "CLEANUP: Deleted 21 Loot Piles out of 59"
+ 2:48:15 Server: Object 3:274 not found (message 91)
+ 2:48:15 Server: Object 3:280 not found (message 91)
+ 2:48:15 Server: Object 3:279 not found (message 99)
+ 2:48:15 Server: Object 3:281 not found (message 99)
+ 2:48:15 Server: Object 3:284 not found (message 91)
+ 2:48:15 Server: Object 3:283 not found (message 99)
+ 2:48:15 Server: Object 3:282 not found (message 91)
+ 2:48:15 Server: Object 3:286 not found (message 91)
+ 2:48:15 Server: Object 3:285 not found (message 99)
+ 2:48:15 Server: Object 3:290 not found (message 91)
+ 2:48:15 Server: Object 3:289 not found (message 99)
+ 2:48:15 Server: Object 3:288 not found (message 91)
+ 2:48:15 Server: Object 3:287 not found (message 98)
+ 2:48:15 Server: Object 3:292 not found (message 91)
+ 2:48:15 Server: Object 3:291 not found (message 99)
+ 2:48:16 Server: Object 3:294 not found (message 91)
+ 2:48:16 Server: Object 3:293 not found (message 99)
+ 2:48:16 Server: Object 3:295 not found (message 98)
+ 2:48:16 Server: Object 3:296 not found (message 91)
+ 2:48:16 Server: Object 3:297 not found (message 99)
+ 2:48:16 Server: Object 3:298 not found (message 91)
+ 2:48:16 Server: Object 3:299 not found (message 98)
+ 2:48:16 Server: Object 3:300 not found (message 91)
