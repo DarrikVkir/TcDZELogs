@@ -369,3 +369,13 @@ g from [15098,8144,300] to [7189.33,11156.7] NOW!(TIME:761||LT:Hospital)"
  2:56:09 "TIME SYNC: Local Time set to [2013,8,3,16,56]"
  2:56:11 "CLEANUP: Deleted 1 Loot Piles out of 66"
  2:57:12 "CLEANUP: Deleted 33 Loot Piles out of 65"
+ 3:00:02 "RUNNING EVENT: crash_spawner on [2014,7,22,17,0]"
+ 3:00:02 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+ 3:00:02 "CRASHSPAWNER: AH-1Z started
+
+g from [1623.71,218.188,300] to [960.688,5847.54] NOW!(TIME:2563||LT:MilitarySpecial)"
+ 3:01:09 "TIME SYNC: Local Time set to [2013,8,3,17,1]"
+ 3:01:11 "CLEANUP: Deleted 17 Loot Piles out of 33"
+ 3:05:45 "SAFE UNLOCKED: ID:4223 UID:0 BY Bored Shorts(255024710)"
+ 3:05:46 Server: Object 3:545 not found (message 94)
+ 3:06:09 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
