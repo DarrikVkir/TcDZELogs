@@ -399,3 +399,10 @@ g from [10450,-630,1000] to [6465.32,9021.73] NOW!(TIME:4365||LT:HeliCrash_No50s
  3:34:12 "CLEANUP: Deleted 1 Loot Piles out of 29"
  3:35:12 "CLEANUP: Deleted 2 Loot Piles out of 28"
  3:36:09 "TIME SYNC: Local Time set to [2013,8,3,17,36]"
+ 3:39:12 "CLEANUP: Deleted 1 Loot Piles out of 26"
+ 3:41:10 "TIME SYNC: Local Time set to [2013,8,3,17,41]"
+ 3:41:12 "CLEANUP: Deleted 2 Loot Piles out of 25"
+ 3:46:10 "TIME SYNC: Local Time set to [2013,8,3,17,46]"
+ 3:47:45 Server: Object 3:753 not found (message 91)
+ 3:47:45 Server: Object 3:752 not found (message 99)
+ 3:48:12 "CLEANUP: Deleted 7 Loot Piles out of 23"
