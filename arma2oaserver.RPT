@@ -632,3 +632,47 @@ g from [15098,8144,300] to [14181,14097] NOW!(TIME:17704||LT:MilitarySpecial)"
  1:07:46 "CRASHSPAWNER: Loot spawn at '[14307.1,14230,0]' with loot table 'MilitarySpecial'"
  1:07:46 "CRASHSPAWNER: Loot spawn at '[14302.3,14227.1,0]' with loot table 'MilitarySpecial'"
  1:07:46 "CRASHSPAWNER: Crash completed! Wreck at: [14310.1,14226.8,-0.0359268] - Runtime: 462 Seconds || Distance from calculated POC: 183 meters"
+ 1:08:47 "TIME SYNC: Local Time set to [2013,8,3,21,8]"
+ 1:10:18 Server: Object 3:1544 not found (message 94)
+ 1:10:18 Server: Object 3:1545 not found (message 94)
+ 1:10:18 Server: Object 3:1546 not found (message 94)
+ 1:10:18 Server: Object 3:1547 not found (message 94)
+ 1:10:18 Server: Object 3:1548 not found (message 70)
+ 1:10:18 Server: Object 3:1549 not found (message 70)
+ 1:10:19 Server: Object 3:1553 not found (message 70)
+ 1:10:19 Server: Object 3:1552 not found (message 94)
+ 1:10:19 Server: Object 3:1554 not found (message 70)
+ 1:10:19 Server: Object 3:1551 not found (message 94)
+ 1:10:19 Server: Object 3:1576 not found (message 70)
+ 1:10:19 Server: Object 3:1575 not found (message 70)
+ 1:10:19 Server: Object 3:1588 not found (message 94)
+ 1:10:19 Server: Object 3:1586 not found (message 94)
+ 1:10:19 Server: Object 3:1587 not found (message 94)
+ 1:10:19 Server: Object 3:1589 not found (message 70)
+ 1:10:19 Server: Object 3:1596 not found (message 94)
+ 1:10:19 Server: Object 3:1600 not found (message 70)
+ 1:10:19 Server: Object 3:1595 not found (message 70)
+ 1:10:19 Server: Object 3:1599 not found (message 70)
+ 1:10:19 Server: Object 3:1598 not found (message 70)
+ 1:10:19 Server: Object 3:1597 not found (message 70)
+ 1:10:19 Server: Object 3:1594 not found (message 70)
+ 1:10:19 Server: Object 3:1601 not found (message 94)
+ 1:10:19 Server: Object 3:1602 not found (message 94)
+ 1:11:02 Server: Object 3:1657 not found (message 70)
+ 1:13:47 "TIME SYNC: Local Time set to [2013,8,3,21,13]"
+ 1:14:43 Server: Object 3:1697 not found (message 70)
+ 1:14:43 Server: Object 3:1696 not found (message 94)
+ 1:15:05 "RUNNING EVENT: supply_drop on [2014,7,21,21,15]"
+ 1:16:52 "CRASHSPAWNER: Ka-52 (black) just exploded at [2747.97,5925.52,0.645111]!, "
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2745.19,5922.64,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2741.29,5921.9,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2750.75,5929.96,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2747.55,5916.98,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2737.76,5930.97,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2753.76,5924.38,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2740.83,5926.5,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2752.09,5923.11,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2742.74,5929.16,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2754.54,5922.32,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Loot spawn at '[2748.56,5933.31,0]' with loot table 'MilitarySpecial'"
+ 1:16:52 "CRASHSPAWNER: Crash completed! Wreck at: [2748.02,5925.59,-0.0100861] - Runtime: 10007 Seconds || Distance from calculated POC: 2505 meters"
