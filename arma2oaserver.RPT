@@ -281,3 +281,5 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:16:12 Server: Object 3:76 not found (message 98)
  8:16:12 Server: Object 3:77 not found (message 91)
  8:16:21 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 8:20:46 "TIME SYNC: Local Time set to [2013,8,3,16,20]"
+ 8:25:46 "TIME SYNC: Local Time set to [2013,8,3,16,25]"
