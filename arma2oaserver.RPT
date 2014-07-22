@@ -314,3 +314,33 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:20:09 Error: Bone rightshoulder doesn't exist in some skeleton 
  2:21:09 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
  2:26:09 "TIME SYNC: Local Time set to [2013,8,3,16,26]"
+ 2:30:00 "RUNNING EVENT: crash_spawner on [2014,7,22,16,30]"
+ 2:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 2:30:00 "CRASHSPAWNER: UH-60M MEV started
+
+g from [15098,8144,300] to [7189.33,11156.7] NOW!(TIME:761||LT:Hospital)"
+ 2:31:09 "TIME SYNC: Local Time set to [2013,8,3,16,31]"
+ 2:34:05 Server: Object 3:361 not found (message 99)
+ 2:34:05 Server: Object 3:362 not found (message 91)
+ 2:35:56 "CRASHSPAWNER: UH-60M MEV just exploded at [7256.73,11207.9,4.00922]!, "
+ 2:35:56 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 2:35:56 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 2:35:56 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7257.25,11203.9,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7261,11204.7,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7260.31,11215.4,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7253.13,11210.9,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7260.24,11200.4,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7263.63,11215.5,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7263.76,11204.9,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7263.66,11205.7,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7256.25,11203.6,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Loot spawn at '[7262.52,11210.7,0]' with loot table 'Hospital'"
+ 2:35:56 "CRASHSPAWNER: Crash completed! Wreck at: [7256.72,11207.9,-0.00839233] - Runtime: 356 Seconds || Distance from calculated POC: 86 meters"
+ 2:36:09 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
+ 2:36:10 Server: Object 3:382 not found (message 70)
+ 2:36:10 Server: Object 3:381 not found (message 70)
+ 2:36:10 Server: Object 3:380 not found (message 70)
+ 2:36:10 Server: Object 3:401 not found (message 70)
+ 2:36:10 Server: Object 3:400 not found (message 70)
+ 2:36:10 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
