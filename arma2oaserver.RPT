@@ -601,3 +601,13 @@ g from [6986,-630,1000] to [7114.39,7847.87] NOW!(TIME:15902||LT:MilitarySpecial
  0:44:18 "EPOCH SERVERTRADE: Player: Bored Shorts (255024710) sold a 10Rnd_762x54_SVD in/at Klen for 1x ItemSilverBar10oz"
  0:44:26 "EPOCH SERVERTRADE: Player: Bored Shorts (255024710) sold a 10Rnd_762x54_SVD in/at Klen for 1x ItemSilverBar10oz"
  0:44:35 "EPOCH SERVERTRADE: Player: Bored Shorts (255024710) sold a 10Rnd_762x54_SVD in/at Klen for 1x ItemSilverBar10oz"
+ 0:48:47 "TIME SYNC: Local Time set to [2013,8,3,20,48]"
+ 0:49:09 "CLIENTLOG: Admin Tools: BluntScopes | Deactivated Admin Mode."
+ 0:49:21 "get: STRING (4486214), sent: STRING (4486214)"
+ 0:49:21 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 533 at loc [13848.6,11755.1,0.00121927]"
+ 0:49:21 Client: Remote object 6:0 not found
+ 0:49:21 Client: Remote object 6:8 not found
+ 0:49:23 Warning: Cleanup player - person 6:7 not found
+ 0:53:46 "CLEANUP: Deleted 6 Animals out of 17"
+ 0:53:47 "TIME SYNC: Local Time set to [2013,8,3,20,53]"
+ 0:57:54 "CLEANUP: Deleted 4 Loot Piles out of 105"
