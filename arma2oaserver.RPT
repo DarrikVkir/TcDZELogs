@@ -283,3 +283,18 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:16:21 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
  8:20:46 "TIME SYNC: Local Time set to [2013,8,3,16,20]"
  8:25:46 "TIME SYNC: Local Time set to [2013,8,3,16,25]"
+ 8:30:00 "RUNNING EVENT: crash_spawner on [2014,7,22,16,30]"
+ 8:30:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 8:30:00 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [3129.51,8684.13] NOW!(TIME:1382||LT:HeliCrash_No50s)"
+ 8:30:46 "TIME SYNC: Local Time set to [2013,8,3,16,30]"
+ 8:31:51 "CLEANUP: Deleted 14 Loot Piles out of 217"
+ 8:33:36 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a FN_FAL_ANPVS4 in/at Hero Trader for 1x ItemGoldBar10oz"
+ 8:34:00 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a G36_C_SD_camo in/at Hero Trader for 5x ItemGoldBar"
+ 8:34:27 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M4A1_AIM_SD_camo in/at Hero Trader for 5x ItemGoldBar"
+ 8:34:48 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a SCAR_H_LNG_Sniper_SD in/at Hero Trader for 1x ItemGoldBar10oz"
+ 8:35:46 "TIME SYNC: Local Time set to [2013,8,3,16,35]"
+ 8:35:53 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M240_DZ in/at Hero Trader for 5x ItemGoldBar"
+ 8:35:54 "CLEANUP: Deleted 74 Loot Piles out of 209"
+ 8:36:50 "CLEANUP: Deleted 14 Loot Piles out of 136"
