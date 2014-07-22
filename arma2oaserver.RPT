@@ -542,3 +542,6 @@ g from [15098,8144,300] to [7584.92,15158.6] NOW!(TIME:11562||LT:MilitarySpecial
  6:11:10 "TIME SYNC: Local Time set to [2013,8,3,20,11]"
  6:15:04 "RUNNING EVENT: supply_drop on [2014,7,22,20,15]"
  6:16:10 "TIME SYNC: Local Time set to [2013,8,3,20,16]"
+ 6:20:16 "CLEANUP: Deleted 3 Loot Piles out of 80"
+ 6:21:10 "TIME SYNC: Local Time set to [2013,8,3,20,21]"
+ 6:26:10 "TIME SYNC: Local Time set to [2013,8,3,20,26]"
