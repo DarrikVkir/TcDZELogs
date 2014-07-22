@@ -567,3 +567,10 @@ g from [6993.7,173.053,300] to [3379.81,6606.98] NOW!(TIME:13984||LT:HeliCrash_N
 12:16:44 "CRASHSPAWNER: Crash completed! Wreck at: [8503.95,11865.7,-0.0115967] - Runtime: 10000 Seconds || Distance from calculated POC: 657 meters"
 12:20:47 "TIME SYNC: Local Time set to [2013,8,3,20,20]"
 12:25:47 "TIME SYNC: Local Time set to [2013,8,3,20,25]"
+12:30:04 "RUNNING EVENT: crash_spawner on [2014,7,22,20,30]"
+12:30:04 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+12:30:04 "CRASHSPAWNER: Mi-24D started
+
+g from [6993.7,173.053,300] to [5999.96,3029.46] NOW!(TIME:15785||LT:MilitarySpecial)"
+12:30:47 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
+12:35:47 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
