@@ -282,3 +282,11 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 14:16:56   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
 14:16:56   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
 14:16:56   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+14:19:45 "TIME SYNC: Local Time set to [2013,8,3,16,19]"
+14:21:33 "SAFE UNLOCKED: ID:4696 UID:0 BY telconrar(120160390)"
+14:23:05 Server: Object 3:129 not found (message 70)
+14:23:35 "DELETE: B 1-1-C:1 (telconrar) REMOTE Deleted by UID: 89552919857263"
+14:23:35 "PUBLISH: B 1-1-C:1 (telconrar) REMOTE upgraded CinderWall_DZ with ID "89552919857263""
+14:24:33 "TELEPORT REVERT for player UID#120160390 from [8931.26,9202.57,0.00143433] to [-7239.91,19539.6,0.24704], 19193 meters, now at [8931.26,9202.57,0.00143433]"
+14:24:33 "ERROR: server_playerSync: Cannot Sync Player telconrar [411]. Position in debug! [-7239.91,19539.6,0.24707]"
+14:24:45 "TIME SYNC: Local Time set to [2013,8,3,16,24]"
