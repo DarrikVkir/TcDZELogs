@@ -368,3 +368,7 @@ g from [15098,8144,300] to [3266.01,8675.49] NOW!(TIME:3252||LT:HeliCrash_No50s)
  6:43:58 "SAFE UNLOCKED: ID:4483 UID:0 BY telconrar(120160390)"
  6:44:08 "TIME SYNC: Local Time set to [2013,8,3,20,44]"
  6:44:24 "SAFE LOCKED: ID:4483 UID:0 BY telconrar(120160390)"
+ 6:49:08 "TIME SYNC: Local Time set to [2013,8,3,20,49]"
+ 6:50:11 "CLEANUP: Deleted 3 Loot Piles out of 43"
+ 6:54:08 "TIME SYNC: Local Time set to [2013,8,3,20,54]"
+ 6:57:10 "CLEANUP: Deleted 1 Loot Piles out of 40"
