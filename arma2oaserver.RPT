@@ -2,10 +2,10 @@
 
 =====================================================================
 == C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
-== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-pYvLl.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-515pJ.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
 =====================================================================
 Exe timestamp: 2014/06/01 10:01:31
-Current time:  2014/07/23 08:00:57
+Current time:  2014/07/23 14:01:02
 
 Version 1.63.112555
 Item STR_EPOCH_BULK_DESC_MP5SD listed twice
@@ -92,490 +92,158 @@ Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M11
 Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
 Obsolete class Animations defined in bin\config.bin/RscCompass/
 Obsolete class Animations defined in bin\config.bin/RscWatch/
- 8:16:07 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
- 8:16:07 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
- 8:16:07 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
- 8:16:07 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
- 8:16:13 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
- 8:16:13 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
- 8:16:15 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
- 8:16:15 "DayZ Epoch: MPframework inited"
- 8:16:42 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
- 8:16:44 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
- 8:16:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:16:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:16:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:16:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
- 8:16:44 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
- 8:16:45 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
- 8:16:45 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:16:45 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:16:45 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:16:45 ca\misc\sphere2.p3d: No geometry and no visual shape
- 8:16:45 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
- 8:16:46 "Res3tting B!S effects..."
- 8:16:46 "[AGN] Starting Trader City Safezone Commander!"
- 8:16:46 "Error: Attempting to start AGN products on a server where it should not be!"
- 8:16:47 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
- 8:16:48 "HIVE: Starting"
- 8:16:48 "HIVE: trying to get objects"
- 8:16:50 "HIVE: found 1534 objects"
- 8:16:50 "HIVE: Commence Object Streaming..."
- 8:16:52 "HIVE: got 1219 Epoch Objects and 315 Vehicles"
- 8:16:55 "Res3tting B!S effects..."
- 8:17:01 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
- 8:17:01 UH1Y_DZE: ObsGun - unknown animation source ObsGun
- 8:17:25 "HIVE: Vehicle Spawn limit reached!"
- 8:17:25 "HIVE: Spawning # of Debris: 0"
- 8:17:25 "HIVE: Spawning # of Ammo Boxes: 3"
- 8:17:25 "HIVE: Spawning # of Veins: 50"
- 8:17:25 "Total Number of spawn locations 5"
- 8:17:26 "EPOCH EVENTS INIT"
- 8:17:26 "DEBUG VEIN: Too many objects at [4828.34,7476.66]"
- 8:17:26 "DEBUG VEIN: Too many objects at [3915.58,9794.47]"
- 8:17:26 "DEBUG VEIN: Too many objects at [3098.49,6898.41]"
- 8:17:27 "TIME SYNC: Local Time set to [2013,8,3,16,17]"
- 8:17:48 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:48 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:17:49 Error: Bone leftshoulder doesn't exist in some skeleton 
- 8:17:49 Error: Bone rightshoulder doesn't exist in some skeleton 
- 8:18:27 "[DZMS]: Starting DayZ Epoch Mission System."
- 8:18:27 "[DZMS]: Relations not found! Using DZMS Relations."
- 8:18:27 "[DZMS]: Mission and Extended Configuration Loaded!"
- 8:18:27 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
- 8:18:27 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
- 8:18:27 "[DZMS]: Mission Functions Script Loaded!"
- 8:18:27 "[DZMS]: Major Mission Clock Starting!"
- 8:18:27 "[DZMS]: Minor Mission Clock Starting!"
- 8:18:27 "[DZMS]: Mission Marker Loop for JIPs Starting!"
- 8:18:41 "[DZMS]: Running Minor Mission SM9."
- 8:19:16 "[DZMS]: Running Major Mission SM9."
- 8:20:47 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
- 8:24:03 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
- 8:24:03 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
- 8:24:03 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
- 8:24:03 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
- 8:24:03 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
- 8:24:03   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
- 8:25:47 "TIME SYNC: Local Time set to [2013,8,3,16,25]"
- 8:26:30 Server: Object 3:143 not found (message 70)
- 8:26:30 Server: Object 3:145 not found (message 70)
- 8:26:31 Server: Object 3:164 not found (message 70)
- 8:26:31 Server: Object 3:165 not found (message 94)
- 8:26:31 Server: Object 3:177 not found (message 91)
- 8:26:31 Server: Object 3:176 not found (message 99)
- 8:26:56 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
- 8:30:01 "RUNNING EVENT: crash_spawner on [2014,7,23,16,30]"
- 8:30:01 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
- 8:30:01 "CRASHSPAWNER: AV-8B (LGB) started
-
-g from [15186,11857,300] to [3124.32,10528.2] NOW!(TIME:780||LT:MilitarySpecial)"
- 8:30:47 "TIME SYNC: Local Time set to [2013,8,3,16,30]"
- 8:33:41 "CRASHSPAWNER: AV-8B (LGB) just exploded at [3305.43,10722.6,5.82468]!, "
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3305.78,10718.6,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3303.27,10730.2,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3307.36,10717.2,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3301.86,10725.2,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3309.58,10717.3,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3302.15,10716.9,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3305.25,10716.7,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3300.81,10727.4,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Loot spawn at '[3305.94,10726.7,0]' with loot table 'MilitarySpecial'"
- 8:33:41 "CRASHSPAWNER: Crash completed! Wreck at: [3305.46,10722.7,0.00128174] - Runtime: 221 Seconds || Distance from calculated POC: 266 meters"
- 8:35:47 "TIME SYNC: Local Time set to [2013,8,3,16,35]"
- 8:40:47 "TIME SYNC: Local Time set to [2013,8,3,16,40]"
- 8:41:54 "CLEANUP: Deleted 15 Loot Piles out of 230"
- 8:45:47 "TIME SYNC: Local Time set to [2013,8,3,16,45]"
- 8:45:55 "CLEANUP: Deleted 65 Loot Piles out of 215"
- 8:46:52 "CLEANUP: Deleted 19 Loot Piles out of 150"
- 8:47:51 "CLEANUP: Deleted 2 Loot Piles out of 131"
- 8:50:47 "TIME SYNC: Local Time set to [2013,8,3,16,50]"
- 8:51:58 "CLEANUP: Deleted 112 Loot Piles out of 279"
- 8:53:51 "CLEANUP: Deleted 4 Loot Piles out of 167"
- 8:55:47 "TIME SYNC: Local Time set to [2013,8,3,16,55]"
- 8:57:51 "CLEANUP: Deleted 2 Loot Piles out of 164"
- 9:00:03 "RUNNING EVENT: crash_spawner on [2014,7,23,17,0]"
- 9:00:03 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Ural Wreck spawned at [4744.93,11539.9]"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4744.68,11543.9,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4748.48,11542.7,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4746.19,11547.6,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4754.65,11543.1,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4735.33,11547.4,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4753.17,11550,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4760.39,11533.8,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4740.57,11539.4,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4748.93,11539.1,0.0144653]' with loot table 'Military'"
- 9:00:03 "CRASHSPAWNER: Loot spawn at '[4745.08,11534.6,0.0144653]' with loot table 'Military'"
- 9:00:47 "TIME SYNC: Local Time set to [2013,8,3,17,0]"
- 9:05:48 "TIME SYNC: Local Time set to [2013,8,3,17,5]"
- 9:05:48 "CLEANUP: Deleted 1 Animals out of 18"
- 9:06:55 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M240_DZ in/at Bash for 5x ItemGoldBar"
- 9:09:53 "CLEANUP: Deleted 32 Loot Piles out of 196"
- 9:10:48 "TIME SYNC: Local Time set to [2013,8,3,17,10]"
- 9:10:56 "CLEANUP: Deleted 114 Loot Piles out of 164"
- 9:11:49 "CLEANUP: Deleted 4 Loot Piles out of 50"
- 9:12:46 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
- 9:13:39 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M60A4_EP1_DZE in/at Stary for 2x ItemGoldBar10oz"
- 9:14:00 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a MG36 in/at Stary for 6x ItemGoldBar"
- 9:14:24 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a MG36_camo in/at Stary for 6x ItemGoldBar"
- 9:14:45 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a MG36_camo in/at Stary for 6x ItemGoldBar"
- 9:15:04 "RUNNING EVENT: supply_drop on [2014,7,23,17,15]"
- 9:15:48 "TIME SYNC: Local Time set to [2013,8,3,17,15]"
- 9:16:37 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M249_EP1_DZ in/at Stary for 6x ItemGoldBar"
- 9:17:08 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a SVD_CAMO in/at Stary for 6x ItemGoldBar"
- 9:17:50 "CLEANUP: Deleted 1 Loot Piles out of 82"
- 9:17:56 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a RPK_74 in/at Stary for 6x ItemGoldBar"
- 9:18:18 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a m8_sharpshooter in/at Stary for 3x ItemGoldBar"
- 9:18:50 "CLEANUP: Deleted 3 Loot Piles out of 83"
- 9:19:01 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M16A2GL in/at Stary for 2x ItemGoldBar"
- 9:19:51 "CLEANUP: Deleted 17 Loot Piles out of 80"
- 9:20:48 "TIME SYNC: Local Time set to [2013,8,3,17,20]"
- 9:20:50 "CLEANUP: Deleted 4 Loot Piles out of 63"
- 9:24:08 Server: Object 3:1126 not found (message 94)
- 9:24:08 Server: Object 3:1128 not found (message 70)
- 9:24:08 Server: Object 3:1127 not found (message 70)
- 9:25:48 "TIME SYNC: Local Time set to [2013,8,3,17,25]"
- 9:26:53 "CLEANUP: Deleted 3 Loot Piles out of 189"
- 9:27:52 "CLEANUP: Deleted 1 Loot Piles out of 186"
- 9:30:05 "RUNNING EVENT: crash_spawner on [2014,7,23,17,30]"
- 9:30:05 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
- 9:30:05 "CRASHSPAWNER: A-10 started
-
-g from [6986,-630,1000] to [4640.57,12079.3] NOW!(TIME:4383||LT:MilitarySpecial)"
- 9:30:48 "TIME SYNC: Local Time set to [2013,8,3,17,30]"
- 9:31:41 Server: Object 3:1324 not found (message 98)
- 9:31:41 Server: Object 3:1325 not found (message 91)
- 9:32:56 "CLEANUP: Deleted 22 Loot Piles out of 309"
- 9:33:04 "CRASHSPAWNER: A-10 just exploded at [4779,11818,5.85226]!, "
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4782.92,11817.2,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4780.44,11824.8,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4782.97,11816.8,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4781.31,11822.2,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4777.08,11823.2,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4775.16,11812.1,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4781.63,11821.7,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4773.14,11812.5,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4773.42,11820,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4786.75,11817.7,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Loot spawn at '[4778.8,11825,0]' with loot table 'MilitarySpecial'"
- 9:33:04 "CRASHSPAWNER: Crash completed! Wreck at: [4779.07,11818.1,0.00872803] - Runtime: 179 Seconds || Distance from calculated POC: 296 meters"
- 9:33:55 "CLEANUP: Deleted 2 Loot Piles out of 298"
- 9:34:55 "CLEANUP: Deleted 2 Loot Piles out of 296"
- 9:35:48 "TIME SYNC: Local Time set to [2013,8,3,17,35]"
- 9:35:55 "CLEANUP: Deleted 5 Loot Piles out of 294"
- 9:36:56 "CLEANUP: Deleted 2 Loot Piles out of 292"
- 9:37:55 "CLEANUP: Deleted 1 Loot Piles out of 290"
- 9:38:55 "CLEANUP: Deleted 2 Loot Piles out of 294"
- 9:40:48 "TIME SYNC: Local Time set to [2013,8,3,17,40]"
- 9:45:00 "CLEANUP: Deleted 122 Loot Piles out of 292"
- 9:45:48 "TIME SYNC: Local Time set to [2013,8,3,17,45]"
- 9:45:53 "CLEANUP: Deleted 8 Loot Piles out of 173"
- 9:50:48 "TIME SYNC: Local Time set to [2013,8,3,17,50]"
- 9:51:56 "CLEANUP: Deleted 93 Loot Piles out of 165"
- 9:52:52 "CLEANUP: Deleted 31 Loot Piles out of 72"
- 9:55:48 "TIME SYNC: Local Time set to [2013,8,3,17,55]"
- 9:56:50 "CLEANUP: Deleted 3 Loot Piles out of 41"
- 9:58:27 "get: STRING (120160390), sent: STRING (120160390)"
- 9:58:27 "DISCONNECT: telconrar (120160390) Object: B 1-1-C:1 (telconrar) REMOTE, _characterID: 411 at loc [8930.8,9200.94,0.00146484]"
- 9:58:27 Client: Remote object 3:8 not found
- 9:58:27 Warning: Cleanup player - person 3:7 not found
- 9:58:29 Warning: Cleanup player - person 3:7 not found
- 9:58:50 "CLEANUP: Deleted 5 Loot Piles out of 38"
-10:00:07 "RUNNING EVENT: crash_spawner on [2014,7,23,18,0]"
-10:00:07 "CRASHSPAWNER: 100% chance to start a crashing MV-22 with loot table 'MilitarySpecial'"
-10:00:07 "CRASHSPAWNER: MV-22 started
-
-g from [10450,-630,1000] to [4354.98,14966.6] NOW!(TIME:6185||LT:MilitarySpecial)"
-10:00:48 "TIME SYNC: Local Time set to [2013,8,3,18,0]"
-10:04:18 "CRASHSPAWNER: MV-22 just exploded at [4487.77,14656.4,5.77573]!, "
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4486.48,14660.2,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4484.5,14659.7,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4492.37,14651.5,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4480.71,14663,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4490.74,14652.3,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4485.15,14663.3,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4481.41,14651.2,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4495.51,14647.3,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4483.29,14647.2,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4488.28,14650.7,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Loot spawn at '[4492.08,14657.1,0]' with loot table 'MilitarySpecial'"
-10:04:18 "CRASHSPAWNER: Crash completed! Wreck at: [4487.77,14656.6,-0.0447083] - Runtime: 251 Seconds || Distance from calculated POC: 342 meters"
-10:05:48 "TIME SYNC: Local Time set to [2013,8,3,18,5]"
-10:05:50 "CLEANUP: Deleted 28 Animals out of 28"
-10:05:50 "CLEANUP: Deleted 3 Loot Piles out of 44"
-10:10:48 "TIME SYNC: Local Time set to [2013,8,3,18,10]"
-10:15:08 "RUNNING EVENT: supply_drop on [2014,7,23,18,15]"
-10:15:48 "TIME SYNC: Local Time set to [2013,8,3,18,15]"
-10:20:48 "TIME SYNC: Local Time set to [2013,8,3,18,20]"
-10:25:48 "TIME SYNC: Local Time set to [2013,8,3,18,25]"
-10:30:09 "RUNNING EVENT: crash_spawner on [2014,7,23,18,30]"
-10:30:09 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Ural Wreck spawned at [7217.76,10638.4]"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7213.99,10637,0.0120239]' with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7217.5,10633.4,0.0120239]' with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7220.94,10633.1,0.0120239]' with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7221.54,10636.9,0.0120239]' with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7224.02,10635.2,0.0120239]' with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7225.85,10641.2,0.0120239]' with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7209.45,10636.9,0.0120239]' with loot table 'Military'"
-10:30:09 "CRASHSPAWNER: Loot spawn at '[7224.11,10638,0.0120239]' with loot table 'Military'"
-10:30:48 "TIME SYNC: Local Time set to [2013,8,3,18,30]"
-10:35:48 "TIME SYNC: Local Time set to [2013,8,3,18,35]"
-10:35:51 "CLEANUP: Deleted 1 Loot Piles out of 55"
-10:40:48 "TIME SYNC: Local Time set to [2013,8,3,18,40]"
-10:45:48 "TIME SYNC: Local Time set to [2013,8,3,18,45]"
-10:50:48 "TIME SYNC: Local Time set to [2013,8,3,18,50]"
-10:50:51 "CLEANUP: Deleted 2 Loot Piles out of 54"
-10:55:48 "TIME SYNC: Local Time set to [2013,8,3,18,55]"
-11:00:00 "RUNNING EVENT: crash_spawner on [2014,7,23,19,0]"
-11:00:00 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Ural Wreck spawned at [11534.7,7157.53]"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11538.6,7156.4,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11533.9,7163.55,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11537.9,7152.37,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11530.6,7162.8,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11539.3,7148.54,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11535.4,7170.6,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11536.9,7150.24,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11532.7,7151.21,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11538.3,7159.51,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11527.2,7156.73,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11538.8,7166.73,0.0460052]' with loot table 'Military'"
-11:00:00 "CRASHSPAWNER: Loot spawn at '[11548.2,7156.55,0.0460052]' with loot table 'Military'"
-11:00:48 "TIME SYNC: Local Time set to [2013,8,3,19,0]"
-11:05:48 "TIME SYNC: Local Time set to [2013,8,3,19,5]"
-11:10:48 "TIME SYNC: Local Time set to [2013,8,3,19,10]"
-11:15:01 "RUNNING EVENT: supply_drop on [2014,7,23,19,15]"
-11:15:48 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
-11:20:48 "TIME SYNC: Local Time set to [2013,8,3,19,20]"
-11:20:52 "CLEANUP: Deleted 4 Loot Piles out of 75"
-11:25:48 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
-11:30:02 "RUNNING EVENT: crash_spawner on [2014,7,23,19,30]"
-11:30:02 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
-11:30:02 "CRASHSPAWNER: A-10 started
-
-g from [15098,8144,300] to [12832,11053.7] NOW!(TIME:11579||LT:MilitarySpecial)"
-11:30:48 "TIME SYNC: Local Time set to [2013,8,3,19,30]"
-11:33:18 "CRASHSPAWNER: A-10 just exploded at [12640,10960.1,5.7939]!, "
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12639.7,10956.1,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12633.5,10959.6,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12645.6,10952.9,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12638.9,10968.2,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12644.2,10962,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12636.1,10963.5,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12637.9,10956.2,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12646.5,10965.3,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12635.1,10968,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12628.9,10962.8,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Loot spawn at '[12639.8,10972.3,0]' with loot table 'MilitarySpecial'"
-11:33:18 "CRASHSPAWNER: Crash completed! Wreck at: [12640.1,10960,0.0220108] - Runtime: 197 Seconds || Distance from calculated POC: 215 meters"
-11:35:48 "TIME SYNC: Local Time set to [2013,8,3,19,35]"
-11:35:53 "CLEANUP: Deleted 7 Loot Piles out of 82"
-11:40:48 "TIME SYNC: Local Time set to [2013,8,3,19,40]"
-11:45:48 "TIME SYNC: Local Time set to [2013,8,3,19,45]"
-11:50:48 "TIME SYNC: Local Time set to [2013,8,3,19,50]"
-11:55:48 "TIME SYNC: Local Time set to [2013,8,3,19,55]"
-12:00:03 "RUNNING EVENT: crash_spawner on [2014,7,23,20,0]"
-12:00:03 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Ural Wreck spawned at [8466.21,12287.9]"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8467.39,12284.1,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8466.19,12281.2,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8468.49,12294.6,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8470.42,12294.6,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8475.7,12287,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8475.37,12285.7,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8472.1,12287,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8464.66,12279.1,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8468.41,12295.8,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8460.45,12293.6,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8467.3,12292.5,0.0249634]' with loot table 'Military'"
-12:00:03 "CRASHSPAWNER: Loot spawn at '[8458.32,12288.2,0.0249634]' with loot table 'Military'"
-12:00:48 "TIME SYNC: Local Time set to [2013,8,3,20,0]"
-12:05:48 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
-12:10:48 "TIME SYNC: Local Time set to [2013,8,3,20,10]"
-12:15:03 "RUNNING EVENT: supply_drop on [2014,7,23,20,15]"
-12:15:48 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
-12:20:48 "TIME SYNC: Local Time set to [2013,8,3,20,20]"
-12:20:54 "CLEANUP: Deleted 4 Loot Piles out of 93"
-12:25:48 "TIME SYNC: Local Time set to [2013,8,3,20,25]"
-12:30:04 "RUNNING EVENT: crash_spawner on [2014,7,23,20,30]"
-12:30:04 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
-12:30:04 "CRASHSPAWNER: AH-1Z started
-
-g from [15098,8144,300] to [1157.21,7377.59] NOW!(TIME:15182||LT:MilitarySpecial)"
-12:30:48 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
-12:35:48 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
-12:35:54 "CLEANUP: Deleted 3 Loot Piles out of 89"
-12:40:48 "TIME SYNC: Local Time set to [2013,8,3,20,40]"
-12:45:48 "TIME SYNC: Local Time set to [2013,8,3,20,45]"
-12:50:48 "TIME SYNC: Local Time set to [2013,8,3,20,50]"
-12:55:48 "TIME SYNC: Local Time set to [2013,8,3,20,55]"
-13:00:06 "RUNNING EVENT: crash_spawner on [2014,7,23,21,0]"
-13:00:06 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
-13:00:06 "CRASHSPAWNER: AV-8B (LGB) started
-
-g from [6986,-630,1000] to [5984.91,9289.71] NOW!(TIME:16984||LT:MilitarySpecial)"
-13:00:48 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
-13:02:28 "CRASHSPAWNER: AV-8B (LGB) just exploded at [6048.05,9010.25,4.4483]!, "
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6044.05,9010.21,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6054.12,9014.84,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6053.69,9006.39,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6043.16,9002.08,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6046.03,9016.02,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6042.58,9002.27,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6042.02,9009.39,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6050.68,9014.72,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6050.12,9005.86,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Loot spawn at '[6043.71,9015.62,0]' with loot table 'MilitarySpecial'"
-13:02:28 "CRASHSPAWNER: Crash completed! Wreck at: [6048,9010.22,0.00457764] - Runtime: 142 Seconds || Distance from calculated POC: 287 meters"
-13:05:49 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
-13:10:49 "TIME SYNC: Local Time set to [2013,8,3,21,10]"
-13:15:08 "RUNNING EVENT: supply_drop on [2014,7,23,21,15]"
-13:15:49 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
-13:20:49 "TIME SYNC: Local Time set to [2013,8,3,21,20]"
-13:25:49 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
-13:30:08 "RUNNING EVENT: crash_spawner on [2014,7,23,21,30]"
-13:30:08 "CRASHSPAWNER: 100% chance to start a crashing AV-8B (LGB) with loot table 'MilitarySpecial'"
-13:30:08 "CRASHSPAWNER: AV-8B (LGB) started
-
-g from [1623.71,218.188,300] to [7152.58,15397.8] NOW!(TIME:18786||LT:MilitarySpecial)"
-13:30:49 "TIME SYNC: Local Time set to [2013,8,3,21,30]"
-13:31:46 "CRASHSPAWNER: AV-8B (LGB) just exploded at [7048.55,15194.3,4.8735]!, "
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7044.55,15194.5,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7044.92,15192.4,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7054.7,15195.3,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7042.94,15190.6,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7051.58,15198.2,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7052.81,15198.5,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7055.82,15197.7,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7051.49,15190.7,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7054.01,15189.6,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7047.46,15201.3,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7044.29,15192.9,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Loot spawn at '[7051.85,15190.5,0]' with loot table 'MilitarySpecial'"
-13:31:46 "CRASHSPAWNER: Crash completed! Wreck at: [7048.6,15194.4,0.0205994] - Runtime: 97 Seconds || Distance from calculated POC: 235 meters"
-13:35:49 "TIME SYNC: Local Time set to [2013,8,3,21,35]"
-13:40:49 "TIME SYNC: Local Time set to [2013,8,3,21,40]"
-13:45:49 "TIME SYNC: Local Time set to [2013,8,3,21,45]"
-13:50:49 "TIME SYNC: Local Time set to [2013,8,3,21,50]"
-13:55:49 "TIME SYNC: Local Time set to [2013,8,3,21,55]"
+14:01:54 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+14:01:54 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+14:01:54 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+14:01:54 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+14:02:04 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+14:02:04 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+14:02:07 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+14:02:07 "DayZ Epoch: MPframework inited"
+14:02:39 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+14:02:44 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+14:02:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:02:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:02:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:02:44 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+14:02:44 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+14:02:44 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+14:02:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:02:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:02:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:02:44 ca\misc\sphere2.p3d: No geometry and no visual shape
+14:02:45 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+14:02:46 "Res3tting B!S effects..."
+14:02:46 "[AGN] Starting Trader City Safezone Commander!"
+14:02:46 "Error: Attempting to start AGN products on a server where it should not be!"
+14:02:46 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+14:02:47 "HIVE: Starting"
+14:02:47 "HIVE: trying to get objects"
+14:02:50 "HIVE: found 1534 objects"
+14:02:50 "HIVE: Commence Object Streaming..."
+14:02:51 "HIVE: got 1219 Epoch Objects and 315 Vehicles"
+14:02:53 "Res3tting B!S effects..."
+14:03:00 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+14:03:00 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+14:03:23 "HIVE: Vehicle Spawn limit reached!"
+14:03:23 "HIVE: Spawning # of Debris: 0"
+14:03:23 "HIVE: Spawning # of Ammo Boxes: 3"
+14:03:23 "HIVE: Spawning # of Veins: 50"
+14:03:23 "Total Number of spawn locations 5"
+14:03:23 "EPOCH EVENTS INIT"
+14:03:23 "DEBUG VEIN: Too many objects at [4832.27,7470.41]"
+14:03:25 "TIME SYNC: Local Time set to [2013,8,3,16,3]"
+14:03:40 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:40 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone leftshoulder doesn't exist in some skeleton 
+14:03:41 Error: Bone rightshoulder doesn't exist in some skeleton 
+14:04:25 "[DZMS]: Starting DayZ Epoch Mission System."
+14:04:25 "[DZMS]: Relations not found! Using DZMS Relations."
+14:04:25 "[DZMS]: Mission and Extended Configuration Loaded!"
+14:04:25 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+14:04:25 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+14:04:25 "[DZMS]: Mission Functions Script Loaded!"
+14:04:25 "[DZMS]: Major Mission Clock Starting!"
+14:04:25 "[DZMS]: Minor Mission Clock Starting!"
+14:04:25 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+14:04:30 "[DZMS]: Running Minor Mission SM8."
+14:04:59 "[DZMS]: Running Major Mission SM12."
+14:06:45 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
