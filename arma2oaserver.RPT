@@ -421,3 +421,15 @@ _pos = g>
  7:14:08 "TIME SYNC: Local Time set to [2013,8,3,21,14]"
  7:15:04 "RUNNING EVENT: supply_drop on [2014,7,23,21,15]"
  7:18:11 "CLEANUP: Deleted 1 Loot Piles out of 58"
+ 7:19:08 "TIME SYNC: Local Time set to [2013,8,3,21,19]"
+ 7:21:18 Server: Object 5:172 not found (message 99)
+ 7:21:18 Server: Object 5:173 not found (message 91)
+ 7:22:12 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M249_DZ in/at Stary for 6x ItemGoldBar"
+ 7:22:42 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+ 7:23:08 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a M14_EP1 in/at Stary for 1x ItemGoldBar10oz"
+ 7:24:08 "TIME SYNC: Local Time set to [2013,8,3,21,24]"
+ 7:24:43 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a FoodbeefCooked in/at Stary for 4x ItemSilverBar"
+ 7:25:16 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a FoodchickenCooked in/at Stary for 4x ItemSilverBar"
+ 7:25:26 "EPOCH SERVERTRADE: Player: telconrar (120160390) bought a FoodchickenCooked in/at Stary for 4x ItemSilverBar"
+ 7:26:59 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
+ 7:27:25 "EPOCH SERVERTRADE: Player: telconrar (120160390) sold a BAF_L85A2_RIS_Holo in/at Stary for 6x ItemGoldBar"
