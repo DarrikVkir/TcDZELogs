@@ -760,3 +760,34 @@ if(DZE_DeathMsgSide) then {
  4:46:39 "CLEANUP: Deleted 7 Loot Piles out of 172"
  4:47:28 "TIME SYNC: Local Time set to [2013,8,3,18,47]"
  4:48:11 Server: Object 13:107 not found (message 91)
+ 4:48:38 "CLEANUP: Deleted 4 Loot Piles out of 170"
+ 4:48:52 Server: Object 13:137 not found (message 91)
+ 4:48:52 Server: Object 13:136 not found (message 99)
+ 4:48:52 Server: Object 13:138 not found (message 98)
+ 4:48:52 Server: Object 13:139 not found (message 91)
+ 4:49:27 "[DZMS]: Minor SM4 Crash Site Mission has Ended."
+ 4:49:38 "CLEANUP: Deleted 2 Loot Piles out of 178"
+ 4:49:44 "[DZMS]: Running Minor Mission SM4."
+ 4:51:37 "PDEATH: Player Died 148596870"
+ 4:52:22 Server: Object 10:897 not found (message 70)
+ 4:52:28 "TIME SYNC: Local Time set to [2013,8,3,18,52]"
+ 4:52:41 "CLEANUP: Deleted 20 Loot Piles out of 184"
+ 4:52:47 "ERROR: server_playerSync: Cannot Sync Player Jackhole [551]. Position in debug! [-7239.67,19539.3,0.245483]"
+ 4:52:49 "get: STRING (148596870), sent: STRING (148596870)"
+ 4:52:49 "DISCONNECT: Jackhole (148596870) Object: B 1-1-A:1 (Jackhole) REMOTE, _characterID: 551 at loc [-7239.67,19539.3,0.245483]"
+ 4:52:49 "ERROR: server_playerSync: Cannot Sync Player Jackhole [551]. Position in debug! [-7239.67,19539.3,0.245483]"
+ 4:52:49 Client: Remote object 13:2 not found
+ 4:52:49 Client: Remote object 2:5746 not found
+ 4:52:49 Client: Remote object 2:5745 not found
+ 4:53:41 "CLEANUP: Deleted 49 Loot Piles out of 160"
+ 4:54:36 "CLEANUP: Deleted 2 Loot Piles out of 114"
+ 4:56:37 "CLEANUP: Deleted 5 Loot Piles out of 114"
+ 4:56:38 Server: Object 13:215 not found (message 94)
+ 4:56:38 Server: Object 13:214 not found (message 70)
+ 4:56:38 Server: Object 13:211 not found (message 94)
+ 4:56:38 Server: Object 13:210 not found (message 70)
+ 4:56:38 Server: Object 13:209 not found (message 94)
+ 4:56:38 Server: Object 13:213 not found (message 70)
+ 4:56:38 Server: Object 13:212 not found (message 94)
+ 4:56:38 Server: Object 13:216 not found (message 70)
+ 4:57:28 "TIME SYNC: Local Time set to [2013,8,3,18,57]"
