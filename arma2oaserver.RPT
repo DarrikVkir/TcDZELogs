@@ -366,3 +366,35 @@ g from [15186,11857,300] to [13566.5,14392.9] NOW!(TIME:807||LT:HeliCrash_No50s)
 19:07:17 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 20Rnd_762x51_B_SCAR in/at Stary for 2x ItemGoldBar"
 19:07:28 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 20Rnd_762x51_B_SCAR in/at Stary for 2x ItemGoldBar"
 19:07:38 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 20Rnd_762x51_B_SCAR in/at Stary for 2x ItemGoldBar"
+19:08:57 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) sold a glock17_EP1 in/at Stary for 5x ItemSilverBar10oz"
+19:09:39 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) sold a 15Rnd_9x19_M9 in/at Stary for 5x ItemSilverBar"
+19:10:04 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) sold a 17Rnd_9x19_glock17 in/at Stary for 5x ItemSilverBar"
+19:10:14 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) sold a 17Rnd_9x19_glock17 in/at Stary for 5x ItemSilverBar"
+19:10:23 "TIME SYNC: Local Time set to [2013,8,3,21,10]"
+19:10:44 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:10:54 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:11:04 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:11:14 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:11:24 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:11:34 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:11:44 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:12:17 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:12:27 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:12:37 "EPOCH SERVERTRADE: Player: Colonel Casey (244336454) bought a 15Rnd_9x19_M9SD in/at Stary for 2x ItemSilverBar10oz"
+19:14:46 "DELETE: B 1-1-C:1 (Colonel Casey) REMOTE Deleted by UID: 0"
+19:15:09 "RUNNING EVENT: supply_drop on [2014,7,24,21,15]"
+19:15:23 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
+19:15:27 "CLEANUP: Deleted 4 Loot Piles out of 125"
+19:16:40 "get: STRING (242431430), sent: STRING (242431430)"
+19:16:40 "DISCONNECT: Ellis (242431430) Object: B 1-1-B:1 (Ellis) REMOTE, _characterID: 553 at loc [8050.3,3270.74,0.813579]"
+19:16:40 Client: Remote object 4:2 not found
+19:16:40 Client: Remote object 4:8 not found
+19:16:40 Warning: Cleanup player - person 4:7 not found
+19:16:42 Warning: Cleanup player - person 4:7 not found
+19:17:28 "CLEANUP: Deleted 38 Loot Piles out of 114"
+19:18:25 "get: STRING (91476486), sent: STRING (91476486)"
+19:18:25 "DISCONNECT: Jackal (91476486) Object: B 1-1-B:1 (Jackal) REMOTE, _characterID: 555 at loc [6234.51,1939.8,0.00125861]"
+19:18:25 Client: Remote object 6:2 not found
+19:18:25 Client: Remote object 6:8 not found
+19:18:25 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+19:18:27 Warning: Cleanup player - person 6:7 not found
