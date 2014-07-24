@@ -363,3 +363,26 @@ g from [15186,11857,300] to [5528.46,9464.75] NOW!(TIME:4902||LT:HeliCrash_No50s
  9:47:09 "TIME SYNC: Local Time set to [2013,8,3,17,47]"
  9:52:09 "TIME SYNC: Local Time set to [2013,8,3,17,52]"
  9:57:09 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
+10:00:05 "RUNNING EVENT: crash_spawner on [2014,7,24,18,0]"
+10:00:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+10:00:05 "CRASHSPAWNER: UH-60M started
+
+g from [10450,-630,1000] to [880.196,11741.3] NOW!(TIME:6702||LT:HeliCrash_No50s)"
+10:02:09 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+10:06:29 "CRASHSPAWNER: UH-60M just exploded at [903.522,11778.3,-0.459351]!, "
+10:06:29 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+10:06:29 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+10:06:29 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+10:06:29 "CRASHSPAWNER: Loot spawn at '[902.354,11782.1,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[907.183,11776.3,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[906.776,11783.9,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[893.199,11777.2,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[897.604,11767.5,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[911.831,11782,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[909.719,11774.9,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[895.922,11776.5,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[908.98,11774.7,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[907.897,11769.4,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Loot spawn at '[904.089,11782.9,0]' with loot table 'HeliCrash_No50s'"
+10:06:29 "CRASHSPAWNER: Crash completed! Wreck at: [903.514,11778.3,0.124115] - Runtime: 384 Seconds || Distance from calculated POC: 45 meters"
+10:07:09 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
