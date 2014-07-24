@@ -362,3 +362,23 @@ g from [15098,8144,300] to [9416.29,11227.3] NOW!(TIME:1562||LT:HeliCrash_No50s)
  2:37:28 "CLEANUP: Deleted 4 Animals out of 12"
  2:37:32 "CLEANUP: Deleted 1 Loot Piles out of 192"
  2:38:32 "CLEANUP: Deleted 2 Loot Piles out of 191"
+ 2:39:33 "CLEANUP: Deleted 26 Loot Piles out of 189"
+ 2:40:31 "CLEANUP: Deleted 3 Loot Piles out of 170"
+ 2:41:32 "CLEANUP: Deleted 1 Loot Piles out of 186"
+ 2:42:16 "nil player object attempting PV, :["255024710","Bored Shorts"]"
+ 2:42:16 "get: STRING (), sent: STRING (255024710)"
+ 2:42:16 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-C:1 REMOTE, _characterID: 545 at loc [7844.04,12615.7,0.00144958]"
+ 2:42:16 Client: Remote object 6:2 not found
+ 2:42:16 Client: Remote object 6:8 not found
+ 2:42:17 Warning: Cleanup player - person 6:7 not found
+ 2:42:27 "TIME SYNC: Local Time set to [2013,8,3,16,42]"
+ 2:43:32 "CLEANUP: Deleted 1 Loot Piles out of 187"
+ 2:44:32 "CLEANUP: Deleted 2 Loot Piles out of 193"
+ 2:45:39 "get: STRING (244336454), sent: STRING (244336454)"
+ 2:45:39 "DISCONNECT: Colonel Casey (244336454) Object: B 1-1-D:1 (Colonel Casey) REMOTE, _characterID: 548 at loc [4678.2,2480.51,1.30259]"
+ 2:45:39 Client: Remote object 4:8 not found
+ 2:45:39 Warning: Cleanup player - person 4:7 not found
+ 2:45:44 Warning: Cleanup player - person 4:7 not found
+ 2:47:27 "TIME SYNC: Local Time set to [2013,8,3,16,47]"
+ 2:47:31 "CLEANUP: Deleted 1 Loot Piles out of 176"
+ 2:48:32 "CLEANUP: Deleted 20 Loot Piles out of 175"
