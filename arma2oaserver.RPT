@@ -942,3 +942,26 @@ g from [6993.7,173.053,300] to [2155.49,4601.38] NOW!(TIME:12348||LT:HeliCrash_N
  5:47:28 "TIME SYNC: Local Time set to [2013,8,3,19,47]"
  5:52:29 "TIME SYNC: Local Time set to [2013,8,3,19,52]"
  5:57:29 "TIME SYNC: Local Time set to [2013,8,3,19,57]"
+ 6:00:02 "RUNNING EVENT: crash_spawner on [2014,7,24,20,0]"
+ 6:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 6:00:02 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [8757.99,9669.88] NOW!(TIME:14150||LT:HeliCrash_No50s)"
+ 6:02:29 "TIME SYNC: Local Time set to [2013,8,3,20,2]"
+ 6:07:29 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
+ 6:08:05 "CRASHSPAWNER: UH-1H just exploded at [8782,9663.51,3.2403]!, "
+ 6:08:05 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 6:08:05 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 6:08:05 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8778.19,9664.75,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8778.24,9660.78,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8786.01,9656.26,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8788.32,9653.61,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8785.68,9675.71,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8770.77,9673.82,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8771.34,9677.9,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8770.18,9666.41,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8794.99,9661.24,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8771.43,9674.64,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Loot spawn at '[8776.48,9664.48,0]' with loot table 'HeliCrash_No50s'"
+ 6:08:05 "CRASHSPAWNER: Crash completed! Wreck at: [8781.92,9663.5,0.446503] - Runtime: 483 Seconds || Distance from calculated POC: 26 meters"
