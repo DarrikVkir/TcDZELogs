@@ -555,3 +555,33 @@ g from [6993.7,173.053,300] to [2176.09,11935.5] NOW!(TIME:5156||LT:MilitarySpec
  3:58:26 Server: Object 12:196 not found (message 70)
  3:58:26 Server: Object 12:197 not found (message 94)
  3:58:26 Server: Object 12:195 not found (message 94)
+ 3:58:37 "CLEANUP: Deleted 12 Loot Piles out of 215"
+ 3:58:43 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 3:58:54 Server: Object 12:201 not found (message 91)
+ 3:58:54 Server: Object 12:200 not found (message 99)
+ 3:58:56 Server: Object 12:110 not found (message 99)
+ 3:58:59 Server: Object 12:204 not found (message 98)
+ 3:58:59 Server: Object 12:205 not found (message 91)
+ 3:58:59 Server: Object 12:206 not found (message 98)
+ 3:58:59 Server: Object 12:207 not found (message 91)
+ 3:58:59 Server: Object 12:210 not found (message 99)
+ 3:58:59 Server: Object 12:211 not found (message 91)
+ 3:58:59 Server: Object 12:212 not found (message 98)
+ 3:58:59 Server: Object 12:213 not found (message 91)
+ 3:58:59 Server: Object 12:218 not found (message 99)
+ 3:58:59 Server: Object 12:219 not found (message 91)
+ 4:00:08 "RUNNING EVENT: crash_spawner on [2014,7,24,18,0]"
+ 4:00:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 4:00:08 "CRASHSPAWNER: UH-60M MEV started
+
+g from [6986,-630,1000] to [2140.42,9819.74] NOW!(TIME:6958||LT:Hospital)"
+ 4:00:13 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 4:00:37 "CLEANUP: Deleted 8 Loot Piles out of 204"
+ 4:00:43 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 4:02:07 Server: Object 8:695 not found (message 91)
+ 4:02:28 "TIME SYNC: Local Time set to [2013,8,3,18,2]"
+ 4:02:36 "CLEANUP: Deleted 2 Loot Piles out of 196"
+ 4:03:36 "CLEANUP: Deleted 1 Loot Piles out of 194"
+ 4:04:36 "CLEANUP: Deleted 1 Loot Piles out of 193"
+ 4:06:36 "CLEANUP: Deleted 1 Loot Piles out of 192"
+ 4:07:28 "TIME SYNC: Local Time set to [2013,8,3,18,7]"
