@@ -253,3 +253,46 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  8:17:08 "TIME SYNC: Local Time set to [2013,8,3,16,17]"
  8:22:08 "TIME SYNC: Local Time set to [2013,8,3,16,22]"
  8:27:09 "TIME SYNC: Local Time set to [2013,8,3,16,27]"
+ 8:30:09 "RUNNING EVENT: crash_spawner on [2014,7,24,16,30]"
+ 8:30:09 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Ural Wreck spawned at [8773.97,7775.27]"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8774.18,7771.27,0.0453491]' with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8773.16,7782.85,0.0453491]' with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8772.72,7771.31,0.0453491]' with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8769.54,7772.98,0.0453491]' with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8771.82,7779.36,0.0453491]' with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8774.27,7768.89,0.0453491]' with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8767.81,7780.66,0.0453491]' with loot table 'Military'"
+ 8:30:09 "CRASHSPAWNER: Loot spawn at '[8776.09,7764.2,0.0453491]' with loot table 'Military'"
+ 8:30:10 "CRASHSPAWNER: Loot spawn at '[8772.22,7771.56,0.0453491]' with loot table 'Military'"
+ 8:31:20 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:31:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 8:31:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 8:31:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 8:31:20 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 8:31:20   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 8:32:09 "TIME SYNC: Local Time set to [2013,8,3,16,32]"
+ 8:32:10 "CLEANUP: Deleted 14 Loot Piles out of 26"
+ 8:36:26 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 8:37:09 "TIME SYNC: Local Time set to [2013,8,3,16,37]"
