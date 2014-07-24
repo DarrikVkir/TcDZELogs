@@ -392,3 +392,40 @@ g from [15098,8144,300] to [9416.29,11227.3] NOW!(TIME:1562||LT:HeliCrash_No50s)
  2:55:52 Server: Object 8:49 not found (message 99)
  2:57:27 "TIME SYNC: Local Time set to [2013,8,3,16,57]"
  2:58:09 Server: Object 7:37 not found (message 94)
+ 2:59:03 "get: STRING (15791622), sent: STRING (15791622)"
+ 2:59:03 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-D:1 (Kmhuey) REMOTE, _characterID: 467 at loc [13868.6,11746.1,0.00123]"
+ 2:59:03 Client: Remote object 9:2 not found
+ 2:59:03 Client: Remote object 9:8 not found
+ 2:59:03 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 3:00:02 "RUNNING EVENT: crash_spawner on [2014,7,24,17,0]"
+ 3:00:02 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+ 3:00:02 "CRASHSPAWNER: Mi-24D started
+
+g from [6993.7,173.053,300] to [4118.85,11062.7] NOW!(TIME:3354||LT:MilitarySpecial)"
+ 3:00:30 "CLEANUP: Deleted 7 Loot Piles out of 51"
+ 3:01:30 "CLEANUP: Deleted 17 Loot Piles out of 45"
+ 3:02:27 "TIME SYNC: Local Time set to [2013,8,3,17,2]"
+ 3:02:29 "CLEANUP: Deleted 5 Loot Piles out of 28"
+ 3:03:13 Server: Object 10:9 not found (message 70)
+ 3:04:29 "CLEANUP: Deleted 6 Loot Piles out of 25"
+ 3:05:29 "CLEANUP: Deleted 1 Loot Piles out of 19"
+ 3:06:50 Server: Object 8:139 not found (message 99)
+ 3:06:50 Server: Object 8:140 not found (message 91)
+ 3:06:50 Server: Object 8:145 not found (message 98)
+ 3:06:50 Server: Object 8:146 not found (message 91)
+ 3:07:27 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
+ 3:08:16 "CRASHSPAWNER: Mi-24D just exploded at [4165.25,11057.6,0.507904]!, "
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4164,11053.8,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4161.75,11055.6,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4160.5,11063.1,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4165.58,11066.9,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4163.4,11061.6,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4172.54,11057.8,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4175.25,11059.3,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4168.29,11051.9,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4161.93,11062.7,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4163.86,11066,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4168.84,11054.9,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4163.42,11061.4,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Loot spawn at '[4172.6,11060.7,0]' with loot table 'MilitarySpecial'"
+ 3:08:16 "CRASHSPAWNER: Crash completed! Wreck at: [4165.19,11057.6,0.000610352] - Runtime: 494 Seconds || Distance from calculated POC: 47 meters"
