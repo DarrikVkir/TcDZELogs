@@ -300,3 +300,11 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:14:59 Server: Object 4:95 not found (message 91)
  2:15:08 "RUNNING EVENT: supply_drop on [2014,7,24,16,15]"
  2:17:27 "TIME SYNC: Local Time set to [2013,8,3,16,17]"
+ 2:20:16 "get: STRING (150138694), sent: STRING (150138694)"
+ 2:20:16 "DISCONNECT: Cpt. Awesome (150138694) Object: B 1-1-C:1 (Cpt. Awesome) REMOTE, _characterID: 547 at loc [6196.19,2170.1,0.00143814]"
+ 2:20:16 Client: Remote object 3:8 not found
+ 2:20:16 Warning: Cleanup player - person 3:7 not found
+ 2:20:17 Warning: Cleanup player - person 3:7 not found
+ 2:22:27 "TIME SYNC: Local Time set to [2013,8,3,16,22]"
+ 2:22:28 "CLEANUP: Deleted 6 Animals out of 12"
+ 2:27:27 "TIME SYNC: Local Time set to [2013,8,3,16,27]"
