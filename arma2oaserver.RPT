@@ -429,3 +429,18 @@ g from [6993.7,173.053,300] to [4118.85,11062.7] NOW!(TIME:3354||LT:MilitarySpec
  3:08:16 "CRASHSPAWNER: Loot spawn at '[4163.42,11061.4,0]' with loot table 'MilitarySpecial'"
  3:08:16 "CRASHSPAWNER: Loot spawn at '[4172.6,11060.7,0]' with loot table 'MilitarySpecial'"
  3:08:16 "CRASHSPAWNER: Crash completed! Wreck at: [4165.19,11057.6,0.000610352] - Runtime: 494 Seconds || Distance from calculated POC: 47 meters"
+ 3:09:11 "PDEATH: Player Died 148596870"
+ 3:12:27 "TIME SYNC: Local Time set to [2013,8,3,17,12]"
+ 3:12:53 Server: Object 10:71 not found (message 94)
+ 3:14:22 Server: Object 10:101 not found (message 70)
+ 3:14:22 Server: Object 10:100 not found (message 70)
+ 3:14:39 "ERROR: server_playerSync: Cannot Sync Player Jackhole [549]. Position in debug! [-7239.67,19539.3,0.245789]"
+ 3:14:41 "get: STRING (148596870), sent: STRING (148596870)"
+ 3:14:41 "DISCONNECT: Jackhole (148596870) Object: B 1-1-A:1 (Jackhole) REMOTE, _characterID: 549 at loc [-7239.67,19539.3,0.245789]"
+ 3:14:41 "ERROR: server_playerSync: Cannot Sync Player Jackhole [549]. Position in debug! [-7239.67,19539.3,0.245789]"
+ 3:14:41 Client: Remote object 2:5613 not found
+ 3:14:41 Client: Remote object 2:5612 not found
+ 3:14:41 Client: Remote object 7:2 not found
+ 3:15:03 "RUNNING EVENT: supply_drop on [2014,7,24,17,15]"
+ 3:15:31 "CLEANUP: Deleted 1 Loot Piles out of 88"
+ 3:17:27 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
