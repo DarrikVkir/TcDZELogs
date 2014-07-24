@@ -659,3 +659,97 @@ g from [6986,-630,1000] to [2140.42,9819.74] NOW!(TIME:6958||LT:Hospital)"
  4:24:48 Server: Object 7:313 not found (message 94)
  4:27:28 "TIME SYNC: Local Time set to [2013,8,3,18,27]"
  4:27:39 "CLEANUP: Deleted 27 Loot Piles out of 190"
+ 4:28:56 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 4:29:38 "CLEANUP: Deleted 1 Loot Piles out of 168"
+ 4:30:01 "RUNNING EVENT: crash_spawner on [2014,7,24,18,30]"
+ 4:30:01 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+ 4:30:01 "CRASHSPAWNER: A-10 started
+
+g from [6993.7,173.053,300] to [1881.39,14046.9] NOW!(TIME:8751||LT:MilitarySpecial)"
+ 4:30:37 "CLEANUP: Deleted 1 Loot Piles out of 164"
+ 4:31:30 "PHIT: B 1-1-C:1 (Jackhole) REMOTE was hit by B 1-1-B:1 (Bored Shorts) REMOTE with SUV Camo from 0m with 0.230504 dmg"
+ 4:31:30 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 4:31:30   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 4:31:30   Error Undefined variable in expression: _weapon
+ 4:31:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 4:31:39 Client: Object 8:921 (type Type_70) not found.
+ 4:31:39 Client: Object 8:921 (type Type_69) not found.
+ 4:31:39 "PHIT: B 1-1-C:1 (Jackhole) REMOTE was hit by B 1-1-B:1 (Bored Shorts) REMOTE with SUV Camo from 0m with 6.6218 dmg"
+ 4:31:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 4:31:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 4:31:39   Error Undefined variable in expression: _weapon
+ 4:31:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 4:31:39 "PHIT: B 1-1-C:1 (Jackhole) REMOTE was hit by B 1-1-B:1 (Bored Shorts) REMOTE with SUV Camo from 0m with 0.776177 dmg"
+ 4:31:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 4:31:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 4:31:39   Error Undefined variable in expression: _weapon
+ 4:31:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 4:32:28 "TIME SYNC: Local Time set to [2013,8,3,18,32]"
+ 4:32:37 "PKILL: Jackhole was killed by Bored Shorts with weapon SUV Camo from 0m"
+ 4:32:37 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:32:37   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:32:37   Error Undefined variable in expression: dze_deathmsgside
+ 4:32:37 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 4:32:37 "PDEATH: Player Died 148596870"
+ 4:32:39 "CLEANUP: Deleted 2 Loot Piles out of 183"
+ 4:32:53 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 4:32:53 "CRASHSPAWNER: A-10 just exploded at [2191.32,13992.9,4.58582]!, "
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2189.15,13989.5,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2189.62,13996.8,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2194.34,13990,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2189.91,13998.7,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2195.42,13987.1,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2186.51,13997.9,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2192.24,13984.4,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2193.05,13984.1,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2195.56,13999.8,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2185.5,14003.2,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2193.79,13988.2,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Loot spawn at '[2189.38,14001.3,0]' with loot table 'MilitarySpecial'"
+ 4:32:53 "CRASHSPAWNER: Crash completed! Wreck at: [2191.58,13992.6,0.145447] - Runtime: 172 Seconds || Distance from calculated POC: 315 meters"
+ 4:33:07 "ERROR: server_playerSync: Cannot Sync Player Jackhole [550]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 4:33:09 "get: STRING (148596870), sent: STRING (148596870)"
+ 4:33:09 "DISCONNECT: Jackhole (148596870) Object: B 1-1-A:1 (Jackhole) REMOTE, _characterID: 550 at loc [-7239.67,19539.3,0.245972]"
+ 4:33:09 "ERROR: server_playerSync: Cannot Sync Player Jackhole [550]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 4:33:09 Client: Remote object 7:350 not found
+ 4:33:09 Client: Remote object 7:349 not found
+ 4:33:30 Warning: Cleanup player - person 7:351 not found
+ 4:33:40 "CLEANUP: Deleted 1 Loot Piles out of 238"
+ 4:34:39 "CLEANUP: Deleted 1 Loot Piles out of 239"
+ 4:35:42 "CLEANUP: Deleted 8 Loot Piles out of 238"
+ 4:36:40 "CLEANUP: Deleted 2 Loot Piles out of 235"
+ 4:37:28 "TIME SYNC: Local Time set to [2013,8,3,18,37]"
+ 4:37:32 "CLEANUP: Deleted 14 Animals out of 77"
+ 4:38:34 Server: Object 13:62 not found (message 91)
+ 4:38:34 Server: Object 13:61 not found (message 99)
