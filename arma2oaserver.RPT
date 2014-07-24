@@ -335,3 +335,6 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  9:12:10 "CLEANUP: Deleted 16 Animals out of 16"
  9:15:04 "RUNNING EVENT: supply_drop on [2014,7,24,17,15]"
  9:17:09 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
+ 9:20:11 "CLEANUP: Deleted 2 Loot Piles out of 24"
+ 9:22:09 "TIME SYNC: Local Time set to [2013,8,3,17,22]"
+ 9:27:09 "TIME SYNC: Local Time set to [2013,8,3,17,27]"
