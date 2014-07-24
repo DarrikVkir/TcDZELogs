@@ -444,3 +444,18 @@ g from [6993.7,173.053,300] to [4118.85,11062.7] NOW!(TIME:3354||LT:MilitarySpec
  3:15:03 "RUNNING EVENT: supply_drop on [2014,7,24,17,15]"
  3:15:31 "CLEANUP: Deleted 1 Loot Piles out of 88"
  3:17:27 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
+ 3:21:45 Server: Object 10:290 not found (message 70)
+ 3:22:27 "TIME SYNC: Local Time set to [2013,8,3,17,22]"
+ 3:22:28 "CLEANUP: Deleted 6 Animals out of 38"
+ 3:22:34 Server: Object 10:349 not found (message 70)
+ 3:22:34 Server: Object 10:348 not found (message 70)
+ 3:22:34 Server: Object 10:347 not found (message 70)
+ 3:22:34 Server: Object 10:346 not found (message 70)
+ 3:22:34 Server: Object 10:345 not found (message 70)
+ 3:22:34 Server: Object 10:343 not found (message 70)
+ 3:22:34 Server: Object 10:344 not found (message 70)
+ 3:22:34 Server: Object 10:351 not found (message 70)
+ 3:23:35 "CLEANUP: Deleted 1 Loot Piles out of 236"
+ 3:24:35 "CLEANUP: Deleted 1 Loot Piles out of 240"
+ 3:27:27 "TIME SYNC: Local Time set to [2013,8,3,17,27]"
+ 3:27:41 Server: Object 10:433 not found (message 91)
