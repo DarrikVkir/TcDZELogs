@@ -308,3 +308,57 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  2:22:27 "TIME SYNC: Local Time set to [2013,8,3,16,22]"
  2:22:28 "CLEANUP: Deleted 6 Animals out of 12"
  2:27:27 "TIME SYNC: Local Time set to [2013,8,3,16,27]"
+ 2:28:39 "CLEANUP: Deleted 84 Loot Piles out of 349"
+ 2:29:38 Server: Object 4:244 not found (message 70)
+ 2:29:38 Server: Object 4:243 not found (message 94)
+ 2:29:38 Server: Object 4:242 not found (message 94)
+ 2:29:55 Server: Object 4:283 not found (message 70)
+ 2:29:55 Server: Object 4:282 not found (message 94)
+ 2:29:55 Server: Object 4:281 not found (message 94)
+ 2:29:55 Server: Object 4:284 not found (message 70)
+ 2:29:55 Server: Object 4:285 not found (message 94)
+ 2:29:55 Server: Object 4:288 not found (message 94)
+ 2:29:55 Server: Object 4:289 not found (message 70)
+ 2:29:55 Server: Object 4:286 not found (message 94)
+ 2:29:55 Server: Object 4:287 not found (message 70)
+ 2:29:55 Server: Object 4:290 not found (message 70)
+ 2:29:55 Server: Object 4:294 not found (message 70)
+ 2:29:55 Server: Object 4:302 not found (message 94)
+ 2:29:55 Server: Object 4:305 not found (message 94)
+ 2:29:55 Server: Object 4:304 not found (message 70)
+ 2:29:55 Server: Object 4:303 not found (message 70)
+ 2:30:09 "RUNNING EVENT: crash_spawner on [2014,7,24,16,30]"
+ 2:30:09 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 2:30:09 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [9416.29,11227.3] NOW!(TIME:1562||LT:HeliCrash_No50s)"
+ 2:30:38 "CLEANUP: Deleted 2 Loot Piles out of 339"
+ 2:31:13 Server: Object 5:119 not found (message 70)
+ 2:31:13 Server: Object 5:117 not found (message 94)
+ 2:31:13 Server: Object 5:118 not found (message 94)
+ 2:31:13 Server: Object 5:129 not found (message 70)
+ 2:31:13 Server: Object 5:130 not found (message 70)
+ 2:31:13 Server: Object 5:128 not found (message 70)
+ 2:31:13 Server: Object 5:127 not found (message 94)
+ 2:31:13 Server: Object 5:140 not found (message 70)
+ 2:31:13 Server: Object 5:139 not found (message 70)
+ 2:31:13 Server: Object 5:141 not found (message 94)
+ 2:31:13 Server: Object 5:138 not found (message 70)
+ 2:31:13 Server: Object 5:137 not found (message 70)
+ 2:31:13 Server: Object 5:136 not found (message 94)
+ 2:32:27 "TIME SYNC: Local Time set to [2013,8,3,16,32]"
+ 2:32:37 "CLEANUP: Deleted 8 Loot Piles out of 397"
+ 2:33:38 "CLEANUP: Deleted 30 Loot Piles out of 389"
+ 2:34:37 "CLEANUP: Deleted 33 Loot Piles out of 360"
+ 2:35:39 "CLEANUP: Deleted 87 Loot Piles out of 327"
+ 2:36:14 "get: STRING (150138694), sent: STRING (150138694)"
+ 2:36:14 "DISCONNECT: Cpt. Awesome (150138694) Object: B 1-1-B:1 (Cpt. Awesome) REMOTE, _characterID: 547 at loc [4718.45,2596.07,8.99]"
+ 2:36:14 Client: Remote object 5:2 not found
+ 2:36:14 Client: Remote object 5:8 not found
+ 2:36:14 Warning: Cleanup player - person 5:7 not found
+ 2:36:15 Warning: Cleanup player - person 5:7 not found
+ 2:36:34 "CLEANUP: Deleted 33 Loot Piles out of 225"
+ 2:37:27 "TIME SYNC: Local Time set to [2013,8,3,16,37]"
+ 2:37:28 "CLEANUP: Deleted 4 Animals out of 12"
+ 2:37:32 "CLEANUP: Deleted 1 Loot Piles out of 192"
+ 2:38:32 "CLEANUP: Deleted 2 Loot Piles out of 191"
