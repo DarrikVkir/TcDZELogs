@@ -990,3 +990,6 @@ g from [1623.71,218.188,300] to [5476.04,7843.7] NOW!(TIME:15952||LT:HeliCrash_N
 g from [10450,-630,1000] to [9386.18,8549] NOW!(TIME:17753||LT:MilitarySpecial)"
  7:02:29 "TIME SYNC: Local Time set to [2013,8,3,21,2]"
  7:07:29 "TIME SYNC: Local Time set to [2013,8,3,21,7]"
+ 7:12:29 "TIME SYNC: Local Time set to [2013,8,3,21,12]"
+ 7:15:07 "RUNNING EVENT: supply_drop on [2014,7,24,21,15]"
+ 7:17:29 "TIME SYNC: Local Time set to [2013,8,3,21,17]"
