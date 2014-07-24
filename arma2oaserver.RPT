@@ -2,10 +2,10 @@
 
 =====================================================================
 == C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
-== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-h8Twz.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-hu5St.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
 =====================================================================
 Exe timestamp: 2014/06/01 10:01:31
-Current time:  2014/07/23 20:01:07
+Current time:  2014/07/24 02:01:13
 
 Version 1.63.112555
 Item STR_EPOCH_BULK_DESC_MP5SD listed twice
@@ -92,128 +92,206 @@ Updating base class ->M113_Base, by ca\tracked_e\m113\config.bin/CfgVehicles/M11
 Updating base class ->Helicopter, by ca\air_d_baf\config.bin/CfgVehicles/BAF_Merlin_HC3_D/
 Obsolete class Animations defined in bin\config.bin/RscCompass/
 Obsolete class Animations defined in bin\config.bin/RscWatch/
-21:40:22 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
-21:40:22 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
-21:40:22 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
-21:40:22 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
-21:40:28 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
-21:40:29 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
-21:40:30 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
-21:40:30 "DayZ Epoch: MPframework inited"
-21:40:57 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
-21:41:00 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
-21:41:00 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-21:41:00 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-21:41:00 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-21:41:00 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
-21:41:00 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
-21:41:00 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
-21:41:00 ca\misc\sphere2.p3d: No geometry and no visual shape
-21:41:00 ca\misc\sphere2.p3d: No geometry and no visual shape
-21:41:00 ca\misc\sphere2.p3d: No geometry and no visual shape
-21:41:00 ca\misc\sphere2.p3d: No geometry and no visual shape
-21:41:00 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
-21:41:02 "Res3tting B!S effects..."
-21:41:02 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
-21:41:05 "[AGN] Starting Trader City Safezone Commander!"
-21:41:05 "Error: Attempting to start AGN products on a server where it should not be!"
-21:41:05 "HIVE: Starting"
-21:41:05 "HIVE: trying to get objects"
-21:41:07 "HIVE: found 1505 objects"
-21:41:07 "HIVE: Commence Object Streaming..."
-21:41:07 "HIVE: got 1240 Epoch Objects and 265 Vehicles"
-21:41:13 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
-21:41:13 UH1Y_DZE: ObsGun - unknown animation source ObsGun
-21:41:31 "HIVE: Vehicle Spawn limit reached!"
-21:41:31 "HIVE: Spawning # of Debris: 0"
-21:41:31 "HIVE: Spawning # of Ammo Boxes: 3"
-21:41:31 "HIVE: Spawning # of Veins: 50"
-21:41:31 "Total Number of spawn locations 5"
-21:41:32 "EPOCH EVENTS INIT"
-21:42:39 Client: Remote object 2:11 not found
+ 2:01:49 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+ 2:01:49 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+ 2:01:49 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:49 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+ 2:01:57 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon
+ 2:01:57 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\wlk\non\non\amovpercmwlksnonwnondf.rtm differs (looped now 1)! MoveName: amovpercmrunsnonwbindf_rfl
+ 2:01:58 "DayZ Epoch: PRELOAD Functions\init [[<No group>:0 (FunctionsManager)],any]"
+ 2:01:58 "DayZ Epoch: MPframework inited"
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:32 No player found for channel 273195136 - message ignored
+ 2:02:33 Cannot create non-ai vehicle Land_Mil_Mil_Guardhouse,
+ 2:02:35 Warning Message: Cannot open object ibr\ibr_hangars\ibr_hangar.p3d
+ 2:02:35 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:02:35 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:02:35 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:02:35 ibr\ibr_hangars\ibr_hangar.p3d: No geometry and no visual shape
+ 2:02:35 Warning Message: Animation source Door01 not found in bin\config.bin/CfgVehicles/MAP_BarbGate/
+ 2:02:36 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack2/
+ 2:02:36 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:02:36 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:02:36 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:02:36 ca\misc\sphere2.p3d: No geometry and no visual shape
+ 2:02:36 Warning Message: Animation source TakeWeapon_hide not found in bin\config.bin/CfgVehicles/MAP_Gunrack1/
+ 2:02:37 "Res3tting B!S effects..."
+ 2:02:38 Warning: z\addons\dayz_communityassets\models\compass.p3d:0 Error while trying to generate ST for points: 863, 853, 852
+ 2:02:41 "[AGN] Starting Trader City Safezone Commander!"
+ 2:02:41 "Error: Attempting to start AGN products on a server where it should not be!"
+ 2:02:41 "HIVE: Starting"
+ 2:02:41 "HIVE: trying to get objects"
+ 2:02:42 "HIVE: found 1505 objects"
+ 2:02:42 "HIVE: Commence Object Streaming..."
+ 2:02:43 "HIVE: got 1240 Epoch Objects and 265 Vehicles"
+ 2:02:50 UH1Y_DZE: ObsTurret - unknown animation source ObsTurret
+ 2:02:50 UH1Y_DZE: ObsGun - unknown animation source ObsGun
+ 2:03:08 "HIVE: Vehicle Spawn limit reached!"
+ 2:03:08 "HIVE: Spawning # of Debris: 0"
+ 2:03:08 "HIVE: Spawning # of Ammo Boxes: 3"
+ 2:03:08 "HIVE: Spawning # of Veins: 50"
+ 2:03:08 "Total Number of spawn locations 5"
+ 2:03:09 "DEBUG VEIN: on road [9214.86,6139.79]"
+ 2:03:09 "DEBUG VEIN: Too many objects at [11054.4,5092.56]"
+ 2:03:09 "EPOCH EVENTS INIT"
+ 2:04:02 "TIME SYNC: Local Time set to [2013,8,3,16,4]"
+ 2:04:04 "Res3tting B!S effects..."
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone leftshoulder doesn't exist in some skeleton 
+ 2:04:29 Error: Bone rightshoulder doesn't exist in some skeleton 
+ 2:04:43 bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 17)
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AmovPercMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 2:04:43 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDl.InterpolateTo: Bad move 
+ 2:04:43 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDb.InterpolateTo: Bad move 
+ 2:04:43 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: item count not multiple of 2 (is 9)
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDbr.InterpolateTo: Bad move 
+ 2:04:43 bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: item count not multiple of 2 (is 11)
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AmovPpneMrunSnonWnonDfr.InterpolateTo: Bad move 
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medicEnd
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic0
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic1
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic2
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic3
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic3
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic4
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic5
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic4
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDnon_medic5
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic0
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic1
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.ConnectTo: Bad move AinvPknlMstpSnonWnonDr_medic2
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDnon_medic0S
+ 2:04:43   bin\config.bin/CfgMovesZombie/States/AinvPknlMstpSnonWnonDnon_medic.InterpolateTo: Bad move AinvPknlMstpSnonWnonDr_medic0S
+ 2:05:07 "[DZMS]: Starting DayZ Epoch Mission System."
+ 2:05:07 "[DZMS]: Relations not found! Using DZMS Relations."
+ 2:05:07 "[DZMS]: Mission and Extended Configuration Loaded!"
+ 2:05:07 "[DZMS]: chernarus Detected. Map Specific Settings Adjusted!"
+ 2:05:07 "[DZMS]: DayZ Epoch Detected! Some Scripts Adjusted!"
+ 2:05:07 "[DZMS]: Mission Functions Script Loaded!"
+ 2:05:07 "[DZMS]: Major Mission Clock Starting!"
+ 2:05:07 "[DZMS]: Minor Mission Clock Starting!"
+ 2:05:07 "[DZMS]: Mission Marker Loop for JIPs Starting!"
+ 2:05:27 "[DZMS]: Running Minor Mission SM4."
+ 2:05:29 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 2:05:29 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 2:05:29 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 2:06:04 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 2:06:29 "[DZMS]: Running Major Mission SM4."
+ 2:07:27 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
