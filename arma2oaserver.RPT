@@ -343,3 +343,45 @@ g from [10450,-630,1000] to [8062.32,11844.5] NOW!(TIME:3291||LT:HeliCrash_No50s
 21:24:57 "CLEANUP: Deleted 26 Loot Piles out of 200"
 21:25:56 "CLEANUP: Deleted 1 Loot Piles out of 188"
 21:26:56 "CLEANUP: Deleted 6 Loot Piles out of 206"
+21:28:51 "TIME SYNC: Local Time set to [2013,8,3,17,28]"
+21:29:56 "CLEANUP: Deleted 5 Loot Piles out of 205"
+21:30:05 "RUNNING EVENT: crash_spawner on [2014,7,24,17,30]"
+21:30:05 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+21:30:05 "CRASHSPAWNER: UH-60M MEV started
+
+g from [10450,-630,1000] to [4023.5,14082.3] NOW!(TIME:5093||LT:Hospital)"
+21:32:57 "CLEANUP: Deleted 18 Loot Piles out of 219"
+21:33:51 "TIME SYNC: Local Time set to [2013,8,3,17,33]"
+21:33:57 "CLEANUP: Deleted 8 Loot Piles out of 230"
+21:34:58 "CLEANUP: Deleted 14 Loot Piles out of 252"
+21:35:41 "get: STRING (242431430), sent: STRING (242431430)"
+21:35:41 "DISCONNECT: Ellis (242431430) Object: B 1-1-D:1 (Ellis) REMOTE, _characterID: 553 at loc [6907.16,2725.86,0.142161]"
+21:35:41 Client: Remote object 5:2 not found
+21:35:41 Client: Remote object 5:340 not found
+21:35:41 Warning: Cleanup player - person 5:339 not found
+21:35:41 "get: STRING (91476486), sent: STRING (91476486)"
+21:35:41 "DISCONNECT: Jackal (91476486) Object: B 1-1-A:1 (Jackal) REMOTE, _characterID: 555 at loc [6897.44,2707.79,0.134923]"
+21:35:41 Client: Remote object 4:2 not found
+21:35:41 Client: Remote object 4:504 not found
+21:35:41 Client: Remote object 4:503 not found
+21:35:41 Warning: Cleanup player - person 4:505 not found
+21:35:42 Warning: Cleanup player - person 5:339 not found
+21:35:42 Warning: Cleanup player - person 4:505 not found
+21:35:58 "CLEANUP: Deleted 29 Loot Piles out of 217"
+21:36:30 "CRASHSPAWNER: UH-60M MEV just exploded at [4166.53,14044.1,0.593567]!, "
+21:36:30 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+21:36:30 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+21:36:30 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4165.91,14040.1,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4168.71,14048.9,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4166.86,14049.3,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4160.94,14040.7,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4161.68,14043.7,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4162.04,14050.4,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4162.55,14048.7,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4157.46,14043,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4157.22,14048.7,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Loot spawn at '[4159.56,14056.7,0]' with loot table 'Hospital'"
+21:36:30 "CRASHSPAWNER: Crash completed! Wreck at: [4166.53,14044.1,-0.165497] - Runtime: 385 Seconds || Distance from calculated POC: 148 meters"
+21:36:58 "CLEANUP: Deleted 44 Loot Piles out of 198"
+21:37:55 "CLEANUP: Deleted 1 Loot Piles out of 154"
