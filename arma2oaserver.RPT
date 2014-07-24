@@ -272,3 +272,29 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 18:20:23 Server: Object 3:182 not found (message 70)
 18:20:23 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
 18:25:23 "TIME SYNC: Local Time set to [2013,8,3,20,25]"
+18:30:03 "RUNNING EVENT: crash_spawner on [2014,7,24,20,30]"
+18:30:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+18:30:03 "CRASHSPAWNER: UH-1H started
+
+g from [15186,11857,300] to [13566.5,14392.9] NOW!(TIME:807||LT:HeliCrash_No50s)"
+18:30:23 "TIME SYNC: Local Time set to [2013,8,3,20,30]"
+18:33:05 Server: Object 3:233 not found (message 91)
+18:33:05 Server: Object 3:232 not found (message 99)
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone leftshoulder doesn't exist in some skeleton 
+18:33:44 Error: Bone rightshoulder doesn't exist in some skeleton 
+18:34:18 "DELETE: B 1-1-C:1 (Colonel Casey) REMOTE Deleted by UID: 0"
+18:35:23 "TIME SYNC: Local Time set to [2013,8,3,20,35]"
