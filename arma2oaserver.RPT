@@ -873,3 +873,29 @@ g from [15098,8144,300] to [11698.3,10262.2] NOW!(TIME:10555||LT:MilitarySpecial
  5:17:28 "TIME SYNC: Local Time set to [2013,8,3,19,17]"
  5:17:38 "CLEANUP: Deleted 23 Loot Piles out of 134"
  5:18:37 "CLEANUP: Deleted 1 Loot Piles out of 112"
+ 5:20:09 "get: STRING (255024710), sent: STRING (255024710)"
+ 5:20:09 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-B:1 (Bored Shorts) REMOTE, _characterID: 545 at loc [8807.6,12100,0.0017395]"
+ 5:20:09 Client: Remote object 8:2 not found
+ 5:20:09 Client: Remote object 8:8 not found
+ 5:20:09 "CLEANUP: DELETED A "Land_Fire_DZ""
+ 5:20:26 "get: STRING (15791622), sent: STRING (15791622)"
+ 5:20:26 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-D:1 (Kmhuey) REMOTE, _characterID: 467 at loc [13888.2,11709,20.3877]"
+ 5:20:26 Client: Remote object 10:6 not found
+ 5:20:26 Client: Remote object 10:5 not found
+ 5:20:26 Client: Remote object 10:2 not found
+ 5:20:27 Warning: Cleanup player - person 10:7 not found
+ 5:20:28 Warning: Cleanup player - person 10:7 not found
+ 5:20:36 "CLEANUP: Deleted 1 Loot Piles out of 91"
+ 5:21:22 "nil player object attempting PV, :["4486214","BluntScopes"]"
+ 5:21:22 "get: STRING (), sent: STRING (4486214)"
+ 5:21:22 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-F:1 REMOTE, _characterID: 533 at loc [13862.4,11722.2,0.00170135]"
+ 5:21:22 Client: Remote object 12:0 not found
+ 5:21:22 Client: Remote object 12:8 not found
+ 5:21:24 Warning: Cleanup player - person 12:7 not found
+ 5:22:28 "TIME SYNC: Local Time set to [2013,8,3,19,22]"
+ 5:22:33 "CLEANUP: Deleted 68 Animals out of 68"
+ 5:26:35 "CLEANUP: Deleted 5 Loot Piles out of 90"
+ 5:27:28 "Purging player: 32dc6040# 1066778: man_survivor.p3d"
+ 5:27:28 "CLEANUP: Deleted 1 players and 0 zombies out of 2 dead"
+ 5:27:28 "TIME SYNC: Local Time set to [2013,8,3,19,27]"
+ 5:28:35 "CLEANUP: Deleted 1 Loot Piles out of 85"
