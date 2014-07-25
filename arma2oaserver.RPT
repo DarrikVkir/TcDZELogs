@@ -295,3 +295,43 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  3:46:01 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [575]. Position in debug! [-7245.97,19535.9,1.11758]"
  3:46:07 "[DZMS]: Running Major Mission SM5."
  3:47:08 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
+ 3:48:37 "get: STRING (148596870), sent: STRING (148596870)"
+ 3:48:37 "DISCONNECT: Jackhole (148596870) Object: B 1-1-B:1 (Jackhole) REMOTE, _characterID: 579 at loc [6156.33,1989.24,0.00137615]"
+ 3:48:37 Client: Remote object 7:2 not found
+ 3:48:37 Client: Remote object 7:8 not found
+ 3:48:37 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 3:49:08 Server: Object 8:9 not found (message 70)
+ 3:49:53 "get: STRING (15791622), sent: STRING (15791622)"
+ 3:49:53 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-B:1 (Kmhuey) REMOTE, _characterID: 578 at loc [1115.52,2503.5,0.00139904]"
+ 3:49:53 Client: Remote object 8:2 not found
+ 3:49:53 Client: Remote object 8:8 not found
+ 3:49:53 "CLEANUP: DELETED A "DebugBoxPlayer_DZ""
+ 3:49:53 Client: Object 5:38 (type Type_149) not found.
+ 3:52:08 "TIME SYNC: Local Time set to [2013,8,3,16,52]"
+ 3:52:53 Server: Object 10:9 not found (message 70)
+ 3:55:37 Server: Object 5:42 not found (message 94)
+ 3:57:08 "TIME SYNC: Local Time set to [2013,8,3,16,57]"
+ 3:58:09 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:58:09   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:58:09   Error count: Type Number, expected Array,Config entry
+ 3:58:09 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:58:11 "DELETE: <null> Deleted by UID: 0"
+ 3:58:11 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:58:11   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:58:11   Error Undefined variable in expression: _activatingplayer
+ 3:58:11 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:58:23 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:58:23   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:58:23   Error count: Type Number, expected Array,Config entry
+ 3:58:23 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:58:23 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:58:23   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:58:23   Error count: Type Number, expected Array,Config entry
+ 3:58:23 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
