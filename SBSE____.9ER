@@ -3718,3 +3718,8 @@ if(DZE_DeathMsgSide) then {
  3:24:57 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [570]. Position in debug! [-7236.6,19541.5,0.00192261]"
  3:24:57 Client: Remote object 10:1538 not found
  3:24:57 Client: Remote object 10:1537 not found
+ 3:25:14 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 3:25:18 "ERROR: server_playerSync: Cannot Sync Player Silentos [565]. Position in debug! [-7238.94,19539.2,0.174408]"
+ 3:25:19 "get: STRING (236904774), sent: STRING (236904774)"
+ 3:25:19 "DISCONNECT: Silentos (236904774) Object: B 1-1-L:1 (Silentos) REMOTE, _characterID: 565 at loc [-7238.94,19539.2,0.174408]"
+ 3:25:19 "ERROR: server_playerSync: Cannot Sync Player Silentos [565]. Position in debug! [-7238.94,19539.2,0.174408]"
