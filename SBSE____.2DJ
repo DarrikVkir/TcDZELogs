@@ -1075,3 +1075,11 @@ if (count _lastPos > 2 and count _charPos > >
  4:28:46 Server: Object 5:408 not found (message 70)
  4:28:46 Server: Object 5:405 not found (message 94)
  4:28:46 Server: Object 5:404 not found (message 94)
+ 4:29:30 "CLEANUP: Deleted 67 Loot Piles out of 617"
+ 4:30:05 "RUNNING EVENT: crash_spawner on [2014,7,25,17,30]"
+ 4:30:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 4:30:05 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [8863.47,4163.78] NOW!(TIME:2804||LT:HeliCrash_No50s)"
+ 4:30:25 "CLEANUP: Deleted 18 Loot Piles out of 555"
+ 4:30:47 Magazine SmokeShell (1 ammo left) not found
