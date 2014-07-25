@@ -3724,3 +3724,30 @@ if(DZE_DeathMsgSide) then {
  3:25:19 "DISCONNECT: Silentos (236904774) Object: B 1-1-L:1 (Silentos) REMOTE, _characterID: 565 at loc [-7238.94,19539.2,0.174408]"
  3:25:19 "ERROR: server_playerSync: Cannot Sync Player Silentos [565]. Position in debug! [-7238.94,19539.2,0.174408]"
  3:25:22 Warning: Cleanup player - person 3:768 not found
+ 3:26:00 "PHIT: B 1-1-C:1 (Jackhole) REMOTE was hit by B 1-1-H:1 (Bored Shorts) REMOTE with Colt1911 from 2.53888m with 0.256708 dmg"
+ 3:26:00 "PKILL: Jackhole was killed by Bored Shorts with weapon Colt1911 from 2.53888m"
+ 3:26:00 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:26:00   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:26:00   Error Undefined variable in expression: dze_deathmsgside
+ 3:26:00 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 3:26:00 "PDEATH: Player Died 148596870"
+ 3:26:27 "TIME SYNC: Local Time set to [2013,8,3,18,26]"
+ 3:26:27 "Purging player: 34dcc080# 1067747: pilot.p3d"
+ 3:26:28 "Purging player: 29a42040# 1060737: policeman.p3d"
+ 3:26:28 "Purging player: 2a050080# 1061058: tk_commander.p3d"
+ 3:26:28 "CLEANUP: Deleted 3 players and 0 zombies out of 24 dead"
+ 3:26:33 "CLEANUP: Deleted 51 Animals out of 69"
+ 3:26:45 "ERROR: server_playerSync: Cannot Sync Player Jackhole [566]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 3:26:47 "get: STRING (148596870), sent: STRING (148596870)"
+ 3:26:47 "DISCONNECT: Jackhole (148596870) Object: B 1-1-B:1 (Jackhole) REMOTE, _characterID: 566 at loc [-7239.67,19539.3,0.245972]"
+ 3:26:47 "ERROR: server_playerSync: Cannot Sync Player Jackhole [566]. Position in debug! [-7239.67,19539.3,0.245972]"
