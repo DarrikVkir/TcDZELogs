@@ -335,3 +335,159 @@ if (count _lastPos > 2 and count _charPos > >
  3:58:23   Error position: <count _lastPos > 2 and count _charPos > >
  3:58:23   Error count: Type Number, expected Array,Config entry
  3:58:23 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:58:45 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:58:45   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:58:45   Error count: Type Number, expected Array,Config entry
+ 3:58:45 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:59:08 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:59:08   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:59:08   Error count: Type Number, expected Array,Config entry
+ 3:59:08 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:59:50 Server: Object 10:12 not found (message 98)
+ 3:59:50 Server: Object 10:13 not found (message 91)
+ 4:00:00 "RUNNING EVENT: crash_spawner on [2014,7,25,17,0]"
+ 4:00:00 "CRASHSPAWNER: 100% chance to start a crashing Ka-52 (black) with loot table 'MilitarySpecial'"
+ 4:00:00 "CRASHSPAWNER: Ka-52 (black) started
+
+g from [1623.71,218.188,300] to [2515.39,10162.5] NOW!(TIME:1001||LT:MilitarySpecial)"
+ 4:00:07 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:00:07   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:00:07   Error count: Type Number, expected Array,Config entry
+ 4:00:07 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:00:55 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:00:55   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:00:55   Error count: Type Number, expected Array,Config entry
+ 4:00:55 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:01:18 "DELETE: <null> Deleted by UID: 0"
+ 4:01:18 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 4:01:18   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 4:01:18   Error Undefined variable in expression: _activatingplayer
+ 4:01:18 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 4:01:28 "DELETE: <null> Deleted by UID: 0"
+ 4:01:28 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 4:01:28   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 4:01:28   Error Undefined variable in expression: _activatingplayer
+ 4:01:28 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 4:01:36 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:01:36   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:01:36   Error count: Type Number, expected Array,Config entry
+ 4:01:36 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:01:38 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:01:38   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:01:38   Error count: Type Number, expected Array,Config entry
+ 4:01:38 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:01:38 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:01:38   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:01:38   Error count: Type Number, expected Array,Config entry
+ 4:01:38 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:02:08 "TIME SYNC: Local Time set to [2013,8,3,17,2]"
+ 4:02:09 "CLEANUP: Deleted 6 Animals out of 19"
+ 4:02:24 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:02:24   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:02:24   Error count: Type Number, expected Array,Config entry
+ 4:02:24 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:02:24 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:02:24   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:02:24   Error count: Type Number, expected Array,Config entry
+ 4:02:24 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:02:30 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Deactivated Admin Mode."
+ 4:03:28 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:03:28   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:03:28   Error count: Type Number, expected Array,Config entry
+ 4:03:28 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:05:46 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:05:46   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:05:46   Error count: Type Number, expected Array,Config entry
+ 4:05:46 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:06:08 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:06:08   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:06:08   Error count: Type Number, expected Array,Config entry
+ 4:06:08 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:06:24 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:06:24   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:06:24   Error count: Type Number, expected Array,Config entry
+ 4:06:24 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:06:29 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 4:06:40 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:06:40   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:06:40   Error count: Type Number, expected Array,Config entry
+ 4:06:40 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:06:54 Server: Object 5:108 not found (message 91)
+ 4:06:56 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:06:56   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:06:56   Error count: Type Number, expected Array,Config entry
+ 4:06:56 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:07:08 "TIME SYNC: Local Time set to [2013,8,3,17,7]"
+ 4:07:12 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:07:12   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:07:12   Error count: Type Number, expected Array,Config entry
+ 4:07:12 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:07:16 "CLEANUP: Deleted 61 Loot Piles out of 207"
+ 4:07:28 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:07:28   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:07:28   Error count: Type Number, expected Array,Config entry
+ 4:07:28 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:07:42 Server: Object 9:121 not found (message 94)
+ 4:07:42 Server: Object 9:120 not found (message 94)
+ 4:07:42 Server: Object 9:122 not found (message 94)
+ 4:07:42 Server: Object 9:123 not found (message 94)
+ 4:07:44 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:07:44   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:07:44   Error count: Type Number, expected Array,Config entry
+ 4:07:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:07:59 Server: Object 9:141 not found (message 70)
+ 4:07:59 Server: Object 9:140 not found (message 70)
+ 4:07:59 Server: Object 9:139 not found (message 70)
+ 4:07:59 Server: Object 9:138 not found (message 70)
+ 4:07:59 Server: Object 9:153 not found (message 70)
+ 4:07:59 Server: Object 9:152 not found (message 70)
+ 4:07:59 Server: Object 9:150 not found (message 70)
+ 4:07:59 Server: Object 9:151 not found (message 70)
+ 4:07:59 Server: Object 9:147 not found (message 94)
+ 4:07:59 Server: Object 9:148 not found (message 94)
+ 4:07:59 Server: Object 9:149 not found (message 94)
+ 4:07:59 Server: Object 9:157 not found (message 70)
+ 4:07:59 Server: Object 9:159 not found (message 70)
+ 4:07:59 Server: Object 9:154 not found (message 94)
+ 4:07:59 Server: Object 9:158 not found (message 70)
+ 4:07:59 Server: Object 9:156 not found (message 94)
+ 4:07:59 Server: Object 9:155 not found (message 70)
+ 4:07:59 Server: Object 9:160 not found (message 70)
+ 4:08:00 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:08:00   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:08:00   Error count: Type Number, expected Array,Config entry
+ 4:08:00 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:08:08 Server: Object 9:173 not found (message 94)
+ 4:08:08 Server: Object 9:172 not found (message 94)
+ 4:08:25 Server: Object 9:194 not found (message 70)
+ 4:08:25 Server: Object 9:193 not found (message 94)
+ 4:08:25 Server: Object 9:198 not found (message 94)
+ 4:08:25 Server: Object 9:199 not found (message 94)
+ 4:08:25 Server: Object 9:201 not found (message 94)
