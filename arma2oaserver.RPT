@@ -1146,3 +1146,50 @@ g from [15098,8144,300] to [8863.47,4163.78] NOW!(TIME:2804||LT:HeliCrash_No50s)
  4:47:09 "CLEANUP: Deleted 1 players and 0 zombies out of 9 dead"
  4:47:21 "CLEANUP: Deleted 17 Loot Piles out of 334"
  4:48:18 "CLEANUP: Deleted 6 Loot Piles out of 317"
+ 4:49:18 "CLEANUP: Deleted 26 Loot Piles out of 317"
+ 4:49:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:49:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:49:25   Error count: Type Number, expected Array,Config entry
+ 4:49:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:51:19 "CLEANUP: Deleted 2 Loot Piles out of 309"
+ 4:52:09 "TIME SYNC: Local Time set to [2013,8,3,17,52]"
+ 4:53:25 WARNING: Function 'name' - DarrikVkir [BOOTY] is dead
+ 4:53:25 "PDEATH: Player Died 23206790"
+ 4:53:51 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [575]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 4:53:53 "get: STRING (23206790), sent: STRING (23206790)"
+ 4:53:53 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-2-B:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 575 at loc [-7239.67,19539.3,0.246155]"
+ 4:53:53 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [575]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 4:53:53 Client: Remote object 6:2 not found
+ 4:53:55 Warning: Cleanup player - person 6:319 not found
+ 4:54:18 "CLEANUP: Deleted 22 Loot Piles out of 312"
+ 4:55:18 "CLEANUP: Deleted 2 Loot Piles out of 292"
+ 4:57:09 "Purging player: 2c76c080# 1060592: annie_original.p3d"
+ 4:57:09 "CLEANUP: Deleted 1 players and 0 zombies out of 2 dead"
+ 4:57:09 "TIME SYNC: Local Time set to [2013,8,3,17,57]"
+ 4:57:17 "CLEANUP: Deleted 1 Loot Piles out of 302"
+ 4:57:43 WARNING: Function 'name' - BluntScopes is dead
+ 4:57:43 "PHIT: B 1-1-B:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 201.152m with 1.22734 dmg"
+ 4:57:43 WARNING: Function 'name' - BluntScopes is dead
+ 4:57:43 "PKILL: BluntScopes was killed by Bored Shorts with weapon Mk_48_DZ from 201.152m"
+ 4:57:43 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:57:43   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:57:43   Error Undefined variable in expression: dze_deathmsgside
+ 4:57:43 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 4:57:43 "PDEATH: Player Died 4486214"
+ 4:58:21 "CLEANUP: Deleted 83 Loot Piles out of 304"
+ 4:58:26 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [572]. Position in debug! [-7239.67,19539.3,0.245514]"
+ 4:58:27 "get: STRING (4486214), sent: STRING (4486214)"
+ 4:58:27 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-A:1 (BluntScopes) REMOTE, _characterID: 572 at loc [-7239.67,19539.3,0.245514]"
+ 4:58:27 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [572]. Position in debug! [-7239.67,19539.3,0.245514]"
+ 4:58:27 Client: Remote object 9:0 not found
