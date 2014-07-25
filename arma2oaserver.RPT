@@ -582,3 +582,27 @@ g from [1623.71,218.188,300] to [2882,6073.61] NOW!(TIME:15891||LT:HeliCrash_No5
 };>
  0:36:42   Error Undefined variable in expression: _activatingplayer
  0:36:42 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 0:38:51 "TIME SYNC: Local Time set to [2013,8,3,20,38]"
+ 0:39:13 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+ 0:39:15 "CLIENTLOG: Admin Tools: BluntScopes | any."
+ 0:39:59 "CLEANUP: Deleted 12 Loot Piles out of 115"
+ 0:40:17 "CLIENTLOG: Admin Tools: BluntScopes | Deactivated Admin Mode."
+ 0:41:54 "get: STRING (4486214), sent: STRING (4486214)"
+ 0:41:54 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-C:1 (BluntScopes) REMOTE, _characterID: 533 at loc [6572.63,3408.52,0.00135803]"
+ 0:41:54 Client: Remote object 6:0 not found
+ 0:41:54 Client: Remote object 6:224 not found
+ 0:43:33 Warning: Cleanup player - person 6:223 not found
+ 0:43:42 "CRASHSPAWNER: UH-60M just exploded at [2841.07,6019.51,3.38489]!, "
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2839.61,6023.24,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2836.37,6021.94,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2845.9,6016.28,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2845.53,6026.56,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2837.4,6014.88,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2838.82,6023.07,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2840.09,6011.73,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2836.81,6016.81,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2841.61,6025.29,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2847.46,6022.1,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Loot spawn at '[2842.33,6023.91,0]' with loot table 'HeliCrash_No50s'"
+ 0:43:42 "CRASHSPAWNER: Crash completed! Wreck at: [2841.07,6019.51,-0.142151] - Runtime: 819 Seconds || Distance from calculated POC: 68 meters"
+ 0:43:52 "TIME SYNC: Local Time set to [2013,8,3,20,43]"
