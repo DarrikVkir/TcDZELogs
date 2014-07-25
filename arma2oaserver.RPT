@@ -1637,3 +1637,8 @@ g from [10450,-630,1000] to [11987,11012.6] NOW!(TIME:19001||LT:MilitarySpecial)
  9:12:10 "TIME SYNC: Local Time set to [2013,8,3,22,12]"
  9:15:06 "RUNNING EVENT: supply_drop on [2014,7,25,22,15]"
  9:17:10 "TIME SYNC: Local Time set to [2013,8,3,22,17]"
+ 9:22:10 "TIME SYNC: Local Time set to [2013,8,3,22,22]"
+ 9:24:13 NAT Negotiation completed
+ 9:24:16 No player found for channel 735600768 - message ignored
+ 9:24:40 NAT Negotiation failed - partner not found
+ 9:27:10 "TIME SYNC: Local Time set to [2013,8,3,22,27]"
