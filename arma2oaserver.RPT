@@ -1452,3 +1452,8 @@ if(DZE_DeathMsgSide) then {
  5:44:12 "CLEANUP: Deleted 1 Loot Piles out of 35"
  5:47:09 "TIME SYNC: Local Time set to [2013,8,3,18,47]"
  5:47:10 "CLEANUP: Deleted 23 Animals out of 23"
+ 5:52:09 "TIME SYNC: Local Time set to [2013,8,3,18,52]"
+ 5:54:12 "CLEANUP: Deleted 12 Loot Piles out of 34"
+ 5:57:09 "Purging player: 2c73a040# 1060595: man_survivor.p3d"
+ 5:57:09 "CLEANUP: Deleted 1 players and 0 zombies out of 2 dead"
+ 5:57:09 "TIME SYNC: Local Time set to [2013,8,3,18,57]"
