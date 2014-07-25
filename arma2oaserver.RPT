@@ -1602,3 +1602,17 @@ g from [15098,8144,300] to [5700.55,9759.28] NOW!(TIME:15398||LT:MilitarySpecial
  8:12:10 "TIME SYNC: Local Time set to [2013,8,3,21,12]"
  8:15:02 "RUNNING EVENT: supply_drop on [2014,7,25,21,15]"
  8:17:10 "TIME SYNC: Local Time set to [2013,8,3,21,17]"
+ 8:22:10 "TIME SYNC: Local Time set to [2013,8,3,21,22]"
+ 8:22:21 "get: STRING (76561198023793261), sent: STRING (76561198023793261)"
+ 8:22:21 "DISCONNECT: lince (76561198023793261) Object: B 1-1-A:1 (lince) REMOTE, _characterID: 0 at loc [-7244.94,19534.5,1.10648]"
+ 8:22:21 "ERROR: Cannot Sync Character lince as no characterID"
+ 8:22:21 Client: Remote object 2:5874 not found
+ 8:22:21 Client: Remote object 14:2 not found
+ 8:24:36 "get: STRING (76561198023793261), sent: STRING (76561198023793261)"
+ 8:24:36 "DISCONNECT: lince (76561198023793261) Object: B 1-1-A:1 (lince) REMOTE, _characterID: 0 at loc [-7244.94,19534.5,1.10648]"
+ 8:24:36 "ERROR: Cannot Sync Character lince as no characterID"
+ 8:24:36 Client: Remote object 15:2 not found
+ 8:24:36 Client: Remote object 2:5877 not found
+ 8:24:36 Client: Remote object 2:5878 not found
+ 8:24:36 Client: Remote object 2:5879 not found
+ 8:27:10 "TIME SYNC: Local Time set to [2013,8,3,21,27]"
