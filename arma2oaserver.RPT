@@ -2392,3 +2392,1372 @@ _key = format["CHILD:30>
 _key = format["CHILD:30>
  3:08:31   Error Undefined variable in expression: _id
  3:08:31 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 3:08:41 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 3:08:41   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 3:08:41   Error Undefined variable in expression: _id
+ 3:08:41 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 3:08:43 "CLEANUP: Deleted 52 Loot Piles out of 321"
+ 3:08:51 "DELETE: <null> Deleted by UID: 0"
+ 3:08:51 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:08:51   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:08:51   Error Undefined variable in expression: _activatingplayer
+ 3:08:51 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:08:57 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 318.042m with 0.334982 dmg"
+ 3:08:57 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error Undefined variable in expression: _weapon
+ 3:08:57 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:08:57 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 324.208m with 0.108099 dmg"
+ 3:08:57 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error Undefined variable in expression: _weapon
+ 3:08:57 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:08:57 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 315.679m with 0.212297 dmg"
+ 3:08:57 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error Undefined variable in expression: _weapon
+ 3:08:57 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:08:57 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 321.836m with 1.20219 dmg"
+ 3:08:57 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error Undefined variable in expression: _weapon
+ 3:08:57 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:08:57 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 313.2m with 0.293887 dmg"
+ 3:08:57 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error Undefined variable in expression: _weapon
+ 3:08:57 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:08:57 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 308.366m with 0.162503 dmg"
+ 3:08:57 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error Undefined variable in expression: _weapon
+ 3:08:57 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:08:57 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 314.494m with 0.799563 dmg"
+ 3:08:57 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:57   Error Undefined variable in expression: _weapon
+ 3:08:57 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 164.112m with 9.075 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 171.183m with 1.07078 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 161.267m with 9.075 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 163.044m with 1.93472 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 160.444m with 0.701411 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 153.147m with 8.9873 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 150.318m with 9.075 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:00 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 157.727m with 1.01825 dmg"
+ 3:09:00 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:09:00   Error Undefined variable in expression: _weapon
+ 3:09:00 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:09:13 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 3:09:13   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 3:09:13   Error Undefined variable in expression: _id
+ 3:09:13 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 3:09:40 "CLEANUP: Deleted 29 Loot Piles out of 269"
+ 3:10:39 "CLEANUP: Deleted 14 Loot Piles out of 240"
+ 3:10:48 "DELETE: <null> Deleted by UID: 0"
+ 3:10:48 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:10:48   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:10:48   Error Undefined variable in expression: _activatingplayer
+ 3:10:48 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:11:00 Server: Object 10:1278 not found (message 70)
+ 3:11:00 Server: Object 10:1279 not found (message 70)
+ 3:11:07 Client: Object 20:47 (type Type_70) not found.
+ 3:11:07 Client: Object 20:47 (type Type_69) not found.
+ 3:11:07 Client: Object 20:46 (type Type_70) not found.
+ 3:11:07 Client: Object 20:46 (type Type_69) not found.
+ 3:11:07 Client: Object 20:46 (type Type_70) not found.
+ 3:11:07 Client: Object 20:46 (type Type_70) not found.
+ 3:11:07 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 "DELETE: <null> Deleted by UID: 0"
+ 3:11:08 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:11:08   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:11:08   Error Undefined variable in expression: _activatingplayer
+ 3:11:08 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:08 Client: Object 20:46 (type Type_70) not found.
+ 3:11:10 Client: Object 20:46 (type Type_70) not found.
+ 3:11:12 Client: Object 20:46 (type Type_70) not found.
+ 3:11:14 Client: Object 20:46 (type Type_70) not found.
+ 3:11:16 Client: Object 20:46 (type Type_70) not found.
+ 3:11:17 Client: Object 20:46 (type Type_69) not found.
+ 3:11:18 Client: Object 20:46 (type Type_70) not found.
+ 3:11:19 "DELETE: <null> Deleted by UID: 0"
+ 3:11:19 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:11:19   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:11:19   Error Undefined variable in expression: _activatingplayer
+ 3:11:19 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:11:20 Client: Object 20:46 (type Type_70) not found.
+ 3:11:22 Client: Object 20:46 (type Type_70) not found.
+ 3:11:22 Client: Object 20:46 (type Type_69) not found.
+ 3:11:24 Client: Object 20:46 (type Type_70) not found.
+ 3:11:26 Client: Object 20:46 (type Type_70) not found.
+ 3:11:27 "TIME SYNC: Local Time set to [2013,8,3,18,11]"
+ 3:11:27 Client: Object 20:46 (type Type_69) not found.
+ 3:11:28 Client: Object 20:46 (type Type_70) not found.
+ 3:11:29 "CLEANUP: Deleted 11 Animals out of 52"
+ 3:11:30 Client: Object 20:46 (type Type_70) not found.
+ 3:11:30 "DELETE: <null> Deleted by UID: 0"
+ 3:11:30 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:11:30   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:11:30   Error Undefined variable in expression: _activatingplayer
+ 3:11:30 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:11:32 Client: Object 20:46 (type Type_70) not found.
+ 3:11:32 Client: Object 20:46 (type Type_69) not found.
+ 3:11:34 Client: Object 20:46 (type Type_70) not found.
+ 3:11:36 Client: Object 20:46 (type Type_70) not found.
+ 3:11:37 Client: Object 20:46 (type Type_69) not found.
+ 3:11:38 Client: Object 20:46 (type Type_70) not found.
+ 3:11:39 "CLEANUP: Deleted 29 Loot Piles out of 226"
+ 3:11:40 Client: Object 20:46 (type Type_70) not found.
+ 3:11:42 Client: Object 20:46 (type Type_70) not found.
+ 3:11:42 Client: Object 20:46 (type Type_69) not found.
+ 3:11:44 Client: Object 20:46 (type Type_70) not found.
+ 3:11:46 Client: Object 20:46 (type Type_70) not found.
+ 3:11:47 Client: Object 20:46 (type Type_69) not found.
+ 3:11:47 Server: Object 3:460 not found (message 94)
+ 3:11:47 Server: Object 3:458 not found (message 94)
+ 3:11:47 Server: Object 3:459 not found (message 94)
+ 3:11:47 Server: Object 3:461 not found (message 94)
+ 3:11:47 Server: Object 3:462 not found (message 94)
+ 3:11:47 Server: Object 3:464 not found (message 70)
+ 3:11:47 Server: Object 3:466 not found (message 70)
+ 3:11:47 Server: Object 3:463 not found (message 94)
+ 3:11:47 Server: Object 3:465 not found (message 94)
+ 3:11:47 Server: Object 3:467 not found (message 98)
+ 3:11:47 Server: Object 3:468 not found (message 91)
+ 3:11:48 Client: Object 20:46 (type Type_70) not found.
+ 3:11:48 Server: Object 3:493 not found (message 70)
+ 3:11:48 Server: Object 3:494 not found (message 70)
+ 3:11:48 Server: Object 3:492 not found (message 70)
+ 3:11:48 Server: Object 3:491 not found (message 94)
+ 3:11:48 Server: Object 3:497 not found (message 91)
+ 3:11:48 Server: Object 3:496 not found (message 99)
+ 3:11:48 Server: Object 3:499 not found (message 91)
+ 3:11:48 Server: Object 3:498 not found (message 99)
+ 3:11:48 Server: Object 3:507 not found (message 70)
+ 3:11:48 Server: Object 3:508 not found (message 70)
+ 3:11:48 Server: Object 3:506 not found (message 70)
+ 3:11:48 Server: Object 3:505 not found (message 70)
+ 3:11:48 Server: Object 3:510 not found (message 91)
+ 3:11:48 Server: Object 3:509 not found (message 99)
+ 3:11:50 Client: Object 20:46 (type Type_70) not found.
+ 3:11:52 Client: Object 20:46 (type Type_70) not found.
+ 3:11:52 Client: Object 20:46 (type Type_69) not found.
+ 3:11:54 Client: Object 20:46 (type Type_70) not found.
+ 3:11:56 Client: Object 20:46 (type Type_70) not found.
+ 3:11:57 Client: Object 20:46 (type Type_69) not found.
+ 3:11:58 Client: Object 20:46 (type Type_70) not found.
+ 3:12:00 Client: Object 20:46 (type Type_70) not found.
+ 3:12:02 Client: Object 20:46 (type Type_70) not found.
+ 3:12:02 Client: Object 20:46 (type Type_69) not found.
+ 3:12:04 Client: Object 20:46 (type Type_70) not found.
+ 3:12:06 Client: Object 20:46 (type Type_70) not found.
+ 3:12:07 Client: Object 20:46 (type Type_69) not found.
+ 3:12:08 Client: Object 20:46 (type Type_70) not found.
+ 3:12:10 Client: Object 20:46 (type Type_70) not found.
+ 3:12:12 Client: Object 20:46 (type Type_70) not found.
+ 3:12:12 Client: Object 20:46 (type Type_69) not found.
+ 3:12:14 Client: Object 20:46 (type Type_70) not found.
+ 3:12:16 Client: Object 20:46 (type Type_70) not found.
+ 3:12:17 Client: Object 20:46 (type Type_69) not found.
+ 3:12:18 Client: Object 20:46 (type Type_70) not found.
+ 3:12:20 Client: Object 20:46 (type Type_70) not found.
+ 3:12:22 Client: Object 20:46 (type Type_70) not found.
+ 3:12:22 Client: Object 20:46 (type Type_69) not found.
+ 3:12:24 Client: Object 20:46 (type Type_70) not found.
+ 3:12:26 Client: Object 20:46 (type Type_70) not found.
+ 3:12:27 Client: Object 20:46 (type Type_69) not found.
+ 3:12:28 Client: Object 20:46 (type Type_70) not found.
+ 3:12:30 Client: Object 20:46 (type Type_70) not found.
+ 3:12:32 Client: Object 20:46 (type Type_70) not found.
+ 3:12:32 Client: Object 20:46 (type Type_69) not found.
+ 3:12:34 Client: Object 20:46 (type Type_70) not found.
+ 3:12:36 Client: Object 20:46 (type Type_70) not found.
+ 3:12:37 Client: Object 20:46 (type Type_69) not found.
+ 3:12:38 Client: Object 20:46 (type Type_70) not found.
+ 3:12:38 "CLEANUP: Deleted 8 Loot Piles out of 237"
+ 3:12:40 Client: Object 20:46 (type Type_70) not found.
+ 3:12:42 Client: Object 20:46 (type Type_70) not found.
+ 3:12:42 Client: Object 20:46 (type Type_69) not found.
+ 3:12:44 Client: Object 20:46 (type Type_70) not found.
+ 3:12:46 Client: Object 20:46 (type Type_70) not found.
+ 3:12:47 Client: Object 20:46 (type Type_69) not found.
+ 3:12:48 Client: Object 20:46 (type Type_70) not found.
+ 3:12:50 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-H:1 (Jackhole) REMOTE with MeleeHatchet_DZE from 4.34984m with 1.66614 dmg"
+ 3:12:50 "DELETE: <null> Deleted by UID: 0"
+ 3:12:50 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:12:50   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:12:50   Error Undefined variable in expression: _activatingplayer
+ 3:12:50 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:12:50 Client: Object 20:46 (type Type_70) not found.
+ 3:12:52 Client: Object 20:46 (type Type_70) not found.
+ 3:12:52 Client: Object 20:46 (type Type_69) not found.
+ 3:12:54 Client: Object 20:46 (type Type_70) not found.
+ 3:12:56 Client: Object 20:46 (type Type_70) not found.
+ 3:12:57 Client: Object 20:46 (type Type_69) not found.
+ 3:12:58 Client: Object 20:46 (type Type_70) not found.
+ 3:13:00 Client: Object 20:46 (type Type_70) not found.
+ 3:13:02 Client: Object 20:46 (type Type_70) not found.
+ 3:13:02 Client: Object 20:46 (type Type_69) not found.
+ 3:13:04 Client: Object 20:46 (type Type_70) not found.
+ 3:13:06 Client: Object 20:46 (type Type_70) not found.
+ 3:13:07 Client: Object 20:46 (type Type_69) not found.
+ 3:13:08 Client: Object 20:46 (type Type_70) not found.
+ 3:13:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:10 Client: Object 20:46 (type Type_70) not found.
+ 3:13:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:11 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:12 Client: Object 20:46 (type Type_69) not found.
+ 3:13:12 Client: Object 20:46 (type Type_70) not found.
+ 3:13:12 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:14 Client: Object 20:46 (type Type_70) not found.
+ 3:13:14 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:16 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:16 Client: Object 20:46 (type Type_70) not found.
+ 3:13:16 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:17 Client: Object 20:46 (type Type_69) not found.
+ 3:13:18 Client: Object 20:46 (type Type_70) not found.
+ 3:13:18 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:20 Client: Object 20:46 (type Type_70) not found.
+ 3:13:20 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:21 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:22 Client: Object 20:46 (type Type_69) not found.
+ 3:13:22 Client: Object 20:46 (type Type_70) not found.
+ 3:13:22 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:24 Client: Object 20:46 (type Type_70) not found.
+ 3:13:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:26 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:26 Client: Object 20:46 (type Type_70) not found.
+ 3:13:26 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:27 Client: Object 20:46 (type Type_69) not found.
+ 3:13:28 Client: Object 20:46 (type Type_70) not found.
+ 3:13:28 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:30 Client: Object 20:46 (type Type_70) not found.
+ 3:13:30 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:31 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:32 Client: Object 20:46 (type Type_69) not found.
+ 3:13:32 Client: Object 20:46 (type Type_70) not found.
+ 3:13:32 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:34 Client: Object 20:46 (type Type_70) not found.
+ 3:13:34 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:36 Client: Object 20:46 (type Type_70) not found.
+ 3:13:36 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:36 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:37 Client: Object 20:46 (type Type_69) not found.
+ 3:13:37 "DELETE: <null> Deleted by UID: 0"
+ 3:13:37 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:13:37   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:13:37   Error Undefined variable in expression: _activatingplayer
+ 3:13:37 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:13:38 Client: Object 20:46 (type Type_70) not found.
+ 3:13:38 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:40 Client: Object 20:46 (type Type_70) not found.
+ 3:13:40 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:41 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:41 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-H:1 (Jackhole) REMOTE with MakarovSD from 11.1702m with 0.146987 dmg"
+ 3:13:41 "PKILL: BluntScopes was killed by Jackhole with weapon MakarovSD from 11.1702m"
+ 3:13:41 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:13:41   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:13:41   Error Undefined variable in expression: dze_deathmsgside
+ 3:13:41 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 3:13:41 "PDEATH: Player Died 4486214"
+ 3:13:41 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-H:1 (Jackhole) REMOTE with MakarovSD from 11.1702m with 0.146988 dmg"
+ 3:13:41 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-H:1 (Jackhole) REMOTE with MakarovSD from 11.1702m with 0.146984 dmg"
+ 3:13:41 WARNING: Function 'name' - BluntScopes is dead
+ 3:13:41 "PHIT: B 1-1-H:1 (Jackhole) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Colt1911 from 11.0303m with 0.254367 dmg"
+ 3:13:41 WARNING: Function 'name' - BluntScopes is dead
+ 3:13:42 Client: Object 20:46 (type Type_69) not found.
+ 3:13:42 Client: Object 20:46 (type Type_70) not found.
+ 3:13:42 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:43 "CLEANUP: Deleted 10 Loot Piles out of 348"
+ 3:13:44 Client: Object 20:46 (type Type_70) not found.
+ 3:13:44 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:46 Client: Object 20:46 (type Type_70) not found.
+ 3:13:46 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:46 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:46 Client: Object 20:46 (type Type_69) not found.
+ 3:13:48 Client: Object 20:46 (type Type_70) not found.
+ 3:13:48 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:50 Client: Object 20:46 (type Type_70) not found.
+ 3:13:50 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:51 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:51 Client: Object 20:46 (type Type_69) not found.
+ 3:13:52 Client: Object 20:46 (type Type_70) not found.
+ 3:13:52 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:54 Client: Object 20:46 (type Type_70) not found.
+ 3:13:54 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:56 Client: Object 20:46 (type Type_70) not found.
+ 3:13:56 Client: Object 10:1304 (type Type_69) not found.
+ 3:13:56 Client: Object 10:1304 (type Type_70) not found.
+ 3:13:56 Client: Object 20:46 (type Type_69) not found.
+ 3:13:58 Client: Object 20:46 (type Type_70) not found.
+ 3:13:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:00 Client: Object 20:46 (type Type_70) not found.
+ 3:14:00 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [571]. Position in debug! [-7239.67,19539.3,0.245483]"
+ 3:14:00 "get: STRING (4486214), sent: STRING (4486214)"
+ 3:14:00 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-M:1 (BluntScopes) REMOTE, _characterID: 571 at loc [-7239.67,19539.3,0.245483]"
+ 3:14:00 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [571]. Position in debug! [-7239.67,19539.3,0.245483]"
+ 3:14:00 Client: Remote object 20:2 not found
+ 3:14:00 Client: Remote object 20:46 not found
+ 3:14:00 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:01 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:06 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:11 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:11 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:11 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with M270 MLRS from 108.823m with 0.0687721 dmg"
+ 3:14:11 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:14:11   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:14:11   Error Undefined variable in expression: _weapon
+ 3:14:11 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:14:13 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:15 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:16 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:17 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:17 Server: Object 8:567 not found (message 70)
+ 3:14:19 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:20 "PHIT: B 1-1-H:1 (Jackhole) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with M270 MLRS from 393.553m with 0.379338 dmg"
+ 3:14:20 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:14:20   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:14:20   Error Undefined variable in expression: _weapon
+ 3:14:20 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:14:21 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:21 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:23 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:25 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:26 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:27 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:29 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:31 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:31 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:33 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:35 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:36 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:37 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:39 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:41 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:41 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:43 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:43 "CLEANUP: Deleted 1 Loot Piles out of 378"
+ 3:14:45 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:46 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:47 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:48 "TELEPORT REVERT for player UID#4486214 from [11733.9,3379.51,0.00109088] to [1105.51,2466.7,0.00142574], 10668 meters, now at [11733.9,3379.51,0.00109088]"
+ 3:14:49 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:51 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:51 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:53 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 0.891542m with 1.47807 dmg"
+ 3:14:53 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:55 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:56 Client: Object 10:1304 (type Type_69) not found.
+ 3:14:57 Client: Object 10:1304 (type Type_70) not found.
+ 3:14:59 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:01 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:01 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:03 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:05 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:06 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:07 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:09 "RUNNING EVENT: supply_drop on [2014,7,25,18,15]"
+ 3:15:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:11 Server: Object 6:759 not found (message 99)
+ 3:15:11 Server: Object 6:760 not found (message 91)
+ 3:15:11 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:11 Server: Object 6:764 not found (message 91)
+ 3:15:11 Server: Object 6:766 not found (message 91)
+ 3:15:11 Server: Object 6:765 not found (message 99)
+ 3:15:11 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:11 Server: Object 6:768 not found (message 91)
+ 3:15:11 Server: Object 6:767 not found (message 99)
+ 3:15:11 Server: Object 6:770 not found (message 91)
+ 3:15:11 Server: Object 6:769 not found (message 99)
+ 3:15:11 Server: Object 6:776 not found (message 91)
+ 3:15:11 Server: Object 6:775 not found (message 99)
+ 3:15:11 Server: Object 6:778 not found (message 91)
+ 3:15:13 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:13 "TELEPORT REVERT for player UID#4486214 from [11726.6,3393.4,0.0327897] to [1285.96,2733.85,-1.64964], 10461 meters, now at [11726.3,3393.04,1.11051]"
+ 3:15:13 "TELEPORT REVERT for player UID#4486214 from [11726.6,3393.4,0.0327897] to [1285.91,2733.78,0.00595093], 10461 meters, now at [11726.2,3393,1.06054]"
+ 3:15:15 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:16 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:17 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:19 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:21 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:21 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:23 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:25 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:26 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:27 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:29 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:31 "DELETE: <null> Deleted by UID: 0"
+ 3:15:31 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:15:31   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:15:31   Error Undefined variable in expression: _activatingplayer
+ 3:15:31 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:15:31 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:31 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:33 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:35 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:36 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:37 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:39 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:41 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:41 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:43 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:45 "CLEANUP: Deleted 5 Loot Piles out of 396"
+ 3:15:45 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:46 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:47 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:49 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:51 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:51 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:53 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:55 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:56 Client: Object 10:1304 (type Type_69) not found.
+ 3:15:57 Client: Object 10:1304 (type Type_70) not found.
+ 3:15:59 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:01 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:01 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:03 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:05 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:06 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:07 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:11 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:11 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:12 "DELETE: <null> Deleted by UID: 0"
+ 3:16:12 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:16:12   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:16:12   Error Undefined variable in expression: _activatingplayer
+ 3:16:12 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:16:13 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:15 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:16 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:17 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:19 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:21 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:21 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:23 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:25 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:26 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:27 "DELETE: <null> Deleted by UID: 0"
+ 3:16:27 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:16:27   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:16:27   Error Undefined variable in expression: _activatingplayer
+ 3:16:27 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:16:27 "Purging player: 3349c080# 1067949: man_survivor.p3d"
+ 3:16:27 "TIME SYNC: Local Time set to [2013,8,3,18,16]"
+ 3:16:28 "CLEANUP: Deleted 1 players and 0 zombies out of 21 dead"
+ 3:16:28 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:30 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:32 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:32 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:33 "DELETE: <null> Deleted by UID: 0"
+ 3:16:33 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:16:33   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:16:33   Error Undefined variable in expression: _activatingplayer
+ 3:16:33 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:16:34 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:36 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:37 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:38 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:40 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:42 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:42 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:44 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:45 "CLEANUP: Deleted 8 Loot Piles out of 399"
+ 3:16:46 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:47 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:48 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:50 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:50 "TELEPORT REVERT for player UID#4486214 from [9603.55,2028.3,0.00113869] to [5136.09,2287.12,-1.51662], 4475 meters, now at [9603.87,2027.93,1.0525]"
+ 3:16:50 "TELEPORT REVERT for player UID#4486214 from [9603.55,2028.3,0.00113869] to [5136.12,2286.02,-0.0107889], 4475 meters, now at [9603.93,2028,0.94135]"
+ 3:16:52 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:52 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:54 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:56 Client: Object 10:1304 (type Type_70) not found.
+ 3:16:57 Client: Object 10:1304 (type Type_69) not found.
+ 3:16:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:00 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:01 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 3:17:01   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 3:17:01   Error Undefined variable in expression: _id
+ 3:17:01 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 3:17:02 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:07 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:12 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:12 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:14 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:16 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:17 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:18 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:20 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:22 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:22 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:25 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:27 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:27 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:29 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:31 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:32 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:33 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:35 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:37 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:37 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:39 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:42 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:43 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:45 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:45 "CLEANUP: Deleted 8 Loot Piles out of 392"
+ 3:17:47 "DELETE: <null> Deleted by UID: 0"
+ 3:17:47 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:17:47   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:17:47   Error Undefined variable in expression: _activatingplayer
+ 3:17:47 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:17:47 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:49 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:51 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:52 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:53 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:55 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:57 Client: Object 10:1304 (type Type_70) not found.
+ 3:17:57 Client: Object 10:1304 (type Type_69) not found.
+ 3:17:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:02 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:07 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:12 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:14 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:16 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:17 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:18 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:20 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:22 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:26 Server: Object 18:186 not found (message 99)
+ 3:18:26 Server: Object 18:187 not found (message 91)
+ 3:18:26 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:27 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:28 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:32 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:36 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:37 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:38 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:40 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:42 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:42 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:45 "CLEANUP: Deleted 4 Loot Piles out of 385"
+ 3:18:46 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:47 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:48 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:50 Server: Object 18:200 not found (message 98)
+ 3:18:50 Server: Object 18:201 not found (message 91)
+ 3:18:50 Server: Object 18:203 not found (message 91)
+ 3:18:50 Server: Object 18:202 not found (message 98)
+ 3:18:50 Server: Object 18:205 not found (message 91)
+ 3:18:50 Server: Object 18:204 not found (message 99)
+ 3:18:50 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:52 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:52 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:54 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:56 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:57 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:00 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:02 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:07 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:12 "get: STRING (148596870), sent: STRING (148596870)"
+ 3:19:12 "DISCONNECT: Jackhole (148596870) Object: B 1-1-H:1 (Jackhole) REMOTE, _characterID: 566 at loc [835.499,1919.58,0.00143337]"
+ 3:19:12 Client: Remote object 11:440 not found
+ 3:19:12 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:12 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:14 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:16 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:17 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:18 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:20 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:22 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:22 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:26 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:27 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:28 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:30 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:32 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:32 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:34 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:36 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:37 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:38 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:40 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:42 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:42 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:44 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:46 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:47 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:48 "CLEANUP: Deleted 82 Loot Piles out of 377"
+ 3:19:48 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:50 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:52 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:52 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:54 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:56 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:57 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:00 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:02 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:07 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:12 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:12 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:14 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:16 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:17 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:18 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:20 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:22 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:22 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:26 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:27 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:28 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:30 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:32 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:33 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:34 Server: Object 20:122 not found (message 98)
+ 3:20:34 Server: Object 20:123 not found (message 91)
+ 3:20:34 Server: Object 20:125 not found (message 91)
+ 3:20:34 Server: Object 20:124 not found (message 99)
+ 3:20:34 Server: Object 20:127 not found (message 91)
+ 3:20:34 Server: Object 20:126 not found (message 99)
+ 3:20:34 Server: Object 20:130 not found (message 99)
+ 3:20:34 Server: Object 20:131 not found (message 91)
+ 3:20:34 Server: Object 20:135 not found (message 91)
+ 3:20:34 Server: Object 20:134 not found (message 99)
+ 3:20:34 Server: Object 20:136 not found (message 99)
+ 3:20:34 Server: Object 20:137 not found (message 91)
+ 3:20:35 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:37 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:37 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:39 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:41 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:42 "CLEANUP: Deleted 8 Loot Piles out of 295"
+ 3:20:42 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:43 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:45 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:47 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:47 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:49 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:51 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:52 Server: Object 18:257 not found (message 94)
+ 3:20:52 Server: Object 18:255 not found (message 94)
+ 3:20:52 Server: Object 18:256 not found (message 94)
+ 3:20:52 Server: Object 18:258 not found (message 94)
+ 3:20:52 Server: Object 18:259 not found (message 94)
+ 3:20:52 Server: Object 18:260 not found (message 94)
+ 3:20:52 Server: Object 18:261 not found (message 94)
+ 3:20:52 Server: Object 18:262 not found (message 94)
+ 3:20:52 Server: Object 18:263 not found (message 94)
+ 3:20:52 Server: Object 18:264 not found (message 94)
+ 3:20:52 Server: Object 18:271 not found (message 94)
+ 3:20:52 Server: Object 18:265 not found (message 94)
+ 3:20:52 Server: Object 18:266 not found (message 94)
+ 3:20:52 Server: Object 18:267 not found (message 94)
+ 3:20:52 Server: Object 18:268 not found (message 94)
+ 3:20:52 Server: Object 18:269 not found (message 94)
+ 3:20:52 Server: Object 18:270 not found (message 94)
+ 3:20:52 Server: Object 18:273 not found (message 70)
+ 3:20:52 Server: Object 18:272 not found (message 94)
+ 3:20:52 Server: Object 18:276 not found (message 94)
+ 3:20:52 Server: Object 18:274 not found (message 94)
+ 3:20:52 Server: Object 18:275 not found (message 94)
+ 3:20:52 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:53 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:55 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:56 "PDEATH: Player Died 255024710"
+ 3:20:56 "TELEPORT REVERT for player UID#255024710 from [4584.32,2285.79,136.19] to [4586.82,2276.82,0.00143957], 137 meters, now at [4584.32,2285.79,136.19]"
+ 3:20:57 Client: Object 10:1304 (type Type_70) not found.
+ 3:20:57 Client: Object 10:1304 (type Type_69) not found.
+ 3:20:59 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:01 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:02 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:03 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:05 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:07 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:07 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:11 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:12 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:13 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:15 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:17 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:17 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:18 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [569]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 3:21:19 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:19 "get: STRING (255024710), sent: STRING (255024710)"
+ 3:21:19 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-B:1 (Bored Shorts) REMOTE, _characterID: 569 at loc [-7239.67,19539.3,0.245972]"
+ 3:21:19 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [569]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 3:21:21 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:22 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:23 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:25 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:27 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:27 "TIME SYNC: Local Time set to [2013,8,3,18,21]"
+ 3:21:28 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:29 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:31 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:33 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:33 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:33 Server: Object 11:592 not found (message 70)
+ 3:21:35 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:37 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:38 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:39 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:41 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:43 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:43 "CLEANUP: Deleted 8 Loot Piles out of 316"
+ 3:21:43 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:45 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:47 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:48 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:49 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:51 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with F-35B from 129.071m with 0.0993392 dmg"
+ 3:21:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:21:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:21:51   Error Undefined variable in expression: _weapon
+ 3:21:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:21:51 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:53 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:53 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:55 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:57 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:58 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:59 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:01 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:03 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:03 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:05 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:07 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:08 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:09 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:11 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:13 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:13 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:15 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:18 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:18 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:20 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:22 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:23 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:26 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:28 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:28 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:30 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:32 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:33 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:34 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:36 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:38 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:38 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:40 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:42 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:43 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:44 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:46 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:48 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:48 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:50 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:52 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:53 Client: Object 10:1304 (type Type_69) not found.
+ 3:22:54 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:56 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:22:58 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:00 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:03 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:05 WARNING: Function 'name' - Kmhuey is dead
+ 3:23:05 WARNING: Function 'name' - Kmhuey is dead
+ 3:23:05 WARNING: Function 'name' - Kmhuey is dead
+ 3:23:05 "PKILL: Kmhuey was killed by Miss Rachel  with weapon DMR from 0.891542m"
+ 3:23:05 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:23:05   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:23:05   Error Undefined variable in expression: dze_deathmsgside
+ 3:23:05 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 3:23:05 "PDEATH: Player Died 15791622"
+ 3:23:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:06 "DELETE: B 1-1-I:1 (BluntScopes) REMOTE Deleted by ID: 5276"
+ 3:23:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:08 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:12 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:13 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:14 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:16 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:18 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:18 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:20 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:22 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1487 (type Type_69) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1487 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:23 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:24 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:25 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:25 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:25 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:25 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:25 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:26 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:26 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:28 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [561]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 3:23:28 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:28 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:28 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:29 "get: STRING (15791622), sent: STRING (15791622)"
+ 3:23:29 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-B:1 (Kmhuey) REMOTE, _characterID: 561 at loc [-7239.67,19539.3,0.245728]"
+ 3:23:29 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [561]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 3:23:29 Client: Remote object 18:2 not found
+ 3:23:29 Client: Remote object 18:8 not found
+ 3:23:29 Client: Remote object 18:282 not found
+ 3:23:29 Client: Remote object 18:281 not found
+ 3:23:30 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:32 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:32 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:33 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:33 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:34 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:34 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:36 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:36 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:38 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:38 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:38 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:38 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:40 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:40 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:42 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:42 "CLEANUP: Deleted 18 Loot Piles out of 308"
+ 3:23:42 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:43 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:43 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:44 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:44 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:46 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:46 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:48 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:48 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:48 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:48 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:49 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:49 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:49 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:49 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:49 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:49 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:49 Server: Network message 90933d is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 90937f is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 9093a7 is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 9093ca is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 909415 is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 909438 is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 90947d is pending
+ 3:23:50 Server: Network message 90947e is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 9094cc is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Server: Network message 90950f is pending
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:50 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:51 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:52 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:52 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:53 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:53 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:53 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:53 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:54 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:54 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:54 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:55 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:55 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:56 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:56 "PHIT: B 1-1-H:1 (Bored Shorts) REMOTE was hit by B 1-1-C:1 (Jackhole) REMOTE with MeleeHatchet_DZE from 1.06142m with 1.66174 dmg"
+ 3:23:58 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:58 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:58 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:58 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:58 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:59 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:59 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:00 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:00 Client: Object 10:1304 (type Type_70) not found.
+ 3:24:00 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:00 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:01 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:01 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:02 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:24:02 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:03 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:03 Client: Object 10:1486 (type Type_69) not found.
+ 3:24:03 Client: Object 10:1304 (type Type_69) not found.
+ 3:24:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:24:05 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:24:07 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:08 Client: Object 10:1486 (type Type_69) not found.
+ 3:24:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:24:08 Client: Object 10:1304 (type Type_69) not found.
+ 3:24:09 Client: Object 10:1486 (type Type_70) not found.
+ 3:24:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:24:11 "get: STRING (23206790), sent: STRING (23206790)"
+ 3:24:11 "LOGOUT IN VEHICLE: DarrikVkir [BOOTY] at location [599.818,2032.73,0.802288]"
+ 3:24:11 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 570 at loc [599.818,2032.73,0.802288]"
+ 3:24:11 Client: Remote object 10:954 not found
+ 3:24:11 Client: Remote object 10:953 not found
+ 3:24:11 Client: Remote object 10:1486 not found
+ 3:24:11 Client: Remote object 10:1304 not found
+ 3:24:22 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+ 3:24:37 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 724.298m with 0.322133 dmg"
+ 3:24:38 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 731.825m with 0.314589 dmg"
+ 3:24:38 Server: Object 10:1535 not found (message 70)
+ 3:24:42 "PDEATH: Player Died 23206790"
+ 3:24:43 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 664.488m with 0.31065 dmg"
+ 3:24:43 WARNING: Function 'name' - Silentos is dead
+ 3:24:43 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 664.021m with 0.418129 dmg"
+ 3:24:43 WARNING: Function 'name' - Silentos is dead
+ 3:24:43 "PKILL: Silentos was killed by BluntScopes with weapon Stinger from 664.021m"
+ 3:24:43 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:24:43   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:24:43   Error Undefined variable in expression: dze_deathmsgside
+ 3:24:43 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 3:24:43 "PDEATH: Player Died 236904774"
+ 3:24:55 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [570]. Position in debug! [-7236.6,19541.5,0.00192261]"
+ 3:24:57 "get: STRING (23206790), sent: STRING (23206790)"
+ 3:24:57 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 570 at loc [-7236.6,19541.5,0.00192261]"
+ 3:24:57 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [570]. Position in debug! [-7236.6,19541.5,0.00192261]"
+ 3:24:57 Client: Remote object 10:1538 not found
+ 3:24:57 Client: Remote object 10:1537 not found
+ 3:25:14 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 3:25:18 "ERROR: server_playerSync: Cannot Sync Player Silentos [565]. Position in debug! [-7238.94,19539.2,0.174408]"
+ 3:25:19 "get: STRING (236904774), sent: STRING (236904774)"
+ 3:25:19 "DISCONNECT: Silentos (236904774) Object: B 1-1-L:1 (Silentos) REMOTE, _characterID: 565 at loc [-7238.94,19539.2,0.174408]"
+ 3:25:19 "ERROR: server_playerSync: Cannot Sync Player Silentos [565]. Position in debug! [-7238.94,19539.2,0.174408]"
+ 3:25:22 Warning: Cleanup player - person 3:768 not found
+ 3:26:00 "PHIT: B 1-1-C:1 (Jackhole) REMOTE was hit by B 1-1-H:1 (Bored Shorts) REMOTE with Colt1911 from 2.53888m with 0.256708 dmg"
+ 3:26:00 "PKILL: Jackhole was killed by Bored Shorts with weapon Colt1911 from 2.53888m"
+ 3:26:00 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:26:00   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:26:00   Error Undefined variable in expression: dze_deathmsgside
+ 3:26:00 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 3:26:00 "PDEATH: Player Died 148596870"
+ 3:26:27 "TIME SYNC: Local Time set to [2013,8,3,18,26]"
+ 3:26:27 "Purging player: 34dcc080# 1067747: pilot.p3d"
+ 3:26:28 "Purging player: 29a42040# 1060737: policeman.p3d"
+ 3:26:28 "Purging player: 2a050080# 1061058: tk_commander.p3d"
+ 3:26:28 "CLEANUP: Deleted 3 players and 0 zombies out of 24 dead"
+ 3:26:33 "CLEANUP: Deleted 51 Animals out of 69"
+ 3:26:45 "ERROR: server_playerSync: Cannot Sync Player Jackhole [566]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 3:26:47 "get: STRING (148596870), sent: STRING (148596870)"
+ 3:26:47 "DISCONNECT: Jackhole (148596870) Object: B 1-1-B:1 (Jackhole) REMOTE, _characterID: 566 at loc [-7239.67,19539.3,0.245972]"
+ 3:26:47 "ERROR: server_playerSync: Cannot Sync Player Jackhole [566]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 3:27:53 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:27:53   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:27:53   Error count: Type Number, expected Array,Config entry
+ 3:27:53 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 3:28:23 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 3:28:23   Error position: <count _lastPos > 2 and count _charPos > >
+ 3:28:23   Error count: Type Number, expected Array,Config entry
+ 3:28:23 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
