@@ -3545,3 +3545,30 @@ if(DZE_DeathMsgSide) then {
  3:23:28 Client: Object 10:1304 (type Type_69) not found.
  3:23:28 Client: Object 10:1486 (type Type_70) not found.
  3:23:29 "get: STRING (15791622), sent: STRING (15791622)"
+ 3:23:29 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-B:1 (Kmhuey) REMOTE, _characterID: 561 at loc [-7239.67,19539.3,0.245728]"
+ 3:23:29 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [561]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 3:23:29 Client: Remote object 18:2 not found
+ 3:23:29 Client: Remote object 18:8 not found
+ 3:23:29 Client: Remote object 18:282 not found
+ 3:23:29 Client: Remote object 18:281 not found
+ 3:23:30 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:32 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:32 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:33 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:33 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:34 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:34 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:36 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:36 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:38 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:38 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:38 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:38 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:40 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:40 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:42 Client: Object 10:1486 (type Type_70) not found.
+ 3:23:42 "CLEANUP: Deleted 18 Loot Piles out of 308"
+ 3:23:42 Client: Object 10:1304 (type Type_70) not found.
+ 3:23:43 Client: Object 10:1486 (type Type_69) not found.
+ 3:23:43 Client: Object 10:1304 (type Type_69) not found.
+ 3:23:44 Client: Object 10:1486 (type Type_70) not found.
