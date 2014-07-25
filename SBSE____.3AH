@@ -5263,3 +5263,79 @@ if (count _lastPos > 2 and count _charPos > >
  3:38:53 Client: Object 10:1576 (type Type_70) not found.
  3:38:53 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.029m with 0.359649 dmg"
  3:38:54 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.023m with 0.325856 dmg"
+ 3:38:54 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.024m with 0.494485 dmg"
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.01m with 0.461274 dmg"
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.983m with 0.429895 dmg"
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.006m with 0.383354 dmg"
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.031m with 0.415731 dmg"
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:54 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.049m with 0.463931 dmg"
+ 3:38:54 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.071m with 0.326759 dmg"
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.107m with 0.318082 dmg"
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 Client: Object 10:1576 (type Type_69) not found.
+ 3:38:55 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.107m with 0.397608 dmg"
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.114m with 0.432369 dmg"
+ 3:38:55 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:55 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.136m with 0.446697 dmg"
+ 3:38:56 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.151m with 0.471542 dmg"
+ 3:38:56 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.166m with 0.372038 dmg"
+ 3:38:56 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.94m with 0.405602 dmg"
+ 3:38:56 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.959m with 0.445804 dmg"
+ 3:38:56 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:56 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.972m with 0.265378 dmg"
+ 3:38:56 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.961m with 0.378351 dmg"
+ 3:38:56 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.964m with 0.3104 dmg"
+ 3:38:57 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.952m with 0.412534 dmg"
+ 3:38:57 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.936m with 0.30667 dmg"
+ 3:38:57 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.954m with 0.483535 dmg"
+ 3:38:57 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.999m with 0.507845 dmg"
+ 3:38:57 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:57 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.178m with 0.490648 dmg"
+ 3:38:57 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.331m with 0.298328 dmg"
+ 3:38:58 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 251.326m with 0.335446 dmg"
+ 3:38:58 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:58 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.947m with 0.419909 dmg"
+ 3:38:58 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.602m with 0.303294 dmg"
+ 3:38:58 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.192m with 0.400986 dmg"
+ 3:38:58 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 250.043m with 0.369948 dmg"
+ 3:38:58 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 249.269m with 0.510358 dmg"
+ 3:38:59 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 248.735m with 0.309823 dmg"
+ 3:38:59 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 248.011m with 0.33921 dmg"
+ 3:38:59 Client: Object 10:1576 (type Type_70) not found.
+ 3:38:59 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 247.3m with 0.434077 dmg"
+ 3:38:59 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 244.991m with 0.430924 dmg"
+ 3:38:59 "get: STRING (148596870), sent: STRING (148596870)"
+ 3:38:59 "DISCONNECT: Jackhole (148596870) Object: B 1-1-C:1 (Jackhole) REMOTE, _characterID: 579 at loc [6156.33,1989.24,0.000850677]"
+ 3:38:59 Client: Remote object 11:663 not found
+ 3:38:59 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 244.066m with 0.375183 dmg"
+ 3:39:00 Client: Object 10:1576 (type Type_69) not found.
+ 3:39:00 Client: Object 10:1576 (type Type_70) not found.
+ 3:39:01 Client: Object 10:1576 (type Type_70) not found.
+ 3:39:05 Client: Object 10:1576 (type Type_70) not found.
+ 3:39:05 "PHIT: B 1-1-K:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 191.461m with 0.362092 dmg"
+ 3:39:05 "PHIT: B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Igla from 248.942m with 5.49782 dmg"
+ 3:39:05 Client: Object 10:1576 (type Type_69) not found.
+ 3:39:05 "PHIT: B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Igla from 248.966m with 1.38329 dmg"
+ 3:39:05 "PHIT: B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Igla from 248.999m with 0.984696 dmg"
+ 3:39:05 "PHIT: B 1-1-F:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Igla from 248.783m with 0.0636527 dmg"
+ 3:39:07 Client: Object 10:1576 (type Type_70) not found.
