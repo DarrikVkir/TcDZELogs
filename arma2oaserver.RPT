@@ -661,3 +661,102 @@ g from [1623.71,218.188,300] to [5006.44,9077.74] NOW!(TIME:451||LT:HeliCrash_No
  1:56:57 Server: Object 9:216 not found (message 94)
  1:56:57 Server: Object 9:219 not found (message 70)
  1:57:42 "CLEANUP: Deleted 1 Loot Piles out of 460"
+ 1:59:44 "CLEANUP: Deleted 1 Loot Piles out of 494"
+ 2:00:02 "RUNNING EVENT: crash_spawner on [2014,7,25,17,0]"
+ 2:00:02 "CRASHSPAWNER: 100% chance to start a crashing UH-60M MEV with loot table 'Hospital'"
+ 2:00:02 "CRASHSPAWNER: UH-60M MEV started
+
+g from [6993.7,173.053,300] to [8570,12687] NOW!(TIME:2244||LT:Hospital)"
+ 2:00:44 Server: Object 9:239 not found (message 70)
+ 2:00:44 Server: Object 9:238 not found (message 94)
+ 2:00:44 Server: Object 9:243 not found (message 94)
+ 2:00:44 Server: Object 9:240 not found (message 94)
+ 2:00:44 Server: Object 9:241 not found (message 94)
+ 2:00:44 Server: Object 9:242 not found (message 94)
+ 2:00:44 Server: Object 9:244 not found (message 94)
+ 2:00:44 Server: Object 9:245 not found (message 94)
+ 2:00:44 Server: Object 9:246 not found (message 94)
+ 2:00:44 Server: Object 9:247 not found (message 94)
+ 2:00:45 "CLEANUP: Deleted 2 Loot Piles out of 510"
+ 2:01:27 "TIME SYNC: Local Time set to [2013,8,3,17,1]"
+ 2:01:51 "CLEANUP: Deleted 2 Loot Piles out of 523"
+ 2:02:27 "PHIT: B 1-1-D:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M4A1 from 3.15847m with 0.6789 dmg"
+ 2:02:27 "PHIT: B 1-1-D:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M4A1 from 3.19169m with 0.678648 dmg"
+ 2:02:27 "PKILL: Bored Shorts was killed by Kmhuey with weapon M4A1 from 3.19169m"
+ 2:02:27 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:02:27   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:02:27   Error Undefined variable in expression: dze_deathmsgside
+ 2:02:27 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 2:02:27 "PDEATH: Player Died 255024710"
+ 2:02:27 "PHIT: B 1-1-D:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M4A1 from 3.18851m with 0.67865 dmg"
+ 2:02:27 "PHIT: B 1-1-D:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M4A1 from 3.18851m with 0.678568 dmg"
+ 2:02:28 "PHIT: B 1-1-D:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M4A1 from 3.18851m with 0.677936 dmg"
+ 2:02:28 WARNING: Function 'name' - Bored Shorts is dead
+ 2:02:28 "PHIT: B 1-1-D:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M4A1 from 3.18851m with 0.678704 dmg"
+ 2:02:31 "CRASHSPAWNER: UH-60M just exploded at [5097.35,9071,0.925751]!, "
+ 2:02:31 UH60Wreck_DZ: MainTurret - unknown animation source mainTurret
+ 2:02:31 UH60Wreck_DZ: MainGun - unknown animation source mainGun
+ 2:02:31 UH60Wreck_DZ: MachineGun_1 - unknown animation source Gatling_1
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5093.35,9070.86,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5099.13,9078.59,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5096.86,9064.88,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5101.71,9067.72,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5103.38,9070.23,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5093.5,9068.27,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5090.67,9070.96,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5101.44,9079.75,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Loot spawn at '[5089.56,9061.52,0]' with loot table 'HeliCrash_No50s'"
+ 2:02:31 "CRASHSPAWNER: Crash completed! Wreck at: [5097.35,9071,-0.00610352] - Runtime: 1942 Seconds || Distance from calculated POC: 91 meters"
+ 2:02:47 "CLEANUP: Deleted 3 Loot Piles out of 529"
+ 2:02:54 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [545]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 2:02:55 "get: STRING (255024710), sent: STRING (255024710)"
+ 2:02:55 "DISCONNECT: Bored Shorts (255024710) Object: B 1-2-B:1 (Bored Shorts) REMOTE, _characterID: 545 at loc [-7239.67,19539.3,0.246155]"
+ 2:02:55 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [545]. Position in debug! [-7239.67,19539.3,0.246155]"
+ 2:02:55 Client: Remote object 6:2 not found
+ 2:03:43 Server: Object 9:273 not found (message 91)
+ 2:03:43 Server: Object 9:275 not found (message 91)
+ 2:03:43 Server: Object 9:277 not found (message 91)
+ 2:03:43 Server: Object 9:276 not found (message 99)
+ 2:03:43 Server: Object 9:281 not found (message 91)
+ 2:03:43 Server: Object 9:285 not found (message 91)
+ 2:03:44 WARNING: Function 'name' - Kmhuey is dead
+ 2:03:44 "PDEATH: Player Died 15791622"
+ 2:04:05 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [467]. Position in debug! [-7239.67,19539.3,0.245819]"
+ 2:04:06 "get: STRING (15791622), sent: STRING (15791622)"
+ 2:04:06 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-D:1 (Kmhuey) REMOTE, _characterID: 467 at loc [-7239.67,19539.3,0.245819]"
+ 2:04:06 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [467]. Position in debug! [-7239.67,19539.3,0.245819]"
+ 2:04:06 Client: Remote object 9:2 not found
+ 2:04:30 Server: Object 7:274 not found (message 70)
+ 2:04:30 Server: Object 7:275 not found (message 94)
+ 2:04:30 Server: Object 7:276 not found (message 94)
+ 2:04:30 Server: Object 7:277 not found (message 94)
+ 2:04:51 "CLEANUP: Deleted 15 Loot Piles out of 575"
+ 2:05:01 Server: Object 10:87 not found (message 70)
+ 2:05:01 Server: Object 10:88 not found (message 94)
+ 2:05:01 Server: Object 10:89 not found (message 94)
+ 2:05:01 Server: Object 10:90 not found (message 94)
+ 2:05:01 Server: Object 10:91 not found (message 94)
+ 2:05:01 Server: Object 10:92 not found (message 94)
+ 2:05:35 Server: Object 7:293 not found (message 70)
+ 2:06:16 Server: Object 11:83 not found (message 94)
+ 2:06:16 Server: Object 11:86 not found (message 70)
+ 2:06:16 Server: Object 11:84 not found (message 94)
+ 2:06:16 Server: Object 11:85 not found (message 94)
+ 2:06:16 Server: Object 11:87 not found (message 94)
+ 2:06:16 Server: Object 11:88 not found (message 94)
+ 2:06:16 Server: Object 11:89 not found (message 94)
+ 2:06:16 Server: Object 11:91 not found (message 70)
+ 2:06:16 Server: Object 11:90 not found (message 94)
+ 2:06:27 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
+ 2:06:32 Server: Object 10:112 not found (message 94)
+ 2:06:54 "CLEANUP: Deleted 13 Loot Piles out of 654"
