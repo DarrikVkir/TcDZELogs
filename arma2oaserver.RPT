@@ -503,3 +503,32 @@ g from [1623.71,218.188,300] to [4212.68,9240.5] NOW!(TIME:12288||LT:HeliCrash_N
 23:47:02 "CRASHSPAWNER: Loot spawn at '[7424.04,12582.8,0]' with loot table 'HeliCrash_No50s'"
 23:47:02 "CRASHSPAWNER: Loot spawn at '[7420.92,12591.6,0]' with loot table 'HeliCrash_No50s'"
 23:47:02 "CRASHSPAWNER: Crash completed! Wreck at: [7426.31,12587.7,0.033371] - Runtime: 10019 Seconds || Distance from calculated POC: 980 meters"
+23:48:51 "TIME SYNC: Local Time set to [2013,8,3,19,48]"
+23:49:14 "Skipping Null Object: <NULL-object>"
+23:50:35 "Skipping Null Object: <NULL-object>"
+23:51:31 "Skipping Null Object: <NULL-object>"
+23:51:36 "Skipping Null Object: <NULL-object>"
+23:52:20 "Skipping Null Object: <NULL-object>"
+23:53:12 "Skipping Null Object: <NULL-object>"
+23:53:34 "Skipping Null Object: <NULL-object>"
+23:53:40 "Skipping Null Object: <NULL-object>"
+23:53:51 "TIME SYNC: Local Time set to [2013,8,3,19,53]"
+23:54:06 "Skipping Null Object: <NULL-object>"
+23:54:30 "DELETE: <null> Deleted by UID: 0"
+23:54:30 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+23:54:30   Error position: <_activatingPlayer,_uid];
+};
+};>
+23:54:30   Error Undefined variable in expression: _activatingplayer
+23:54:30 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+23:58:09 "DELETE: <null> Deleted by UID: 0"
+23:58:09 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+23:58:09   Error position: <_activatingPlayer,_uid];
+};
+};>
+23:58:09   Error Undefined variable in expression: _activatingplayer
+23:58:09 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
