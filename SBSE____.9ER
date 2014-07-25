@@ -3221,3 +3221,16 @@ _key = format["CHILD:30>
  3:18:56 Client: Object 10:1304 (type Type_70) not found.
  3:18:57 Client: Object 10:1304 (type Type_69) not found.
  3:18:58 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:00 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:02 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:02 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:04 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:06 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:07 Client: Object 10:1304 (type Type_69) not found.
+ 3:19:08 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:12 "get: STRING (148596870), sent: STRING (148596870)"
+ 3:19:12 "DISCONNECT: Jackhole (148596870) Object: B 1-1-H:1 (Jackhole) REMOTE, _characterID: 566 at loc [835.499,1919.58,0.00143337]"
+ 3:19:12 Client: Remote object 11:440 not found
+ 3:19:12 Client: Object 10:1304 (type Type_70) not found.
+ 3:19:12 Client: Object 10:1304 (type Type_69) not found.
