@@ -1307,3 +1307,67 @@ ca_communityconfigurationproject_e_editor_addedlargeweaponvariants
  5:17:42 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 147.857m with 1.29 dmg"
  5:17:49 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 148.197m with 1.29095 dmg"
  5:17:50 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 148.197m with 1.28946 dmg"
+ 5:19:24 Server: Network message 372441 is pending
+ 5:19:24 Server: Network message 37245f is pending
+ 5:19:24 Server: Network message 372460 is pending
+ 5:19:24 Server: Network message 372461 is pending
+ 5:19:24 Server: Network message 372462 is pending
+ 5:19:24 Server: Network message 372463 is pending
+ 5:19:24 Server: Network message 372464 is pending
+ 5:19:24 Server: Network message 372465 is pending
+ 5:19:24 Server: Network message 372466 is pending
+ 5:19:24 Server: Network message 372467 is pending
+ 5:19:24 Server: Network message 372468 is pending
+ 5:19:24 Server: Network message 3724bb is pending
+ 5:19:24 Server: Network message 3724da is pending
+ 5:19:24 Server: Network message 3724db is pending
+ 5:19:24 Server: Network message 3724dc is pending
+ 5:19:24 Server: Network message 3724dd is pending
+ 5:19:24 Server: Network message 3724de is pending
+ 5:19:24 Server: Network message 3724ec is pending
+ 5:19:24 Server: Network message 3724ed is pending
+ 5:19:24 Server: Network message 3724ee is pending
+ 5:19:24 Server: Network message 3724ef is pending
+ 5:19:24 Server: Network message 3724f5 is pending
+ 5:19:24 Server: Network message 37253d is pending
+ 5:20:14 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 147.839m with 1.29083 dmg"
+ 5:20:17 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 147.839m with 1.29116 dmg"
+ 5:20:18 "CLEANUP: Deleted 3 Loot Piles out of 260"
+ 5:21:01 "get: STRING (235067846), sent: STRING (235067846)"
+ 5:21:01 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-A:1 (Miss Rachel ) REMOTE, _characterID: 582 at loc [9468.31,14348.2,0.0010376]"
+ 5:21:01 Client: Remote object 5:573 not found
+ 5:21:02 Warning: Cleanup player - person 5:572 not found
+ 5:21:15 "CLEANUP: Deleted 1 Loot Piles out of 210"
+ 5:22:09 "TIME SYNC: Local Time set to [2013,8,3,18,22]"
+ 5:22:15 "CLEANUP: Deleted 3 Loot Piles out of 209"
+ 5:22:31 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28911 dmg"
+ 5:22:31 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28717 dmg"
+ 5:22:32 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28614 dmg"
+ 5:22:34 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28998 dmg"
+ 5:22:34 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28944 dmg"
+ 5:22:34 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28623 dmg"
+ 5:22:35 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28841 dmg"
+ 5:22:39 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.29017 dmg"
+ 5:22:39 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28961 dmg"
+ 5:22:40 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.29006 dmg"
+ 5:22:40 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28968 dmg"
+ 5:22:40 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28952 dmg"
+ 5:22:40 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28954 dmg"
+ 5:22:40 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 149.142m with 1.28794 dmg"
+ 5:23:16 "CLEANUP: Deleted 19 Loot Piles out of 213"
+ 5:24:04 "PHIT: B 1-1-D:1 (BluntScopes) REMOTE was hit by B 1-1-C:1 (Bored Shorts) REMOTE with Mk_48_DZ from 146.738m with 1.29296 dmg"
+ 5:24:15 "CLEANUP: Deleted 1 Loot Piles out of 195"
+ 5:24:40 Server: Network message 3945b4 is pending
+ 5:24:40 Server: Network message 3945f4 is pending
+ 5:25:28 "PDEATH: Player Died 255024710"
+ 5:25:45 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [580]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 5:25:46 "get: STRING (255024710), sent: STRING (255024710)"
+ 5:25:46 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-A:1 (Bored Shorts) REMOTE, _characterID: 580 at loc [-7239.67,19539.3,0.24588]"
+ 5:25:46 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [580]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 5:26:16 Warning: Cleanup player - person 4:504 not found
+ 5:26:16 "CLEANUP: Deleted 37 Loot Piles out of 192"
+ 5:27:09 "TIME SYNC: Local Time set to [2013,8,3,18,27]"
+ 5:27:09 "Purging player: 2ffc2040# 1060714: man_hero.p3d"
+ 5:27:09 "CLEANUP: Deleted 1 players and 0 zombies out of 14 dead"
+ 5:27:15 "CLEANUP: Deleted 21 Loot Piles out of 155"
+ 5:28:14 "CLEANUP: Deleted 1 Loot Piles out of 134"
