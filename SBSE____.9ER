@@ -3688,3 +3688,6 @@ if(DZE_DeathMsgSide) then {
  3:24:11 Client: Remote object 10:1486 not found
  3:24:11 Client: Remote object 10:1304 not found
  3:24:22 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+ 3:24:37 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 724.298m with 0.322133 dmg"
+ 3:24:38 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 731.825m with 0.314589 dmg"
+ 3:24:38 Server: Object 10:1535 not found (message 70)
