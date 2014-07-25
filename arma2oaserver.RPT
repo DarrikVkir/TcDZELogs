@@ -1109,3 +1109,108 @@ if(DZE_DeathMsgSide) then {
  2:38:30   Error Undefined variable in expression: _activatingplayer
  2:38:30 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
  2:38:32 Server: Object 8:280 not found (message 70)
+ 2:38:53 "CLEANUP: Deleted 40 Loot Piles out of 620"
+ 2:39:52 "CLEANUP: Deleted 49 Loot Piles out of 589"
+ 2:40:10 Server: Object 6:404 not found (message 94)
+ 2:40:10 Server: Object 6:410 not found (message 94)
+ 2:40:10 Server: Object 6:406 not found (message 70)
+ 2:40:10 Server: Object 6:405 not found (message 94)
+ 2:40:10 Server: Object 6:407 not found (message 94)
+ 2:40:10 Server: Object 6:408 not found (message 94)
+ 2:40:10 Server: Object 6:409 not found (message 94)
+ 2:40:13 "DELETE: <null> Deleted by UID: 0"
+ 2:40:13 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 2:40:13   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 2:40:13   Error Undefined variable in expression: _activatingplayer
+ 2:40:13 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 2:40:51 "CLEANUP: Deleted 14 Loot Piles out of 583"
+ 2:41:17 Server: Object 6:467 not found (message 98)
+ 2:41:17 Server: Object 6:468 not found (message 91)
+ 2:41:20 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 2:41:27 "TIME SYNC: Local Time set to [2013,8,3,17,41]"
+ 2:41:28 "CLEANUP: Deleted 10 Animals out of 26"
+ 2:41:51 "CLEANUP: Deleted 39 Loot Piles out of 581"
+ 2:42:41 Server: Object 11:310 not found (message 94)
+ 2:42:41 Server: Object 11:316 not found (message 94)
+ 2:42:41 Server: Object 11:311 not found (message 94)
+ 2:42:41 Server: Object 11:312 not found (message 94)
+ 2:42:41 Server: Object 11:313 not found (message 94)
+ 2:42:41 Server: Object 11:314 not found (message 94)
+ 2:42:41 Server: Object 11:315 not found (message 94)
+ 2:42:41 Server: Object 11:317 not found (message 70)
+ 2:42:51 "CLEANUP: Deleted 15 Loot Piles out of 558"
+ 2:43:06 Server: Object 11:333 not found (message 94)
+ 2:43:06 Server: Object 11:330 not found (message 94)
+ 2:43:06 Server: Object 11:331 not found (message 94)
+ 2:43:06 Server: Object 11:332 not found (message 70)
+ 2:43:06 Server: Object 11:333 not found (message 94)
+ 2:43:52 "CLEANUP: Deleted 6 Loot Piles out of 584"
+ 2:44:40 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 2:44:51 "PDEATH: Player Died 148596870"
+ 2:44:53 "CLEANUP: Deleted 1 Loot Piles out of 594"
+ 2:45:52 "CLEANUP: Deleted 8 Loot Piles out of 625"
+ 2:45:56 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 2:46:10 "ERROR: server_playerSync: Cannot Sync Player Jackhole [562]. Position in debug! [-7239.67,19539.3,0.245514]"
+ 2:46:11 "get: STRING (148596870), sent: STRING (148596870)"
+ 2:46:11 "DISCONNECT: Jackhole (148596870) Object: B 1-1-L:1 (Jackhole) REMOTE, _characterID: 562 at loc [-7239.67,19539.3,0.245514]"
+ 2:46:11 "ERROR: server_playerSync: Cannot Sync Player Jackhole [562]. Position in debug! [-7239.67,19539.3,0.245514]"
+ 2:46:27 "Purging player: 3440a040# 1065219: man_survivor.p3d"
+ 2:46:27 "CLEANUP: Deleted 1 players and 0 zombies out of 5 dead"
+ 2:46:27 "TIME SYNC: Local Time set to [2013,8,3,17,46]"
+ 2:46:51 "CLEANUP: Deleted 17 Loot Piles out of 616"
+ 2:47:39 "PDEATH: Player Died 255024710"
+ 2:47:50 "CLEANUP: Deleted 11 Loot Piles out of 606"
+ 2:47:55 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [560]. Position in debug! [-7239.67,19539.3,0.246216]"
+ 2:47:56 "get: STRING (255024710), sent: STRING (255024710)"
+ 2:47:56 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-L:1 (Bored Shorts) REMOTE, _characterID: 560 at loc [-7239.67,19539.3,0.246216]"
+ 2:47:56 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [560]. Position in debug! [-7239.67,19539.3,0.246216]"
+ 2:47:59 Server: Object 8:353 not found (message 70)
+ 2:47:59 Server: Object 8:352 not found (message 70)
+ 2:47:59 Server: Object 8:354 not found (message 94)
+ 2:47:59 Server: Object 8:357 not found (message 94)
+ 2:47:59 Server: Object 8:359 not found (message 70)
+ 2:47:59 Server: Object 8:358 not found (message 70)
+ 2:48:15 Server: Object 10:219 not found (message 91)
+ 2:48:15 Server: Object 10:218 not found (message 99)
+ 2:48:15 Server: Object 10:221 not found (message 91)
+ 2:48:15 Server: Object 10:220 not found (message 99)
+ 2:48:15 Server: Object 10:223 not found (message 91)
+ 2:48:15 Server: Object 10:222 not found (message 99)
+ 2:48:15 Server: Object 10:225 not found (message 91)
+ 2:48:15 Server: Object 10:224 not found (message 99)
+ 2:48:15 Server: Object 10:227 not found (message 91)
+ 2:48:15 Server: Object 10:226 not found (message 99)
+ 2:48:15 Server: Object 10:229 not found (message 91)
+ 2:48:15 Server: Object 10:228 not found (message 99)
+ 2:48:15 Server: Object 10:231 not found (message 91)
+ 2:48:15 Server: Object 10:230 not found (message 99)
+ 2:48:15 Server: Object 10:233 not found (message 91)
+ 2:48:15 Server: Object 10:232 not found (message 99)
+ 2:48:15 Server: Object 10:235 not found (message 91)
+ 2:48:15 Server: Object 10:234 not found (message 99)
+ 2:48:15 Server: Object 10:237 not found (message 91)
+ 2:48:15 Server: Object 10:236 not found (message 99)
+ 2:48:15 Server: Object 10:239 not found (message 91)
+ 2:48:15 Server: Object 10:238 not found (message 99)
+ 2:48:15 Server: Object 10:241 not found (message 91)
+ 2:48:15 Server: Object 10:240 not found (message 99)
+ 2:48:15 Server: Object 10:243 not found (message 91)
+ 2:48:15 Server: Object 10:242 not found (message 99)
+ 2:48:15 Server: Object 10:244 not found (message 98)
+ 2:48:15 Server: Object 10:245 not found (message 91)
+ 2:48:15 Server: Object 10:246 not found (message 98)
+ 2:48:15 Server: Object 10:247 not found (message 91)
+ 2:48:15 Server: Object 10:248 not found (message 98)
+ 2:48:15 Server: Object 10:249 not found (message 91)
+ 2:48:15 Server: Object 10:250 not found (message 99)
+ 2:48:15 Server: Object 10:251 not found (message 91)
+ 2:48:15 Server: Object 10:252 not found (message 98)
+ 2:48:15 Server: Object 10:253 not found (message 91)
+ 2:48:15 Server: Object 10:255 not found (message 91)
+ 2:48:15 Server: Object 10:254 not found (message 99)
+ 2:48:33 Server: Object info 3:275 not found during Changing Owner
+ 2:48:33 Server: Object info 3:274 not found during Changing Owner
