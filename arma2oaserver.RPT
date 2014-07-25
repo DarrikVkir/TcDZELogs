@@ -1214,3 +1214,587 @@ if(DZE_DeathMsgSide) then {
  2:48:15 Server: Object 10:254 not found (message 99)
  2:48:33 Server: Object info 3:275 not found during Changing Owner
  2:48:33 Server: Object info 3:274 not found during Changing Owner
+ 2:48:55 "CLEANUP: Deleted 15 Loot Piles out of 628"
+ 2:49:04 "PHIT: B 1-1-K:1 (BluntScopes) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with G36A_camo from 218.916m with 0.594842 dmg"
+ 2:49:05 WARNING: Function 'name' - BluntScopes is dead
+ 2:49:05 "PHIT: B 1-1-K:1 (BluntScopes) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with G36A_camo from 218.05m with 0.596075 dmg"
+ 2:49:05 WARNING: Function 'name' - BluntScopes is dead
+ 2:49:05 "PKILL: BluntScopes was killed by Smiggetti with weapon G36A_camo from 218.05m"
+ 2:49:05 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:49:05   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:49:05   Error Undefined variable in expression: dze_deathmsgside
+ 2:49:05 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 2:49:05 "PDEATH: Player Died 4486214"
+ 2:49:18 WARNING: Function 'name' - Smiggetti is dead
+ 2:49:18 "PDEATH: Player Died 6863686"
+ 2:49:43 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [533]. Position in debug! [-7238.51,19539.4,0.111298]"
+ 2:49:44 "ERROR: server_playerSync: Cannot Sync Player Smiggetti [556]. Position in debug! [-7239.28,19539.9,0.152618]"
+ 2:49:45 "get: STRING (6863686), sent: STRING (6863686)"
+ 2:49:45 "DISCONNECT: Smiggetti (6863686) Object: B 1-1-K:1 (Smiggetti) REMOTE, _characterID: 556 at loc [-7239.28,19539.9,0.152618]"
+ 2:49:45 "ERROR: server_playerSync: Cannot Sync Player Smiggetti [556]. Position in debug! [-7239.28,19539.9,0.152618]"
+ 2:49:45 "get: STRING (4486214), sent: STRING (4486214)"
+ 2:49:45 "DISCONNECT: BluntScopes (4486214) Object: B 1-2-A:1 (BluntScopes) REMOTE, _characterID: 533 at loc [-7238.51,19539.4,0.111298]"
+ 2:49:45 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [533]. Position in debug! [-7238.51,19539.4,0.111298]"
+ 2:49:45 Client: Remote object 7:396 not found
+ 2:49:45 Client: Remote object 7:397 not found
+ 2:49:48 Warning: Cleanup player - person 5:536 not found
+ 2:49:50 Server: Object 3:287 not found (message 91)
+ 2:49:50 Server: Object 3:291 not found (message 91)
+ 2:49:50 Server: Object 3:290 not found (message 99)
+ 2:49:50 Server: Object 3:293 not found (message 91)
+ 2:49:50 Server: Object 3:292 not found (message 99)
+ 2:49:51 Server: Object 3:303 not found (message 91)
+ 2:49:51 Server: Object 3:302 not found (message 99)
+ 2:49:51 Server: Object 3:305 not found (message 91)
+ 2:49:51 Server: Object 3:306 not found (message 99)
+ 2:49:51 Server: Object 3:307 not found (message 91)
+ 2:49:51 Server: Object 3:308 not found (message 98)
+ 2:49:51 Server: Object 3:309 not found (message 91)
+ 2:49:51 Server: Object 3:311 not found (message 91)
+ 2:49:51 Server: Object 3:310 not found (message 98)
+ 2:49:54 "CLEANUP: Deleted 35 Loot Piles out of 644"
+ 2:50:42 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 199.579m with 0.131824 dmg"
+ 2:50:51 "CLEANUP: Deleted 11 Loot Piles out of 604"
+ 2:51:21 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 223.437m with 0.562883 dmg"
+ 2:51:21 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 224.322m with 0.403182 dmg"
+ 2:51:21 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 225.648m with 0.152411 dmg"
+ 2:51:21 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 226.496m with 2.98557 dmg"
+ 2:51:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 227.42m with 1.1852 dmg"
+ 2:51:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 228.192m with 0.123155 dmg"
+ 2:51:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 228.633m with 0.0537403 dmg"
+ 2:51:27 "TIME SYNC: Local Time set to [2013,8,3,17,51]"
+ 2:51:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 219.965m with 0.108278 dmg"
+ 2:51:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 219.389m with 0.0983729 dmg"
+ 2:51:35 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 212.565m with 1.2216 dmg"
+ 2:51:47 Server: Object 8:411 not found (message 99)
+ 2:51:47 Server: Object 8:412 not found (message 91)
+ 2:51:48 Server: Object 8:424 not found (message 91)
+ 2:51:53 "CLEANUP: Deleted 34 Loot Piles out of 623"
+ 2:52:28 "get: STRING (148596870), sent: STRING (148596870)"
+ 2:52:28 "DISCONNECT: Jackhole (148596870) Object: B 1-1-H:1 (Jackhole) REMOTE, _characterID: 566 at loc [1977.86,2175.16,0.00143671]"
+ 2:52:28 Client: Remote object 11:346 not found
+ 2:52:31 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.759641 dmg"
+ 2:52:31 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.673607 dmg"
+ 2:52:31 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.377469 dmg"
+ 2:52:31 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.387026 dmg"
+ 2:52:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.236828 dmg"
+ 2:52:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.15749 dmg"
+ 2:52:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.114867 dmg"
+ 2:52:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.101071 dmg"
+ 2:52:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.0766313 dmg"
+ 2:52:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 201.582m with 0.0996718 dmg"
+ 2:52:49 "CLEANUP: Deleted 5 Loot Piles out of 598"
+ 2:52:55 Client: Object 3:326 (type Type_70) not found.
+ 2:52:55 Client: Object 3:326 (type Type_69) not found.
+ 2:52:57 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 188.264m with 0.122368 dmg"
+ 2:52:57 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 188.864m with 1.14219 dmg"
+ 2:52:58 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 189.127m with 1.98525 dmg"
+ 2:52:58 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 189.504m with 2.90366 dmg"
+ 2:52:58 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 189.55m with 3.29998 dmg"
+ 2:52:58 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 189.517m with 2.48564 dmg"
+ 2:52:59 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 189.668m with 0.12983 dmg"
+ 2:52:59 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 189.716m with 0.144131 dmg"
+ 2:52:59 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 189.756m with 0.0560371 dmg"
+ 2:53:01 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 190.963m with 0.0560558 dmg"
+ 2:53:01 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 190.564m with 0.282166 dmg"
+ 2:53:01 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 190.265m with 1.38336 dmg"
+ 2:53:01 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 190.265m with 0.919016 dmg"
+ 2:53:01 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 190.277m with 0.422823 dmg"
+ 2:53:02 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 190.307m with 0.132092 dmg"
+ 2:53:02 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 190.382m with 0.0742545 dmg"
+ 2:53:32 Server: Object 10:501 not found (message 70)
+ 2:53:33 Client: Object 3:332 (type Type_69) not found.
+ 2:53:33 Client: Object 3:332 (type Type_70) not found.
+ 2:53:36 "DELETE: <null> Deleted by UID: 0"
+ 2:53:36 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 2:53:36   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 2:53:36   Error Undefined variable in expression: _activatingplayer
+ 2:53:36 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 2:53:49 "CLEANUP: Deleted 1 Loot Piles out of 601"
+ 2:53:57 Server: Object 10:515 not found (message 70)
+ 2:54:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 240.614m with 0.27315 dmg"
+ 2:54:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 240.739m with 0.32832 dmg"
+ 2:54:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 240.804m with 0.280108 dmg"
+ 2:54:21 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-F:1 (Silentos) REMOTE with M270 MLRS from 240.045m with 0.436442 dmg"
+ 2:54:21 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:54:21   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:54:21   Error Undefined variable in expression: _weapon
+ 2:54:21 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:27 NetServer::SendMsg: cannot find channel #2038716827, users.card=7
+ 2:54:27 NetServer: users.get failed when sending to 2038716827
+ 2:54:27 Message not sent - error 0, message ID = ffffffff, to 2038716827 (morbidman)
+ 2:54:29 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-F:1 (Silentos) REMOTE with M270 MLRS from 240.813m with 1.21001 dmg"
+ 2:54:29 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:54:29   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:54:29   Error Undefined variable in expression: _weapon
+ 2:54:29 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:54:33 Client: Object 10:644 (type Type_70) not found.
+ 2:54:33 Client: Object 10:644 (type Type_69) not found.
+ 2:54:37 Client: Object 8:445 (type Type_69) not found.
+ 2:54:37 Client: Object 8:445 (type Type_70) not found.
+ 2:54:37 Client: Object 8:446 (type Type_70) not found.
+ 2:54:37 Client: Object 8:446 (type Type_69) not found.
+ 2:54:38 Client: Object 8:445 (type Type_70) not found.
+ 2:54:51 "CLEANUP: Deleted 18 Loot Piles out of 602"
+ 2:55:13 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-F:1 (Silentos) REMOTE with M270 MLRS from 95.5317m with 0.0867165 dmg"
+ 2:55:13 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:55:13   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:55:13   Error Undefined variable in expression: _weapon
+ 2:55:13 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:55:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 72.8547m with 0.78948 dmg"
+ 2:55:22 Client: Object 3:355 (type Type_69) not found.
+ 2:55:22 Client: Object 3:355 (type Type_70) not found.
+ 2:55:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 72.7285m with 0.546316 dmg"
+ 2:55:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 72.5855m with 0.327774 dmg"
+ 2:55:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 72.5637m with 0.125021 dmg"
+ 2:55:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 71.5859m with 0.0918985 dmg"
+ 2:55:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 71.4099m with 0.0803191 dmg"
+ 2:55:22 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 71.2713m with 0.268743 dmg"
+ 2:55:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 10.018m with 0.519635 dmg"
+ 2:55:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 10.1456m with 0.0568234 dmg"
+ 2:55:32 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 10.1748m with 0.0555729 dmg"
+ 2:55:50 "CLEANUP: Deleted 32 Loot Piles out of 591"
+ 2:56:14 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with ZSU-23 Shilka from 77.2455m with 31.5584 dmg"
+ 2:56:14 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:14   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:14   Error Undefined variable in expression: _weapon
+ 2:56:14 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:56:14 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with ZSU-23 Shilka from 77.2455m with 0.172391 dmg"
+ 2:56:14 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:14   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:14   Error Undefined variable in expression: _weapon
+ 2:56:14 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:56:15 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with ZSU-23 Shilka from 77.3965m with 32.5179 dmg"
+ 2:56:15 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:15   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:15   Error Undefined variable in expression: _weapon
+ 2:56:15 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:56:15 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with ZSU-23 Shilka from 77.3932m with 27.3958 dmg"
+ 2:56:15 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:15   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:15   Error Undefined variable in expression: _weapon
+ 2:56:15 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:56:16 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with ZSU-23 Shilka from 78.2385m with 23.3106 dmg"
+ 2:56:16 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:16   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:56:16   Error Undefined variable in expression: _weapon
+ 2:56:16 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:56:27 "TIME SYNC: Local Time set to [2013,8,3,17,56]"
+ 2:56:27 "Purging player: 2a052040# 1061087: acr_soldier_spec1.p3d"
+ 2:56:28 "CLEANUP: Deleted 1 players and 0 zombies out of 33 dead"
+ 2:56:28 "CLEANUP: Deleted 12 Animals out of 23"
+ 2:56:28 "DELETE: <null> Deleted by UID: 0"
+ 2:56:28 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 2:56:28   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 2:56:28   Error Undefined variable in expression: _activatingplayer
+ 2:56:28 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 2:56:42 Client: Object 8:481 (type Type_70) not found.
+ 2:56:42 Client: Object 8:481 (type Type_69) not found.
+ 2:56:49 "CLEANUP: Deleted 31 Loot Piles out of 567"
+ 2:57:04 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (Silentos) REMOTE with Colt1911 from 167.679m with 0.25464 dmg"
+ 2:57:04 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-F:1 (Silentos) REMOTE with Colt1911 from 165.97m with 0.253552 dmg"
+ 2:57:19 Server: Object 11:441 not found (message 70)
+ 2:57:35 Server: Object 11:451 not found (message 98)
+ 2:57:35 Server: Object 11:448 not found (message 91)
+ 2:57:35 Server: Object 11:449 not found (message 98)
+ 2:57:35 Server: Object 11:450 not found (message 91)
+ 2:57:35 Server: Object 11:452 not found (message 91)
+ 2:57:35 Server: Object 11:453 not found (message 98)
+ 2:57:35 Server: Object 11:454 not found (message 91)
+ 2:57:35 Server: Object 11:455 not found (message 98)
+ 2:57:35 Server: Object 11:456 not found (message 91)
+ 2:57:35 Server: Object 11:457 not found (message 98)
+ 2:57:35 Server: Object 11:458 not found (message 91)
+ 2:57:35 Server: Object 11:459 not found (message 94)
+ 2:57:35 Server: Object 11:465 not found (message 91)
+ 2:57:51 "CLEANUP: Deleted 37 Loot Piles out of 544"
+ 2:57:53 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 83.0207m with 0.53629 dmg"
+ 2:57:53 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:57:53   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:57:53   Error Undefined variable in expression: _weapon
+ 2:57:53 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:57:55 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 84.6739m with 3.47639 dmg"
+ 2:57:55 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:57:55   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:57:55   Error Undefined variable in expression: _weapon
+ 2:57:55 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:57:58 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 88.1324m with 0.978828 dmg"
+ 2:57:58 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:57:58   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:57:58   Error Undefined variable in expression: _weapon
+ 2:57:58 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:04 "PHIT: B 1-1-M:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 29.9135m with 0.224996 dmg"
+ 2:58:04 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:04   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:04   Error Undefined variable in expression: _weapon
+ 2:58:04 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:05 "PHIT: B 1-1-M:1 (Bored Shorts) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 29.8488m with 0.239252 dmg"
+ 2:58:05 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:05   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:05   Error Undefined variable in expression: _weapon
+ 2:58:05 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:05 "PKILL: Bored Shorts was killed by Kmhuey with weapon M270 MLRS from 29.8488m"
+ 2:58:05 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:58:05   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:58:05   Error Undefined variable in expression: dze_deathmsgside
+ 2:58:05 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 2:58:05 "PDEATH: Player Died 255024710"
+ 2:58:05 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 14.5996m with 0.282481 dmg"
+ 2:58:06 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 14.6344m with 0.506681 dmg"
+ 2:58:06 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 14.7215m with 0.395399 dmg"
+ 2:58:06 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 14.7449m with 0.476499 dmg"
+ 2:58:06 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 14.7794m with 0.269168 dmg"
+ 2:58:06 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 14.7925m with 0.498824 dmg"
+ 2:58:06 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 15.1729m with 0.475487 dmg"
+ 2:58:06 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 15.482m with 0.480225 dmg"
+ 2:58:06 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 0m with 0.0963383 dmg"
+ 2:58:06 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:06   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:06   Error Undefined variable in expression: _weapon
+ 2:58:06 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:06 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 15.8267m with 0.293769 dmg"
+ 2:58:06 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 15.8274m with 0.417999 dmg"
+ 2:58:07 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 16.1692m with 0.408587 dmg"
+ 2:58:07 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 16.9637m with 0.412211 dmg"
+ 2:58:07 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 0m with 0.109158 dmg"
+ 2:58:07 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:07   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:07   Error Undefined variable in expression: _weapon
+ 2:58:07 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:07 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.2905m with 0.365916 dmg"
+ 2:58:07 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.3486m with 0.512103 dmg"
+ 2:58:07 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.3527m with 0.444784 dmg"
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.3506m with 0.466544 dmg"
+ 2:58:08 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.365m with 0.431647 dmg"
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.368m with 0.36712 dmg"
+ 2:58:08 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.368m with 0.317395 dmg"
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.3964m with 0.489151 dmg"
+ 2:58:08 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.3964m with 0.259635 dmg"
+ 2:58:08 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4396m with 0.386188 dmg"
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 0m with 0.0788275 dmg"
+ 2:58:08 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:08   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:08   Error Undefined variable in expression: _weapon
+ 2:58:08 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4143m with 0.375455 dmg"
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4406m with 0.485608 dmg"
+ 2:58:08 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4406m with 0.309977 dmg"
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4638m with 0.446566 dmg"
+ 2:58:08 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4638m with 0.483614 dmg"
+ 2:58:08 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4881m with 0.402293 dmg"
+ 2:58:08 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.4881m with 0.295465 dmg"
+ 2:58:09 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5116m with 0.357725 dmg"
+ 2:58:09 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5318m with 0.294977 dmg"
+ 2:58:09 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5318m with 0.36021 dmg"
+ 2:58:09 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5337m with 0.283843 dmg"
+ 2:58:09 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5305m with 0.424011 dmg"
+ 2:58:09 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5305m with 0.5233 dmg"
+ 2:58:09 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5716m with 0.2779 dmg"
+ 2:58:09 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.574m with 0.356315 dmg"
+ 2:58:09 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.574m with 0.261186 dmg"
+ 2:58:09 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6139m with 0.472719 dmg"
+ 2:58:09 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6139m with 0.445308 dmg"
+ 2:58:09 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5874m with 0.299928 dmg"
+ 2:58:09 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5997m with 0.508129 dmg"
+ 2:58:10 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6208m with 0.467379 dmg"
+ 2:58:10 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6258m with 0.46032 dmg"
+ 2:58:10 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6041m with 0.372264 dmg"
+ 2:58:10 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5917m with 0.447072 dmg"
+ 2:58:10 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.5959m with 0.440828 dmg"
+ 2:58:10 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6205m with 0.403454 dmg"
+ 2:58:10 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6205m with 0.435911 dmg"
+ 2:58:10 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6897m with 0.50439 dmg"
+ 2:58:10 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.6897m with 0.481341 dmg"
+ 2:58:10 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.7643m with 0.50452 dmg"
+ 2:58:10 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.8197m with 0.453306 dmg"
+ 2:58:10 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.8884m with 0.381955 dmg"
+ 2:58:11 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 17.9989m with 0.30761 dmg"
+ 2:58:11 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 18.1698m with 0.477659 dmg"
+ 2:58:11 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 18.3626m with 0.392211 dmg"
+ 2:58:11 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 18.7161m with 0.487494 dmg"
+ 2:58:11 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 18.7161m with 0.484839 dmg"
+ 2:58:11 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 19.168m with 0.326065 dmg"
+ 2:58:11 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 19.7926m with 0.266179 dmg"
+ 2:58:11 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 19.7926m with 0.37953 dmg"
+ 2:58:11 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 20.3087m with 0.499575 dmg"
+ 2:58:11 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 21.0363m with 0.4484 dmg"
+ 2:58:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 22.6001m with 0.398678 dmg"
+ 2:58:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 22.6874m with 0.300286 dmg"
+ 2:58:12 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 22.9175m with 0.463247 dmg"
+ 2:58:12 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 23.0837m with 0.270722 dmg"
+ 2:58:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 23.0837m with 0.333944 dmg"
+ 2:58:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 23.3161m with 0.394342 dmg"
+ 2:58:12 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 23.3161m with 0.414333 dmg"
+ 2:58:12 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 23.48m with 0.258994 dmg"
+ 2:58:12 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 23.656m with 0.266154 dmg"
+ 2:58:13 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 23.873m with 0.426502 dmg"
+ 2:58:17 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 35.696m with 0.488218 dmg"
+ 2:58:17 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 37.0586m with 0.30174 dmg"
+ 2:58:17 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.0433m with 0.308784 dmg"
+ 2:58:18 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.0433m with 0.268667 dmg"
+ 2:58:18 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.7012m with 0.409564 dmg"
+ 2:58:18 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 40.0375m with 0.325046 dmg"
+ 2:58:19 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 41.9781m with 0.342062 dmg"
+ 2:58:19 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 41.6032m with 0.291238 dmg"
+ 2:58:20 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 41.0124m with 0.403199 dmg"
+ 2:58:20 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 40.5801m with 0.452669 dmg"
+ 2:58:20 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 40.5801m with 0.511432 dmg"
+ 2:58:20 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 40.2415m with 0.415299 dmg"
+ 2:58:20 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 40.1095m with 0.288195 dmg"
+ 2:58:20 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.8868m with 0.367237 dmg"
+ 2:58:20 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.6398m with 0.463062 dmg"
+ 2:58:20 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.3627m with 0.487323 dmg"
+ 2:58:20 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.3627m with 0.46966 dmg"
+ 2:58:20 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.2223m with 0.360538 dmg"
+ 2:58:20 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 39.0782m with 0.408346 dmg"
+ 2:58:21 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 38.9782m with 0.305024 dmg"
+ 2:58:21 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 38.9782m with 0.307691 dmg"
+ 2:58:21 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 38.7616m with 0.312402 dmg"
+ 2:58:21 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 38.6385m with 0.30749 dmg"
+ 2:58:21 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE with RPG7V from 38.5354m with 0.439784 dmg"
+ 2:58:21 "PKILL: DarrikVkir [BOOTY] was killed by Kmhuey with weapon M270 MLRS from 88.1324m"
+ 2:58:21 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:58:21   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 2:58:21   Error Undefined variable in expression: dze_deathmsgside
+ 2:58:21 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 2:58:21 "PDEATH: Player Died 23206790"
+ 2:58:21 "PHIT: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M270 MLRS from 37.2369m with 0.224724 dmg"
+ 2:58:21 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:21   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:21   Error Undefined variable in expression: _weapon
+ 2:58:21 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:26 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [567]. Position in debug! [-7239.67,19539.3,0.245789]"
+ 2:58:30 "get: STRING (255024710), sent: STRING (255024710)"
+ 2:58:30 "DISCONNECT: Bored Shorts (255024710) Object: B 1-1-C:1 (Bored Shorts) REMOTE, _characterID: 567 at loc [-7238.31,19539.5,0.0832214]"
+ 2:58:30 "ERROR: server_playerSync: Cannot Sync Player Bored Shorts [567]. Position in debug! [-7238.31,19539.5,0.0832214]"
+ 2:58:36 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with T-72 from 16.9621m with 3.94595 dmg"
+ 2:58:36 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:36   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:36   Error Undefined variable in expression: _weapon
+ 2:58:36 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:36 Client: Object 3:360 (type Type_69) not found.
+ 2:58:36 Client: Object 3:360 (type Type_70) not found.
+ 2:58:36 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with T-72 from 16.3947m with 4.69898 dmg"
+ 2:58:36 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:36   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 2:58:36   Error Undefined variable in expression: _weapon
+ 2:58:36 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 2:58:37 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [564]. Position in debug! [-7239.2,19540,0.136993]"
+ 2:58:38 "get: STRING (23206790), sent: STRING (23206790)"
+ 2:58:38 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 564 at loc [-7239.2,19540,0.136993]"
+ 2:58:38 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [564]. Position in debug! [-7239.2,19540,0.136993]"
+ 2:58:38 Client: Remote object 10:945 not found
+ 2:58:38 Client: Remote object 10:944 not found
+ 2:58:38 Warning: Cleanup player - person 10:946 not found
+ 2:58:44 "DELETE: <null> Deleted by UID: 0"
+ 2:58:44 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 2:58:44   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 2:58:44   Error Undefined variable in expression: _activatingplayer
+ 2:58:44 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 2:58:47 "CLEANUP: Deleted 38 Loot Piles out of 512"
+ 2:59:01 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 10.9987m with 1.46515 dmg"
