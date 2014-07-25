@@ -3691,3 +3691,24 @@ if(DZE_DeathMsgSide) then {
  3:24:37 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 724.298m with 0.322133 dmg"
  3:24:38 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 731.825m with 0.314589 dmg"
  3:24:38 Server: Object 10:1535 not found (message 70)
+ 3:24:42 "PDEATH: Player Died 23206790"
+ 3:24:43 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 664.488m with 0.31065 dmg"
+ 3:24:43 WARNING: Function 'name' - Silentos is dead
+ 3:24:43 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-I:1 (BluntScopes) REMOTE with Stinger from 664.021m with 0.418129 dmg"
+ 3:24:43 WARNING: Function 'name' - Silentos is dead
+ 3:24:43 "PKILL: Silentos was killed by BluntScopes with weapon Stinger from 664.021m"
+ 3:24:43 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:24:43   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:24:43   Error Undefined variable in expression: dze_deathmsgside
+ 3:24:43 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 3:24:43 "PDEATH: Player Died 236904774"
