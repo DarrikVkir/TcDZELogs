@@ -491,3 +491,276 @@ if (count _lastPos > 2 and count _charPos > >
  4:08:25 Server: Object 9:198 not found (message 94)
  4:08:25 Server: Object 9:199 not found (message 94)
  4:08:25 Server: Object 9:201 not found (message 94)
+ 4:08:41 Server: Object 9:225 not found (message 70)
+ 4:08:41 Server: Object 9:221 not found (message 94)
+ 4:08:41 Server: Object 9:222 not found (message 94)
+ 4:08:41 Server: Object 9:223 not found (message 94)
+ 4:08:41 Server: Object 9:224 not found (message 94)
+ 4:08:41 Server: Object 9:226 not found (message 94)
+ 4:08:41 Server: Object 9:227 not found (message 94)
+ 4:08:41 Server: Object 9:228 not found (message 94)
+ 4:08:41 Server: Object 9:229 not found (message 94)
+ 4:08:45 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:08:45   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:08:45   Error count: Type Number, expected Array,Config entry
+ 4:08:45 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:08:58 Server: Object 9:233 not found (message 99)
+ 4:08:58 Server: Object 9:234 not found (message 91)
+ 4:08:58 Server: Object 9:235 not found (message 98)
+ 4:08:58 Server: Object 9:236 not found (message 91)
+ 4:08:58 Server: Object 9:237 not found (message 99)
+ 4:08:58 Server: Object 9:238 not found (message 91)
+ 4:08:58 Server: Object 9:240 not found (message 91)
+ 4:08:58 Server: Object 9:239 not found (message 99)
+ 4:08:58 Server: Object 9:241 not found (message 99)
+ 4:08:58 Server: Object 9:242 not found (message 91)
+ 4:08:58 Server: Object 9:243 not found (message 99)
+ 4:08:58 Server: Object 9:244 not found (message 91)
+ 4:08:58 Server: Object 9:246 not found (message 91)
+ 4:08:58 Server: Object 9:245 not found (message 99)
+ 4:08:58 Server: Object 9:251 not found (message 98)
+ 4:08:58 Server: Object 9:252 not found (message 91)
+ 4:08:58 Server: Object 9:254 not found (message 91)
+ 4:08:58 Server: Object 9:253 not found (message 98)
+ 4:08:58 Server: Object 9:258 not found (message 91)
+ 4:08:58 Server: Object 9:266 not found (message 91)
+ 4:09:11 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:09:11   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:09:11   Error count: Type Number, expected Array,Config entry
+ 4:09:11 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:09:29 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:09:29   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:09:29   Error count: Type Number, expected Array,Config entry
+ 4:09:29 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:09:45 Server: Object 5:257 not found (message 99)
+ 4:09:45 Server: Object 5:258 not found (message 91)
+ 4:09:46 Server: Object 5:284 not found (message 91)
+ 4:09:47 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:09:47   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:09:47   Error count: Type Number, expected Array,Config entry
+ 4:09:47 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:10:05 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:10:05   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:10:05   Error count: Type Number, expected Array,Config entry
+ 4:10:05 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:10:24 "CLEANUP: Deleted 1 Loot Piles out of 503"
+ 4:10:31 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:10:31   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:10:31   Error count: Type Number, expected Array,Config entry
+ 4:10:31 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:10:58 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:10:58   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:10:58   Error count: Type Number, expected Array,Config entry
+ 4:10:58 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:11:18 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:11:18   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:11:18   Error count: Type Number, expected Array,Config entry
+ 4:11:18 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:11:23 "CLEANUP: Deleted 3 Loot Piles out of 530"
+ 4:11:38 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:11:38   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:11:38   Error count: Type Number, expected Array,Config entry
+ 4:11:38 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:11:58 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:11:58   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:11:58   Error count: Type Number, expected Array,Config entry
+ 4:11:58 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:12:08 "TIME SYNC: Local Time set to [2013,8,3,17,12]"
+ 4:12:27 Server: Object 10:119 not found (message 70)
+ 4:12:27 Server: Object 10:121 not found (message 94)
+ 4:12:27 Server: Object 10:122 not found (message 94)
+ 4:12:27 Server: Object 10:123 not found (message 70)
+ 4:12:44 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:12:44   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:12:44   Error count: Type Number, expected Array,Config entry
+ 4:12:44 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:12:51 Server: Object 10:160 not found (message 94)
+ 4:12:51 Server: Object 10:153 not found (message 94)
+ 4:12:51 Server: Object 10:154 not found (message 94)
+ 4:12:51 Server: Object 10:155 not found (message 94)
+ 4:12:51 Server: Object 10:156 not found (message 94)
+ 4:12:51 Server: Object 10:157 not found (message 94)
+ 4:12:51 Server: Object 10:158 not found (message 94)
+ 4:12:51 Server: Object 10:159 not found (message 94)
+ 4:12:51 Server: Object 10:161 not found (message 94)
+ 4:12:51 Server: Object 10:167 not found (message 94)
+ 4:12:51 Server: Object 10:162 not found (message 70)
+ 4:12:51 Server: Object 10:163 not found (message 94)
+ 4:12:51 Server: Object 10:164 not found (message 94)
+ 4:12:51 Server: Object 10:165 not found (message 94)
+ 4:12:51 Server: Object 10:166 not found (message 94)
+ 4:12:51 Server: Object 10:168 not found (message 94)
+ 4:12:51 Server: Object 10:169 not found (message 94)
+ 4:12:51 Server: Object 10:170 not found (message 94)
+ 4:13:25 "CLEANUP: Deleted 3 Loot Piles out of 596"
+ 4:15:01 WARNING: Function 'name' - Kmhuey is dead
+ 4:15:01 "PHIT: B 1-1-F:1 (Kmhuey) REMOTE was hit by B 1-1-C:1 (Miss Rachel ) REMOTE with Mk_48_DZ from 402.752m with 1.01526 dmg"
+ 4:15:01 WARNING: Function 'name' - Kmhuey is dead
+ 4:15:01 "PKILL: Kmhuey was killed by Miss Rachel  with weapon Mk_48_DZ from 402.752m"
+ 4:15:01 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:15:01   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:15:01   Error Undefined variable in expression: dze_deathmsgside
+ 4:15:01 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 4:15:01 "PDEATH: Player Died 15791622"
+ 4:15:03 "RUNNING EVENT: supply_drop on [2014,7,25,17,15]"
+ 4:15:20 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [578]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 4:15:21 "get: STRING (15791622), sent: STRING (15791622)"
+ 4:15:21 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-G:1 (Kmhuey) REMOTE, _characterID: 578 at loc [-7239.67,19539.3,0.245728]"
+ 4:15:21 "ERROR: server_playerSync: Cannot Sync Player Kmhuey [578]. Position in debug! [-7239.67,19539.3,0.245728]"
+ 4:15:21 Client: Remote object 10:2 not found
+ 4:15:21 Client: Remote object 10:240 not found
+ 4:15:21 Client: Remote object 10:241 not found
+ 4:15:29 "CLEANUP: Deleted 1 Loot Piles out of 663"
+ 4:15:29 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:15:29   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:15:29   Error count: Type Number, expected Array,Config entry
+ 4:15:29 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:16:28 "CLEANUP: Deleted 1 Loot Piles out of 592"
+ 4:17:08 "TIME SYNC: Local Time set to [2013,8,3,17,17]"
+ 4:17:09 "CLEANUP: Deleted 4 Animals out of 23"
+ 4:17:22 "PHIT: B 1-1-C:1 (Miss Rachel ) REMOTE was hit by B 1-1-B:1 (BluntScopes) REMOTE with Mk_48_DES_EP1 from 165.528m with 0.591526 dmg"
+ 4:17:22 "PHIT: B 1-1-C:1 (Miss Rachel ) REMOTE was hit by B 1-1-B:1 (BluntScopes) REMOTE with Mk_48_DES_EP1 from 165.528m with 0.837961 dmg"
+ 4:17:22 "PHIT: B 1-1-C:1 (Miss Rachel ) REMOTE was hit by B 1-1-B:1 (BluntScopes) REMOTE with Mk_48_DES_EP1 from 165.528m with 1.29528 dmg"
+ 4:17:22 "PHIT: B 1-1-C:1 (Miss Rachel ) REMOTE was hit by B 1-1-B:1 (BluntScopes) REMOTE with Mk_48_DES_EP1 from 165.607m with 0.134149 dmg"
+ 4:17:22 "PKILL: Miss Rachel  was killed by BluntScopes with weapon Mk_48_DES_EP1 from 165.607m"
+ 4:17:22 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:17:22   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 4:17:22   Error Undefined variable in expression: dze_deathmsgside
+ 4:17:22 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 4:17:22 "PDEATH: Player Died 235067846"
+ 4:17:25 "CLEANUP: Deleted 1 Loot Piles out of 597"
+ 4:18:03 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [563]. Position in debug! [-7239.67,19539.3,0.245514]"
+ 4:18:04 "get: STRING (235067846), sent: STRING (235067846)"
+ 4:18:04 "DISCONNECT: Miss Rachel  (235067846) Object: B 1-1-G:1 (Miss Rachel ) REMOTE, _characterID: 563 at loc [-7239.67,19539.3,0.245514]"
+ 4:18:04 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [563]. Position in debug! [-7239.67,19539.3,0.245514]"
+ 4:18:04 Client: Remote object 5:2 not found
+ 4:18:26 Server: Network message 1101cc is pending
+ 4:18:26 Server: Network message 1101cd is pending
+ 4:18:26 Server: Network message 1101da is pending
+ 4:18:26 Server: Network message 1101db is pending
+ 4:18:26 Server: Network message 1101dc is pending
+ 4:18:26 Server: Network message 1101dd is pending
+ 4:18:26 Server: Network message 11020d is pending
+ 4:18:26 Server: Network message 11020e is pending
+ 4:18:26 Server: Network message 11023e is pending
+ 4:18:26 Server: Network message 110244 is pending
+ 4:18:26 Server: Network message 11028f is pending
+ 4:18:26 Server: Network message 110290 is pending
+ 4:18:26 Server: Network message 110291 is pending
+ 4:18:26 Server: Network message 1102ce is pending
+ 4:18:26 Server: Network message 1102cf is pending
+ 4:18:26 Server: Network message 1102d0 is pending
+ 4:18:26 Server: Network message 1102d1 is pending
+ 4:18:26 Server: Network message 1102d2 is pending
+ 4:18:26 Server: Network message 1102ef is pending
+ 4:18:26 Server: Network message 110337 is pending
+ 4:18:26 Server: Network message 11035d is pending
+ 4:18:26 Server: Network message 11035e is pending
+ 4:18:28 Server: Network message 110918 is pending
+ 4:18:28 Server: Network message 110919 is pending
+ 4:18:28 Server: Network message 110973 is pending
+ 4:18:28 Server: Network message 110975 is pending
+ 4:18:28 Server: Network message 110985 is pending
+ 4:18:28 Server: Network message 110985 is pending
+ 4:18:28 Server: Network message 110985 is pending
+ 4:18:28 Server: Network message 110986 is pending
+ 4:18:28 Server: Network message 110987 is pending
+ 4:18:28 Server: Network message 1109a5 is pending
+ 4:18:28 Server: Network message 1109b6 is pending
+ 4:18:28 Server: Network message 1109b7 is pending
+ 4:18:33 Server: Network message 111961 is pending
+ 4:18:33 Server: Network message 111964 is pending
+ 4:18:33 Server: Network message 111999 is pending
+ 4:18:33 Server: Network message 1119c5 is pending
+ 4:18:33 Server: Network message 1119f2 is pending
+ 4:18:33 Server: Network message 111a0c is pending
+ 4:18:34 Server: Network message 111a7e is pending
+ 4:18:34 Server: Network message 111b16 is pending
+ 4:18:34 Server: Network message 111b17 is pending
+ 4:18:34 Server: Network message 111b18 is pending
+ 4:18:34 Server: Network message 111b2f is pending
+ 4:18:34 Server: Network message 111b49 is pending
+ 4:18:34 Server: Network message 111b86 is pending
+ 4:18:34 Server: Network message 111b87 is pending
+ 4:18:34 Server: Network message 111b89 is pending
+ 4:18:34 Server: Network message 111b8a is pending
+ 4:18:34 Server: Network message 111b8b is pending
+ 4:18:34 Server: Network message 111b8c is pending
+ 4:18:34 Server: Network message 111b8d is pending
+ 4:18:34 Server: Network message 111b8e is pending
+ 4:18:34 Server: Network message 111b8f is pending
+ 4:18:34 Server: Network message 111b90 is pending
+ 4:18:34 Server: Network message 111b91 is pending
+ 4:18:34 Server: Network message 111b92 is pending
+ 4:18:34 Server: Network message 111b93 is pending
+ 4:18:34 Server: Network message 111b94 is pending
+ 4:18:34 Server: Network message 111b95 is pending
+ 4:18:34 Server: Network message 111b96 is pending
+ 4:18:34 Server: Network message 111b96 is pending
+ 4:18:34 Server: Network message 111b96 is pending
+ 4:18:34 Server: Network message 111b97 is pending
+ 4:18:34 Server: Network message 111b97 is pending
+ 4:18:34 Server: Network message 111b98 is pending
+ 4:18:34 Server: Network message 111b99 is pending
+ 4:18:34 Server: Network message 111b9a is pending
+ 4:18:34 Server: Network message 111b9c is pending
+ 4:18:34 Server: Network message 111b9d is pending
+ 4:18:34 Server: Network message 111b9e is pending
+ 4:18:34 Server: Network message 111b9e is pending
+ 4:18:34 Server: Network message 111b9f is pending
+ 4:18:34 Server: Network message 111b9f is pending
+ 4:18:34 Server: Network message 111b9f is pending
+ 4:18:34 Server: Network message 111ba0 is pending
+ 4:18:34 Server: Network message 111ba1 is pending
+ 4:18:34 Server: Network message 111ba2 is pending
+ 4:18:34 Server: Network message 111ba3 is pending
+ 4:18:34 Server: Network message 111ba4 is pending
+ 4:18:34 Server: Network message 111ba5 is pending
+ 4:18:34 Server: Network message 111ba6 is pending
+ 4:18:34 Server: Network message 111ba7 is pending
+ 4:18:34 Server: Network message 111ba8 is pending
+ 4:18:34 Server: Network message 111ba9 is pending
+ 4:18:34 Server: Network message 111baa is pending
+ 4:18:34 Server: Network message 111bab is pending
+ 4:18:34 Server: Network message 111bac is pending
+ 4:18:34 Server: Network message 111bad is pending
+ 4:18:34 Server: Network message 111bae is pending
+ 4:18:34 Server: Network message 111baf is pending
+ 4:18:34 Server: Network message 111bb0 is pending
+ 4:18:34 Server: Network message 111bb1 is pending
+ 4:18:34 Server: Network message 111bb2 is pending
+ 4:18:34 Server: Network message 111bb3 is pending
+ 4:18:34 Server: Network message 111bb4 is pending
+ 4:18:34 Server: Network message 111bb5 is pending
