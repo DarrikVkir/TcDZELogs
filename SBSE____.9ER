@@ -3372,3 +3372,15 @@ _key = format["CHILD:30>
  3:21:27 "TIME SYNC: Local Time set to [2013,8,3,18,21]"
  3:21:28 Client: Object 10:1304 (type Type_69) not found.
  3:21:29 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:31 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:33 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:33 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:33 Server: Object 11:592 not found (message 70)
+ 3:21:35 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:37 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:38 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:39 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:41 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:43 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:43 "CLEANUP: Deleted 8 Loot Piles out of 316"
+ 3:21:43 Client: Object 10:1304 (type Type_70) not found.
