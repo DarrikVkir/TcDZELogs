@@ -1616,3 +1616,10 @@ g from [15098,8144,300] to [5700.55,9759.28] NOW!(TIME:15398||LT:MilitarySpecial
  8:24:36 Client: Remote object 2:5878 not found
  8:24:36 Client: Remote object 2:5879 not found
  8:27:10 "TIME SYNC: Local Time set to [2013,8,3,21,27]"
+ 8:30:03 "RUNNING EVENT: crash_spawner on [2014,7,25,21,30]"
+ 8:30:04 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 8:30:04 "CRASHSPAWNER: UH-60M started
+
+g from [15098,8144,300] to [2843.13,8559.18] NOW!(TIME:17199||LT:HeliCrash_No50s)"
+ 8:32:10 "TIME SYNC: Local Time set to [2013,8,3,21,32]"
+ 8:37:10 "TIME SYNC: Local Time set to [2013,8,3,21,37]"
