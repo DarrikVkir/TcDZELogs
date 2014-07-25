@@ -3712,3 +3712,9 @@ if(DZE_DeathMsgSide) then {
  3:24:43   Error Undefined variable in expression: dze_deathmsgside
  3:24:43 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
  3:24:43 "PDEATH: Player Died 236904774"
+ 3:24:55 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [570]. Position in debug! [-7236.6,19541.5,0.00192261]"
+ 3:24:57 "get: STRING (23206790), sent: STRING (23206790)"
+ 3:24:57 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-B:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 570 at loc [-7236.6,19541.5,0.00192261]"
+ 3:24:57 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [570]. Position in debug! [-7236.6,19541.5,0.00192261]"
+ 3:24:57 Client: Remote object 10:1538 not found
+ 3:24:57 Client: Remote object 10:1537 not found
