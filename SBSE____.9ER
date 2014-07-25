@@ -3680,3 +3680,11 @@ if(DZE_DeathMsgSide) then {
  3:24:08 Client: Object 10:1304 (type Type_69) not found.
  3:24:09 Client: Object 10:1486 (type Type_70) not found.
  3:24:10 Client: Object 10:1304 (type Type_70) not found.
+ 3:24:11 "get: STRING (23206790), sent: STRING (23206790)"
+ 3:24:11 "LOGOUT IN VEHICLE: DarrikVkir [BOOTY] at location [599.818,2032.73,0.802288]"
+ 3:24:11 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 570 at loc [599.818,2032.73,0.802288]"
+ 3:24:11 Client: Remote object 10:954 not found
+ 3:24:11 Client: Remote object 10:953 not found
+ 3:24:11 Client: Remote object 10:1486 not found
+ 3:24:11 Client: Remote object 10:1304 not found
+ 3:24:22 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
