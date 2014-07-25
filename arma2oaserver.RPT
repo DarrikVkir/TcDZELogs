@@ -555,3 +555,30 @@ g from [1623.71,218.188,300] to [4188.52,3615.51] NOW!(TIME:14089||LT:MilitarySp
  0:15:03 "RUNNING EVENT: supply_drop on [2014,7,24,20,15]"
  0:18:51 "TIME SYNC: Local Time set to [2013,8,3,20,18]"
  0:23:51 "TIME SYNC: Local Time set to [2013,8,3,20,23]"
+ 0:28:51 "TIME SYNC: Local Time set to [2013,8,3,20,28]"
+ 0:30:03 "RUNNING EVENT: crash_spawner on [2014,7,24,20,30]"
+ 0:30:03 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 0:30:03 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [2882,6073.61] NOW!(TIME:15891||LT:HeliCrash_No50s)"
+ 0:32:26 Server: Object 6:205 not found (message 99)
+ 0:32:26 Server: Object 6:206 not found (message 91)
+ 0:33:51 "TIME SYNC: Local Time set to [2013,8,3,20,33]"
+ 0:33:55 "DELETE: <null> Deleted by UID: 0"
+ 0:33:55 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 0:33:55   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 0:33:55   Error Undefined variable in expression: _activatingplayer
+ 0:33:55 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 0:36:42 "DELETE: <null> Deleted by UID: 0"
+ 0:36:42 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 0:36:42   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 0:36:42   Error Undefined variable in expression: _activatingplayer
+ 0:36:42 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
