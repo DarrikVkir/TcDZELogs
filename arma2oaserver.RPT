@@ -764,3 +764,324 @@ if(DZE_DeathMsgSide) then {
  4:18:34 Server: Network message 111bb3 is pending
  4:18:34 Server: Network message 111bb4 is pending
  4:18:34 Server: Network message 111bb5 is pending
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 NetServer::SendMsg: cannot find channel #678831289, users.card=4
+ 4:18:38 NetServer: users.get failed when sending to 678831289
+ 4:18:38 Message not sent - error 0, message ID = ffffffff, to 678831289 (Kmhuey)
+ 4:18:38 "get: STRING (15791622), sent: STRING (15791622)"
+ 4:18:38 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-F:1 (Kmhuey) REMOTE, _characterID: 581 at loc [1000.01,1813.84,0.00153881]"
+ 4:18:38 Client: Remote object 10:250 not found
+ 4:18:38 Client: Remote object 10:249 not found
+ 4:18:38 Client: Object 4:192 (type Type_149) not found.
+ 4:18:38 Client: Object 5:304 (type Type_149) not found.
+ 4:19:27 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 4:19:32 "ERROR: server_playerSync: Cannot Sync Player Miss Rachel  [582]. Position in debug! [-7245.98,19534.9,1.1908]"
+ 4:19:35 "CLEANUP: Deleted 1 Loot Piles out of 623"
+ 4:21:25 "CLEANUP: Deleted 6 Loot Piles out of 660"
+ 4:22:08 "TIME SYNC: Local Time set to [2013,8,3,17,22]"
+ 4:22:26 "CLEANUP: Deleted 26 Loot Piles out of 661"
+ 4:23:25 Error in expression <er getVariable["lastPos",_charPos];
+if (count _lastPos > 2 and count _charPos > >
+ 4:23:25   Error position: <count _lastPos > 2 and count _charPos > >
+ 4:23:25   Error count: Type Number, expected Array,Config entry
+ 4:23:25 File z\addons\dayz_server\compile\server_playerSync.sqf, line 70
+ 4:23:26 "CLEANUP: Deleted 7 Loot Piles out of 641"
+ 4:23:58 Server: Object 4:219 not found (message 70)
+ 4:23:58 Server: Object 4:216 not found (message 70)
+ 4:23:58 Server: Object 4:218 not found (message 70)
+ 4:23:58 Server: Object 4:217 not found (message 94)
+ 4:24:26 "CLEANUP: Deleted 9 Loot Piles out of 665"
+ 4:25:04 Magazine SmokeShellPurple (1 ammo left) not found
+ 4:25:38 "CLEANUP: Deleted 3 Loot Piles out of 681"
+ 4:26:27 "CLEANUP: Deleted 8 Loot Piles out of 704"
+ 4:27:08 "TIME SYNC: Local Time set to [2013,8,3,17,27]"
+ 4:27:35 "CLEANUP: Deleted 29 Loot Piles out of 701"
+ 4:28:37 Magazine SmokeShellRed (1 ammo left) not found
+ 4:28:37 "CLEANUP: Deleted 99 Loot Piles out of 678"
+ 4:28:46 Server: Object 5:407 not found (message 70)
+ 4:28:46 Server: Object 5:406 not found (message 70)
+ 4:28:46 Server: Object 5:408 not found (message 70)
+ 4:28:46 Server: Object 5:405 not found (message 94)
+ 4:28:46 Server: Object 5:404 not found (message 94)
+ 4:29:30 "CLEANUP: Deleted 67 Loot Piles out of 617"
+ 4:30:05 "RUNNING EVENT: crash_spawner on [2014,7,25,17,30]"
+ 4:30:05 "CRASHSPAWNER: 100% chance to start a crashing Mi-17 with loot table 'HeliCrash_No50s'"
+ 4:30:05 "CRASHSPAWNER: Mi-17 started
+
+g from [15098,8144,300] to [8863.47,4163.78] NOW!(TIME:2804||LT:HeliCrash_No50s)"
+ 4:30:25 "CLEANUP: Deleted 18 Loot Piles out of 555"
+ 4:30:47 Magazine SmokeShell (1 ammo left) not found
+ 4:32:08 "TIME SYNC: Local Time set to [2013,8,3,17,32]"
+ 4:32:09 "CLEANUP: Deleted 8 Animals out of 20"
