@@ -3384,3 +3384,26 @@ _key = format["CHILD:30>
  3:21:43 Client: Object 10:1304 (type Type_69) not found.
  3:21:43 "CLEANUP: Deleted 8 Loot Piles out of 316"
  3:21:43 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:45 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:47 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:48 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:49 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:51 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with F-35B from 129.071m with 0.0993392 dmg"
+ 3:21:51 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:21:51   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:21:51   Error Undefined variable in expression: _weapon
+ 3:21:51 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:21:51 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:53 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:53 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:55 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:57 Client: Object 10:1304 (type Type_70) not found.
+ 3:21:58 Client: Object 10:1304 (type Type_69) not found.
+ 3:21:59 Client: Object 10:1304 (type Type_70) not found.
