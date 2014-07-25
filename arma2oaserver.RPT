@@ -532,3 +532,21 @@ g from [1623.71,218.188,300] to [4212.68,9240.5] NOW!(TIME:12288||LT:HeliCrash_N
 };>
 23:58:09   Error Undefined variable in expression: _activatingplayer
 23:58:09 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+23:58:51 "TIME SYNC: Local Time set to [2013,8,3,19,58]"
+ 0:00:01 "RUNNING EVENT: crash_spawner on [2014,7,24,20,0]"
+ 0:00:02 "CRASHSPAWNER: 100% chance to start a crashing Mi-24D with loot table 'MilitarySpecial'"
+ 0:00:02 "CRASHSPAWNER: Mi-24D started
+
+g from [1623.71,218.188,300] to [4188.52,3615.51] NOW!(TIME:14089||LT:MilitarySpecial)"
+ 0:03:51 "TIME SYNC: Local Time set to [2013,8,3,20,3]"
+ 0:04:58 "CLEANUP: Deleted 1 Loot Piles out of 95"
+ 0:08:02 "CRASHSPAWNER: Mi-24D just exploded at [4217.17,3661.98,5.06114]!, "
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4220.75,3663.77,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4216.35,3666.34,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4223.63,3658.41,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4221.3,3662,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4222.11,3662.86,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4224.39,3657.82,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4209.84,3658.2,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Loot spawn at '[4211.09,3669.14,0]' with loot table 'MilitarySpecial'"
+ 0:08:02 "CRASHSPAWNER: Crash completed! Wreck at: [4217.08,3662.04,-0.0183716] - Runtime: 480 Seconds || Distance from calculated POC: 55 meters"
