@@ -428,3 +428,119 @@ if(DZE_DeathMsgSide) then {
  1:28:08 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
  1:28:08 "PDEATH: Player Died 23206790"
  1:28:22 "PDEATH: Player Died 236904774"
+ 1:28:38 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [405]. Position in debug! [-7237.6,19541.8,0.00180054]"
+ 1:28:39 "get: STRING (23206790), sent: STRING (23206790)"
+ 1:28:39 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-G:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 405 at loc [-7237.6,19541.8,0.00180054]"
+ 1:28:39 "ERROR: server_playerSync: Cannot Sync Player DarrikVkir [BOOTY] [405]. Position in debug! [-7237.6,19541.8,0.00180054]"
+ 1:28:39 Client: Remote object 4:2 not found
+ 1:28:39 Client: Remote object 4:32 not found
+ 1:28:39 Client: Remote object 4:31 not found
+ 1:28:42 "PHIT: B 1-1-H:1 (Kmhuey) REMOTE was hit by B 1-1-I:1 (Smiggetti) REMOTE with RPG7V from 10.4106m with 2.42543 dmg"
+ 1:28:52 "ERROR: server_playerSync: Cannot Sync Player Silentos [557]. Position in debug! [-7236.48,19541.6,0.0015564]"
+ 1:28:53 "get: STRING (236904774), sent: STRING (236904774)"
+ 1:28:53 "DISCONNECT: Silentos (236904774) Object: B 1-1-B:1 (Silentos) REMOTE, _characterID: 557 at loc [-7236.48,19541.6,0.0015564]"
+ 1:28:53 "ERROR: server_playerSync: Cannot Sync Player Silentos [557]. Position in debug! [-7236.48,19541.6,0.0015564]"
+ 1:29:01 Server: Object 4:56 not found (message 99)
+ 1:29:01 Server: Object 4:57 not found (message 91)
+ 1:29:01 Server: Object 4:50 not found (message 99)
+ 1:29:01 Server: Object 4:51 not found (message 91)
+ 1:29:01 Server: Object 4:52 not found (message 98)
+ 1:29:01 Server: Object 4:53 not found (message 91)
+ 1:29:01 Server: Object 4:54 not found (message 98)
+ 1:29:01 Server: Object 4:55 not found (message 91)
+ 1:29:01 Server: Object 4:58 not found (message 99)
+ 1:29:01 Server: Object 4:59 not found (message 91)
+ 1:29:02 Server: Object 4:81 not found (message 91)
+ 1:29:02 Server: Object 4:80 not found (message 99)
+ 1:29:05 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 1:29:33 "TELEPORT REVERT for player UID#255024710 from [1125.31,2473.31,0.0150175] to [1124.83,2483.88,0.00143242], 11 meters, now at [1125.31,2473.31,0.0150175]"
+ 1:29:39 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | any."
+ 1:29:44 "CLIENTLOG: Admin Tools: BluntScopes | Deactivated Admin Mode."
+ 1:29:52 "DELETE: <null> Deleted by UID: 0"
+ 1:29:52 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 1:29:52   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 1:29:52   Error Undefined variable in expression: _activatingplayer
+ 1:29:52 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 1:30:08 "CLIENTLOG: Admin Tools: BluntScopes | Activated Admin Mode."
+ 1:30:08 "RUNNING EVENT: crash_spawner on [2014,7,25,16,30]"
+ 1:30:08 "CRASHSPAWNER: 100% chance to start a crashing UH-60M with loot table 'HeliCrash_No50s'"
+ 1:30:08 "CRASHSPAWNER: UH-60M started
+
+g from [1623.71,218.188,300] to [5006.44,9077.74] NOW!(TIME:451||LT:HeliCrash_No50s)"
+ 1:30:16 "PHIT: B 1-1-I:1 (Smiggetti) REMOTE was hit by B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE with BAF_LRR_scoped from 149.983m with 5.40902 dmg"
+ 1:30:47 "PHIT: B 1-1-I:1 (Smiggetti) REMOTE was hit by B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE with BAF_LRR_scoped from 169.423m with 5.35804 dmg"
+ 1:30:58 "Player is Null FAILED: Exiting, player sync: <NULL-object>"
+ 1:31:14 Server: Object 9:78 not found (message 70)
+ 1:31:14 Server: Object 9:82 not found (message 89)
+ 1:31:14 Server: Object 9:81 not found (message 98)
+ 1:31:26 "TIME SYNC: Local Time set to [2013,8,3,16,31]"
+ 1:32:11 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 114.953m with 0.22156 dmg"
+ 1:32:25 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 103.839m with 0.224727 dmg"
+ 1:32:25 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 103.839m with 0.223624 dmg"
+ 1:32:25 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 103.839m with 0.224806 dmg"
+ 1:32:26 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 103.839m with 0.224835 dmg"
+ 1:32:37 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 8.64678m with 0.25627 dmg"
+ 1:32:37 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 8.2162m with 0.255706 dmg"
+ 1:32:37 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 8.01743m with 0.25659 dmg"
+ 1:32:37 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 7.2868m with 0.256945 dmg"
+ 1:32:37 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 7.07605m with 0.257023 dmg"
+ 1:32:38 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 6.6076m with 0.257173 dmg"
+ 1:32:38 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 6.22246m with 0.257109 dmg"
+ 1:32:38 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 5.65189m with 0.257255 dmg"
+ 1:32:38 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 4.94769m with 0.257514 dmg"
+ 1:32:39 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 2.13933m with 0.258448 dmg"
+ 1:32:40 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 1.84768m with 0.257005 dmg"
+ 1:32:40 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 2.09594m with 0.257123 dmg"
+ 1:32:40 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 2.65393m with 0.256346 dmg"
+ 1:32:40 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.14795m with 0.255831 dmg"
+ 1:32:41 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.6155m with 0.256095 dmg"
+ 1:32:41 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.59006m with 0.256477 dmg"
+ 1:32:41 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.47047m with 0.25635 dmg"
+ 1:32:42 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36102m with 0.256391 dmg"
+ 1:32:42 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36102m with 0.256388 dmg"
+ 1:32:42 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36102m with 0.256366 dmg"
+ 1:32:42 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36102m with 0.25642 dmg"
+ 1:32:42 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36102m with 0.256373 dmg"
+ 1:32:43 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36102m with 0.256397 dmg"
+ 1:32:43 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36102m with 0.256437 dmg"
+ 1:32:43 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.36789m with 0.256519 dmg"
+ 1:32:43 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.48304m with 0.256486 dmg"
+ 1:32:44 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 3.70468m with 0.256504 dmg"
+ 1:32:56 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 1.64365m with 0.257034 dmg"
+ 1:32:56 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 1.64365m with 0.257018 dmg"
+ 1:32:57 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 1.64365m with 0.256995 dmg"
+ 1:32:57 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Smiggetti) REMOTE with Colt1911 from 1.64365m with 0.257044 dmg"
+ 1:32:57 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 149.634m with 0.211241 dmg"
+ 1:33:01 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 149.634m with 0.211441 dmg"
+ 1:33:03 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 149.634m with 0.211561 dmg"
+ 1:33:04 "PHIT: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-L:1 (Kmhuey) REMOTE with M9SD from 149.634m with 0.211498 dmg"
+ 1:33:33 "DELETE: <null> Deleted by UID: 0"
+ 1:33:33 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 1:33:33   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 1:33:33   Error Undefined variable in expression: _activatingplayer
+ 1:33:33 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 1:34:30 "get: STRING (23206790), sent: STRING (23206790)"
+ 1:34:30 "DISCONNECT: DarrikVkir [BOOTY] (23206790) Object: B 1-1-A:1 (DarrikVkir [BOOTY]) REMOTE, _characterID: 558 at loc [1142.43,2533.14,0.00148296]"
+ 1:34:30 Client: Remote object 4:41 not found
+ 1:34:30 Client: Remote object 4:40 not found
+ 1:34:30 Client: Remote object 4:43 not found
+ 1:34:32 Warning: Cleanup player - person 4:42 not found
+ 1:35:47 "DELETE: <null> Deleted by UID: 0"
+ 1:35:47 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 1:35:47   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 1:35:47   Error Undefined variable in expression: _activatingplayer
+ 1:35:47 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 1:36:26 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
+ 1:36:50 Server: Object 10:9 not found (message 70)
