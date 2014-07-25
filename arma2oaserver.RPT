@@ -544,3 +544,13 @@ g from [1623.71,218.188,300] to [5006.44,9077.74] NOW!(TIME:451||LT:HeliCrash_No
  1:35:47 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
  1:36:26 "TIME SYNC: Local Time set to [2013,8,3,16,36]"
  1:36:50 Server: Object 10:9 not found (message 70)
+ 1:40:18 "CLIENTLOG: Admin Tools: Smiggetti | Deactivated Admin Mode."
+ 1:41:26 "TIME SYNC: Local Time set to [2013,8,3,16,41]"
+ 1:41:27 "CLEANUP: Deleted 10 Animals out of 14"
+ 1:42:03 "ERROR: Cannot Sync Character DarrikVkir [BOOTY] as no characterID"
+ 1:43:34 "CLIENTLOG: Admin Tools: Smiggetti | Activated Admin Mode."
+ 1:43:41 "CLIENTLOG: Admin Tools: Smiggetti | Deactivated Admin Mode."
+ 1:44:00 "CLIENTLOG: Admin Tools: Miss Rachel  | Activated Admin Mode."
+ 1:44:04 "CLIENTLOG: Admin Tools: Miss Rachel  | Deactivated Admin Mode."
+ 1:46:26 "TIME SYNC: Local Time set to [2013,8,3,16,46]"
+ 1:47:31 "CLEANUP: Deleted 34 Loot Piles out of 106"
