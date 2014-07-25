@@ -1070,3 +1070,8 @@ if (count _lastPos > 2 and count _charPos > >
  4:27:35 "CLEANUP: Deleted 29 Loot Piles out of 701"
  4:28:37 Magazine SmokeShellRed (1 ammo left) not found
  4:28:37 "CLEANUP: Deleted 99 Loot Piles out of 678"
+ 4:28:46 Server: Object 5:407 not found (message 70)
+ 4:28:46 Server: Object 5:406 not found (message 70)
+ 4:28:46 Server: Object 5:408 not found (message 70)
+ 4:28:46 Server: Object 5:405 not found (message 94)
+ 4:28:46 Server: Object 5:404 not found (message 94)
