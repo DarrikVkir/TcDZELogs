@@ -1798,3 +1798,597 @@ _we>
  2:58:44 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
  2:58:47 "CLEANUP: Deleted 38 Loot Piles out of 512"
  2:59:01 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 10.9987m with 1.46515 dmg"
+ 2:59:29 Server: Object 10:997 not found (message 70)
+ 2:59:29 Server: Object 10:1052 not found (message 70)
+ 2:59:29 Server: Object 10:1050 not found (message 94)
+ 2:59:29 Server: Object 10:1049 not found (message 94)
+ 2:59:29 Server: Object 10:1051 not found (message 94)
+ 2:59:37 "DELETE: <null> Deleted by UID: 0"
+ 2:59:37 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 2:59:37   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 2:59:37   Error Undefined variable in expression: _activatingplayer
+ 2:59:37 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 2:59:38 "CLIENTLOG: Admin Tools: DarrikVkir [BOOTY] | Activated Admin Mode."
+ 2:59:50 "CLEANUP: Deleted 22 Loot Piles out of 545"
+ 3:00:05 "RUNNING EVENT: crash_spawner on [2014,7,25,18,0]"
+ 3:00:05 "CRASHSPAWNER: 100% chance to start a crashing Ural with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Ural Wreck spawned at [1926.81,13896.9]"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1926.93,13900.9,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1925.92,13892.1,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1921.33,13899,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1928.07,13901,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1932.76,13896,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1926.86,13889.8,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1933.69,13902.4,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1914.23,13894.7,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1912.75,13895.9,0.130981]' with loot table 'Military'"
+ 3:00:05 "CRASHSPAWNER: Loot spawn at '[1933.82,13912.9,0.130981]' with loot table 'Military'"
+ 3:00:37 "DELETE: <null> Deleted by UID: 0"
+ 3:00:37 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:00:37   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:00:37   Error Undefined variable in expression: _activatingplayer
+ 3:00:37 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:00:51 Server: Object 11:509 not found (message 91)
+ 3:00:51 "CLEANUP: Deleted 27 Loot Piles out of 539"
+ 3:01:14 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with Apache AH1 from 45.9008m with 0.0549116 dmg"
+ 3:01:14 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:01:14   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:01:14   Error Undefined variable in expression: _weapon
+ 3:01:14 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:01:27 "TIME SYNC: Local Time set to [2013,8,3,18,1]"
+ 3:01:50 Server: Object 18:162 not found (message 98)
+ 3:01:50 Server: Object 18:163 not found (message 91)
+ 3:01:50 Server: Object 18:164 not found (message 99)
+ 3:01:50 Server: Object 18:165 not found (message 91)
+ 3:01:51 "CLEANUP: Deleted 27 Loot Piles out of 521"
+ 3:02:09 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 3:02:09   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 3:02:09   Error Undefined variable in expression: _id
+ 3:02:09 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 3:02:40 "DELETE: <null> Deleted by UID: 0"
+ 3:02:40 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:02:40   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:02:40   Error Undefined variable in expression: _activatingplayer
+ 3:02:40 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:02:48 Server: Object 10:1143 not found (message 70)
+ 3:02:48 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 327.059m with 0.0570048 dmg"
+ 3:02:48 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:02:48   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:02:48   Error Undefined variable in expression: _weapon
+ 3:02:48 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:02:52 Client: Object 10:1158 (type Type_70) not found.
+ 3:02:52 Client: Object 10:1158 (type Type_69) not found.
+ 3:02:53 "CLEANUP: Deleted 58 Loot Piles out of 494"
+ 3:03:22 "DELETE: <null> Deleted by UID: 0"
+ 3:03:22 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:03:22   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:03:22   Error Undefined variable in expression: _activatingplayer
+ 3:03:22 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:03:25 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 19.1054m with 1.45607 dmg"
+ 3:03:28 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 12.3824m with 1.46574 dmg"
+ 3:03:29 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 9.93153m with 1.46839 dmg"
+ 3:03:30 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 8.84388m with 1.46974 dmg"
+ 3:03:31 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 7.66504m with 1.47138 dmg"
+ 3:03:31 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 6.7961m with 1.14384 dmg"
+ 3:03:35 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 1.47588m with 1.47751 dmg"
+ 3:03:36 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 1.48097m with 1.47619 dmg"
+ 3:03:41 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 1.17857m with 0.26126 dmg"
+ 3:03:45 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 18.7204m with 0.255075 dmg"
+ 3:03:48 Client: Object 3:440 (type Type_69) not found.
+ 3:03:48 Client: Object 3:440 (type Type_70) not found.
+ 3:03:51 "CLEANUP: Deleted 46 Loot Piles out of 454"
+ 3:03:53 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 7.27742m with 0.258729 dmg"
+ 3:03:54 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 7.27742m with 0.25789 dmg"
+ 3:03:59 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 3.4268m with 0.259598 dmg"
+ 3:04:00 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 3.61379m with 0.2599 dmg"
+ 3:04:46 "CLEANUP: Deleted 48 Loot Piles out of 408"
+ 3:04:52 "DELETE: <null> Deleted by UID: 0"
+ 3:04:52 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:04:52   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:04:52   Error Undefined variable in expression: _activatingplayer
+ 3:04:52 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:04:59 "DELETE: <null> Deleted by UID: 0"
+ 3:04:59 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:04:59   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:04:59   Error Undefined variable in expression: _activatingplayer
+ 3:04:59 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:05:24 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 226.289m with 0.429835 dmg"
+ 3:05:24 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error Undefined variable in expression: _weapon
+ 3:05:24 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:24 Client: Object 8:537 (type Type_70) not found.
+ 3:05:24 Client: Object 8:537 (type Type_69) not found.
+ 3:05:24 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 238.134m with 1.64008 dmg"
+ 3:05:24 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error Undefined variable in expression: _weapon
+ 3:05:24 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:24 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 252.355m with 0.184807 dmg"
+ 3:05:24 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error Undefined variable in expression: _weapon
+ 3:05:24 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:24 "PKILL: BluntScopes was killed by DarrikVkir [BOOTY] with weapon Mi-24V from 238.134m"
+ 3:05:24 Error in expression <_this select 1) }] call RE;
+};
+
+
+
+
+
+
+if(DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:05:24   Error position: <DZE_DeathMsgSide) then {
+[nil, nil, rspa>
+ 3:05:24   Error Undefined variable in expression: dze_deathmsgside
+ 3:05:24 File z\addons\dayz_server\compile\server_playerDied.sqf, line 45
+ 3:05:24 "PDEATH: Player Died 4486214"
+ 3:05:24 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 238.134m with 3.50689 dmg"
+ 3:05:24 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:24   Error Undefined variable in expression: _weapon
+ 3:05:24 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 246.248m with 0.116401 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 231.614m with 2.41273 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 239.72m with 0.222342 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 225.268m with 5.99605 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 214.709m with 3.16634 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-I:1 (BluntScopes) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 214.709m with 8.85917 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 187.963m with 0.326664 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 WARNING: Function 'name' - BluntScopes is dead
+ 3:05:25 WARNING: Function 'name' - BluntScopes is dead
+ 3:05:25 WARNING: Function 'name' - BluntScopes is dead
+ 3:05:25 WARNING: Function 'name' - BluntScopes is dead
+ 3:05:25 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 180.604m with 0.1329 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:25 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Mi-24V from 180.604m with 0.211752 dmg"
+ 3:05:25 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:05:25   Error Undefined variable in expression: _weapon
+ 3:05:25 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:05:26 "DELETE: <null> Deleted by UID: 0"
+ 3:05:26 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:05:26   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:05:26   Error Undefined variable in expression: _activatingplayer
+ 3:05:26 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:05:43 "CLEANUP: Deleted 31 Loot Piles out of 360"
+ 3:05:45 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [568]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 3:05:46 "get: STRING (4486214), sent: STRING (4486214)"
+ 3:05:46 "DISCONNECT: BluntScopes (4486214) Object: B 1-1-M:1 (BluntScopes) REMOTE, _characterID: 568 at loc [-7239.67,19539.3,0.24588]"
+ 3:05:46 "ERROR: server_playerSync: Cannot Sync Player BluntScopes [568]. Position in debug! [-7239.67,19539.3,0.24588]"
+ 3:05:52 Warning: Cleanup player - person 7:440 not found
+ 3:05:56 NAT Negotiation completed
+ 3:05:57 "DELETE: <null> Deleted by UID: 0"
+ 3:05:57 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:05:57   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:05:57   Error Undefined variable in expression: _activatingplayer
+ 3:05:57 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:06:12 "DELETE: <null> Deleted by UID: 0"
+ 3:06:12 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:06:12   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:06:12   Error Undefined variable in expression: _activatingplayer
+ 3:06:12 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:06:16 "PHIT: B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 4.26942m with 0.258838 dmg"
+ 3:06:17 "PHIT: B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with UZI_SD_EP1 from 9.90382m with 0.258239 dmg"
+ 3:06:18 Server: Object 3:445 not found (message 277)
+ 3:06:19 Server: Object 3:445 not found (message 278)
+ 3:06:27 "TIME SYNC: Local Time set to [2013,8,3,18,6]"
+ 3:06:27 "Purging player: 313ac080# 1061586: man_bandit.p3d"
+ 3:06:27 "Purging player: 2a244080# 1061022: man_survivor.p3d"
+ 3:06:28 "CLEANUP: Deleted 2 players and 0 zombies out of 29 dead"
+ 3:06:29 "DELETE: <null> Deleted by UID: 0"
+ 3:06:29 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:06:29   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:06:29   Error Undefined variable in expression: _activatingplayer
+ 3:06:29 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:06:41 "CLEANUP: Deleted 5 Loot Piles out of 327"
+ 3:06:42 "DELETE: <null> Deleted by UID: 0"
+ 3:06:42 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:06:42   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:06:42   Error Undefined variable in expression: _activatingplayer
+ 3:06:42 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:06:59 "TELEPORT REVERT for player UID#4486214 from [6246.63,1963.97,0.001302] to [1141.59,2555.18,0.00141716], 5139 meters, now at [6246.63,1963.97,0.001302]"
+ 3:07:02 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-G:1 (Miss Rachel ) REMOTE with DMR from 61.9264m with 1.39726 dmg"
+ 3:07:12 "TELEPORT REVERT for player UID#4486214 from [6240.65,1961.08,0.00107551] to [1092.72,2465.94,0.00785065], 5173 meters, now at [6240.65,1961.08,0.00107551]"
+ 3:07:12 "TELEPORT REVERT for player UID#4486214 from [6240.65,1961.08,0.00107551] to [1092.59,2465.82,0.00144482], 5173 meters, now at [6240.65,1961.08,0.00107551]"
+ 3:07:27 "TELEPORT REVERT for player UID#4486214 from [6240.65,1961.08,0.00135231] to [1118.59,2485.26,0.00140381], 5149 meters, now at [6240.65,1961.08,0.00135231]"
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:27 NetServer::SendMsg: cannot find channel #671759888, users.card=7
+ 3:07:27 NetServer: users.get failed when sending to 671759888
+ 3:07:27 Message not sent - error 0, message ID = ffffffff, to 671759888 (morbidman)
+ 3:07:30 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 485.265m with 0.0510301 dmg"
+ 3:07:30 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:30   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:30   Error Undefined variable in expression: _weapon
+ 3:07:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:30 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 482.931m with 0.269737 dmg"
+ 3:07:30 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:30   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:30   Error Undefined variable in expression: _weapon
+ 3:07:30 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:31 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 478.851m with 0.212793 dmg"
+ 3:07:31 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:31   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:31   Error Undefined variable in expression: _weapon
+ 3:07:31 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:31 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 479.563m with 0.0544606 dmg"
+ 3:07:31 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:31   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:31   Error Undefined variable in expression: _weapon
+ 3:07:31 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:31 "DELETE: <null> Deleted by UID: 0"
+ 3:07:31 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:07:31   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:07:31   Error Undefined variable in expression: _activatingplayer
+ 3:07:31 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:07:34 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 418.145m with 0.14333 dmg"
+ 3:07:34 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:34   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:34   Error Undefined variable in expression: _weapon
+ 3:07:34 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:39 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 249.709m with 0.607043 dmg"
+ 3:07:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error Undefined variable in expression: _weapon
+ 3:07:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:39 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 247.351m with 6.05003 dmg"
+ 3:07:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error Undefined variable in expression: _weapon
+ 3:07:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:39 "PHIT: B 1-1-L:1 (Kmhuey) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 246.035m with 0.599782 dmg"
+ 3:07:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error Undefined variable in expression: _weapon
+ 3:07:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:39 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 247.351m with 6.05003 dmg"
+ 3:07:39 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:07:39   Error Undefined variable in expression: _weapon
+ 3:07:39 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:07:41 "CLEANUP: Deleted 5 Loot Piles out of 322"
+ 3:07:42 Server: Object 8:542 not found (message 132)
+ 3:07:42 "DELETE: <null> Deleted by UID: 0"
+ 3:07:42 Error in expression < format["DELETE: %1 Deleted by UID: %2",_activatingPlayer,_uid];
+};
+};>
+ 3:07:42   Error position: <_activatingPlayer,_uid];
+};
+};>
+ 3:07:42   Error Undefined variable in expression: _activatingplayer
+ 3:07:42 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 20
+ 3:07:55 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 3:07:55   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 3:07:55   Error Undefined variable in expression: _id
+ 3:07:55 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 3:08:12 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 3:08:12   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 3:08:12   Error Undefined variable in expression: _id
+ 3:08:12 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
+ 3:08:23 "DELETE: B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE Deleted by ID: 5277"
+ 3:08:24 "PHIT: B 1-1-F:1 (Silentos) REMOTE was hit by B 1-1-K:1 (DarrikVkir [BOOTY]) REMOTE with Ka-52 (black) from 475.096m with 0.472657 dmg"
+ 3:08:24 Error in expression <;
+
+_weapon = weaponState _attacker;
+if (_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:24   Error position: <_weapon select 0 == "Throw") then 
+{
+_we>
+ 3:08:24   Error Undefined variable in expression: _weapon
+ 3:08:24 File z\addons\dayz_server\compile\fnc_plyrHit.sqf, line 10
+ 3:08:31 Error in expression <
+
+if (isServer) then {
+
+if (parseNumber _id > 0) then {
+
+_key = format["CHILD:30>
+ 3:08:31   Error position: <_id > 0) then {
+
+_key = format["CHILD:30>
+ 3:08:31   Error Undefined variable in expression: _id
+ 3:08:31 File z\addons\dayz_server\compile\server_deleteObj.sqf, line 11
