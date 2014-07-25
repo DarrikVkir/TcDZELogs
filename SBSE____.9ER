@@ -3204,3 +3204,20 @@ _key = format["CHILD:30>
  3:18:40 Client: Object 10:1304 (type Type_70) not found.
  3:18:42 Client: Object 10:1304 (type Type_70) not found.
  3:18:42 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:45 "CLEANUP: Deleted 4 Loot Piles out of 385"
+ 3:18:46 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:47 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:48 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:50 Server: Object 18:200 not found (message 98)
+ 3:18:50 Server: Object 18:201 not found (message 91)
+ 3:18:50 Server: Object 18:203 not found (message 91)
+ 3:18:50 Server: Object 18:202 not found (message 98)
+ 3:18:50 Server: Object 18:205 not found (message 91)
+ 3:18:50 Server: Object 18:204 not found (message 99)
+ 3:18:50 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:52 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:52 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:54 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:56 Client: Object 10:1304 (type Type_70) not found.
+ 3:18:57 Client: Object 10:1304 (type Type_69) not found.
+ 3:18:58 Client: Object 10:1304 (type Type_70) not found.
