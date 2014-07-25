@@ -760,3 +760,93 @@ if(DZE_DeathMsgSide) then {
  2:06:27 "TIME SYNC: Local Time set to [2013,8,3,17,6]"
  2:06:32 Server: Object 10:112 not found (message 94)
  2:06:54 "CLEANUP: Deleted 13 Loot Piles out of 654"
+ 2:10:25 Server: Object 3:171 not found (message 91)
+ 2:10:55 "CLEANUP: Deleted 9 Loot Piles out of 692"
+ 2:11:27 "TIME SYNC: Local Time set to [2013,8,3,17,11]"
+ 2:11:28 "CLEANUP: Deleted 3 Animals out of 36"
+ 2:12:27 "get: STRING (15791622), sent: STRING (15791622)"
+ 2:12:27 "DISCONNECT: Kmhuey (15791622) Object: B 1-1-F:1 (Kmhuey) REMOTE, _characterID: 561 at loc [9161.57,1913.75,0.00178957]"
+ 2:12:27 Client: Remote object 9:298 not found
+ 2:13:47 "PDEATH: Player Died 148596870"
+ 2:13:54 "CLEANUP: Deleted 11 Loot Piles out of 713"
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 141, 143, 175
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 141, 175, 174
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 139, 141, 174
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 139, 174, 173
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 137, 139, 173
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 137, 173, 172
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 135, 137, 172
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 135, 172, 171
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 133, 135, 171
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 133, 171, 170
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 89, 91, 149
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 89, 149, 148
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 131, 133, 170
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 131, 170, 169
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 129, 131, 169
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 129, 169, 168
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 127, 129, 168
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 127, 168, 167
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 125, 127, 167
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 125, 167, 166
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 123, 125, 166
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 123, 166, 165
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 121, 123, 165
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 121, 165, 164
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 119, 121, 164
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 119, 164, 163
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 117, 119, 163
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 117, 163, 162
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 115, 117, 162
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 115, 162, 161
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 113, 115, 161
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 113, 161, 160
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 111, 113, 160
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 111, 160, 159
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 109, 111, 159
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 109, 159, 158
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 107, 109, 158
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 107, 158, 157
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 105, 107, 157
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 105, 157, 156
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 103, 105, 156
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 103, 156, 155
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 101, 103, 155
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 101, 155, 154
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 99, 101, 154
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 99, 154, 153
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 97, 99, 153
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 97, 153, 152
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 95, 97, 152
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 95, 152, 151
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 93, 95, 151
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 93, 151, 150
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 91, 93, 150
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 91, 150, 149
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 147, 89, 148
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 147, 148, 177
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 145, 147, 177
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 145, 177, 176
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 143, 145, 176
+ 2:14:29 Warning: z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:0 Error while trying to generate ST for points: 143, 176, 175
+ 2:14:29 Warnings in z\addons\dayz_communityassets\models\soda_rabbit_clean_full.p3d:shadow(1000)
+ 2:14:30 Server: Object 7:333 not found (message 70)
+ 2:14:52 "ERROR: server_playerSync: Cannot Sync Player Jackhole [552]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 2:14:54 "get: STRING (148596870), sent: STRING (148596870)"
+ 2:14:54 "DISCONNECT: Jackhole (148596870) Object: B 1-1-D:1 (Jackhole) REMOTE, _characterID: 552 at loc [-7239.67,19539.3,0.245972]"
+ 2:14:54 "ERROR: server_playerSync: Cannot Sync Player Jackhole [552]. Position in debug! [-7239.67,19539.3,0.245972]"
+ 2:14:54 Client: Remote object 11:2 not found
+ 2:14:57 "CLEANUP: Deleted 63 Loot Piles out of 710"
+ 2:15:06 "RUNNING EVENT: supply_drop on [2014,7,25,17,15]"
+ 2:15:38 Server: Object 11:159 not found (message 98)
+ 2:15:38 Server: Object 11:160 not found (message 91)
+ 2:15:55 "CLEANUP: Deleted 48 Loot Piles out of 691"
+ 2:16:27 "TIME SYNC: Local Time set to [2013,8,3,17,16]"
+ 2:16:52 "CLEANUP: Deleted 6 Loot Piles out of 657"
+ 2:17:19 Server: Object 6:222 not found (message 70)
+ 2:17:19 Server: Object 6:221 not found (message 94)
+ 2:17:53 Server: Object 6:238 not found (message 94)
+ 2:17:53 Server: Object 6:237 not found (message 94)
+ 2:17:57 "CLEANUP: Deleted 68 Loot Piles out of 683"
+ 2:18:01 Server: Object 6:242 not found (message 70)
+ 2:18:01 Server: Object 6:247 not found (message 70)
