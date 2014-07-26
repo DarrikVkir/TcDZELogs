@@ -427,3 +427,24 @@ g from [1623.71,218.188,300] to [8997.56,6366.57] NOW!(TIME:11587||LT:MilitarySp
 19:06:48 Server: Object 6:73 not found (message 98)
 19:06:48 Server: Object 6:78 not found (message 91)
 19:06:48 Server: Object 6:77 not found (message 99)
+19:10:44 "TIME SYNC: Local Time set to [2013,8,3,20,10]"
+19:15:08 "RUNNING EVENT: supply_drop on [2014,7,26,20,15]"
+19:15:44 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
+19:15:55 "CLEANUP: Deleted 56 Loot Piles out of 287"
+19:16:53 "CLEANUP: Deleted 36 Loot Piles out of 231"
+19:17:06 Server: Object 6:153 not found (message 91)
+19:17:06 Server: Object 6:152 not found (message 99)
+19:17:06 Server: Object 6:154 not found (message 99)
+19:17:06 Server: Object 6:155 not found (message 91)
+19:17:10 "CRASHSPAWNER: Ka-52 (black) just exploded at [2719.85,3257.18,0.733063]!, "
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2718.27,3260.85,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2725.81,3257.38,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2720.52,3264.96,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2708.68,3255.72,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2726.35,3258.55,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2720.67,3266.71,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2708.66,3251.49,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2721.32,3243.74,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Loot spawn at '[2705.73,3249.23,0]' with loot table 'MilitarySpecial'"
+19:17:10 "CRASHSPAWNER: Crash completed! Wreck at: [2719.86,3257.2,-0.00114441] - Runtime: 10020 Seconds || Distance from calculated POC: 679 meters"
+19:17:52 "CLEANUP: Deleted 6 Loot Piles out of 235"
