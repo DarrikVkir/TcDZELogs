@@ -391,3 +391,6 @@ g from [6986,-630,1000] to [6304.37,9115.33] NOW!(TIME:6035||LT:MilitarySpecial)
  7:03:09 "CRASHSPAWNER: Crash completed! Wreck at: [6611.42,9090.18,0.0151062] - Runtime: 182 Seconds || Distance from calculated POC: 308 meters"
  7:07:59 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
  7:08:01 "CLEANUP: Deleted 34 Animals out of 34"
+ 7:12:59 "TIME SYNC: Local Time set to [2013,8,3,20,12]"
+ 7:15:07 "RUNNING EVENT: supply_drop on [2014,7,26,20,15]"
+ 7:17:59 "TIME SYNC: Local Time set to [2013,8,3,20,17]"
