@@ -593,3 +593,7 @@ g from [10450,-630,1000] to [8222.96,14957.3] NOW!(TIME:15181||LT:MilitarySpecia
 20:15:03 "RUNNING EVENT: supply_drop on [2014,7,26,21,15]"
 20:15:44 "TIME SYNC: Local Time set to [2013,8,3,21,15]"
 20:16:51 "CLEANUP: Deleted 1 Loot Piles out of 103"
+20:20:11 "[DZMS]: Minor SM2 Medical Outpost Mission has Ended."
+20:20:25 "[DZMS]: Running Minor Mission SM3."
+20:20:44 "TIME SYNC: Local Time set to [2013,8,3,21,20]"
+20:25:44 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
