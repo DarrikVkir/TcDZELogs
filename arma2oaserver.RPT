@@ -597,3 +597,38 @@ g from [10450,-630,1000] to [8222.96,14957.3] NOW!(TIME:15181||LT:MilitarySpecia
 20:20:25 "[DZMS]: Running Minor Mission SM3."
 20:20:44 "TIME SYNC: Local Time set to [2013,8,3,21,20]"
 20:25:44 "TIME SYNC: Local Time set to [2013,8,3,21,25]"
+20:28:51 "CLEANUP: Deleted 1 Loot Piles out of 112"
+20:30:03 "RUNNING EVENT: crash_spawner on [2014,7,26,21,30]"
+20:30:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+20:30:03 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [4941.63,8403.89] NOW!(TIME:16982||LT:HeliCrash_No50s)"
+20:30:44 "TIME SYNC: Local Time set to [2013,8,3,21,30]"
+20:35:44 "TIME SYNC: Local Time set to [2013,8,3,21,35]"
+20:35:51 "CLEANUP: Deleted 3 Loot Piles out of 112"
+20:36:18 "[DZMS]: Major SM9 Fire Base Mission has Ended."
+20:36:18 Error in expression < <= 30  } count playableunits > 0};
+
+
+
+[_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+20:36:18   Error position: <_vehicle] ExecVM DZMSSaveVeh;
+
+
+[nil,nil>
+20:36:18   Error Undefined variable in expression: _vehicle
+20:36:18 File z\addons\dayz_server\EMS\Missions\Major\SM9.sqf, line 43
+20:36:18 Error in expression <bject = _this select 0;
+_class = typeOf _object;
+_dir = getDir _object;
+_pos = g>
+20:36:18   Error position: <_object;
+_dir = getDir _object;
+_pos = g>
+20:36:18   Error Undefined variable in expression: _object
+20:36:18 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
+20:37:04 "[DZMS]: Running Major Mission SM6."
+20:37:51 "CLEANUP: Deleted 4 Loot Piles out of 113"
