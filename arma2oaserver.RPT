@@ -475,3 +475,21 @@ g from [1623.71,218.188,300] to [2616.49,14295.5] NOW!(TIME:13231||LT:MilitarySp
  9:02:26 "CRASHSPAWNER: Crash completed! Wreck at: [2885.23,14106.7,0.298309] - Runtime: 143 Seconds || Distance from calculated POC: 340 meters"
  9:02:59 "TIME SYNC: Local Time set to [2013,8,3,22,2]"
  9:07:59 "TIME SYNC: Local Time set to [2013,8,3,22,7]"
+ 9:10:06 "CRASHSPAWNER: UH-1H just exploded at [7307.53,11506.9,0.953857]!, "
+ 9:10:06 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 9:10:06 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 9:10:06 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7305.79,11510.5,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7310.69,11504.3,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7312.98,11510.8,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7302.57,11505.4,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7301.84,11505,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7306.16,11502.6,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7302.84,11513.9,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7308.81,11511.1,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7308.82,11512.5,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Loot spawn at '[7308.52,11502.6,0]' with loot table 'HeliCrash_No50s'"
+ 9:10:06 "CRASHSPAWNER: Crash completed! Wreck at: [7307.53,11506.9,0.104797] - Runtime: 4197 Seconds || Distance from calculated POC: 27 meters"
+ 9:12:59 "TIME SYNC: Local Time set to [2013,8,3,22,12]"
+ 9:15:03 "RUNNING EVENT: supply_drop on [2014,7,26,22,15]"
+ 9:17:59 "TIME SYNC: Local Time set to [2013,8,3,22,17]"
