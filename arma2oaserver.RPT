@@ -292,3 +292,8 @@ g from [6993.7,173.053,300] to [9957.72,4270.68] NOW!(TIME:640||LT:MilitarySpeci
  5:35:08 "CRASHSPAWNER: Loot spawn at '[9942.74,4533.21,0]' with loot table 'MilitarySpecial'"
  5:35:08 "CRASHSPAWNER: Crash completed! Wreck at: [9944.39,4526.63,-0.15873] - Runtime: 298 Seconds || Distance from calculated POC: 259 meters"
  5:37:58 "TIME SYNC: Local Time set to [2013,8,3,18,37]"
+ 5:40:30 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 5:42:58 "TIME SYNC: Local Time set to [2013,8,3,18,42]"
+ 5:44:03 "CLEANUP: Deleted 11 Loot Piles out of 213"
+ 5:45:03 "CLEANUP: Deleted 5 Loot Piles out of 230"
+ 5:47:58 "TIME SYNC: Local Time set to [2013,8,3,18,47]"
