@@ -1368,3 +1368,22 @@ g from [6986,-630,1000] to [6159.89,2861.4] NOW!(TIME:20585||LT:MilitarySpecial)
 21:34:58 Server: Object 5:8 not found (message 89)
 21:35:03 Server: Object 5:8 not found (message 89)
 21:35:08 Server: Object 5:8 not found (message 89)
+21:35:13 Server: Object 5:8 not found (message 89)
+21:35:14 "CRASHSPAWNER: A-10 just exploded at [6339.35,3062.5,5.45126]!, "
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6337.49,3058.96,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6337.43,3067.57,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6332.57,3061.39,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6333.66,3065.16,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6333.26,3057.15,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6330.5,3058.16,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6334.87,3073.56,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6342.95,3052.39,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6351.47,3063.38,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6347.02,3060.41,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6331.17,3068.47,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6342.85,3060.16,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Loot spawn at '[6346.04,3065.19,0]' with loot table 'MilitarySpecial'"
+21:35:14 "CRASHSPAWNER: Crash completed! Wreck at: [6339.5,3062.37,0.0386486] - Runtime: 306 Seconds || Distance from calculated POC: 270 meters"
+21:35:18 Server: Object 5:8 not found (message 89)
+21:35:23 Server: Object 5:8 not found (message 89)
+21:35:28 Server: Object 5:8 not found (message 89)
