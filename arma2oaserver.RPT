@@ -357,3 +357,8 @@ g from [6993.7,173.053,300] to [11216.3,8160.18] NOW!(TIME:4233||LT:MilitarySpec
  6:37:58 "TIME SYNC: Local Time set to [2013,8,3,19,37]"
  6:42:58 "TIME SYNC: Local Time set to [2013,8,3,19,42]"
  6:47:58 "TIME SYNC: Local Time set to [2013,8,3,19,47]"
+ 6:52:10 "CLEANUP: Deleted 117 Loot Piles out of 300"
+ 6:52:59 "TIME SYNC: Local Time set to [2013,8,3,19,52]"
+ 6:53:04 "CLEANUP: Deleted 6 Loot Piles out of 183"
+ 6:56:04 "CLEANUP: Deleted 3 Loot Piles out of 177"
+ 6:57:59 "TIME SYNC: Local Time set to [2013,8,3,19,57]"
