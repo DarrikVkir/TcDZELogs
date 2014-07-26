@@ -1299,3 +1299,11 @@ g from [6986,-630,1000] to [14180.1,13982.2] NOW!(TIME:18784||LT:MilitarySpecial
 21:29:52 Server: Object 5:8 not found (message 89)
 21:29:57 Server: Object 5:8 not found (message 89)
 21:30:02 Server: Object 5:8 not found (message 89)
+21:30:07 Server: Object 5:8 not found (message 89)
+21:30:07 "RUNNING EVENT: crash_spawner on [2014,7,26,22,30]"
+21:30:07 "CRASHSPAWNER: 100% chance to start a crashing A-10 with loot table 'MilitarySpecial'"
+21:30:07 "CRASHSPAWNER: A-10 started
+
+g from [6986,-630,1000] to [6159.89,2861.4] NOW!(TIME:20585||LT:MilitarySpecial)"
+21:30:13 Server: Object 5:8 not found (message 89)
+21:30:18 Server: Object 5:8 not found (message 89)
