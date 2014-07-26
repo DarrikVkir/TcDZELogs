@@ -632,3 +632,103 @@ _pos = g>
 20:36:18 File z\addons\dayz_server\EMS\Scripts\DZMSSaveToHive.sqf, line 7
 20:37:04 "[DZMS]: Running Major Mission SM6."
 20:37:51 "CLEANUP: Deleted 4 Loot Piles out of 113"
+20:39:51 "CLEANUP: Deleted 1 Loot Piles out of 113"
+20:40:44 "TIME SYNC: Local Time set to [2013,8,3,21,40]"
+20:43:30 "get: STRING (99982214), sent: STRING (99982214)"
+20:43:30 "LOGOUT IN VEHICLE: -[VOID]-Sypher117 at location [7683.28,10467.8,2.80157]"
+20:43:30 "DISCONNECT: -[VOID]-Sypher117 (99982214) Object: B 1-1-B:1 (-[VOID]-Sypher117) REMOTE, _characterID: 541 at loc [7683.28,10467.8,2.80157]"
+20:43:30 Client: Remote object 5:2 not found
+20:43:30 Server: Object 5:8 not found (message 89)
+20:43:35 Server: Object 5:8 not found (message 89)
+20:43:40 Server: Object 5:8 not found (message 89)
+20:43:45 Server: Object 5:8 not found (message 89)
+20:43:51 Server: Object 5:8 not found (message 89)
+20:43:56 Server: Object 5:8 not found (message 89)
+20:44:01 Server: Object 5:8 not found (message 89)
+20:44:06 Server: Object 5:8 not found (message 89)
+20:44:11 Server: Object 5:8 not found (message 89)
+20:44:16 Server: Object 5:8 not found (message 89)
+20:44:21 Server: Object 5:8 not found (message 89)
+20:44:26 Server: Object 5:8 not found (message 89)
+20:44:31 Server: Object 5:8 not found (message 89)
+20:44:36 Server: Object 5:8 not found (message 89)
+20:44:41 Server: Object 5:8 not found (message 89)
+20:44:46 Server: Object 5:8 not found (message 89)
+20:44:51 Server: Object 5:8 not found (message 89)
+20:44:56 Server: Object 5:8 not found (message 89)
+20:45:01 Server: Object 5:8 not found (message 89)
+20:45:06 Server: Object 5:8 not found (message 89)
+20:45:11 Server: Object 5:8 not found (message 89)
+20:45:16 Server: Object 5:8 not found (message 89)
+20:45:21 Server: Object 5:8 not found (message 89)
+20:45:26 Server: Object 5:8 not found (message 89)
+20:45:31 Server: Object 5:8 not found (message 89)
+20:45:36 Server: Object 5:8 not found (message 89)
+20:45:41 Server: Object 5:8 not found (message 89)
+20:45:44 "TIME SYNC: Local Time set to [2013,8,3,21,45]"
+20:45:46 Server: Object 5:8 not found (message 89)
+20:45:51 Server: Object 5:8 not found (message 89)
+20:45:56 Server: Object 5:8 not found (message 89)
+20:46:01 Server: Object 5:8 not found (message 89)
+20:46:06 Server: Object 5:8 not found (message 89)
+20:46:11 Server: Object 5:8 not found (message 89)
+20:46:16 Server: Object 5:8 not found (message 89)
+20:46:21 Server: Object 5:8 not found (message 89)
+20:46:26 Server: Object 5:8 not found (message 89)
+20:46:31 Server: Object 5:8 not found (message 89)
+20:46:36 Server: Object 5:8 not found (message 89)
+20:46:41 Server: Object 5:8 not found (message 89)
+20:46:46 Server: Object 5:8 not found (message 89)
+20:46:51 Server: Object 5:8 not found (message 89)
+20:46:56 Server: Object 5:8 not found (message 89)
+20:47:01 Server: Object 5:8 not found (message 89)
+20:47:06 Server: Object 5:8 not found (message 89)
+20:47:07 "CRASHSPAWNER: AH-1Z just exploded at [6427.58,8547.1,4.48224]!, "
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6431.58,8546.88,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6424.76,8542,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6421.49,8546.56,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6437.03,8547.02,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6421.59,8556.81,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6420.16,8554.57,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6429.03,8559.96,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6423.44,8539.77,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6428.22,8556.14,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6431.69,8552.83,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6416.9,8548.31,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Loot spawn at '[6435.36,8547.58,0]' with loot table 'MilitarySpecial'"
+20:47:07 "CRASHSPAWNER: Crash completed! Wreck at: [6427.62,8547.11,-0.00466919] - Runtime: 10011 Seconds || Distance from calculated POC: 8 meters"
+20:47:11 Server: Object 5:8 not found (message 89)
+20:47:16 Server: Object 5:8 not found (message 89)
+20:47:21 Server: Object 5:8 not found (message 89)
+20:47:26 Server: Object 5:8 not found (message 89)
+20:47:28 Server: Object 8:108 not found (message 91)
+20:47:28 Server: Object 8:107 not found (message 99)
+20:47:28 Server: Object 8:112 not found (message 91)
+20:47:28 Server: Object 8:119 not found (message 98)
+20:47:28 Server: Object 8:120 not found (message 91)
+20:47:28 Server: Object 8:123 not found (message 99)
+20:47:28 Server: Object 8:124 not found (message 91)
+20:47:28 Server: Object 8:126 not found (message 91)
+20:47:28 Server: Object 8:128 not found (message 91)
+20:47:28 Server: Object 8:127 not found (message 98)
+20:47:28 Server: Object 8:129 not found (message 98)
+20:47:28 Server: Object 8:130 not found (message 91)
+20:47:31 Server: Object 5:8 not found (message 89)
+20:47:36 Server: Object 5:8 not found (message 89)
+20:47:41 Server: Object 5:8 not found (message 89)
+20:47:46 Server: Object 5:8 not found (message 89)
+20:47:51 Server: Object 5:8 not found (message 89)
+20:47:53 "EPOCH SERVERTRADE: Player: Duracell (117535878) bought a CSJ_GyroC in/at Any for 4x ItemGoldBar"
+20:47:53 "PUBLISH: Attempt 2d33c800# 1063356: arrow_down_large_ep1.p3d REMOTE"
+20:47:53 "HIVE: WRITE: "CHILD:308:3195:CSJ_GyroC:0:8731:[14,[12072.7,12667.3,0]]:[]:[]:1:120727126673018066:""
+20:47:54 "HIVE: WRITE: "CHILD:388:120727126673018066:""
+20:47:55 "CUSTOM: Selected "5311""
+20:47:55 "PUBLISH: B 1-1-C:1 (Duracell) REMOTE Bought CSJ_GyroC with ID "120727126673018066""
+20:47:56 Server: Object 5:8 not found (message 89)
+20:48:01 Server: Object 5:8 not found (message 89)
+20:48:06 Server: Object 5:8 not found (message 89)
+20:48:11 Server: Object 5:8 not found (message 89)
+20:48:16 Server: Object 5:8 not found (message 89)
+20:48:21 Server: Object 5:8 not found (message 89)
+20:48:26 Server: Object 5:8 not found (message 89)
+20:48:31 Server: Object 5:8 not found (message 89)
