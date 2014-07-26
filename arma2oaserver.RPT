@@ -362,3 +362,32 @@ g from [6993.7,173.053,300] to [11216.3,8160.18] NOW!(TIME:4233||LT:MilitarySpec
  6:53:04 "CLEANUP: Deleted 6 Loot Piles out of 183"
  6:56:04 "CLEANUP: Deleted 3 Loot Piles out of 177"
  6:57:59 "TIME SYNC: Local Time set to [2013,8,3,19,57]"
+ 6:58:43 "get: STRING (120160390), sent: STRING (120160390)"
+ 6:58:43 "DISCONNECT: Lince (120160390) Object: B 1-1-C:1 (Lince) REMOTE, _characterID: 411 at loc [8951.82,9209.79,0.00143433]"
+ 6:58:43 Client: Remote object 3:8 not found
+ 6:58:43 Warning: Cleanup player - person 3:7 not found
+ 6:58:45 Warning: Cleanup player - person 3:7 not found
+ 7:00:06 "RUNNING EVENT: crash_spawner on [2014,7,26,20,0]"
+ 7:00:06 "CRASHSPAWNER: 100% chance to start a crashing Su-25 with loot table 'MilitarySpecial'"
+ 7:00:06 "CRASHSPAWNER: Su-25 started
+
+g from [6986,-630,1000] to [6304.37,9115.33] NOW!(TIME:6035||LT:MilitarySpecial)"
+ 7:02:05 "CLEANUP: Deleted 41 Loot Piles out of 163"
+ 7:02:59 "TIME SYNC: Local Time set to [2013,8,3,20,2]"
+ 7:03:06 "CLEANUP: Deleted 83 Loot Piles out of 122"
+ 7:03:09 "CRASHSPAWNER: Su-25 just exploded at [6611.45,9090.04,5.62155]!, "
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6614.38,9092.76,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6616.94,9087.24,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6618.39,9088.51,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6605.25,9093.54,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6608.68,9093.61,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6606.92,9088.17,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6618.69,9090.4,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6605.03,9088.74,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6606.02,9095.11,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6616.61,9086.61,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6617.54,9095.04,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Loot spawn at '[6605.78,9090.18,0]' with loot table 'MilitarySpecial'"
+ 7:03:09 "CRASHSPAWNER: Crash completed! Wreck at: [6611.42,9090.18,0.0151062] - Runtime: 182 Seconds || Distance from calculated POC: 308 meters"
+ 7:07:59 "TIME SYNC: Local Time set to [2013,8,3,20,7]"
+ 7:08:01 "CLEANUP: Deleted 34 Animals out of 34"
