@@ -237,3 +237,10 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
 15:49:52 "[DZMS]: Running Major Mission SM9."
 15:50:43 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
 15:55:43 "TIME SYNC: Local Time set to [2013,8,3,16,55]"
+16:00:03 "RUNNING EVENT: crash_spawner on [2014,7,26,17,0]"
+16:00:03 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+16:00:03 "CRASHSPAWNER: UH-1H started
+
+g from [6993.7,173.053,300] to [3189.24,15295.9] NOW!(TIME:789||LT:HeliCrash_No50s)"
+16:00:43 "TIME SYNC: Local Time set to [2013,8,3,17,0]"
+16:05:43 "TIME SYNC: Local Time set to [2013,8,3,17,5]"
