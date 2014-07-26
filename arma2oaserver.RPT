@@ -536,3 +536,28 @@ g from [6993.7,173.053,300] to [6016.11,13457.9] NOW!(TIME:13389||LT:HeliCrash_N
 19:55:50 "CLEANUP: Deleted 3 Loot Piles out of 98"
 19:56:50 "CLEANUP: Deleted 1 Loot Piles out of 96"
 19:57:50 "CLEANUP: Deleted 2 Loot Piles out of 95"
+19:59:50 "CLEANUP: Deleted 3 Loot Piles out of 95"
+20:00:02 "RUNNING EVENT: crash_spawner on [2014,7,26,21,0]"
+20:00:02 "CRASHSPAWNER: 100% chance to start a crashing AH-1Z with loot table 'MilitarySpecial'"
+20:00:02 "CRASHSPAWNER: AH-1Z started
+
+g from [10450,-630,1000] to [8222.96,14957.3] NOW!(TIME:15181||LT:MilitarySpecial)"
+20:00:13 "EPOCH SERVERTRADE: Player: Duracell (117535878) sold a HMMWV_DZ in/at Klen for 2x ItemGoldBar10oz"
+20:00:13 "DELETE: B 1-1-C:1 (Duracell) REMOTE Deleted by ID: 965286"
+20:00:44 "TIME SYNC: Local Time set to [2013,8,3,21,0]"
+20:00:50 "CLEANUP: Deleted 2 Loot Piles out of 93"
+20:00:55 "get: STRING (117535878), sent: STRING (117535878)"
+20:00:55 "DISCONNECT: Duracell (117535878) Object: B 1-1-C:1 (Duracell) REMOTE, _characterID: 537 at loc [11428.5,11380.2,0.00125122]"
+20:00:55 Client: Remote object 6:2 not found
+20:00:55 Client: Remote object 6:8 not found
+20:00:55 "CLEANUP: DELETED A "Land_Fire_DZ""
+20:01:34 "get: STRING (164110918), sent: STRING (164110918)"
+20:01:34 "DISCONNECT: Greengo (164110918) Object: B 1-1-D:1 (Greengo) REMOTE, _characterID: 588 at loc [13497.7,3947.82,0.00148487]"
+20:01:34 Client: Remote object 7:6 not found
+20:01:34 Client: Remote object 7:5 not found
+20:01:34 Client: Remote object 7:2 not found
+20:01:34 Warning: Cleanup player - person 7:7 not found
+20:01:37 Warning: Cleanup player - person 7:7 not found
+20:02:50 "CLEANUP: Deleted 1 Loot Piles out of 88"
+20:05:44 "TIME SYNC: Local Time set to [2013,8,3,21,5]"
+20:05:45 "CLEANUP: Deleted 21 Animals out of 36"
