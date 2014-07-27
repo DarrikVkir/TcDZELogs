@@ -2,10 +2,10 @@
 
 =====================================================================
 == C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe
-== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-AycyM.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
+== "C:\program files (x86)\steam\steamapps\common\arma 2 operation arrowhead\Expansion\beta\arma2oaserver.exe" -mod=EXPANSION\beta;EXPANSION\beta\Expansion;EXPANSION;ca;@DayZ_Epoch1042;3195\@bliss -port=3136 -profiles=3195 -config=3195\server-1cb7A.cfg -cfg=3195\arma2.cfg -name=cfgdayzDEFAULT -world=Chernarus -cpuCount=2 -exThreads=1 -noSound
 =====================================================================
 Exe timestamp: 2014/06/01 10:01:31
-Current time:  2014/07/27 09:44:30
+Current time:  2014/07/27 15:44:36
 
 Version 1.63.112555
 Item STR_EPOCH_BULK_DESC_MP5SD listed twice
