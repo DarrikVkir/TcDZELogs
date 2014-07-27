@@ -278,3 +278,5 @@ Obsolete class Animations defined in bin\config.bin/RscWatch/
  0:10:47 "CLEANUP: INITIALIZING CLEANUP SCRIPT"
  0:15:07 "RUNNING EVENT: supply_drop on [2014,7,27,19,15]"
  0:15:47 "TIME SYNC: Local Time set to [2013,8,3,19,15]"
+ 0:20:47 "TIME SYNC: Local Time set to [2013,8,3,19,20]"
+ 0:25:47 "TIME SYNC: Local Time set to [2013,8,3,19,25]"
