@@ -313,3 +313,29 @@ g from [6993.7,173.053,300] to [5599.53,6835.76] NOW!(TIME:1361||LT:MilitarySpec
  0:54:48 "CLEANUP: Deleted 1 Loot Piles out of 26"
  0:55:47 "TIME SYNC: Local Time set to [2013,8,3,19,55]"
  0:57:55 Warning: z\addons\dayz_communityassets\models\razor.p3d:0 Error while trying to generate ST for points: 214, 349, 208
+ 0:59:20 Warnings in z\addons\dayz_communityassets\models\can_unlabeled_clean_empty.p3d:shadow(1000)
+ 1:00:00 "RUNNING EVENT: crash_spawner on [2014,7,27,20,0]"
+ 1:00:00 "CRASHSPAWNER: 100% chance to start a crashing UH-1H with loot table 'HeliCrash_No50s'"
+ 1:00:00 "CRASHSPAWNER: UH-1H started
+
+g from [10450,-630,1000] to [10760.2,11936.9] NOW!(TIME:3152||LT:HeliCrash_No50s)"
+ 1:00:47 "TIME SYNC: Local Time set to [2013,8,3,20,0]"
+ 1:05:47 "TIME SYNC: Local Time set to [2013,8,3,20,5]"
+ 1:07:03 "CRASHSPAWNER: UH-1H just exploded at [10772.5,11950.3,-0.0332642]!, "
+ 1:07:03 UH1Wreck_DZ: MainTurret - unknown animation source MainTurret
+ 1:07:03 UH1Wreck_DZ: MainGun - unknown animation source mainGun
+ 1:07:03 UH1Wreck_DZ: Gatling - unknown animation source Gatling
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10775.7,11952.8,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10766.3,11953,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10768.7,11953,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10778.9,11951.3,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10764.2,11945.5,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10771.7,11944.1,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10775.5,11942,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10777.6,11956.2,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10776.7,11950.5,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10768.9,11943.5,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Loot spawn at '[10764.2,11951.8,0]' with loot table 'HeliCrash_No50s'"
+ 1:07:03 "CRASHSPAWNER: Crash completed! Wreck at: [10772.5,11950.3,0.159363] - Runtime: 423 Seconds || Distance from calculated POC: 19 meters"
+ 1:08:23 "[DZMS]: Minor SM12 Ural Crash Mission has Ended."
+ 1:08:28 "[DZMS]: Running Minor Mission SM8."
