@@ -339,3 +339,15 @@ g from [10450,-630,1000] to [10760.2,11936.9] NOW!(TIME:3152||LT:HeliCrash_No50s
  1:07:03 "CRASHSPAWNER: Crash completed! Wreck at: [10772.5,11950.3,0.159363] - Runtime: 423 Seconds || Distance from calculated POC: 19 meters"
  1:08:23 "[DZMS]: Minor SM12 Ural Crash Mission has Ended."
  1:08:28 "[DZMS]: Running Minor Mission SM8."
+ 1:09:49 "CLEANUP: Deleted 8 Loot Piles out of 49"
+ 1:10:47 "TIME SYNC: Local Time set to [2013,8,3,20,10]"
+ 1:10:48 "PDEATH: Player Died 1976009"
+ 1:11:51 "ERROR: server_playerSync: Cannot Sync Player Morpheous30 [590]. Position in debug! [-7236.41,19535.3,0.246582]"
+ 1:11:52 "get: STRING (1976009), sent: STRING (1976009)"
+ 1:11:52 "DISCONNECT: Morpheous30 (1976009) Object: B 1-1-A:1 (Morpheous30) REMOTE, _characterID: 590 at loc [-7236.41,19535.3,0.246582]"
+ 1:11:52 "ERROR: server_playerSync: Cannot Sync Player Morpheous30 [590]. Position in debug! [-7236.41,19535.3,0.246582]"
+ 1:11:54 Warning: Cleanup player - person 3:320 not found
+ 1:12:28 Warning: Cleanup player - person 3:320 not found
+ 1:12:49 "CLEANUP: Deleted 1 Loot Piles out of 38"
+ 1:15:01 "RUNNING EVENT: supply_drop on [2014,7,27,20,15]"
+ 1:15:47 "TIME SYNC: Local Time set to [2013,8,3,20,15]"
